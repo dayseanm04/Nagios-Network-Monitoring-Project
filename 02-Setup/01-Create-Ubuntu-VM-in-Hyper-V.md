@@ -74,11 +74,11 @@ Because the VM has no network adapter connected, the installer shows **No wired 
 
 ### Type of Installation
 
-<img width="1000" height="598" alt="22" src="https://github.com/user-attachments/assets/4070ab4e-92cf-49b7-b7e6-8500a20055ec" />
+<img width="1000" height="598" alt="4" src="https://github.com/user-attachments/assets/4070ab4e-92cf-49b7-b7e6-8500a20055ec" />
 
 - Select **Interactive installation** (guided, step-by-step setup)
 - Click **Next**
 
 ### Create Account
 
-<img width="920" height="480" alt="23" src="https://github.com/user-attachments/assets/a5344b70-35d7-43d3-b658-b4f2bea5bfe8" />
+<img width="920" height="480" alt="5" src="https://github.com/user-attachments/assets/a5344b70-35d7-43d3-b658-b4f2bea5bfe8" />
