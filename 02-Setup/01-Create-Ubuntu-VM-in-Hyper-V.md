@@ -14,4 +14,6 @@
 3. **Specify Name and Location**
    - Name: `NetworkVM`
    - Leave the default storage location unless you want the VM stored on another drive.
+4. **Specify Generation**
+   - Select **Generation 2**. Gen 2 uses UEFI firmware and is the recommended option for modern 64-bit Linux distributions.
 
