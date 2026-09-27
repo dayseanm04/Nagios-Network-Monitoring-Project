@@ -55,7 +55,7 @@ An External switch bridges the VM onto the physical network, so **`NetworkVM`** 
 3. Set **Virtual switch** to `Net-MGNT-SW`.
 4. Leave **VLAN ID** and **Bandwidth Management** unchecked.
 
-<img width="719" height="686" alt="32" src="https://github.com/user-attachments/assets/58b6a1c7-d652-49b0-b48f-f03b10374951" />
+<img width="719" height="686" alt="4" src="https://github.com/user-attachments/assets/58b6a1c7-d652-49b0-b48f-f03b10374951" />
 
 6. Click **Apply** → **OK**.
 
