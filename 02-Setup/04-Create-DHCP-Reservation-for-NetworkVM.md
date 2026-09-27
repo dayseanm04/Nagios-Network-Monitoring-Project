@@ -46,6 +46,5 @@ The MAC address is on the `link/ether` line (format **`xx:xx:xx:xx:xx:xx`**).
 3. Log in with the router's admin password.
 4. Click the **Advanced** tab at the top.
 
-
-
+<img width="751" height="669" alt="1" src="https://github.com/user-attachments/assets/cbdadee2-b46e-45d1-8e1c-df0d5880a291" />
 
