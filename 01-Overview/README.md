@@ -15,3 +15,5 @@ As I go, I'll also be learning Nagios' core concepts such as: hosts, services, c
 ## Problem
 
 A small company with a limited budget wants to monitor their devices. They have about 12–20 devices — a mix of workstations, and network hardware, but don't have the budget for an enterprise monitoring platform or a dedicated monitoring team.
+
+I'm not going to actually monitor 10–20 devices — this is just a theory/scenario to frame the project. In practice, I will monitor about 3 devices: the Ubuntu VM, the Windows host machine, and a router. The idea is that the setup, configuration process, and monitoring logic I build for 3 devices is the same logic that would scale up to 12–20.
