@@ -72,3 +72,9 @@ Because the VM has no network adapter connected, the installer shows **No wired 
 - **Do not connect to the internet** Is already selected
 - Click **Next**
 
+### Type of Installation
+
+<img width="1000" height="598" alt="22" src="https://github.com/user-attachments/assets/4070ab4e-92cf-49b7-b7e6-8500a20055ec" />
+
+- Select **Interactive installation** (guided, step-by-step setup)
+- Click **Next**
