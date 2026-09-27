@@ -42,3 +42,7 @@ An External switch bridges the VM onto the physical network, so **`NetworkVM`** 
 
 <img width="724" height="684" alt="3" src="https://github.com/user-attachments/assets/bf0245d3-a038-4c6b-894b-4cb692e37800" />
 
+6. Click **OK**.
+
+7. When the warning about pending changes disrupting network connectivity appears, click **Yes** to continue.
+
