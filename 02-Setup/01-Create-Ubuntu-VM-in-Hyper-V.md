@@ -49,4 +49,11 @@ Generation 2 VMs have Secure Boot enabled with the **Microsoft Windows** templat
 3. Make sure **Enable Secure Boot** is checked and the template is set to **Microsoft UEFI Certificate Authority**.
 4. Click **Apply** → **OK**.
 
+---
+
+## Step 3 – Start the VM and Launch the Installer
+
+1. Right-click **`NetworkVM`** → **Connect** to open the Virtual Machine Connection window.
+2. Click **Start**.
+3. At the GRUB menu, choose **Try or Install Ubuntu** and wait for the installer to load.
 
