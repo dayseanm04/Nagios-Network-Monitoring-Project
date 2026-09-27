@@ -25,7 +25,7 @@ A fixed IP means everything that points at the monitoring server keeps working.
 2. Open **Terminal** and run: **ip a**
 3. Look at the `inet` line under `eth0`.
 
-<img width="927" height="581" alt="40" src="https://github.com/user-attachments/assets/8193eca9-7bb7-45c1-8179-1f3daeaf1047" />
+<img width="927" height="581" alt="1" src="https://github.com/user-attachments/assets/8193eca9-7bb7-45c1-8179-1f3daeaf1047" />
 
 The VM received `169.254.81.254/16`. Any address in the `169.254.0.0/16` range is an **APIPA** (link-local) address. The system assigns one to itself when it asks for a DHCP address and gets no answer. With an APIPA address the VM can't reach the gateway or the internet.
 
@@ -40,4 +40,7 @@ ping 192.168.1.99
 ```
 
 If every reply says **Request timed out** or **Destination host unreachable**, the address is likely free.
+
+<img width="878" height="344" alt="2" src="https://github.com/user-attachments/assets/836caecb-d8de-4320-906f-b76c66675516" />
+
 
