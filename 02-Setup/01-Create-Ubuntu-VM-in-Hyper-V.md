@@ -12,12 +12,16 @@
 1. Open up **Hyper-V Manager**
 2. In the **Actions** pane, click **New → Virtual Machine**. The **New Virtual Machine Wizard** opens.
 3. **Specify Name and Location**
-   - Name: `NetworkVM`
+   - Name: **`NetworkVM`**
    - Leave the default storage location unless you want the VM stored on another drive.
 4. **Specify Generation**
    - Select **Generation 2**. Gen 2 uses UEFI firmware and is the recommended option for modern 64-bit Linux distributions.
 5. **Assign Memory**
-   - Startup memory: `8000` MB
+   - Startup memory: **`8000`** MB
 6. **Configure Networking**
    - Connection: **Not Connected**
    - The VM is built offline on purpose. Networking is configured in a later step once the OS is installed.
+7. **Connect Virtual Hard Disk**
+   - Select **Create a virtual hard disk**
+   - Name: **`NetworkVM.vhdx`**
+   - Size: **`150`** GB
