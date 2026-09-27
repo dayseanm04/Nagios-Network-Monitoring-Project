@@ -30,3 +30,14 @@ A fixed IP means everything that points at the monitoring server keeps working.
 The VM received `169.254.81.254/16`. Any address in the `169.254.0.0/16` range is an **APIPA** (link-local) address. The system assigns one to itself when it asks for a DHCP address and gets no answer. With an APIPA address the VM can't reach the gateway or the internet.
 
 ---
+
+## Step 2 – Confirm the Address Is Free
+
+Before assigning `192.168.1.99`, make sure nothing else on the network is using it. From the **host**, open Command Prompt:
+
+```cmd
+ping 192.168.1.99
+```
+
+If every reply says **Request timed out** or **Destination host unreachable**, the address is likely free.
+
