@@ -26,4 +26,14 @@ An External switch bridges the VM onto the physical network, so **`NetworkVM`** 
 
 1. In Hyper-V Manager, confirm `NetworkVM` shows a state of **Off**.
 
+---
+
+## Step 2 – Create the External Virtual Switch
+
+<img width="861" height="317" alt="Screenshot 2026-09-27 184408" src="https://github.com/user-attachments/assets/c9b3f047-b027-4490-831d-4abb1b34925c" />
+
+1. In Hyper-V Manager, click **Virtual Switch Manager** in the actions plan on the top right.
+2. Select **New virtual network switch**.
+
+3. Select **External**, then click **Create Virtual Switch**.
 
