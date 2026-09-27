@@ -23,3 +23,4 @@ I'm not going to actually monitor 10–20 devices — this is just a theory/scen
 Set up Nagios Core and the Web UI on an Ubuntu Linux VM, and use it to monitor the devices listed above.
 
 Nagios Core fits this problem well because:
+- It's free and open source — no licensing cost, which matters for a small company on a limited budget
