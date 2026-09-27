@@ -36,3 +36,6 @@ Use any one of these methods.
 ```bash
 ip a
 ```
+
+The MAC address is on the `link/ether` line (format **`xx:xx:xx:xx:xx:xx`**).
+
