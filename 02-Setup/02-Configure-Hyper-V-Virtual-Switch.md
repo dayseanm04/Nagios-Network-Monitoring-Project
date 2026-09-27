@@ -36,5 +36,5 @@ An External switch bridges the VM onto the physical network, so **`NetworkVM`** 
 2. Select **New virtual network switch**.
 3. Select **External**, then click **Create Virtual Switch**.
 
-<img width="726" height="317" alt="30" src="https://github.com/user-attachments/assets/c009550f-8b4c-46f5-add1-c1a953c24b5e" />
+<img width="722" height="313" alt="1" src="https://github.com/user-attachments/assets/cd0a02ae-407a-4e9c-9b67-ac8ed68e7815" />
 
