@@ -31,3 +31,8 @@
 9. **Summary** – Review the settings and confirm they match the table above.
 
 <img width="692" height="522" alt="12" src="https://github.com/user-attachments/assets/1cb1a4ca-0387-457a-a2b2-c8518e44acc5" />
+
+10. Click **Finish**.
+
+The new VM now appears in the **Virtual Machines** list with a state of **Off**.
+
