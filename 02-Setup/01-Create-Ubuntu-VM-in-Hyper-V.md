@@ -116,4 +116,7 @@ Finish the remaining screens and let the installation complete.
 
 <img width="797" height="523" alt="10" src="https://github.com/user-attachments/assets/f0e04cdc-31ad-463c-837c-4f10bba93bed" />
 
+## Result
+
+**`NetworkVM`** is running Ubuntu 26.04.1 LTS with a local admin account, the install media removed, and a clean baseline checkpoint saved. The VM is ready for network configuration and the Nagios installation in the next setup steps.
 
