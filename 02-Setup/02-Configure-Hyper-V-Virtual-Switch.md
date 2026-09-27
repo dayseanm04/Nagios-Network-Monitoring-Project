@@ -13,3 +13,10 @@ Hyper-V offers three switch types:
 An External switch bridges the VM onto the physical network, so **`NetworkVM`** gets its own IP address on the same subnet as the host and can monitor anything the host can reach.
 
 ---
+
+## Prerequisites
+
+- **`NetworkVM`** created (see [**01 – Create the Ubuntu Monitoring VM in Hyper-V**](01-Create-Ubuntu-VM-in-Hyper-V.md))
+- **`NetworkVM`** is **shut down**
+- Hyper-V Manager open
+
