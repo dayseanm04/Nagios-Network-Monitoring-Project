@@ -26,5 +26,5 @@ Nagios Core fits this problem well because:
 - It's free and open source — no licensing cost, which matters for a small company on a limited budget
 - It's flexible enough to monitor almost anything: local host resources, remote hosts, and network devices, using the same core engine
 
-The plan is to start simple (get Nagios installed, get the Web UI working, start monitoring hosts) 
+The plan is to start simple (get Nagios installed, get the Web UI working, start monitoring hosts) and build from there adding services and notifications.
 
