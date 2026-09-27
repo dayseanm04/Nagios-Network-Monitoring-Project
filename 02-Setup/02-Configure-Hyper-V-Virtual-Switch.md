@@ -46,3 +46,4 @@ An External switch bridges the VM onto the physical network, so **`NetworkVM`** 
 
 7. When the warning about pending changes disrupting network connectivity appears, click **Yes** to continue.
 
+> **Why keep "Allow management operating system to share this network adapter" checked?** It lets the host keep using the same adapter for its own network access. If it's unchecked, the adapter is handed over entirely to the VMs and the host loses its connection.
