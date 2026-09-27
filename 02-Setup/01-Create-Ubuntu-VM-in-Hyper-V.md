@@ -37,3 +37,16 @@
 The new VM now appears in the **Virtual Machines** list with a state of **Off**.
 
 <img width="966" height="348" alt="20" src="https://github.com/user-attachments/assets/60025bfd-d6d4-4cc9-b007-cf65f35f10a2" />
+
+---
+
+## Step 2 – Check Secure Boot Settings (Gen 2 only)
+
+Generation 2 VMs have Secure Boot enabled with the **Microsoft Windows** template by default, which can stop Ubuntu from booting.
+
+1. Right-click `NetworkVM` → **Settings**.
+2. Go to **Security**.
+3. Make sure **Enable Secure Boot** is checked and the template is set to **Microsoft UEFI Certificate Authority**.
+4. Click **Apply** → **OK**.
+
+
