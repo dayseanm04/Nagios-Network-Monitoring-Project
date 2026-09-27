@@ -57,3 +57,13 @@ Generation 2 VMs have Secure Boot enabled with the **Microsoft Windows** templat
 2. Click **Start**.
 3. At the GRUB menu, choose **Try or Install Ubuntu** and wait for the installer to load.
 
+---
+
+## Step 4 – Run the Ubuntu Installer
+
+Work through the installer screens. The key choices are below; anything not listed was left at its default.
+
+### Internet Connection
+
+
+
