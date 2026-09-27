@@ -95,3 +95,15 @@ Finish the remaining screens and let the installation complete.
 
 2. The VM displays: **"Please remove the installation medium, then press ENTER."**
 
+<img width="903" height="720" alt="7" src="https://github.com/user-attachments/assets/f49450ec-4d0d-4ed3-b44a-06208facb748" />
+
+3. In the Virtual Machine Connection window, click **Media → DVD Drive → Eject**.
+4. Press **Enter**. The VM reboots from the virtual hard disk.
+
+> Ejecting the ISO keeps the VM from booting back into the installer on the next restart.
+
+---
+
+## Step 6 – Login
+
+
