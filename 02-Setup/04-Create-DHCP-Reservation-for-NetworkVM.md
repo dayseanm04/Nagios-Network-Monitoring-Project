@@ -18,3 +18,11 @@ Using both means the VM keeps its address no matter what, and the router has a r
 > **Why `192.168.1.99`?** The router's DHCP pool only hands out **`192.168.1.2`** through **`192.168.1.50`**. Picking an address outside that range avoids any chance of the router assigning it to a phone, laptop, or other device.
 
 ---
+
+## Prerequisites
+
+- **`NetworkVM`** configured with a static IP (see [**03 – Assign a Static IP to NetworkVM**](03-Configure-Static-IPv4-Address-For-The-NetworkVM.md)
+- Admin login for the router's web interface
+- NetworkVM's **MAC address** (Step 1)
+
+---
