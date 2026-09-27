@@ -12,3 +12,9 @@ These two are often confused, and this project uses both:
 | **What it does** | Device always uses the address it's given | Router always gives the same address to a specific MAC |
 | **Router aware of it?** | No | Yes |
 | **Covered in** | **Doc 03** | This doc |
+
+Using both means the VM keeps its address no matter what, and the router has a record that `192.168.1.99` belongs to **`NetworkVM`**.
+
+> **Why `192.168.1.99`?** The router's DHCP pool only hands out **`192.168.1.2`** through **`192.168.1.50`**. Picking an address outside that range avoids any chance of the router assigning it to a phone, laptop, or other device.
+
+---
