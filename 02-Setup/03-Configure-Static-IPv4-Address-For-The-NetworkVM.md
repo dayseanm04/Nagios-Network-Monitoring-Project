@@ -24,3 +24,4 @@ A fixed IP means everything that points at the monitoring server keeps working.
 1. Start `NetworkVM` and log in as `netvm`.
 2. Open **Terminal** and run: **ip a**
 
+<img width="927" height="581" alt="40" src="https://github.com/user-attachments/assets/8193eca9-7bb7-45c1-8179-1f3daeaf1047" />
