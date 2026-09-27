@@ -39,3 +39,13 @@ ip a
 
 The MAC address is on the `link/ether` line (format **`xx:xx:xx:xx:xx:xx`**).
 
+## Step 2 – Log In to the Router
+
+1. From the host, open a browser and go to `https://192.168.1.1`.
+2. The browser will show a **Not secure** warning. This is expected — the router uses a self-signed certificate. Continue to the site.
+3. Log in with the router's admin password.
+4. Click the **Advanced** tab at the top.
+
+
+
+
