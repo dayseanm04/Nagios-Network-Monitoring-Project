@@ -60,3 +60,8 @@ If every reply says **Request timed out** or **Destination host unreachable**, t
 <img width="756" height="485" alt="42" src="https://github.com/user-attachments/assets/705bbf2f-e8f9-4464-8e9a-e00452ac963b" />
 
 5. Click **Apply**.
+
+---
+
+## Step 4 – Verify the Configuration
+
