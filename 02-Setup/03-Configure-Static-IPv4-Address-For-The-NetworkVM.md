@@ -43,4 +43,9 @@ If every reply says **Request timed out** or **Destination host unreachable**, t
 
 <img width="878" height="344" alt="2" src="https://github.com/user-attachments/assets/836caecb-d8de-4320-906f-b76c66675516" />
 
+> For a permanent setup, log in to the router and either pick an address outside the DHCP pool or create a DHCP reservation for the VM's **MAC address**. This prevents the router from ever handing **`.99`** to another device.
+
+---
+
+## Step 3 – Set the Static IP in Network Settings
 
