@@ -51,4 +51,12 @@ If every reply says **Request timed out** or **Destination host unreachable**, t
 
 1. Open **Settings** Click **Network**.
 
-<img width="1021" height="452" alt="41" src="https://github.com/user-attachments/assets/fa9ed357-3629-4da3-957b-dc2446e9f905" />
+<img width="1021" height="452" alt="3" src="https://github.com/user-attachments/assets/fa9ed357-3629-4da3-957b-dc2446e9f905" />
+
+2. Under **Wired**, click the **gear icon** next to the connection.
+3. Select the **IPv4** tab.
+4. Set **IPv4 Method** to **Manual**.
+
+<img width="756" height="485" alt="42" src="https://github.com/user-attachments/assets/705bbf2f-e8f9-4464-8e9a-e00452ac963b" />
+
+5. Click **Apply**.
