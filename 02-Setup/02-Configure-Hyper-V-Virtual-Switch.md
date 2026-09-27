@@ -9,3 +9,7 @@ Hyper-V offers three switch types:
 | **External** | VMs ↔ host ↔ physical network | Nagios can reach real devices on the LAN |
 | **Internal** | VMs ↔ host only | No access to other devices on the network |
 | **Private** | VMs ↔ other VMs only | No access to the host or the network |
+
+An External switch bridges the VM onto the physical network, so **`NetworkVM`** gets its own IP address on the same subnet as the host and can monitor anything the host can reach.
+
+---
