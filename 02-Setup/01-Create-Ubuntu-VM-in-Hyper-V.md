@@ -49,6 +49,8 @@ Generation 2 VMs have Secure Boot enabled with the **Microsoft Windows** templat
 3. Make sure **Enable Secure Boot** is checked and the template is set to **Microsoft UEFI Certificate Authority**.
 4. Click **Apply** → **OK**.
 
+<img width="719" height="239" alt="2.1" src="https://github.com/user-attachments/assets/6b9b8769-a77d-489c-ba46-273b152c022a" />
+
 ---
 
 ## Step 3 – Start the VM and Launch the Installer
