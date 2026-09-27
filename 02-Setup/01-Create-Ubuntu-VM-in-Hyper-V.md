@@ -106,4 +106,9 @@ Finish the remaining screens and let the installation complete.
 
 ## Step 6 – Login
 
+1. At the login screen, select **`netvm`** and enter the password.
+
+<img width="944" height="614" alt="8" src="https://github.com/user-attachments/assets/7e81da57-dc9e-4d17-98aa-26d682793d78" />
+
+<img width="985" height="631" alt="9" src="https://github.com/user-attachments/assets/ffeb9aa1-6cdc-45da-9c07-778f45c73b48" />
 
