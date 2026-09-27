@@ -21,3 +21,9 @@ An External switch bridges the VM onto the physical network, so **`NetworkVM`** 
 - Hyper-V Manager open
 
 > **Heads up:** Creating an External switch briefly drops the host's network connection while Hyper-V rebinds the adapter. Save any work that depends on the network before starting.
+
+## Step 1 – Shut Down the VM
+
+1. In Hyper-V Manager, confirm `NetworkVM` shows a state of **Off**.
+
+
