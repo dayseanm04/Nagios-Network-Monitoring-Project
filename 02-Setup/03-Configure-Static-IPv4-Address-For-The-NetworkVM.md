@@ -57,7 +57,7 @@ If every reply says **Request timed out** or **Destination host unreachable**, t
 3. Select the **IPv4** tab.
 4. Set **IPv4 Method** to **Manual**.
 
-<img width="756" height="485" alt="42" src="https://github.com/user-attachments/assets/705bbf2f-e8f9-4464-8e9a-e00452ac963b" />
+<img width="756" height="485" alt="4" src="https://github.com/user-attachments/assets/705bbf2f-e8f9-4464-8e9a-e00452ac963b" />
 
 5. Click **Apply**.
 
@@ -65,3 +65,7 @@ If every reply says **Request timed out** or **Destination host unreachable**, t
 
 ## Step 4 – Verify the Configuration
 
+1. Verify the Static IP Configuration
+2. Ping the default gateway
+
+<img width="786" height="473" alt="5" src="https://github.com/user-attachments/assets/e76ddae2-c0ec-423a-84b8-84bf497a97b2" />
