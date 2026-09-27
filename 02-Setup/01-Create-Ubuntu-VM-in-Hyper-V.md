@@ -83,7 +83,12 @@ Because the VM has no network adapter connected, the installer shows **No wired 
 
 <img width="920" height="480" alt="5" src="https://github.com/user-attachments/assets/a5344b70-35d7-43d3-b658-b4f2bea5bfe8" />
 
-Finish the remaining screens and let the installation complete the click Restart.
+Finish the remaining screens and let the installation complete.
+
+---
+
+## Step 5 – Finish the Install and Remove the ISO
+
+1. When the installer shows **Ubuntu 26.04.1 LTS is installed and ready to use**, click **Restart now**.
 
 <img width="1017" height="758" alt="6" src="https://github.com/user-attachments/assets/8567e41a-0085-4d47-b9b8-05b963ebb62b" />
-
