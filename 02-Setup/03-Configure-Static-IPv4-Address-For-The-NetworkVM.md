@@ -49,4 +49,6 @@ If every reply says **Request timed out** or **Destination host unreachable**, t
 
 ## Step 3 – Set the Static IP in Network Settings
 
-1. Open **Settings** → **Network**.
+1. Open **Settings** Click **Network**.
+
+<img width="1021" height="452" alt="41" src="https://github.com/user-attachments/assets/fa9ed357-3629-4da3-957b-dc2446e9f905" />
