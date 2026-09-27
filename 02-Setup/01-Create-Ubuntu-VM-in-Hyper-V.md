@@ -112,3 +112,8 @@ Finish the remaining screens and let the installation complete.
 
 <img width="985" height="631" alt="9" src="https://github.com/user-attachments/assets/ffeb9aa1-6cdc-45da-9c07-778f45c73b48" />
 
+2. Opened **Terminal**
+
+<img width="797" height="523" alt="10" src="https://github.com/user-attachments/assets/f0e04cdc-31ad-463c-837c-4f10bba93bed" />
+
+
