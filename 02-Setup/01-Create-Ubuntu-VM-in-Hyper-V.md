@@ -36,3 +36,4 @@
 
 The new VM now appears in the **Virtual Machines** list with a state of **Off**.
 
+<img width="966" height="348" alt="20" src="https://github.com/user-attachments/assets/60025bfd-d6d4-4cc9-b007-cf65f35f10a2" />
