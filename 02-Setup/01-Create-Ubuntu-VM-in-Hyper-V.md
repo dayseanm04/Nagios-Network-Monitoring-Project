@@ -92,3 +92,6 @@ Finish the remaining screens and let the installation complete.
 1. When the installer shows **Ubuntu 26.04.1 LTS is installed and ready to use**, click **Restart now**.
 
 <img width="1017" height="758" alt="6" src="https://github.com/user-attachments/assets/8567e41a-0085-4d47-b9b8-05b963ebb62b" />
+
+2. The VM displays: **"Please remove the installation medium, then press ENTER."**
+
