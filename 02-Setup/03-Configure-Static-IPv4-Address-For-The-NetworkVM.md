@@ -16,3 +16,11 @@ A fixed IP means everything that points at the monitoring server keeps working.
 - **`NetworkVM`** connected to **`Net-MGNT-SW`** (see [**02 – Configure the Hyper-V Virtual Switch**](02-Configure-Hyper-V-Virtual-Switch.md))
 - The LAN's subnet, gateway, and DNS server (check from the host with **`ipconfig`**)
 - An unused IP address on that subnet, ideally **outside** the router's DHCP range
+
+---
+
+## Step 1 – Check the Current IP Address
+
+1. Start `NetworkVM` and log in as `netvm`.
+2. Open **Terminal** and run: **ip a**
+
