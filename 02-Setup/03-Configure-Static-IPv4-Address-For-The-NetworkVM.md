@@ -9,3 +9,10 @@ A DHCP address can change after a reboot or lease expiry. For a Nagios server, t
 
 A fixed IP means everything that points at the monitoring server keeps working.
 
+---
+
+## Prerequisites
+
+- **`NetworkVM`** connected to **`Net-MGNT-SW`** (see [**02 – Configure the Hyper-V Virtual Switch**](02-Configure-Hyper-V-Virtual-Switch.md))
+- The LAN's subnet, gateway, and DNS server (check from the host with **`ipconfig`**)
+- An unused IP address on that subnet, ideally **outside** the router's DHCP range
