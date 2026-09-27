@@ -47,3 +47,18 @@ An External switch bridges the VM onto the physical network, so **`NetworkVM`** 
 7. When the warning about pending changes disrupting network connectivity appears, click **Yes** to continue.
 
 > **Why keep "Allow management operating system to share this network adapter" checked?** It lets the host keep using the same adapter for its own network access. If it's unchecked, the adapter is handed over entirely to the VMs and the host loses its connection.
+
+## Step 3 – Connect NetworkVM to the Switch
+
+1. In Hyper-V Manager, right-click `NetworkVM` → **Settings**.
+2. In the left pane, select **Network Adapter**.
+3. Set **Virtual switch** to `Net-MGNT-SW`.
+4. Leave **VLAN ID** and **Bandwidth Management** unchecked.
+
+<img width="717" height="679" alt="4" src="https://github.com/user-attachments/assets/75f4bf1c-6884-46d9-a280-ee8c98f47758" />
+
+6. Click **Apply** → **OK**.
+
+
+
+
