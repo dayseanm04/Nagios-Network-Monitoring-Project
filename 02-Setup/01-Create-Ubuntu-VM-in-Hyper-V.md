@@ -29,3 +29,5 @@
    - Select **Install an operating system from a bootable image file**
    - Click **Browse** and select the **Ubuntu 26.04.1 Desktop ISO**.
 9. **Summary** – Review the settings and confirm they match the table above.
+
+<img width="692" height="522" alt="12" src="https://github.com/user-attachments/assets/1cb1a4ca-0387-457a-a2b2-c8518e44acc5" />
