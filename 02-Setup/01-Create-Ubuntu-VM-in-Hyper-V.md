@@ -30,13 +30,13 @@
    - Click **Browse** and select the **Ubuntu 26.04.1 Desktop ISO**.
 9. **Summary** – Review the settings and confirm they match the table above.
 
-<img width="692" height="522" alt="12" src="https://github.com/user-attachments/assets/1cb1a4ca-0387-457a-a2b2-c8518e44acc5" />
+<img width="692" height="522" alt="1" src="https://github.com/user-attachments/assets/1cb1a4ca-0387-457a-a2b2-c8518e44acc5" />
 
 10. Click **Finish**.
 
 The new VM now appears in the **Virtual Machines** list with a state of **Off**.
 
-<img width="966" height="348" alt="20" src="https://github.com/user-attachments/assets/60025bfd-d6d4-4cc9-b007-cf65f35f10a2" />
+<img width="966" height="348" alt="2" src="https://github.com/user-attachments/assets/60025bfd-d6d4-4cc9-b007-cf65f35f10a2" />
 
 ---
 
@@ -65,5 +65,6 @@ Work through the installer screens. The key choices are below; anything not list
 
 ### Internet Connection
 
+<img width="1027" height="844" alt="3" src="https://github.com/user-attachments/assets/fc7ab7cd-f566-4c1e-8436-6256428d5de2" />
 
 
