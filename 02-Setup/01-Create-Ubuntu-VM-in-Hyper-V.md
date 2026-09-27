@@ -67,4 +67,8 @@ Work through the installer screens. The key choices are below; anything not list
 
 <img width="1027" height="844" alt="3" src="https://github.com/user-attachments/assets/fc7ab7cd-f566-4c1e-8436-6256428d5de2" />
 
+Because the VM has no network adapter connected, the installer shows **No wired connection detected**.
+
+- **Do not connect to the internet** Is already selected
+- Click **Next**
 
