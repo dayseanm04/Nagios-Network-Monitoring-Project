@@ -28,3 +28,6 @@ Nagios Core fits this problem well because:
 
 The plan is to start simple (get Nagios installed, get the Web UI working, start monitoring hosts) and build from there adding services and notifications.
 
+## Status
+
+This project just started. This overview will be updated as the setup evolves and as new devices, checks, or configurations are added.
