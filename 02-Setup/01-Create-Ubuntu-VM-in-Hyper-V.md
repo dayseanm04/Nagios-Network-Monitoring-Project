@@ -25,3 +25,7 @@
    - Select **Create a virtual hard disk**
    - Name: **`NetworkVM.vhdx`**
    - Size: **`150`** GB
+8. **Installation Options**
+   - Select **Install an operating system from a bootable image file**
+   - Click **Browse** and select the **Ubuntu 26.04.1 Desktop ISO**.
+9. **Summary** – Review the settings and confirm they match the table above.
