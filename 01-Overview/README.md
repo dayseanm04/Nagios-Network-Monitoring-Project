@@ -8,3 +8,5 @@ The goal of this project is for me to learn how to use Nagios Core to monitor a 
 - A Windows machine — the host machine
 - A router
 
+This means I'm covering three different monitoring scenarios at once: monitoring the local host Nagios runs on, monitoring a remote OS (Windows) that needs an agent or plugin to report back to Nagios, and monitoring a network device (the router) using protocols like SNMP or basic connectivity checks (ping, port checks). Learning all three gives me a realistic picture of what monitoring actually looks like in a mixed environment, not just a single-OS setup.
+
