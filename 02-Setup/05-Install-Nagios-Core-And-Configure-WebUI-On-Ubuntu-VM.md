@@ -137,3 +137,4 @@ Enter and confirm a password when prompted. This is the login for the Nagios das
 
 <img width="874" height="297" alt="11" src="https://github.com/user-attachments/assets/054a7931-c5a8-41b1-8c42-07cf855dd1ca" />
 
+> **Important:** Only use the **`-c`** flag the first time. It **creates** the file and overwrites anything already in it. **To add more users later, run the command without `-c`**.
