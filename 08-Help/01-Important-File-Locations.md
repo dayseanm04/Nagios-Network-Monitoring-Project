@@ -31,4 +31,6 @@ Plugins directory: all check scripts (`check_ping`, `check_http`, `check_disk`, 
 ## /usr/local/nagios/var/
 Working directory: logs, status data, lock files, and the command pipe
 
+<img width="636" height="248" alt="5" src="https://github.com/user-attachments/assets/83d21c8b-3ee8-43ae-8245-0ff7c666278d" />
+
 
