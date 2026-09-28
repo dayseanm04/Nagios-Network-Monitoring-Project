@@ -27,3 +27,10 @@ sudo apt upgrade
 <img width="868" height="495" alt="2" src="https://github.com/user-attachments/assets/6f1c0096-5847-4a3d-b3bf-1b8ab8332c66" />
 
 <img width="838" height="603" alt="3" src="https://github.com/user-attachments/assets/b4d12d89-0b43-4272-b959-2d36aa851c5e" />
+
+2. Install the build tools, Apache, PHP, and libraries Nagios needs:
+
+```bash
+sudo apt install -y autoconf gcc libc6 make wget unzip apache2 php libapache2-mod-php libgd-dev openssl libssl-dev build-essential
+```
+
