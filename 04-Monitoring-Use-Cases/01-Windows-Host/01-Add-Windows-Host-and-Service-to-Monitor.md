@@ -16,3 +16,7 @@ ipconfig
 Note the hostname and the **IPv4 Address** of the active adapter. For this project:
 - Hostname: **`comp-a-test`**
 - IP: **`192.168.1.151`** (reserved on the router so it doesn't change)
+
+## Step 2 – Enable the Windows Object File
+
+Nagios only reads object files listed in `nagios.cfg`. The Windows file is included but commented out by default.
