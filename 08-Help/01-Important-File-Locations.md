@@ -22,3 +22,5 @@ Individual hosts, service, contact, template,etc
 Core Nagios binary executable (used for checking config syntax)
 
 <img width="600" height="176" alt="3" src="https://github.com/user-attachments/assets/5575a16e-e3e7-4318-9441-a30da95ee146" />
+
+## /usr/local/nagios/libexec/
