@@ -23,3 +23,4 @@ Nagios come with sample object files for common device types. Pick the one that 
 |---|---|---|
 | Windows machine | **`windows.cfg`** | **`windows-server`** |
 | Linux machine | **`localhost.cfg`** | **`linux-server`** |
+| Router or switch | **`switch.cfg`** | **`generic-switch`** |
