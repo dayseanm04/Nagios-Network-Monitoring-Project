@@ -68,3 +68,5 @@ sudo usermod -aG nagcmd www-data
 ---
 
 ## Step 4 – Download and Extract Nagios Core
+
+<img width="867" height="502" alt="6" src="https://github.com/user-attachments/assets/23e272d9-202c-44a5-bb7d-0650e69087b3" />
