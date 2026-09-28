@@ -4,7 +4,7 @@
 
 - **`NetworkVM`** with a static IP and working internet access (see **docs 03** and **04**)
 - A user account with **`sudo`** rights
-- Check out official installation doc: https://support.nagios.com/kb/article.php?id=96
+- Check out official installation doc: **https://support.nagios.com/kb/article.php?id=96**
 
 ---
 
@@ -36,3 +36,8 @@ sudo apt install -y autoconf gcc libc6 make wget unzip apache2 php libapache2-mo
 ```
 
 <img width="866" height="602" alt="4" src="https://github.com/user-attachments/assets/c0119611-6d80-410f-a0b3-2d1917d4fd68" />
+
+---
+
+## Step 3 – Create the Nagios User and Group
+
