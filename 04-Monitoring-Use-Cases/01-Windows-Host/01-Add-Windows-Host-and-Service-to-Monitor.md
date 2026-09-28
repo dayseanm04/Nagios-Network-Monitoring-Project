@@ -81,3 +81,6 @@ Example:
 Im only showing the NSClient++ Version block is. And I changed the **`host_name`** in all seven service definitions.
 - Updated **`host_name`** to **`comp-a-test`** in **all seven** service definitions:
 
+Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
+
+
