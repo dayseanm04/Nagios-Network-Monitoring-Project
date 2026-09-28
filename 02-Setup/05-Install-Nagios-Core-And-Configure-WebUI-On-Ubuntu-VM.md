@@ -167,3 +167,5 @@ make
 sudo make install
 ```
 
+<img width="873" height="464" alt="13" src="https://github.com/user-attachments/assets/394e3c98-a935-4bcd-943a-bd2f292119c3" />
+
