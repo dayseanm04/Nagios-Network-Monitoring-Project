@@ -119,6 +119,8 @@ sudo systemctl restart nagios
 | `comp-a-test` | DOWN | Host check timed out after 30.01 seconds |
 | `localhost` | UP | PING OK - Packet loss = 0% |
 
+4. Click **Alerts → History** to see each check result as it came in.
+
 ## Why the Host Shows DOWN
 
 These results mean Nagios is configured correctly and actively checking the Windows machine. The Windows side isn't answering yet:
