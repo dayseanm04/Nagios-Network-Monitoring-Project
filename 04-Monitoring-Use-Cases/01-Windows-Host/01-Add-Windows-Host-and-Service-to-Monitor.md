@@ -74,5 +74,9 @@ sudo nano windows.cfg
 
 Further down in **`windows.cfg`** are seven service definitions. Each one has a **`host_name`** line that must match the host defined in **Step 3**.
 
+Example: 
+
 <img width="879" height="443" alt="6" src="https://github.com/user-attachments/assets/83023e37-594e-4093-aec6-d5de3f14898e" />
+
+Im only showing the NSClient++ Version block is. And I changed the **`host_name`** in all seven service definitions.
 
