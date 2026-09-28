@@ -71,3 +71,6 @@ This page shows the router's DHCP server settings. Note the **Dynamic IP Range**
 <img width="897" height="584" alt="4" src="https://github.com/user-attachments/assets/9c57c22d-2719-4070-a759-253a65ea6ced" />
 
 ## Step 5 – Verify the Reservation
+Back on the **DHCP Connections** page, **`NetworkVM`** now appears in the list:
+
+<img width="1060" height="639" alt="3" src="https://github.com/user-attachments/assets/66800b63-871b-4248-a824-5b715c78f8bc" />
