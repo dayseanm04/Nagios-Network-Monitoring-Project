@@ -17,3 +17,5 @@ Reusable steps for adding any device to Nagios and setting up its service checks
 | **`<CHECK_COMMAND>`** | Command and arguments Nagios runs | **`check_ping!100.0,20%!500.0,60%`** |
 
 ### Choosing a Config File and Host Template
+
+Nagios come with sample object files for common device types. Pick the one that matches the device:
