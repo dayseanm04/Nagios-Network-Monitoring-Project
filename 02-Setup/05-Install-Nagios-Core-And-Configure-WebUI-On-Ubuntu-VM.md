@@ -177,3 +177,6 @@ sudo make install
 
 <img width="867" height="603" alt="14" src="https://github.com/user-attachments/assets/7540a82e-503d-45c6-877b-319bd8384a15" />
 
+### Run this check every time you change a Nagios config file, before restarting the service. Nagios won't start with config errors.
+
+### 8.2 Enable and start the service
