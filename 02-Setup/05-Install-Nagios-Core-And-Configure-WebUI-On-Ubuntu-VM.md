@@ -120,3 +120,6 @@ sudo make install-webconf
 ```
 
 <img width="869" height="507" alt="9" src="https://github.com/user-attachments/assets/2297d20f-53ce-43df-b74f-e4e9c20b4747" />
+
+<img width="870" height="602" alt="10" src="https://github.com/user-attachments/assets/2405954b-88da-4afc-94bd-f665fe9ad666" />
+
