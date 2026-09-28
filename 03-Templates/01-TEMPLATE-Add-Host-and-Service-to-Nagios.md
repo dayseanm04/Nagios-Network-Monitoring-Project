@@ -12,3 +12,4 @@ Reusable steps for adding any device to Nagios and setting up its service checks
 | **`<HOST_TEMPLATE>`** | Host template to inherit settings from | **`windows-server`** |
 | **`<HOST_NAME>`** | Short name Nagios uses for the device (no spaces) | **`PC-01`** |
 | **`<HOST_ALIAS>`** | Friendly name shown in the dashboard | **`My Windows Host`** |
+| **`<HOST_IP>`** | Device's IPv4 address | `10.10.10.1` |
