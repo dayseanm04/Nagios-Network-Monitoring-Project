@@ -83,3 +83,7 @@ cd nagios-4.5.0
 ## Step 5 – Compile and Install Nagios Core
 
 ### 5.1 Configure the build
+
+```bash
+./configure --with-command-group=nagcmd
+```
