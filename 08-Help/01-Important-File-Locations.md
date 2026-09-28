@@ -4,3 +4,5 @@ Quick reference for where everything lives in a Nagios Core installation. Useful
 
 ## /usr/local/nagios/
 Root directory for the entire Nagios installation
+
+<img width="675" height="228" alt="1" src="https://github.com/user-attachments/assets/bf262ef8-f02c-4487-a17b-243c5ef54477" />
