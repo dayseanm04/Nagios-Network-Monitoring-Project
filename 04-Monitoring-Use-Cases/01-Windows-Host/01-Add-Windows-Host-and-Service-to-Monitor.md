@@ -27,3 +27,5 @@ Nagios only reads object files listed in `nagios.cfg`. The Windows file is inclu
 cd /usr/local/nagios/etc
 ls -l *.cfg
 ```
+
+<img width="639" height="373" alt="1" src="https://github.com/user-attachments/assets/9daf4c3b-31bc-4f9c-99df-62dd540cead4" />
