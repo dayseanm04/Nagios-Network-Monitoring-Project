@@ -61,4 +61,10 @@ sudo nano windows.cfg
 
 <img width="783" height="403" alt="5" src="https://github.com/user-attachments/assets/ed5c761a-106b-4647-bbe3-a8fc8a121886" />
 
+| Directive | What it does |
+|---|---|
+| `use` | Inherits check interval, notification, and host group settings from the `windows-server` template in `templates.cfg` |
+| `host_name` | Short name Nagios uses to link services to this host. Every service below must use this exact name |
+| `alias` | Friendly name shown in the web interface |
+| `address` | IP address Nagios pings and connects to |
 
