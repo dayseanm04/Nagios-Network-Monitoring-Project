@@ -97,3 +97,24 @@ make all
 ```
 
 <img width="857" height="603" alt="8" src="https://github.com/user-attachments/assets/076df3ed-aafc-4613-a7b3-9208bf1e0e88" />
+
+### 5.3 Install
+
+Run each of these in order:
+
+```bash
+# Install the Nagios binaries, CGIs, and HTML files
+sudo make install
+
+# Install the systemd service file (nagios.service)
+sudo make install-init
+
+# Install the sample configuration files into /usr/local/nagios/etc
+sudo make install-config
+
+# Set up the external command directory with the nagcmd group
+sudo make install-commandmode
+
+# Install the Apache config for the Nagios web interface
+sudo make install-webconf
+```
