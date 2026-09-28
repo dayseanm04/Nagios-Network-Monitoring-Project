@@ -39,3 +39,5 @@ sudo nano /usr/local/nagios/etc/nagios.cfg
 
 <img width="830" height="537" alt="2" src="https://github.com/user-attachments/assets/70cc9fe8-c713-49f4-a345-45b4f9636705" />
 
+3. Find the section **Definitions for monitoring a Windows machine** and remove the **`#`** at the start of this line:
+
