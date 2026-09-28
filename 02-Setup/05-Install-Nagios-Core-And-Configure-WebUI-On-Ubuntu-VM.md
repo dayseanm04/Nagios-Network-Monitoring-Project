@@ -50,3 +50,5 @@ sudo apt install -y autoconf gcc libc6 make wget unzip apache2 php libapache2-mo
 
 ## Step 3 – Create the Nagios User and Group
 
+<img width="716" height="324" alt="5" src="https://github.com/user-attachments/assets/6436e759-d361-4b43-a170-412d3888cbde" />
+
