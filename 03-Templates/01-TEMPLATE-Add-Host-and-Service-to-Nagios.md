@@ -9,3 +9,4 @@ Reusable steps for adding any device to Nagios and setting up its service checks
 | Placeholder | Description | Example |
 |---|---|---|
 | **`<CONFIG_FILE>`** | Object file for this device type | **`windows.cfg`** |
+| **`<HOST_TEMPLATE>`** | Host template to inherit settings from | **`windows-server`** |
