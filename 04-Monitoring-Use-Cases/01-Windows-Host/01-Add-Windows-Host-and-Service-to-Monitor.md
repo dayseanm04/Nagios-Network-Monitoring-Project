@@ -93,7 +93,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
-<img width="867" height="604" alt="Screenshot 2026-09-26 203641" src="https://github.com/user-attachments/assets/ee4da552-fdf4-4203-aeca-518c6c87d11a" />
+<img width="867" height="604" alt="7" src="https://github.com/user-attachments/assets/ee4da552-fdf4-4203-aeca-518c6c87d11a" />
 
 2. Restart Nagios to load the new config:
 
@@ -108,3 +108,4 @@ sudo systemctl restart nagios
 1. Go to `http://192.168.1.99/nagios` and sign in.
 2. Click **Tactical Overview**.
 
+<img width="1024" height="812" alt="8" src="https://github.com/user-attachments/assets/7f65187c-0278-41e9-9dd3-991e069755f0" />
