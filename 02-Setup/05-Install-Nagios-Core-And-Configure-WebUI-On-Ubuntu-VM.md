@@ -69,4 +69,11 @@ sudo usermod -aG nagcmd www-data
 
 ## Step 4 – Download and Extract Nagios Core
 
+```bash
+cd /tmp
+wget https://assets.nagios.com/downloads/nagioscore/releases/nagios-4.5.0.tar.gz
+tar -xzf nagios-4.5.0.tar.gz
+cd nagios-4.5.0
+```
+
 <img width="867" height="502" alt="6" src="https://github.com/user-attachments/assets/23e272d9-202c-44a5-bb7d-0650e69087b3" />
