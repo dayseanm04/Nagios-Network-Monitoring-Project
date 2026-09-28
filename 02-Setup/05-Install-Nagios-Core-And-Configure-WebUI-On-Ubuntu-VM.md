@@ -6,3 +6,5 @@
 - A user account with **`sudo`** rights
 
 ---
+
+## Step 1 – Check for SELinux
