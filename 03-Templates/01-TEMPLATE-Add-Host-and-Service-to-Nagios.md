@@ -15,3 +15,5 @@ Reusable steps for adding any device to Nagios and setting up its service checks
 | **`<HOST_IP>`** | Device's IPv4 address | `10.10.10.1` |
 | **`<SERVICE_NAME>`** | Name of the check shown in the dashboard | **`PING`** |
 | **`<CHECK_COMMAND>`** | Command and arguments Nagios runs | **`check_ping!100.0,20%!500.0,60%`** |
+
+### Choosing a Config File and Host Template
