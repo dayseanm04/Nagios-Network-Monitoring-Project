@@ -67,3 +67,4 @@ This page shows the router's DHCP server settings. Note the **Dynamic IP Range**
 1. Click **Add static connection**.
 2. Fill in the **DHCP Connection Settings**:
 
+<img width="897" height="584" alt="4" src="https://github.com/user-attachments/assets/9c57c22d-2719-4070-a759-253a65ea6ced" />
