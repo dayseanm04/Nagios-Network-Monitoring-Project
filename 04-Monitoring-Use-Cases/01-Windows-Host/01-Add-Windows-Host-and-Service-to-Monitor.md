@@ -68,3 +68,8 @@ sudo nano windows.cfg
 | `alias` | Friendly name shown in the web interface |
 | `address` | IP address Nagios pings and connects to |
 
+---
+
+## Step 4 – Point the Services at the Host
+
+Further down in **`windows.cfg`** are seven service definitions. Each one has a **`host_name`** line that must match the host defined in **Step 3**.
