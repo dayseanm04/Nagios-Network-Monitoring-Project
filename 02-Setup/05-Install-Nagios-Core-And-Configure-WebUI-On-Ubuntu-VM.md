@@ -95,3 +95,5 @@ cd nagios-4.5.0
 ```bash
 make all
 ```
+
+<img width="857" height="603" alt="8" src="https://github.com/user-attachments/assets/076df3ed-aafc-4613-a7b3-9208bf1e0e88" />
