@@ -114,12 +114,15 @@ sudo systemctl restart nagios
 
 <img width="1029" height="566" alt="9" src="https://github.com/user-attachments/assets/b6397b71-dd77-4393-92f3-51477ce809de" />
 
+4. Click **Alerts → History** to see each check result as it came in.
+
+<img width="1029" height="800" alt="10" src="https://github.com/user-attachments/assets/c7d856e7-15dc-42c4-a04b-24df33c78159" />
+
 | Host | Status | Status Information |
 |---|---|---|
 | `comp-a-test` | DOWN | Host check timed out after 30.01 seconds |
 | `localhost` | UP | PING OK - Packet loss = 0% |
-
-4. Click **Alerts → History** to see each check result as it came in.
+| Services **CRITICAL**, `Socket timeout` | No agent is listening on TCP `12489`, so `check_nt` has nothing to connect to |
 
 ## Why the Host Shows DOWN
 
