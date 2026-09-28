@@ -25,3 +25,5 @@ Core Nagios binary executable (used for checking config syntax)
 
 ## /usr/local/nagios/libexec/
 Plugins directory — all check scripts (`check_ping`, `check_http`, `check_disk`, etc.)
+
+<img width="790" height="423" alt="4" src="https://github.com/user-attachments/assets/1a28f7d8-f0cd-446f-9e90-ebc5c735add8" />
