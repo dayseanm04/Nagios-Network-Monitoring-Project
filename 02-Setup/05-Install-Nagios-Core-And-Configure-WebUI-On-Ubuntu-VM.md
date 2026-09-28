@@ -77,3 +77,9 @@ cd nagios-4.5.0
 ```
 
 <img width="867" height="502" alt="6" src="https://github.com/user-attachments/assets/23e272d9-202c-44a5-bb7d-0650e69087b3" />
+
+---
+
+## Step 5 – Compile and Install Nagios Core
+
+### 5.1 Configure the build
