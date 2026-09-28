@@ -119,3 +119,10 @@ sudo systemctl restart nagios
 | `comp-a-test` | DOWN | Host check timed out after 30.01 seconds |
 | `localhost` | UP | PING OK - Packet loss = 0% |
 
+## Why the Host Shows DOWN
+
+These results mean Nagios is configured correctly and actively checking the Windows machine. The Windows side isn't answering yet:
+
+| Result | Cause |
+|---|---|
+| Host **DOWN**, `PING CRITICAL - Packet loss = 100%` | Windows Firewall blocks inbound ping by default |
