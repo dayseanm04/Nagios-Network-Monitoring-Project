@@ -57,4 +57,5 @@ ls -l
 sudo nano windows.cfg
 ```
 
+<img width="727" height="392" alt="4" src="https://github.com/user-attachments/assets/53f0bc34-5ee6-4af0-93ed-5b5ada5f6b7e" />
 
