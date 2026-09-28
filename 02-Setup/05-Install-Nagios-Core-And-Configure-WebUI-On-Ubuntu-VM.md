@@ -207,6 +207,6 @@ sudo systemctl start nagios
 
 <img width="1026" height="778" alt="Screenshot 2026-09-26 193930" src="https://github.com/user-attachments/assets/8f7b353e-90bc-4f80-bde1-501b26e9164c" />
 
+## Result
 
-
-
+Nagios Core 4.5.0 and Nagios Plugins 2.4.6 are installed on `NetworkVM`. The configuration passes the pre-flight check with 0 warnings and 0 errors, the `nagios` and `apache2` services are running and enabled at boot, and the dashboard is reachable at `http://192.168.1.99/nagios` with the `nagiosadmin` account.
