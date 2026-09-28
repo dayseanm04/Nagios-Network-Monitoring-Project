@@ -52,6 +52,7 @@ The MAC address is on the `link/ether` line (format **`xx:xx:xx:xx:xx:xx`**).
 1. In the left menu, expand **Network Settings**.
 2. Click **IPv4 Address Distribution**.
 
+<img width="1070" height="543" alt="2" src="https://github.com/user-attachments/assets/45c3cc39-d54a-430f-b414-684dcc8eff5c" />
 
 
 
