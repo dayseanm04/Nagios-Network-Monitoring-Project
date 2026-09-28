@@ -29,3 +29,9 @@ ls -l *.cfg
 ```
 
 <img width="639" height="373" alt="1" src="https://github.com/user-attachments/assets/9daf4c3b-31bc-4f9c-99df-62dd540cead4" />
+
+2. Open the main config:
+
+```bash
+sudo nano /usr/local/nagios/etc/nagios.cfg
+```
