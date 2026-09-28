@@ -4,6 +4,7 @@
 
 - **`NetworkVM`** with a static IP and working internet access (see **docs 03** and **04**)
 - A user account with **`sudo`** rights
+- Check out official installation doc: https://support.nagios.com/kb/article.php?id=96
 
 ---
 
