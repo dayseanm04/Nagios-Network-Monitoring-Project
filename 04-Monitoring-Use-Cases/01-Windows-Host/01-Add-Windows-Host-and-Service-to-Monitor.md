@@ -4,4 +4,6 @@ This doc I will add my windows host machine (`comp-a-test`) to Nagios using the 
 
 ---
 
-## How Nagios Monitors a Windows Machine
+## Step 1 – Get the Windows Machine's Name and IP
+
+On the **Windows** machine, open Command Prompt:
