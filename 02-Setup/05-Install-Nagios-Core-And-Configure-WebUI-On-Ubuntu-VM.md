@@ -197,4 +197,10 @@ sudo systemctl start nagios
 
 1. Open a browser. This works from the VM or from any device on the LAN, including the host.
 2. Go to: **http://192.168.1.99/nagios**
+3. Sign in with:
+   - **Username:** `nagiosadmin`
+   - **Password:** the password set in Step 6.1
+
+
+
 
