@@ -65,3 +65,6 @@ sudo usermod -aG nagcmd www-data
 
 > **Why `www-data` joins `nagcmd`:** Apache runs as **`www-data`**. Adding it to **`nagcmd`** lets the web interface send commands to Nagios, such as acknowledging an alert, scheduling downtime, or forcing a re-check.
 
+---
+
+## Step 4 – Download and Extract Nagios Core
