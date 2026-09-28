@@ -123,3 +123,14 @@ sudo make install-webconf
 
 <img width="870" height="602" alt="10" src="https://github.com/user-attachments/assets/2405954b-88da-4afc-94bd-f665fe9ad666" />
 
+---
+
+## Step 6 – Configure the Web Interface
+
+### 6.1 Create the web admin account
+
+```bash
+sudo htpasswd -c /usr/local/nagios/etc/htpasswd.users nagiosadmin
+```
+
+
