@@ -73,3 +73,6 @@ sudo nano windows.cfg
 ## Step 4 – Point the Services at the Host
 
 Further down in **`windows.cfg`** are seven service definitions. Each one has a **`host_name`** line that must match the host defined in **Step 3**.
+
+<img width="879" height="443" alt="6" src="https://github.com/user-attachments/assets/83023e37-594e-4093-aec6-d5de3f14898e" />
+
