@@ -34,3 +34,4 @@ sudo apt upgrade
 sudo apt install -y autoconf gcc libc6 make wget unzip apache2 php libapache2-mod-php libgd-dev openssl libssl-dev build-essential
 ```
 
+<img width="866" height="602" alt="4" src="https://github.com/user-attachments/assets/c0119611-6d80-410f-a0b3-2d1917d4fd68" />
