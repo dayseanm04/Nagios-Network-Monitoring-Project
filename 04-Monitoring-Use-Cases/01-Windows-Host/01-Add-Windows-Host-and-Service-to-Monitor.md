@@ -118,6 +118,8 @@ sudo systemctl restart nagios
 
 <img width="1029" height="800" alt="10" src="https://github.com/user-attachments/assets/c7d856e7-15dc-42c4-a04b-24df33c78159" />
 
+The Windows host shows `PING CRITICAL - Packet loss = 100%`, and every Windows service shows `CRITICAL - Socket timeout`.
+
 | Host | Status | Status Information |
 |---|---|---|
 | `comp-a-test` | DOWN | Host check timed out after 30.01 seconds |
