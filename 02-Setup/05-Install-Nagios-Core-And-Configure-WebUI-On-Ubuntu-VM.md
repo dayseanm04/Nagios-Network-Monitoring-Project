@@ -8,3 +8,6 @@
 ---
 
 ## Step 1 – Check for SELinux
+
+The Nagios install steps assume **SELinux** is disabled or in permissive mode. 
+
