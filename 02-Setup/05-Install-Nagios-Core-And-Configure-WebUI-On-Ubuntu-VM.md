@@ -148,3 +148,4 @@ sudo a2enmod rewrite cgi
 sudo systemctl restart apache2
 ```
 
+<img width="862" height="383" alt="12" src="https://github.com/user-attachments/assets/c3577e76-f178-4c0d-8b54-c58bf5a1db7c" />
