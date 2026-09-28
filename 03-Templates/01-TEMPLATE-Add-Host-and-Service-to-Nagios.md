@@ -19,3 +19,6 @@ Reusable steps for adding any device to Nagios and setting up its service checks
 ### Choosing a Config File and Host Template
 
 Nagios come with sample object files for common device types. Pick the one that matches the device:
+| Device type | `<CONFIG_FILE>` | `<HOST_TEMPLATE>` |
+|---|---|---|
+| Windows machine | **`windows.cfg`** | **`windows-server`** |
