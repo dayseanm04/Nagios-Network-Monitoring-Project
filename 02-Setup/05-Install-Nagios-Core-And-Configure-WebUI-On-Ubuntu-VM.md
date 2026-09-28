@@ -149,3 +149,21 @@ sudo systemctl restart apache2
 ```
 
 <img width="862" height="383" alt="12" src="https://github.com/user-attachments/assets/c3577e76-f178-4c0d-8b54-c58bf5a1db7c" />
+
+---
+
+## Step 7 – Install Nagios Plugins
+
+Nagios Core only schedules checks and handles alerts. The actual checks (`check_ping`, `check_http`, `check_disk`, etc.) come from the plugins package.
+
+```bash
+cd /tmp
+wget https://nagios-plugins.org/download/nagios-plugins-2.4.6.tar.gz
+tar -xzf nagios-plugins-2.4.6.tar.gz
+cd nagios-plugins-2.4.6
+
+./configure --with-nagios-user=nagios --with-nagios-group=nagios
+make
+sudo make install
+```
+
