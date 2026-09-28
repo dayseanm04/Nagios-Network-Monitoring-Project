@@ -44,3 +44,10 @@ sudo nano /usr/local/nagios/etc/nagios.cfg
 <img width="759" height="435" alt="3" src="https://github.com/user-attachments/assets/ed52ee10-c93a-46d9-8735-b77398d96362" />
 
 4. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
+
+---
+
+## Step 3 – Define the Windows Host
+
+1. Open the Windows object file:
+
