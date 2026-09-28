@@ -83,4 +83,12 @@ Im only showing the NSClient++ Version block is. And I changed the **`host_name`
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+---
 
+## Step 5 – Verify the Config and Restart Nagios
+
+1. Run the pre-flight check. Do this every time you change any Nagios config file:
+
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
