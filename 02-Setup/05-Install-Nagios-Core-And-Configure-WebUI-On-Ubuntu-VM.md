@@ -199,7 +199,10 @@ sudo systemctl start nagios
 2. Go to: **http://192.168.1.99/nagios**
 3. Sign in with:
    - **Username:** `nagiosadmin`
-   - **Password:** the password set in Step 6.1
+   - **Password:** the password set in **Step 6.1**
+
+<img width="817" height="515" alt="16" src="https://github.com/user-attachments/assets/2a11bad5-9fc0-4e48-af4c-8df263a19603" />
+
 
 
 
