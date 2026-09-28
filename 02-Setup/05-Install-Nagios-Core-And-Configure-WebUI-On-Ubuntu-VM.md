@@ -37,6 +37,15 @@ sudo apt install -y autoconf gcc libc6 make wget unzip apache2 php libapache2-mo
 
 <img width="866" height="602" alt="4" src="https://github.com/user-attachments/assets/c0119611-6d80-410f-a0b3-2d1917d4fd68" />
 
+| Package(s) | Why it's needed |
+|---|---|
+| **`autoconf`**, **`gcc`**, **`make`**, **`build-essential`** | Compile Nagios and the plugins from source |
+| **`apache2`** | Serves the Nagios web interface |
+| **`php`**, **`libapache2-mod-php`** | Runs the PHP pages in the web interface |
+| **`libgd-dev`** | Draws the status map and trend graphs |
+| **`openssl`**, **`libssl-dev`** | SSL support for plugins that check HTTPS and other encrypted services |
+| **`wget`**, **`unzip`** | Download and extract the source files |
+
 ---
 
 ## Step 3 – Create the Nagios User and Group
