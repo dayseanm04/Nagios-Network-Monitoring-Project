@@ -203,6 +203,9 @@ sudo systemctl start nagios
 
 <img width="817" height="515" alt="16" src="https://github.com/user-attachments/assets/2a11bad5-9fc0-4e48-af4c-8df263a19603" />
 
+4. The Nagios Core home page loads and shows **Daemon running with PID** and the version.
+
+<img width="1026" height="778" alt="Screenshot 2026-09-26 193930" src="https://github.com/user-attachments/assets/8f7b353e-90bc-4f80-bde1-501b26e9164c" />
 
 
 
