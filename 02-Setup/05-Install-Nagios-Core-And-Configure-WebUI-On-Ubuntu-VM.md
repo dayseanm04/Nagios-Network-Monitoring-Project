@@ -190,3 +190,11 @@ sudo systemctl start nagios
 ```
 
 <img width="872" height="249" alt="15" src="https://github.com/user-attachments/assets/05110eb7-a51d-4929-b5f2-b5ff719d7cb8" />
+
+---
+
+## Step 9 – Access the Nagios Dashboard
+
+1. Open a browser. This works from the VM or from any device on the LAN, including the host.
+2. Go to: **http://192.168.1.99/nagios**
+
