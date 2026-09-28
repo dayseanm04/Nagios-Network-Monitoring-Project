@@ -29,9 +29,7 @@ Using both means the VM keeps its address no matter what, and the router has a r
 
 ## Step 1 – Find NetworkVM's MAC Address
 
-Use any one of these methods.
-
-**From inside the VM:**
+**From inside the VM terminal :**
 
 ```bash
 ip a
