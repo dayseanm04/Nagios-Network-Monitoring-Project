@@ -13,3 +13,5 @@ Individual hosts, service, contact, template,etc
 <img width="620" height="188" alt="2" src="https://github.com/user-attachments/assets/391abdb3-ba9a-4e73-952a-ee26d1c38dd8" />
 
 ## /usr/local/nagios/bin/
+Core Nagios binary executable (used for checking config syntax)
+
