@@ -22,3 +22,4 @@ Nagios come with sample object files for common device types. Pick the one that 
 | Device type | `<CONFIG_FILE>` | `<HOST_TEMPLATE>` |
 |---|---|---|
 | Windows machine | **`windows.cfg`** | **`windows-server`** |
+| Linux machine | **`localhost.cfg`** | **`linux-server`** |
