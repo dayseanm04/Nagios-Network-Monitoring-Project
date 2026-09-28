@@ -109,3 +109,7 @@ sudo systemctl restart nagios
 2. Click **Tactical Overview**.
 
 <img width="1024" height="812" alt="8" src="https://github.com/user-attachments/assets/7f65187c-0278-41e9-9dd3-991e069755f0" />
+
+3. Click **Hosts**.
+
+<img width="1029" height="566" alt="9" src="https://github.com/user-attachments/assets/b6397b71-dd77-4393-92f3-51477ce809de" />
