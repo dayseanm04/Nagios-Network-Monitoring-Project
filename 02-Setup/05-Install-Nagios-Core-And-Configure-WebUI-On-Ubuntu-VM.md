@@ -16,3 +16,5 @@ The Nagios install steps assume **SELinux** is disabled or in permissive mode.
 ---
 
 ## Step 2 – Update the System and Install Dependencies
+
+<img width="868" height="495" alt="2" src="https://github.com/user-attachments/assets/6f1c0096-5847-4a3d-b3bf-1b8ab8332c66" />
