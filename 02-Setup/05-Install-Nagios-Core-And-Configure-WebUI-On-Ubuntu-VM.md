@@ -63,3 +63,5 @@ sudo usermod -aG nagcmd www-data
 ```
 <img width="716" height="324" alt="5" src="https://github.com/user-attachments/assets/6436e759-d361-4b43-a170-412d3888cbde" />
 
+> **Why `www-data` joins `nagcmd`:** Apache runs as **`www-data`**. Adding it to **`nagcmd`** lets the web interface send commands to Nagios, such as acknowledging an alert, scheduling downtime, or forcing a re-check.
+
