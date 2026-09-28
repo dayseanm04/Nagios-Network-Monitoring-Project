@@ -51,3 +51,10 @@ sudo nano /usr/local/nagios/etc/nagios.cfg
 
 1. Open the Windows object file:
 
+```bash
+cd /usr/local/nagios/etc/objects
+ls -l
+sudo nano windows.cfg
+```
+
+
