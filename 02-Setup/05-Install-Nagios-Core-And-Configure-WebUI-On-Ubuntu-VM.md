@@ -118,3 +118,5 @@ sudo make install-commandmode
 # Install the Apache config for the Nagios web interface
 sudo make install-webconf
 ```
+
+<img width="869" height="507" alt="9" src="https://github.com/user-attachments/assets/2297d20f-53ce-43df-b74f-e4e9c20b4747" />
