@@ -100,3 +100,11 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```bash
 sudo systemctl restart nagios
 ```
+
+---
+
+## Step 6 – Check the Dashboard
+
+1. Go to `http://192.168.1.99/nagios` and sign in.
+2. Click **Tactical Overview**.
+
