@@ -46,3 +46,12 @@ The MAC address is on the `link/ether` line (format **`xx:xx:xx:xx:xx:xx`**).
 
 <img width="751" height="669" alt="1" src="https://github.com/user-attachments/assets/cbdadee2-b46e-45d1-8e1c-df0d5880a291" />
 
+---
+
+## Step 3 – Open the DHCP Connection List
+1. In the left menu, expand **Network Settings**.
+2. Click **IPv4 Address Distribution**.
+
+
+
+
