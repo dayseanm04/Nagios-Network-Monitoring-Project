@@ -54,10 +54,16 @@ The MAC address is on the `link/ether` line (format **`xx:xx:xx:xx:xx:xx`**).
 
 <img width="1070" height="543" alt="2" src="https://github.com/user-attachments/assets/45c3cc39-d54a-430f-b414-684dcc8eff5c" />
 
-This page shows the router's DHCP server settings. Note the **Dynamic IP Range** of `192.168.1.2 – 192.168.1.50` — the reserved IP should be outside this range.
+This page shows the router's DHCP server settings. Note the **Dynamic IP Range** of `192.168.1.2 – 192.168.1.50` the reserved IP should be outside this range.
 
 3. Click **Connection List**. The **DHCP Connections** page opens.
 
 <img width="1033" height="520" alt="3" src="https://github.com/user-attachments/assets/a76cf56c-c372-4cab-87e7-abd4ede81411" />
 
+---
+
+## Step 4 – Add the Reservation
+
+1. Click **Add static connection**.
+2. Fill in the **DHCP Connection Settings**:
 
