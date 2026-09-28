@@ -92,3 +92,6 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 ```bash
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
+
+<img width="867" height="604" alt="Screenshot 2026-09-26 203641" src="https://github.com/user-attachments/assets/ee4da552-fdf4-4203-aeca-518c6c87d11a" />
+
