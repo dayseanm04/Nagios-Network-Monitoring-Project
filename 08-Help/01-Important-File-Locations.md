@@ -8,10 +8,9 @@ Root directory for the entire Nagios installation
 <img width="675" height="228" alt="1" src="https://github.com/user-attachments/assets/bf262ef8-f02c-4487-a17b-243c5ef54477" />
 
 ## /usr/local/nagios/etc/
-Configuration directory — core settings and object files live here
+Configuration directory, core settings and object files live here
 
 <img width="628" height="150" alt="Screenshot 2026-09-27 213358" src="https://github.com/user-attachments/assets/1a1fd615-e62d-4d22-ba8d-8908bdaf4b91" />
-
 
 
 ## /usr/local/nagios/etc/objects/
