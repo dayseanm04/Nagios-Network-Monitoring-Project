@@ -9,6 +9,10 @@ Root directory for the entire Nagios installation
 
 ## /usr/local/nagios/etc/
 
+<img width="628" height="150" alt="Screenshot 2026-09-27 213358" src="https://github.com/user-attachments/assets/1a1fd615-e62d-4d22-ba8d-8908bdaf4b91" />
+
+
+
 ## /usr/local/nagios/etc/objects/
 Individual hosts, service, contact, template,etc
 
