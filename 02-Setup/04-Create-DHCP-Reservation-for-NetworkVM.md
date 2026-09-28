@@ -58,4 +58,6 @@ This page shows the router's DHCP server settings. Note the **Dynamic IP Range**
 
 3. Click **Connection List**. The **DHCP Connections** page opens.
 
+<img width="1033" height="520" alt="3" src="https://github.com/user-attachments/assets/a76cf56c-c372-4cab-87e7-abd4ede81411" />
+
 
