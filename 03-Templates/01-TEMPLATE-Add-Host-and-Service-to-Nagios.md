@@ -160,3 +160,14 @@ Use this when you want a check that isn't in the sample file.
 ```bash
 sudo nano /usr/local/nagios/etc/objects/<CONFIG_FILE>
 ```
+
+2. Scroll to the service section and add a new block:
+
+```
+define service {
+    use                     generic-service     ; Service template to inherit from
+    host_name               <HOST_NAME>         ; Must match the host definition exactly
+    service_description     <SERVICE_NAME>      ; Name shown in the dashboard
+    check_command           <CHECK_COMMAND>     ; Command and arguments to run
+}
+```
