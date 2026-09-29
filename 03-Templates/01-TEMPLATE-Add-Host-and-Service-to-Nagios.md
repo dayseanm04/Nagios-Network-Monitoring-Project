@@ -171,3 +171,12 @@ define service {
     check_command           <CHECK_COMMAND>     ; Command and arguments to run
 }
 ```
+
+| Directive | What to change |
+|---|---|
+| `use` | Service template, usually `generic-service` |
+| `host_name` | The exact `host_name` from Section 1 |
+| `service_description` | A clear name for the check, unique for this host |
+| `check_command` | A command from `commands.cfg`, plus arguments separated by `!` |
+
+3. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
