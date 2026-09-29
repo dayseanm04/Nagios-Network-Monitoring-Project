@@ -39,3 +39,8 @@ Nagios come with sample object files for common device types. Pick the one that 
 ```bash
 sudo nano /usr/local/nagios/etc/nagios.cfg
 ```
+
+2. Scroll and find the the `cfg_file=` you need eg"**cfg_file=/usr/local/nagios/etc/objects/windows.cf**".
+3. Remove the `#` at the start of the line so Nagios reads the file:
+
+
