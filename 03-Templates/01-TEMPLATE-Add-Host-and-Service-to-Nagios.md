@@ -54,3 +54,10 @@ cfg_file=/usr/local/nagios/etc/objects/<CONFIG_FILE>
 4. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 Skip this step if the line is already uncommented, or if you're using `localhost.cfg`, which is enabled by default.
+
+---
+
+## Step 2 – Define the Host
+
+1. Open the object file:
+
