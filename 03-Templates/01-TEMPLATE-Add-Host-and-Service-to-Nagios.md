@@ -119,3 +119,10 @@ sudo systemctl restart nagios
 2. Click **Tactical Overview**, then **Hosts**.
 3. `<HOST_NAME>` should be listed.
 
+---
+
+# Section 2 – Add a Service
+
+A service is a single check on a host, such as ping, disk space, or whether a web server is responding. Every service must be attached to a host that already exists (Section 1).
+
+## Step 1 – Edit an Existing Service
