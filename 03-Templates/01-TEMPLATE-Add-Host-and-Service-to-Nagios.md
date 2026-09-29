@@ -25,3 +25,5 @@ Nagios come with sample object files for common device types. Pick the one that 
 | Linux machine | **`localhost.cfg`** | **`linux-server`** |
 | Router or switch | **`switch.cfg`** | **`generic-switch`** |
 | Printer | **`printer.cfg`** | **`generic-printer`** |
+
+**Tip:** Assign each device (server, printer, network devices etc) a static IP or a DHCP reservation before adding it. If its IP changes, Nagios will report it as DOWN.
