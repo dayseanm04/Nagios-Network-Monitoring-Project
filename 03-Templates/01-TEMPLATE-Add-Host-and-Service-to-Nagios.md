@@ -19,6 +19,7 @@ Reusable steps for adding any device to Nagios and setting up its service checks
 ### Choosing a Config File and Host Template
 
 Nagios come with sample object files for common device types. Pick the one that matches the device:
+
 | Device type | `<CONFIG_FILE>` | `<HOST_TEMPLATE>` |
 |---|---|---|
 | Windows machine | **`windows.cfg`** | **`windows-server`** |
@@ -75,4 +76,11 @@ define host {
     address         <HOST_IP>           ; IP address of the host
 }
 ```
+
+| Directive | What to change |
+|---|---|
+| `use` | The host template for this device type (see the table above) |
+| `host_name` | A short, unique name with no spaces. Services link to the host using this exact name |
+| `alias` | A readable description of the device |
+| `address` | The device's IP address |
 
