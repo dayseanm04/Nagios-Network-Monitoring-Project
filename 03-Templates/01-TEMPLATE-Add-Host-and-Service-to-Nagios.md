@@ -40,7 +40,13 @@ Nagios come with sample object files for common device types. Pick the one that 
 sudo nano /usr/local/nagios/etc/nagios.cfg
 ```
 
-2. Scroll and find the the `cfg_file=` you need eg"**cfg_file=/usr/local/nagios/etc/objects/windows.cf**".
+2. Scroll and find the the `cfg_file=` you need eg: **cfg_file=/usr/local/nagios/etc/objects/windows.cf**.
 3. Remove the `#` at the start of the line so Nagios reads the file:
 
+```
+# Before
+#cfg_file=/usr/local/nagios/etc/objects/<CONFIG_FILE>
 
+# After
+cfg_file=/usr/local/nagios/etc/objects/<CONFIG_FILE>
+```
