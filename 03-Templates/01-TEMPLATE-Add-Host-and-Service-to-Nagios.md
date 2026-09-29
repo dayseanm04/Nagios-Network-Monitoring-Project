@@ -27,3 +27,9 @@ Nagios come with sample object files for common device types. Pick the one that 
 | Printer | **`printer.cfg`** | **`generic-printer`** |
 
 **Tip:** Assign each device (server, printer, network devices etc) a static IP or a DHCP reservation before adding it. If its IP changes, Nagios will report it as DOWN.
+
+---
+
+# Section 1 – Add a Host
+
+## Step 1 – Enable the Config File
