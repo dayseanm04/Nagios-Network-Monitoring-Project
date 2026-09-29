@@ -110,3 +110,12 @@ Total Errors:   0
 ```bash
 sudo systemctl restart nagios
 ```
+
+---
+
+## Step 4 – Confirm the Host in the Dashboard
+
+1. Go to `http://192.168.1.99/nagios` and sign in.
+2. Click **Tactical Overview**, then **Hosts**.
+3. `<HOST_NAME>` should be listed.
+
