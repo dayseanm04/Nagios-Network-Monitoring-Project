@@ -126,3 +126,17 @@ sudo systemctl restart nagios
 A service is a single check on a host, such as ping, disk space, or whether a web server is responding. Every service must be attached to a host that already exists (Section 1).
 
 ## Step 1 – Edit an Existing Service
+
+Use this when the object file already has a sample service you want to keep.
+
+1. Open the object file:
+
+```bash
+sudo nano /usr/local/nagios/etc/objects/<CONFIG_FILE>
+```
+
+2. Scroll to the **`define service`** sections.
+3. Change **`host_name`** in each service you want to use:
+
+
+
