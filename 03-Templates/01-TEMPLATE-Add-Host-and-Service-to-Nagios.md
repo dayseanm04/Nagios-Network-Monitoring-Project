@@ -190,3 +190,10 @@ define service {
 ```bash
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
+
+2. Confirm the result shows 0 warnings and 0 errors. 
+3. Restart Nagios:
+
+```bash
+sudo systemctl restart nagios
+```
