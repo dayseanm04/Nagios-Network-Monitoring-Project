@@ -147,3 +147,4 @@ define service {
 }
 ```
 
+4. Delete or comment out any sample services you don't need. Put a `#` at the start of every line in the block, including `define service {` and the closing `}`.
