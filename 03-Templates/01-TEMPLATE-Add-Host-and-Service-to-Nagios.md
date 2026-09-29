@@ -61,3 +61,7 @@ Skip this step if the line is already uncommented, or if you're using `localhost
 
 1. Open the object file:
 
+```bash
+sudo nano /usr/local/nagios/etc/objects/<CONFIG_FILE>
+```
+
