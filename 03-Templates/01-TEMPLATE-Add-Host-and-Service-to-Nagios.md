@@ -67,3 +67,12 @@ sudo nano /usr/local/nagios/etc/objects/<CONFIG_FILE>
 
 2. Scroll to the `define host` section and edit it:
 
+```
+define host {
+    use             <HOST_TEMPLATE>     ; Template to inherit settings from
+    host_name       <HOST_NAME>         ; Short name Nagios uses for this host
+    alias           <HOST_ALIAS>        ; Friendly name shown in the dashboard
+    address         <HOST_IP>           ; IP address of the host
+}
+```
+
