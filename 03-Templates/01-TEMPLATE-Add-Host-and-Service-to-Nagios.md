@@ -84,3 +84,8 @@ define host {
 | `alias` | A readable description of the device |
 | `address` | The device's IP address |
 
+3. If the file has sample services, update their `host_name` to match (see Section 2, Step 1), or the pre-flight check will fail.
+
+5. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
+
+
