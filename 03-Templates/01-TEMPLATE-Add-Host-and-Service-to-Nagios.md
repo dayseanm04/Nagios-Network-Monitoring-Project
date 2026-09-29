@@ -104,3 +104,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 Total Warnings: 0
 Total Errors:   0
 ```
+
+3. If there are 0 errors, restart Nagios:
+
+```bash
+sudo systemctl restart nagios
+```
