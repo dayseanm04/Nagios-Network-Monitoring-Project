@@ -153,7 +153,10 @@ define service {
 
 Use this when you want a check that isn't in the sample file.
 
-### 2.1 Find the check command
+### 2.1 Add the service definition
 
-Every **`check_command`** must match a command defined in `/usr/local/nagios/etc/objects/commands.cfg`. List the ones already available:
+1. Open the object file:
 
+```bash
+sudo nano /usr/local/nagios/etc/objects/<CONFIG_FILE>
+```
