@@ -88,4 +88,7 @@ define host {
 
 5. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+---
+
+## Step 3 – Verify and Restart
 
