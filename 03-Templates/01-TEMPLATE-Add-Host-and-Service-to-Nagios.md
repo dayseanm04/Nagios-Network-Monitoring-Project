@@ -180,3 +180,13 @@ define service {
 | `check_command` | A command from `commands.cfg`, plus arguments separated by `!` |
 
 3. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
+
+---
+
+## Step 3 – Verify and Restart
+
+1. Run the pre-flight check:
+
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
