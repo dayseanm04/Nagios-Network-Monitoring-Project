@@ -98,3 +98,9 @@ define host {
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+2. Confirm the result shows:
+
+```
+Total Warnings: 0
+Total Errors:   0
+```
