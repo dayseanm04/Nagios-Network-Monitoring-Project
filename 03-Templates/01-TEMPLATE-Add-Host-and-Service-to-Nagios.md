@@ -65,3 +65,5 @@ Skip this step if the line is already uncommented, or if you're using `localhost
 sudo nano /usr/local/nagios/etc/objects/<CONFIG_FILE>
 ```
 
+2. Scroll to the `define host` section and edit it:
+
