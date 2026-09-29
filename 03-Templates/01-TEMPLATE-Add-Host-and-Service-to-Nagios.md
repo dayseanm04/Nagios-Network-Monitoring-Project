@@ -138,5 +138,12 @@ sudo nano /usr/local/nagios/etc/objects/<CONFIG_FILE>
 2. Scroll to the **`define service`** sections.
 3. Change **`host_name`** in each service you want to use:
 
-
+```
+define service {
+    use                     generic-service
+    host_name               <HOST_NAME>
+    service_description     <SERVICE_NAME>
+    check_command           <CHECK_COMMAND>
+}
+```
 
