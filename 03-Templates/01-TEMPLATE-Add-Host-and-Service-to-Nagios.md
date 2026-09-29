@@ -33,3 +33,9 @@ Nagios come with sample object files for common device types. Pick the one that 
 # Section 1 – Add a Host
 
 ## Step 1 – Enable the Config File
+
+1. Open the main Nagios configuration file:
+
+```bash
+sudo nano /usr/local/nagios/etc/nagios.cfg
+```
