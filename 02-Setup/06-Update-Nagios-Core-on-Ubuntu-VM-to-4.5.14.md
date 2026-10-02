@@ -114,7 +114,9 @@ sudo systemctl start apache2
 /usr/local/nagios/bin/nagios -V | head -n 2
 ```
 
-<img width="811" height="430" alt="S9" src="https://github.com/user-attachments/assets/ab9b69b5-007c-40f8-96f5-df9e4308f141" />
+<img width="811" height="430" alt="9" src="https://github.com/user-attachments/assets/ab9b69b5-007c-40f8-96f5-df9e4308f141" />
 
 2. In the browser, go to **`http://192.168.1.99/nagios`** and refresh. 
+
+<img width="988" height="685" alt="S10" src="https://github.com/user-attachments/assets/a0d11e6c-6d9f-4126-b82b-50390fac477a" />
 
