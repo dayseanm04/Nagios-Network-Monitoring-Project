@@ -79,6 +79,10 @@ ipconfig
 
 **Action:** Updated the `address` line in `/usr/local/nagios/etc/objects/windows.cfg` to **`192.168.1.9`**, ran the pre-flight check, and restarted Nagios:
 
-
 <img width="858" height="481" alt="5" src="https://github.com/user-attachments/assets/225a70cd-98cc-4957-b9f3-3ac1ce8ab61d" />
+
+**Result:** The host details page now showed `192.168.1.9`, but the host was **still DOWN** with `Host check timed out after 31.01 seconds`. Fixing the IP was necessary but not enough.
+
+<img width="1012" height="856" alt="5" src="https://github.com/user-attachments/assets/41dc561c-ed40-4ca8-815b-0092e61beec0" />
+
 
