@@ -33,4 +33,11 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 
 <img width="1025" height="837" alt="2" src="https://github.com/user-attachments/assets/c356c541-290d-445f-8ebe-c046b149a5ce" />
 
+| Where | What it showed |
+|---|---|
+| Hosts page | `comp-a-test` – **DOWN** – `CRITICAL - Host Unreachable (192.168.1.151)` |
+| Host details | `Host check timed out after 31.01 seconds`, Current Attempt `10/10 (HARD state)` |
+| Service details | All 7 services **CRITICAL** – `connect to address 192.168.1.151 and port 12489: No route to host` |
+| Notifications | Repeated **HOST DOWN** alerts since September 26: `PING CRITICAL - Packet loss = 100%` |
+
 
