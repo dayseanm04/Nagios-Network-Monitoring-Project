@@ -77,3 +77,7 @@ The GitHub download extracts to **`nagioscore-nagios-4.5.14`**, not **`nagios-4.
 
 ## Step 6 – Compile and Install
 
+```bash
+make all
+sudo make install
+```
