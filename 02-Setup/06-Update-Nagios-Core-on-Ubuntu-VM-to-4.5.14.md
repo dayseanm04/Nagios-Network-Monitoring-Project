@@ -20,4 +20,5 @@ Clicked **Check for updates**
 ---
 
 ## Step 1 – Check the Current Version
-1. Go to `http://192.168.1.99/nagios` and sign in.
+1. Go to **`http://192.168.1.99/nagios`** and sign in.
+2. The home page shows the installed version (**4.5.0**) and a banner saying a new version is available.
