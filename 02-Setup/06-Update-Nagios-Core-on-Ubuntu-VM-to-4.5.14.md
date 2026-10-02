@@ -65,4 +65,9 @@ The GitHub download extracts to **`nagioscore-nagios-4.5.14`**, not **`nagios-4.
 
 ---
 
-## Step 6 – Configure the Build
+## Step 5 – Configure the Build
+
+```bash
+./configure --with-command-group=nagcmd
+```
+
