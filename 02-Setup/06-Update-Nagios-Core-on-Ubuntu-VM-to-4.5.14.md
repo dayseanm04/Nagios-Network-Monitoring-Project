@@ -85,3 +85,10 @@ sudo make install
 ---
 
 ## Step 7 – Verify the Configuration
+
+Run the pre-flight check to make sure your existing config works with the new version:
+
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
+
