@@ -75,4 +75,5 @@ The GitHub download extracts to **`nagioscore-nagios-4.5.14`**, not **`nagios-4.
 
 <img width="884" height="686" alt="7" src="https://github.com/user-attachments/assets/d3c103b1-9897-4ce4-9f68-d2fbc2d61eac" />
 
+## Step 6 – Compile and Install
 
