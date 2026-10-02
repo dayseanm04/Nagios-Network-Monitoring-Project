@@ -71,3 +71,5 @@ Opened **Hosts** → `comp-a-test` → **View Status Detail For This Host** and 
 ```cmd
 ipconfig
 ```
+
+<img width="721" height="239" alt="4" src="https://github.com/user-attachments/assets/2939fdf5-8bca-40b7-98d5-282fbf160ebb" />
