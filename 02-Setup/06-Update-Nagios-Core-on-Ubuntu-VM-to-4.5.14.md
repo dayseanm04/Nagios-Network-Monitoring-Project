@@ -60,3 +60,6 @@ cd nagioscore-nagios-4.5.14
 ```
 
 <img width="698" height="179" alt="5" src="https://github.com/user-attachments/assets/b8fced04-7500-4796-b5a8-ff42b902da03" />
+
+The GitHub download extracts to **`nagioscore-nagios-4.5.14`**, not **`nagios-4.5.14`** like the nagios.org download in doc 05.
+
