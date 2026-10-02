@@ -45,3 +45,5 @@ sudo rm -rf nagioscore*
 # Download version 4.5.14 from the official GitHub repository
 wget -O nagioscore.tar.gz https://github.com/NagiosEnterprises/nagioscore/archive/refs/tags/nagios-4.5.14.tar.gz
 ```
+
+<img width="883" height="497" alt="4" src="https://github.com/user-attachments/assets/fa4669a4-f72a-41ea-b536-96d1650882cd" />
