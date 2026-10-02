@@ -48,4 +48,7 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 ## Impact
 
 - Nagios couldn't confirm whether the Windows host was online.
+- Host DOWN alerts were being sent repeatedly, which creates alert noise and makes real outages harder to spot.
+- Service checks for the host couldn't run, since Nagios treats services on a DOWN host as problem services.
 
+---
