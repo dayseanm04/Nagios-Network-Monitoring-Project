@@ -49,3 +49,8 @@ wget -O nagioscore.tar.gz https://github.com/NagiosEnterprises/nagioscore/archiv
 <img width="883" height="497" alt="4" src="https://github.com/user-attachments/assets/fa4669a4-f72a-41ea-b536-96d1650882cd" />
 
 To upgrade to a different version later, change `4.5.14` in the URL to the version you want. Check [**nagios.org/downloads**](https://www.nagios.org/projects/nagios-core/) or the [**GitHub releases page**](https://github.com/NagiosEnterprises/nagioscore/releases) for the latest version.
+
+---
+
+## Step 4 – Extract the Archive
+
