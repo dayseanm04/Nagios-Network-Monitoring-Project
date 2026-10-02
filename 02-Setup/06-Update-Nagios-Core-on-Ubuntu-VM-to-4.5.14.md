@@ -120,3 +120,4 @@ sudo systemctl start apache2
 
 <img width="988" height="685" alt="S10" src="https://github.com/user-attachments/assets/a0d11e6c-6d9f-4126-b82b-50390fac477a" />
 
+The home page now shows **Version 4.5.14** and **Daemon running**. Version 4.5.14 also includes an updated look for the web interface.
