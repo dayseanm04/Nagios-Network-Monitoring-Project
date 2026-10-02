@@ -68,3 +68,6 @@ Opened **Hosts** → `comp-a-test` → **View Status Detail For This Host** and 
 
 ### Step 2 – Check the Windows host's current IP
 
+```cmd
+ipconfig
+```
