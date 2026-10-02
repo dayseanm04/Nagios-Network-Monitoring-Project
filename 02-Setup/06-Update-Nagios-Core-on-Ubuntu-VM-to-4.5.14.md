@@ -15,7 +15,10 @@ The Nagios web interface showed **A new version of Nagios Core is available!** C
 
 ## Step 1 – Check the Current Version
 1. Go to **`http://192.168.1.99/nagios`** and sign in.
+
 <img width="1032" height="850" alt="1" src="https://github.com/user-attachments/assets/ba23e157-87a2-4fd3-a403-8231c992cde0" />
-3. The home page shows the installed version (**4.5.0**) and a banner saying a new version is available.
-4. Click **Check for updates**. The Nagios site confirms the update and shows the latest version.
+
+2. The home page shows the installed version (**4.5.0**) and a banner saying a new version is available.
+
+3. Click **Check for updates**. The Nagios site confirms the update and shows the latest version.
 <img width="968" height="652" alt="2" src="https://github.com/user-attachments/assets/b34eeaf9-9ede-41f3-ae59-bbe57a2ed6f3" />
