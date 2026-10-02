@@ -35,3 +35,7 @@ sudo systemctl stop apache2
 If you see this warning, Reload systemd, then stop Nagios again
 
 ## Step 3 – Download the 4.5.14 Source Code
+
+```bash
+cd /tmp
+```
