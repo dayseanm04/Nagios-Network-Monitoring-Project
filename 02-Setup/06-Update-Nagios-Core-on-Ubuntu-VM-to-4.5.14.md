@@ -31,3 +31,5 @@ sudo systemctl stop apache2
 ```
 
 <img width="878" height="293" alt="3" src="https://github.com/user-attachments/assets/89ad7112-2b8c-4159-9b91-f2c180dbae87" />
+
+If you see this warning, Reload systemd, then stop Nagios again:
