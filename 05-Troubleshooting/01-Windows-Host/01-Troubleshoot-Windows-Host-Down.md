@@ -58,3 +58,9 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 ## Troubleshooting Steps Taken
 
 ### Step 1 – Review the alert details in Nagios
+
+Opened **Hosts** → `comp-a-test` → **View Status Detail For This Host** and **View Notifications For This Host**.
+
+**Finding:** The service errors said `No route to host` for **`192.168.1.151`**. That error usually means no device answered at that IP at all, not that a device answered and refused the connection.
+
+**Note:** I changed comp-a-test ip to **192.168.1.9** its 
