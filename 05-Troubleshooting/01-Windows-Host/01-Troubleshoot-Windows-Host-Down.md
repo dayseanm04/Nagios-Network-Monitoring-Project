@@ -78,3 +78,7 @@ ipconfig
 
 
 **Action:** Updated the `address` line in `/usr/local/nagios/etc/objects/windows.cfg` to **`192.168.1.9`**, ran the pre-flight check, and restarted Nagios:
+
+
+<img width="858" height="481" alt="5" src="https://github.com/user-attachments/assets/225a70cd-98cc-4957-b9f3-3ac1ce8ab61d" />
+
