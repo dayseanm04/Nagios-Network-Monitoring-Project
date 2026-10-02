@@ -33,3 +33,4 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 
 | Where | What it showed |
 |---|---|
+| Hosts page | **`comp-a-test`** – **DOWN** – **`CRITICAL - Host Unreachable (192.168.1.151)`** |
