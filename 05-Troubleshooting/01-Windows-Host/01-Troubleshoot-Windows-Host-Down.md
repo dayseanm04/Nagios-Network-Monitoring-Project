@@ -83,7 +83,7 @@ ipconfig
 
 **Result:** The host details page now showed `192.168.1.9`, but the host was **still DOWN** with `Host check timed out after 31.01 seconds`. Fixing the IP was necessary but not enough.
 
-<img width="1012" height="856" alt="5" src="https://github.com/user-attachments/assets/41dc561c-ed40-4ca8-815b-0092e61beec0" />
+<img width="1012" height="856" alt="6" src="https://github.com/user-attachments/assets/41dc561c-ed40-4ca8-815b-0092e61beec0" />
 
 ---
 
@@ -95,3 +95,4 @@ On `comp-a-test`:
 ping 192.168.1.99
 ```
 
+<img width="764" height="340" alt="7" src="https://github.com/user-attachments/assets/ed5e2309-4c2e-4370-9812-3c96e09415da" />
