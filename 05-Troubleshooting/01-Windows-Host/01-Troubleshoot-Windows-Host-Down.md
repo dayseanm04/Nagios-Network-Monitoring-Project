@@ -1,6 +1,6 @@
 # 01 – Troubleshoot Windows Host Down
 
-Troubleshooting record for the Windows host `comp-a-test` showing **DOWN** in Nagios. Covers how the problem was found, the root cause, and the fix.
+Troubleshooting record for the Windows host **`comp-a-test`** showing **DOWN** in Nagios. Covers how the problem was found, the root cause, and the fix.
 
 ---
 
@@ -21,3 +21,5 @@ Troubleshooting record for the Windows host `comp-a-test` showing **DOWN** in Na
 ## Problem Description
 
 The Nagios dashboard showed the Windows host **`comp-a-test`** as **DOWN**, and it had been down since it was first added (about 5 days). All seven Windows service checks configured in [**01 – Add a Windows Host and Services to Nagios**](../../04-Monitoring-Use-Cases/01-Windows-Host/) were **CRITICAL**.
+
+At the same time, **`localhost`** (the Nagios server itself) was **UP**, which meant Nagios was running and checking hosts normally. The problem was limited to the Windows host.
