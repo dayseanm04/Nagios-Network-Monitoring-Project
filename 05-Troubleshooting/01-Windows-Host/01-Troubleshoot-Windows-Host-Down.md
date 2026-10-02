@@ -73,3 +73,5 @@ ipconfig
 ```
 
 <img width="721" height="239" alt="4" src="https://github.com/user-attachments/assets/2939fdf5-8bca-40b7-98d5-282fbf160ebb" />
+
+**Finding:** The host's IPv4 address was **`192.168.1.9`**, not **`192.168.1.151`**. Nagios was checking an address the host no longer used.
