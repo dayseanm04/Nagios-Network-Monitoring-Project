@@ -109,4 +109,8 @@ sudo systemctl start apache2
 
 ## Step 9 – Confirm the New Version
 
+1. From the terminal:
 
+```bash
+/usr/local/nagios/bin/nagios -V | head -n 2
+```
