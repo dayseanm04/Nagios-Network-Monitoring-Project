@@ -71,3 +71,5 @@ The GitHub download extracts to **`nagioscore-nagios-4.5.14`**, not **`nagios-4.
 ./configure --with-command-group=nagcmd
 ```
 
+<img width="881" height="484" alt="6" src="https://github.com/user-attachments/assets/a72f0fc0-9465-460e-9fb7-5d917383fd21" />
+
