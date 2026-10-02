@@ -20,3 +20,4 @@ Clicked **Check for updates**
 ---
 
 ## Step 1 – Check the Current Version
+1. Go to `http://192.168.1.99/nagios` and sign in.
