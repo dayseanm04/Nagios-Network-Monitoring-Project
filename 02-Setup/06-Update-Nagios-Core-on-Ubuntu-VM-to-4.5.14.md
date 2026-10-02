@@ -41,4 +41,7 @@ cd /tmp
 
 # Remove any old Nagios Core downloads
 sudo rm -rf nagioscore*
+
+# Download version 4.5.14 from the official GitHub repository
+wget -O nagioscore.tar.gz https://github.com/NagiosEnterprises/nagioscore/archive/refs/tags/nagios-4.5.14.tar.gz
 ```
