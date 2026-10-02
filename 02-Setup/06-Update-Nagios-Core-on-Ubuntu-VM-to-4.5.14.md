@@ -116,3 +116,5 @@ sudo systemctl start apache2
 
 <img width="811" height="430" alt="S9" src="https://github.com/user-attachments/assets/ab9b69b5-007c-40f8-96f5-df9e4308f141" />
 
+2. In the browser, go to **`http://192.168.1.99/nagios`** and refresh. 
+
