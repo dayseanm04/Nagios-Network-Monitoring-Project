@@ -58,3 +58,5 @@ To upgrade to a different version later, change `4.5.14` in the URL to the versi
 tar xzf nagioscore.tar.gz
 cd nagioscore-nagios-4.5.14
 ```
+
+<img width="698" height="179" alt="5" src="https://github.com/user-attachments/assets/b8fced04-7500-4796-b5a8-ff42b902da03" />
