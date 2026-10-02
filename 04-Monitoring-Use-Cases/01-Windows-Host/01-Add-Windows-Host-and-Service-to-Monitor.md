@@ -59,7 +59,7 @@ sudo nano windows.cfg
 
 <img width="731" height="396" alt="4" src="https://github.com/user-attachments/assets/a523bbb9-9c9a-4656-8b31-002af03bc8fe" />
 
-<img width="783" height="403" alt="5" src="https://github.com/user-attachments/assets/ed5c761a-106b-4647-bbe3-a8fc8a121886" />
+<img width="861" height="315" alt="5" src="https://github.com/user-attachments/assets/dfd6f008-37c2-4f8b-978a-30bf3d056f5b" />
 
 | Directive | What it does |
 |---|---|
