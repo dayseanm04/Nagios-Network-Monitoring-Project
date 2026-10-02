@@ -88,3 +88,10 @@ ipconfig
 ---
 
 ### Step 3 – Ping from Windows to the Nagios server
+
+On `comp-a-test`:
+
+```cmd
+ping 192.168.1.99
+```
+
