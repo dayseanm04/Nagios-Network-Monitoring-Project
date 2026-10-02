@@ -96,3 +96,8 @@ ping 192.168.1.99
 ```
 
 <img width="764" height="340" alt="7" src="https://github.com/user-attachments/assets/ed5e2309-4c2e-4370-9812-3c96e09415da" />
+
+### Step 4 – Ping from the Nagios server to Windows
+
+On `NetworkVM`:
+
