@@ -62,6 +62,9 @@ Opened **Hosts** → `comp-a-test` → **View Status Detail For This Host** and 
 
 <img width="1029" height="670" alt="3" src="https://github.com/user-attachments/assets/cfb788fa-bb10-44ff-9ba1-8857ddf739d9" />
 
-**Note:** I changed comp-a-test ip to **192.168.1.9** 
+**Note:** I changed **comp-a-test** ip to **192.168.1.9** 
 
+---
+
+### Step 2 – Check the Windows host's current IP
 
