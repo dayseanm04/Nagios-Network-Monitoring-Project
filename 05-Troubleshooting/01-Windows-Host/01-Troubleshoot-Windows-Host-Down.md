@@ -43,6 +43,8 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 | Service details | All 7 services **CRITICAL** – `connect to address 192.168.1.151 and port 12489: No route to host` |
 | Notifications | Repeated **HOST DOWN** alerts since September 26: `PING CRITICAL - Packet loss = 100%` |
 
+**Note:** I changed comp-a-test ip to **192.168.1.9**
+
 ---
 
 ## Impact
