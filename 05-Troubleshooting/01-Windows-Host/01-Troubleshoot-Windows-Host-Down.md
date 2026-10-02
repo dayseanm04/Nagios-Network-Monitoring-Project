@@ -54,3 +54,7 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 - Service checks for the host couldn't run, since Nagios treats services on a DOWN host as problem services.
 
 ---
+
+## Troubleshooting Steps Taken
+
+### Step 1 – Review the alert details in Nagios
