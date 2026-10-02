@@ -63,3 +63,6 @@ cd nagioscore-nagios-4.5.14
 
 The GitHub download extracts to **`nagioscore-nagios-4.5.14`**, not **`nagios-4.5.14`** like the nagios.org download in doc 05.
 
+---
+
+## Step 6 – Configure the Build
