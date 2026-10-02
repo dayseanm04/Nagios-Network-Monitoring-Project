@@ -24,3 +24,8 @@ The Nagios web interface showed **A new version of Nagios Core is available!** C
 <img width="968" height="652" alt="2" src="https://github.com/user-attachments/assets/b34eeaf9-9ede-41f3-ae59-bbe57a2ed6f3" />
 
 ## Step 2 – Stop Nagios and Apache
+
+```bash
+sudo systemctl stop nagios
+sudo systemctl stop apache2
+```
