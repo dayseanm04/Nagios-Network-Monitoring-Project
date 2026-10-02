@@ -16,3 +16,6 @@ Troubleshooting record for the Windows host `comp-a-test` showing **DOWN** in Na
 | Resolution | Updated the host address in Nagios and created an inbound firewall rule allowing ICMPv4 from **`192.168.1.99`**|
 | Status | Resolved – host status **UP** |
 
+---
+
+## Problem Description
