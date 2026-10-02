@@ -43,4 +43,9 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 | Service details | All 7 services **CRITICAL** – `connect to address 192.168.1.151 and port 12489: No route to host` |
 | Notifications | Repeated **HOST DOWN** alerts since September 26: `PING CRITICAL - Packet loss = 100%` |
 
+---
+
+## Impact
+
+- Nagios couldn't confirm whether the Windows host was online.
 
