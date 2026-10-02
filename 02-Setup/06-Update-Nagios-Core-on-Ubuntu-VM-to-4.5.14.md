@@ -54,3 +54,7 @@ To upgrade to a different version later, change `4.5.14` in the URL to the versi
 
 ## Step 4 – Extract the Archive
 
+```bash
+tar xzf nagioscore.tar.gz
+cd nagioscore-nagios-4.5.14
+```
