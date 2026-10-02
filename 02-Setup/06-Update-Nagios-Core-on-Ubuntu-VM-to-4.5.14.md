@@ -121,3 +121,7 @@ sudo systemctl start apache2
 <img width="988" height="685" alt="S10" src="https://github.com/user-attachments/assets/a0d11e6c-6d9f-4126-b82b-50390fac477a" />
 
 The home page now shows **Version 4.5.14** and **Daemon running**. Version 4.5.14 also includes an updated look for the web interface.
+
+## Result
+
+Nagios Core on `NetworkVM` was upgraded from 4.5.0 to 4.5.14. The existing configuration passes the pre-flight check with 0 warnings and 0 errors, both services are running, and the web interface shows version 4.5.14 with all hosts and services intact.
