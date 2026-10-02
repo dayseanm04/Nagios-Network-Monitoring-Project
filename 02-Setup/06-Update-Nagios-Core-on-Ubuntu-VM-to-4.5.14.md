@@ -95,3 +95,11 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 Expected result:
 
 <img width="879" height="707" alt="8" src="https://github.com/user-attachments/assets/aa88560d-9227-4e6d-9e17-6cda768400d9" />
+
+
+## Step 9 – Start the Services
+
+```bash
+sudo systemctl start nagios
+sudo systemctl start apache2
+```
