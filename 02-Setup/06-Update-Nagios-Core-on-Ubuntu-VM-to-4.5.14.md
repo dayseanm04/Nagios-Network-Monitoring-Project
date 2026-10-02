@@ -38,4 +38,7 @@ If you see this warning, Reload systemd, then stop Nagios again
 
 ```bash
 cd /tmp
+
+# Remove any old Nagios Core downloads
+sudo rm -rf nagioscore*
 ```
