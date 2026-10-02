@@ -29,3 +29,5 @@ The Nagios web interface showed **A new version of Nagios Core is available!** C
 sudo systemctl stop nagios
 sudo systemctl stop apache2
 ```
+
+<img width="878" height="293" alt="3" src="https://github.com/user-attachments/assets/89ad7112-2b8c-4159-9b91-f2c180dbae87" />
