@@ -101,3 +101,6 @@ ping 192.168.1.99
 
 On `NetworkVM`:
 
+```bash
+ping -c 3 192.168.1.9
+```
