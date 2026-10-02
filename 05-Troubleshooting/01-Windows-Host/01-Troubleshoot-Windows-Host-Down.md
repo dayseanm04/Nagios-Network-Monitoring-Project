@@ -85,4 +85,6 @@ ipconfig
 
 <img width="1012" height="856" alt="5" src="https://github.com/user-attachments/assets/41dc561c-ed40-4ca8-815b-0092e61beec0" />
 
+---
 
+### Step 3 – Ping from Windows to the Nagios server
