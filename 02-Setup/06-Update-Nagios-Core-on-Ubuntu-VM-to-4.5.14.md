@@ -14,4 +14,4 @@ Clicked **Check for updates**
 ---
 
 ## Prerequisites
-- Nagios Core installed from source (see [**05 – Install Nagios Core and Web Interface on Ubuntu VM**](05-Install-Nagios-Core-and-Web-Interface-on-Ubuntu-VM.md))
+- Nagios Core installed from source (see [**05 – Install Nagios Core and Web Interface on Ubuntu VM**](05-Install-Nagios-Core-And-Configure-WebUI-On-Ubuntu-VM.md))
