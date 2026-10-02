@@ -31,3 +31,5 @@ At the same time, **`localhost`** (the Nagios server itself) was **UP**, which m
 
 ## Symptoms
 
+| Where | What it showed |
+|---|---|
