@@ -10,3 +10,8 @@ The Nagios web interface showed **A new version of Nagios Core is available!** C
 Clicked **Check for updates**
 
 <img width="968" height="652" alt="2" src="https://github.com/user-attachments/assets/b34eeaf9-9ede-41f3-ae59-bbe57a2ed6f3" />
+
+---
+
+## Prerequisites
+- Nagios Core installed from source (see [**05 – Install Nagios Core and Web Interface on Ubuntu VM**](05-Install-Nagios-Core-and-Web-Interface-on-Ubuntu-VM.md))
