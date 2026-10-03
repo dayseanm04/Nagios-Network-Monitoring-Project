@@ -37,3 +37,7 @@ Confirm that:
 ---
 
 ## TC-01 – Ping from the Nagios Server
+
+**Steps:**
+
+On **`NetworkVM`**, run:
