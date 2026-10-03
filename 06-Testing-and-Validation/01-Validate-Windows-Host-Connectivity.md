@@ -14,3 +14,4 @@ Test results confirming the Windows host **`comp-a-test`** is reachable from the
 | Host under test | **`comp-a-test`** (**`192.168.1.9`**) |
 | Tested from | **`NetworkVM`** (**`192.168.1.99`**) |
 | Change being validated | Inbound firewall rule **`IN-Nagios_VM-ICMP-Allow`** on **`comp-a-test`** |
+| Overall result | **Success** |
