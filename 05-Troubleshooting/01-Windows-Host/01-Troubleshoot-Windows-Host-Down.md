@@ -205,3 +205,15 @@ After the rule was added, **`NetworkVM`** could ping `comp-a-test` and Nagios ch
 
 The 7 Windows **services** are still **CRITICAL**. That's expected: they use **`check_nt`**, which needs a Windows agent on port **`12489`**. This will be addressed when NCPA is installed.
 
+---
+
+## Lessons Learned and Prevention
+
+| Lesson | Action |
+|---|---|
+| A monitored host's IP changing breaks every check for that host | Confirm the router reservation for **`comp-a-test`** is in place and matches its MAC address, so its IP stays fixed |
+| **`No route to host`** and **`timed out`** mean different things | **`No route to host`** usually means nothing is at that IP; `timed out` usually means something is there but not answering, often a firewall |
+| Testing in both directions isolates the problem fast | Always ping both ways. One-way failure points to a firewall on the side that isn't answering |
+| The firewall rule's local IP is tied to **`192.168.1.9`** | If the host's IP changes again, the rule stops matching. Setting the local IP scope to **Any IP address** would avoid that, while the remote IP limit still restricts it to the Nagios server |
+| Windows blocks inbound ping by default | When adding any new Windows host to Nagios, add this firewall rule as part of setup |
+
