@@ -81,6 +81,7 @@ On the Hosts page, click **`comp-a-test`**.
 
 <img width="1025" height="843" alt="3" src="https://github.com/user-attachments/assets/8da483bd-b5c9-4fc3-bd7a-a6c19b3b90b0" />
 
+**Result:** PASS
 
 
 
