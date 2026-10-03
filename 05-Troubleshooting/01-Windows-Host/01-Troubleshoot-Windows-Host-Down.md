@@ -195,3 +195,10 @@ Click **Finish**. The rule appears in the Inbound Rules list as **Enabled**.
 
 <img width="864" height="277" alt="19" src="https://github.com/user-attachments/assets/fdc995f1-c662-4ea0-9cf3-a53ad47f7b3c" />
 
+---
+
+## Verification
+
+After the rule was added, **`NetworkVM`** could ping `comp-a-test` and Nagios changed the host to **UP** on its next check.
+
+
