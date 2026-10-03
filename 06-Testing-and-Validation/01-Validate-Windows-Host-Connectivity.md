@@ -61,8 +61,18 @@ ping -c 4 192.168.1.9
 1. Go to **`http://192.168.1.99/nagios`** and sign in.
 2. Click **Hosts**.
 
-**Expected:** `comp-a-test` listed as **UP**.
+**Expected:** **`comp-a-test`** listed as **UP**.
 
 **Actual:**
 
 <img width="1026" height="565" alt="2" src="https://github.com/user-attachments/assets/9c4b6c00-b382-47dc-90ec-a177b6d52223" />
+
+---
+
+## TC-03 – Host Details
+
+
+
+
+
+
