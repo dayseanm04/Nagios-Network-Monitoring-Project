@@ -217,3 +217,9 @@ The 7 Windows **services** are still **CRITICAL**. That's expected: they use **`
 | If the firewall rule's local IP is tied to **`192.168.1.9`** | when the host's IP changes again, the rule stops matching. Setting the local IP scope to **Any IP address** avoids that, while the remote IP limit still restricts it to the Nagios server |
 | Windows blocks inbound ping by default | When adding any new Windows host to Nagios, add this firewall rule as part of setup |
 
+---
+
+## Related Docs
+
+- [**04-Monitoring-Use-Cases / 01 – Add a Windows Host and Services to Nagios**](../../04-Monitoring-Use-Cases/01-Windows-Host/)
+- [**06-Testing-and-Validation / 01 – Validate Windows Host Connectivity**](../../06-Testing-and-Validation/01-Validate-Windows-Host-Connectivity.md)
