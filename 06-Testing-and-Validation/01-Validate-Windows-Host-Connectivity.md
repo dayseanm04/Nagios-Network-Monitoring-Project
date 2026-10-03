@@ -41,3 +41,8 @@ Confirm that:
 **Steps:**
 
 On **`NetworkVM`**, run:
+
+```bash
+ping -c 4 192.168.1.9
+```
+
