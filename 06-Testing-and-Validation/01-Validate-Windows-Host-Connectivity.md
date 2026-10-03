@@ -81,6 +81,15 @@ On the Hosts page, click **`comp-a-test`**.
 
 <img width="1025" height="843" alt="3" src="https://github.com/user-attachments/assets/8da483bd-b5c9-4fc3-bd7a-a6c19b3b90b0" />
 
+---
+
+## Out of Scope
+
+The Windows **service** checks (CPU Load, Memory Usage, C:\ Drive Space, etc.) still show **CRITICAL**. They use **`check_nt`**, which needs a Windows monitoring agent on port **`12489`**. This test only covers host reachability. Service checks will be validated after NCPA is installed.
+
+
+
+
 **Result:** PASS
 
 
