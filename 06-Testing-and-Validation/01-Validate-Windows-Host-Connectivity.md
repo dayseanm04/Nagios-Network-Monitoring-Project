@@ -34,3 +34,6 @@ Confirm that:
 | TC-02 | Host status on Nagios Hosts page | **`comp-a-test`** shows **UP** | **UP** – `PING OK - Packet loss = 0%, RTA = 0.67 ms` | PASS |
 | TC-03 | Host details for `comp-a-test` | Host Status **UP**, correct IP, check is active | **UP**, `192.168.1.9`, Check Type ACTIVE, attempt 1/10 HARD | PASS |
 
+---
+
+## TC-01 – Ping from the Nagios Server
