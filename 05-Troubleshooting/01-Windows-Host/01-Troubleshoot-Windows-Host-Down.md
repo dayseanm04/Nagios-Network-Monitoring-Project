@@ -120,3 +120,4 @@ ping 127.0.0.1
 
 <img width="988" height="598" alt="9" src="https://github.com/user-attachments/assets/b50359df-44d2-43e3-a302-ae693d652554" />
 
+**Finding:** Both succeed. The Windows network stack and adapter are working.
