@@ -183,3 +183,4 @@ Select **Allow the connection** and click **Next**
 
 Select **Domain, Private and public** and click **Next**
 
+<img width="714" height="571" alt="17" src="https://github.com/user-attachments/assets/c51d431b-c2a2-48bd-8b4c-bfddac772bd7" />
