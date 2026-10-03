@@ -28,3 +28,7 @@ Confirm that:
 
 ## Test Cases
 
+| ID | Test | Expected result | Actual result | Status |
+|---|---|---|---|---|
+| TC-01 | Ping **`comp-a-test`** from **`NetworkVM`** | Replies received, 0% packet loss | 4/4 received, 0% loss, avg 0.514 ms |  PASS |
+|
