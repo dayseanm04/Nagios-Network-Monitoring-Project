@@ -22,3 +22,4 @@ Test results confirming the Windows host **`comp-a-test`** is reachable from the
 Confirm that:
 
 1. **`NetworkVM`** can ping **`comp-a-test`**.
+2. Nagios reports **`comp-a-test`** as **UP**.
