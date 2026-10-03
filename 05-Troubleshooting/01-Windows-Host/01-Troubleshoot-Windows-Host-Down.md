@@ -188,3 +188,5 @@ Select **Domain, Private and public** and click **Next**
 named the rule **IN-Nagios_VM-ICMP-Allow** and gave it a description: 
 
 #### Allows incoming ICMP (ping) traffic from the Ubuntu Nagios monitoring server to check device availability and uptime across the local network. 
+
+<img width="709" height="574" alt="18" src="https://github.com/user-attachments/assets/1ab45b5d-7200-49c9-a774-58030f30cee0" />
