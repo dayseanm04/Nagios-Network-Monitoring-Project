@@ -171,7 +171,7 @@ Created an inbound Windows Defender Firewall rule on `comp-a-test` that allows I
 
 <img width="710" height="570" alt="14" src="https://github.com/user-attachments/assets/a72fb734-6ea9-4395-8ee8-dbfe41c21498" />
 
-Under scope **Which local ip addresses does this rule apply** to chose these ip and click add [**added 192.168.1.9**]
+Under scope **Which local ip addresses does this rule apply** to chose any
 
 Under scope **Which remote ip addresses does this rule appl** to chose these ip and click add [**added 192.168.1.99**] and Click **Next**:
 
