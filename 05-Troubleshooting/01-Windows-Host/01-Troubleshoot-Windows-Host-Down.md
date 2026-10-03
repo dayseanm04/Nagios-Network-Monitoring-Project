@@ -175,7 +175,7 @@ Under scope **Which local ip addresses does this rule apply** to chose any
 
 Under scope **Which remote ip addresses does this rule appl** to chose these ip and click add [**added 192.168.1.99**] and Click **Next**:
 
-<img width="706" height="564" alt="15" src="https://github.com/user-attachments/assets/ebea1776-2d2e-48a5-b809-78857f1e0908" />
+<img width="702" height="567" alt="15" src="https://github.com/user-attachments/assets/3451faf6-723c-412d-a1a5-338a1d4ddbd0" />
 
 Select **Allow the connection** and click **Next**
 
