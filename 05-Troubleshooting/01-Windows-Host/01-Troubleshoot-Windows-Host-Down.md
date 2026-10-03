@@ -201,4 +201,7 @@ Click **Finish**. The rule appears in the Inbound Rules list as **Enabled**.
 
 After the rule was added, **`NetworkVM`** could ping `comp-a-test` and Nagios changed the host to **UP** on its next check.
 
+**Full test steps and results:** [**Click here to see the Windows host connectivity test**](../../06-Testing-and-Validation/01-Validate-Windows-Host-Connectivity.md)
+
+The 7 Windows **services** are still **CRITICAL**. That's expected: they use **`check_nt`**, which needs a Windows agent on port **`12489`**. This will be addressed when NCPA is installed.
 
