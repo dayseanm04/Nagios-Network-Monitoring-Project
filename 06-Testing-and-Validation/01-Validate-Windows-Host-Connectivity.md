@@ -19,3 +19,6 @@ Test results confirming the Windows host **`comp-a-test`** is reachable from the
 ---
 
 ## Objective
+Confirm that:
+
+1. **`NetworkVM`** can ping **`comp-a-test`**.
