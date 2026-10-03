@@ -190,3 +190,8 @@ named the rule **IN-Nagios_VM-ICMP-Allow** and gave it a description:
 #### Allows incoming ICMP (ping) traffic from the Ubuntu Nagios monitoring server to check device availability and uptime across the local network. 
 
 <img width="709" height="574" alt="18" src="https://github.com/user-attachments/assets/1ab45b5d-7200-49c9-a774-58030f30cee0" />
+
+Click **Finish**. The rule appears in the Inbound Rules list as **Enabled**.
+
+<img width="864" height="277" alt="19" src="https://github.com/user-attachments/assets/fdc995f1-c662-4ea0-9cf3-a53ad47f7b3c" />
+
