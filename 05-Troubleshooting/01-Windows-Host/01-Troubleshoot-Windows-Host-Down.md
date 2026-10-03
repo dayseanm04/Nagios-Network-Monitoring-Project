@@ -167,3 +167,7 @@ Created an inbound Windows Defender Firewall rule on `comp-a-test` that allows I
 
 <img width="698" height="573" alt="13" src="https://github.com/user-attachments/assets/b2185910-19e4-4d23-9c36-022254291457" />
 
+5. Select **ICMPv4** for Protocol type and Click **Next**
+
+<img width="710" height="570" alt="14" src="https://github.com/user-attachments/assets/a72fb734-6ea9-4395-8ee8-dbfe41c21498" />
+
