@@ -149,3 +149,8 @@ There were two separate problems:
 
 Created an inbound Windows Defender Firewall rule on `comp-a-test` that allows ICMPv4 only from the Nagios server.
 
+### Using the GUI
+
+1. On **`comp-a-test`**, search for and open **Windows Defender Firewall with Advanced Security**.
+
+
