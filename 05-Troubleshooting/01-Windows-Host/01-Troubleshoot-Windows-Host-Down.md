@@ -163,5 +163,7 @@ Created an inbound Windows Defender Firewall rule on `comp-a-test` that allows I
 
 <img width="714" height="574" alt="12" src="https://github.com/user-attachments/assets/0402f44e-63b3-425d-a3ab-1dd7701eae67" />
 
+4. Select **All programs** and Click **Next**
 
+<img width="698" height="573" alt="13" src="https://github.com/user-attachments/assets/b2185910-19e4-4d23-9c36-022254291457" />
 
