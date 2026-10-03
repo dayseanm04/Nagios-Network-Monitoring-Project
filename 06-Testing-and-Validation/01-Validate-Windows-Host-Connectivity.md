@@ -31,4 +31,5 @@ Confirm that:
 | ID | Test | Expected result | Actual result | Status |
 |---|---|---|---|---|
 | TC-01 | Ping **`comp-a-test`** from **`NetworkVM`** | Replies received, 0% packet loss | 4/4 received, 0% loss, avg 0.514 ms |  PASS |
-|
+| TC-02 | Host status on Nagios Hosts page | **`comp-a-test`** shows **UP** | **UP** – `PING OK - Packet loss = 0%, RTA = 0.67 ms` | PASS |
+
