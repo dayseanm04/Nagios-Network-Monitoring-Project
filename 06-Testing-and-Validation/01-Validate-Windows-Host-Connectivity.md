@@ -87,11 +87,11 @@ On the Hosts page, click **`comp-a-test`**.
 
 The Windows **service** checks (CPU Load, Memory Usage, C:\ Drive Space, etc.) still show **CRITICAL**. They use **`check_nt`**, which needs a Windows monitoring agent on port **`12489`**. This test only covers host reachability. Service checks will be validated after NCPA is installed.
 
-
-
-
 **Result:** PASS
 
+## Related Docs
 
+- [**05-Troubleshooting / 01-Windows-Host / 01 – Troubleshoot Windows Host Down**](../05-Troubleshooting/01-Windows-Host/01-Troubleshoot-Windows-Host-Down.md)
+- [**04-Monitoring-Use-Cases / 01 – Add a Windows Host and Services to Nagios**](../04-Monitoring-Use-Cases/01-Windows-Host/)
 
 
