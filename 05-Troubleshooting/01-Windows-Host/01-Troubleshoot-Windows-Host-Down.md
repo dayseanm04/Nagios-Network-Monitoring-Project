@@ -136,5 +136,13 @@ Windows can send pings out and get replies back, but it won't answer pings comin
 
 ---
 
+## Root Cause
+
+There were two separate problems:
+
+1. **Wrong IP address in Nagios.** The Windows host's IP changed from **`192.168.1.151`** to **`192.168.1.9`**. Nagios was still checking **`.151`**, where no device was answering, which caused the **`No route to host`** errors.
+2. **Windows Firewall blocking inbound ICMP.** After the address was corrected, Windows Defender Firewall dropped the echo requests from the Nagios server. Nagios uses ping to decide whether a host is UP, so with no replies the host stayed DOWN.
+
+---
 
 
