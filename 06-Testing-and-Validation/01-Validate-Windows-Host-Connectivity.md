@@ -23,3 +23,8 @@ Confirm that:
 
 1. **`NetworkVM`** can ping **`comp-a-test`**.
 2. Nagios reports **`comp-a-test`** as **UP**.
+
+---
+
+## Test Cases
+
