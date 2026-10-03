@@ -132,3 +132,9 @@ ping 127.0.0.1
 | Windows → itself / loopback | Success | Windows network adapter and TCP/IP stack |
 | NetworkVM → Windows | 100% loss | — |
 
+Windows can send pings out and get replies back, but it won't answer pings coming in. That one-way pattern points to something on the Windows host blocking **inbound** ICMP: the Windows Defender Firewall, which blocks inbound echo requests by default.
+
+---
+
+
+
