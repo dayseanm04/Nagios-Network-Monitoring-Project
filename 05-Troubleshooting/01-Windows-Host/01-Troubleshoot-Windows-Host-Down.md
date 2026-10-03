@@ -153,4 +153,6 @@ Created an inbound Windows Defender Firewall rule on `comp-a-test` that allows I
 
 1. On **`comp-a-test`**, search for and open **Windows Defender Firewall with Advanced Security**.
 
+<img width="859" height="401" alt="10" src="https://github.com/user-attachments/assets/b33bc261-db16-4008-a133-fe47758768aa" />
+
 
