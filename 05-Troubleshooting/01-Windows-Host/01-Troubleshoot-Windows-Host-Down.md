@@ -159,3 +159,9 @@ Created an inbound Windows Defender Firewall rule on `comp-a-test` that allows I
 
 <img width="1052" height="393" alt="11" src="https://github.com/user-attachments/assets/7c9e0ad8-8749-4727-aceb-6f0c97509fe9" />
 
+3. Select **Custom** rule and Click **Next**
+
+<img width="714" height="574" alt="12" src="https://github.com/user-attachments/assets/0402f44e-63b3-425d-a3ab-1dd7701eae67" />
+
+
+
