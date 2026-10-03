@@ -32,4 +32,5 @@ Confirm that:
 |---|---|---|---|---|
 | TC-01 | Ping **`comp-a-test`** from **`NetworkVM`** | Replies received, 0% packet loss | 4/4 received, 0% loss, avg 0.514 ms |  PASS |
 | TC-02 | Host status on Nagios Hosts page | **`comp-a-test`** shows **UP** | **UP** – `PING OK - Packet loss = 0%, RTA = 0.67 ms` | PASS |
+| TC-03 | Host details for `comp-a-test` | Host Status **UP**, correct IP, check is active | **UP**, `192.168.1.9`, Check Type ACTIVE, attempt 1/10 HARD | PASS |
 
