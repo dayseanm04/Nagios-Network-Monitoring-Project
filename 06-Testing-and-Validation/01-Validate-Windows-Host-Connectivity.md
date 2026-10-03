@@ -52,3 +52,6 @@ ping -c 4 192.168.1.9
 
 <img width="800" height="418" alt="1" src="https://github.com/user-attachments/assets/4a582566-3f10-4b70-b94d-6c7f7a03aede" />
 
+---
+
+## TC-02 – Host Status in Nagios
