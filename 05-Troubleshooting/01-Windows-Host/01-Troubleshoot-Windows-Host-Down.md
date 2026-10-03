@@ -89,7 +89,7 @@ ipconfig
 
 ### Step 3 – Ping from Windows to the Nagios server
 
-On `comp-a-test`:
+On **`comp-a-test`**:
 
 ```cmd
 ping 192.168.1.99
@@ -99,7 +99,7 @@ ping 192.168.1.99
 
 ### Step 4 – Ping from the Nagios server to Windows
 
-On `NetworkVM`:
+On **`NetworkVM`**:
 
 ```bash
 ping -c 3 192.168.1.9
@@ -107,5 +107,10 @@ ping -c 3 192.168.1.9
 
 <img width="820" height="300" alt="8" src="https://github.com/user-attachments/assets/5e9a86af-23a8-4df4-ad29-a64047ee0892" />
 
+---
+
+### Step 5 – Ping the Windows host from itself
+
+On `comp-a-test`:
 
 
