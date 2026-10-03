@@ -75,6 +75,8 @@ ping -c 4 192.168.1.9
 
 On the Hosts page, click **`comp-a-test`**.
 
+**Expected:** Host Status **UP**, address **`192.168.1.9`**, active checks running.
+
 
 
 
