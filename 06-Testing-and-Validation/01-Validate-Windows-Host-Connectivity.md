@@ -71,6 +71,10 @@ ping -c 4 192.168.1.9
 
 ## TC-03 – Host Details
 
+**Steps:**
+
+On the Hosts page, click **`comp-a-test`**.
+
 
 
 
