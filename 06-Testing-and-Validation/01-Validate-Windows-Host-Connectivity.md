@@ -7,3 +7,7 @@ Test results confirming the Windows host **`comp-a-test`** is reachable from the
 ---
 
 ## Test Summary
+
+| Item | Details |
+|---|---|
+| Date | October 2, 2026 |
