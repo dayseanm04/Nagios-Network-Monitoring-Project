@@ -55,3 +55,7 @@ ping -c 4 192.168.1.9
 ---
 
 ## TC-02 – Host Status in Nagios
+
+**Steps:**
+
+1. Go to **`http://192.168.1.99/nagios`** and sign in.
