@@ -11,4 +11,5 @@ Test results confirming the Windows host **`comp-a-test`** is reachable from the
 | Item | Details |
 |---|---|
 | Date | October 2, 2026 |
-| Host under test | `comp-a-test` (`192.168.1.9`) |
+| Host under test | **`comp-a-test`** (**`192.168.1.9`**) |
+| Tested from | **`NetworkVM`** (**`192.168.1.99`**) |
