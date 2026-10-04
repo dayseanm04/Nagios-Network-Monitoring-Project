@@ -38,6 +38,9 @@ A single-page summary showing total hosts and services by state, network outages
 
 <img width="1029" height="876" alt="3" src="https://github.com/user-attachments/assets/d120d99d-09f2-4587-9abb-b636e8e60db7" />
 
+### Map (version 4.5.0)
+
+Shows each host as a node connected to the **Nagios Process** in the center. Green nodes are UP, red nodes are DOWN.
 
 
 
