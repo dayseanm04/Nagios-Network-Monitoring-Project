@@ -127,3 +127,4 @@ Click **Create Availability Report!**
 
 <img width="1029" height="612" alt="20" src="https://github.com/user-attachments/assets/d3176878-5619-43e1-a506-5f34ff648cf2" />
 
+### Trends
