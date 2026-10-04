@@ -37,3 +37,7 @@ The landing page after you sign in.
 
 <img width="988" height="685" alt="2" src="https://github.com/user-attachments/assets/9f6c9293-420f-4cc8-96b8-23e2de6f34d8" />
 
+| What to look for | Why it matters |
+|---|---|
+| **Daemon running with PID** | Confirms the Nagios service is running. If this is missing, Nagios is stopped |
+
