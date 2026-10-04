@@ -110,6 +110,8 @@ Type a host name in the **Quick Search** box in the sidebar to jump straight to 
 
 ### Availability
 
+Calculates the percentage of time a host or service was UP/OK over a chosen period. Useful for uptime reporting.
+
 <img width="1026" height="408" alt="17" src="https://github.com/user-attachments/assets/056802e3-abfd-4f33-9cd1-907ee61dd58d" />
 
 Click **Continue to Step 2**
