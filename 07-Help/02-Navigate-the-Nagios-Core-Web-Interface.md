@@ -154,4 +154,5 @@ Then create summary report
 
 <img width="1019" height="428" alt="24" src="https://github.com/user-attachments/assets/e90d9ca1-fa0c-4ba0-8e65-3de290e19e0c" />
 
+### Alerts – Histogram
 
