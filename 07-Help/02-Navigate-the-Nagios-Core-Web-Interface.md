@@ -60,8 +60,7 @@ note: you have to change theses settings to view the map
 
 Groups hosts by type and shows a count of host and service states for each group.
 
-<img width="1023" height="511" alt="8" src="https://github.com/user-attachments/assets/37e1652c-9580-4954-bd8a-e126f6b88c29" />
+<img width="1030" height="567" alt="8" src="https://github.com/user-attachments/assets/ec551095-aa5f-49be-b187-7695fa407674" />
 
-<img width="1030" height="567" alt="9" src="https://github.com/user-attachments/assets/ec551095-aa5f-49be-b187-7695fa407674" />
-
+<img width="1023" height="511" alt="9" src="https://github.com/user-attachments/assets/37e1652c-9580-4954-bd8a-e126f6b88c29" />
 
