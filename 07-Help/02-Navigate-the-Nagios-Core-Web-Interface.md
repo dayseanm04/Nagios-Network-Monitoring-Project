@@ -102,3 +102,5 @@ Filter notifications:
 
 Type a host name in the **Quick Search** box in the sidebar to jump straight to it.
 
+<img width="1029" height="747" alt="16" src="https://github.com/user-attachments/assets/fd63525b-2214-424d-bf02-baec67f5028a" />
+
