@@ -7,3 +7,8 @@ A guide to the Nagios Core web interface: what each menu item does, what to look
 ## Accessing the Web Interface
 
 go to **http://<IP>/nagios**, Enter the username: **nagiosadmin** and password. 
+
+## Status Colors and States
+
+**Host states**
+
