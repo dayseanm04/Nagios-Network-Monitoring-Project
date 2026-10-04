@@ -28,3 +28,7 @@ go to **http://<IP>/nagios**, Enter the username: **nagiosadmin** and password.
 ### Home
 
 The landing page after you sign in.
+
+**nagios core version 4.5.0:**
+
+<img width="1032" height="850" alt="1" src="https://github.com/user-attachments/assets/f78bc116-a41e-4438-ada6-907052619d7d" />
