@@ -118,5 +118,7 @@ Click **Continue to Step 2**
 
 Click **Continue to Step 3**
 
+<img width="1026" height="723" alt="19" src="https://github.com/user-attachments/assets/3f6ab4b1-0b43-4cfa-a8f7-1209c14d5bab" />
 
+Click **Create Availability Report!**
 
