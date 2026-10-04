@@ -1,4 +1,4 @@
-# 02 – Navigate the Nagios Core Web Interface
+<img width="1034" height="702" alt="Screenshot 2026-10-03 212114" src="https://github.com/user-attachments/assets/0e036908-dd00-4161-9c3e-6e5fcaba0f18" /># 02 – Navigate the Nagios Core Web Interface
 
 A guide to the Nagios Core web interface: what each menu item does, what to look for on each page, and when to use it. Use this as a reference when checking the health of monitored devices or investigating a problem.
 
@@ -93,3 +93,8 @@ Click any host name to open its details page.
 Shows every alert sent for that host, with the time, contact, notification command, and message.
 
 <img width="1030" height="583" alt="14" src="https://github.com/user-attachments/assets/e77131ca-a3ef-46c2-87f5-45d991b415a0" />
+
+Filter notificati0ns:
+
+<img width="1034" height="702" alt="Screenshot 2026-10-03 212114" src="https://github.com/user-attachments/assets/35dfd83c-4758-410e-9093-a223c8f8fa6f" />
+
