@@ -11,4 +11,7 @@ go to **http://<IP>/nagios**, Enter the username: **nagiosadmin** and password.
 ## Status Colors and States
 
 **Host states**
-
+| State | Meaning |
+|---|---|
+| 🟩 **UP** | Host responded to its check (usually ping) |
+| 🟥 **DOWN** | Host didn't respond |
