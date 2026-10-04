@@ -45,3 +45,6 @@ Shows each host as a node connected to the **Nagios Process** in the center. Gre
 <img width="1013" height="632" alt="4" src="https://github.com/user-attachments/assets/9024a969-e263-47be-887a-35e58d2f13da" />
 
 hover over the host for more info
+
+<img width="935" height="485" alt="5" src="https://github.com/user-attachments/assets/9ae4a88d-3ff5-402a-b88b-a45b5ad4030e" />
+
