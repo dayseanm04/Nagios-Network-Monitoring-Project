@@ -91,3 +91,5 @@ Click any host name to open its details page.
 #### View Notifications for This Host
 
 Shows every alert sent for that host, with the time, contact, notification command, and message.
+
+<img width="1030" height="583" alt="14" src="https://github.com/user-attachments/assets/e77131ca-a3ef-46c2-87f5-45d991b415a0" />
