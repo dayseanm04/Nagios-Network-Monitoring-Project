@@ -144,3 +144,13 @@ A running list of every state change and Nagios start/stop event, newest first.
 
 <img width="1038" height="752" alt="22" src="https://github.com/user-attachments/assets/e7aa0ac0-66df-44ab-8751-5138999c5f12" />
 
+### Alerts – Summary
+
+Select your options
+
+<img width="1014" height="752" alt="23" src="https://github.com/user-attachments/assets/21143753-d365-48d0-b3a8-69c74d0c9262" />
+
+Then create summary report
+
+
+
