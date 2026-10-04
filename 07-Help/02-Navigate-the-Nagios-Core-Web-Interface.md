@@ -142,3 +142,5 @@ Draws a timeline of a host's or service's state over a period.
 
 A running list of every state change and Nagios start/stop event, newest first.
 
+<img width="1038" height="752" alt="22" src="https://github.com/user-attachments/assets/e7aa0ac0-66df-44ab-8751-5138999c5f12" />
+
