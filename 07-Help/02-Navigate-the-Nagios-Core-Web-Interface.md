@@ -15,3 +15,5 @@ go to **http://<IP>/nagios**, Enter the username: **nagiosadmin** and password.
 |---|---|
 | 🟩 **UP** | Host responded to its check (usually ping) |
 | 🟥 **DOWN** | Host didn't respond |
+
+**Service states**
