@@ -94,8 +94,6 @@ Shows every alert sent for that host, with the time, contact, notification comma
 
 Filter notifications:
 
-<img width="1034" height="702" alt="155" src="https://github.com/user-attachments/assets/0e036908-dd00-4161-9c3e-6e5fcaba0f18" /># 02 – Navigate the Nagios Core Web Interface
-
 <img width="1034" height="702" alt="15" src="https://github.com/user-attachments/assets/35dfd83c-4758-410e-9093-a223c8f8fa6f" />
 
 ### Quick Search
