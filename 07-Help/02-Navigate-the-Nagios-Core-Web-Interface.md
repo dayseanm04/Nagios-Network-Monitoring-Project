@@ -140,3 +140,5 @@ Draws a timeline of a host's or service's state over a period.
 
 ### Alerts – History
 
+A running list of every state change and Nagios start/stop event, newest first.
+
