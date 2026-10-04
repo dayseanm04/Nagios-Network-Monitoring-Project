@@ -35,3 +35,9 @@ Links to the official Nagios Core documentation.
 ### Tactical Overview
 
 A single-page summary showing total hosts and services by state, network outages, and which monitoring features are enabled. Start here for a quick overall health check.
+
+<img width="1029" height="876" alt="3" src="https://github.com/user-attachments/assets/d120d99d-09f2-4587-9abb-b636e8e60db7" />
+
+
+
+
