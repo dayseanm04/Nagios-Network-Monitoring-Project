@@ -112,6 +112,8 @@ Type a host name in the **Quick Search** box in the sidebar to jump straight to 
 
 <img width="1026" height="408" alt="17" src="https://github.com/user-attachments/assets/056802e3-abfd-4f33-9cd1-907ee61dd58d" />
 
+Click **Continue to Step 2**
+
 
 
 
