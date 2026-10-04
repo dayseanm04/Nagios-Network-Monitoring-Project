@@ -120,5 +120,8 @@ Click **Continue to Step 3**
 
 <img width="1026" height="723" alt="19" src="https://github.com/user-attachments/assets/3f6ab4b1-0b43-4cfa-a8f7-1209c14d5bab" />
 
+Select Report options
 Click **Create Availability Report!**
+
+<img width="1029" height="612" alt="20" src="https://github.com/user-attachments/assets/d3176878-5619-43e1-a506-5f34ff648cf2" />
 
