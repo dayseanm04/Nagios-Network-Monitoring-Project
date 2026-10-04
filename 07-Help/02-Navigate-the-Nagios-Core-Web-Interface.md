@@ -8,21 +8,6 @@ A guide to the Nagios Core web interface: what each menu item does, what to look
 
 go to **http: //IPAddress/nagios**, Enter the username: **nagiosadmin** and password. 
 
-## Status Colors and States
-
-**Host states**
-| State | Meaning |
-|---|---|
-| 🟩 **UP** | Host responded to its check (usually ping) |
-| 🟥 **DOWN** | Host didn't respond |
-
-**Service states**
-
-| State | Meaning |
-|---|---|
-| 🟩 **OK** | Check passed |
-| 🟥 **CRITICAL** | Crossed the critical threshold or the check failed |
-
 ## General
 
 ### Home
