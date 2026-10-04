@@ -76,3 +76,5 @@ The icons in the **Actions** column open the host's details, service status, and
 
 Lists every host with its status, last check, how long it's been in that state, and the check output.
 
+<img width="982" height="536" alt="11" src="https://github.com/user-attachments/assets/cc7fa797-89bb-4679-99ed-e199c05e6f07" />
+
