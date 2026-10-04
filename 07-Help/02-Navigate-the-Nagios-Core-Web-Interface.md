@@ -84,4 +84,5 @@ Click any host name to open its details page.
 
 <img width="1029" height="841" alt="12" src="https://github.com/user-attachments/assets/8e052aca-fcb8-4567-9a3d-10d3e1cd04e4" />
 
+#### View Status Detail for This Host
 
