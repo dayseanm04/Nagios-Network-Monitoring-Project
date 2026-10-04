@@ -82,3 +82,6 @@ Lists every host with its status, last check, how long it's been in that state, 
 
 Click any host name to open its details page.
 
+<img width="1029" height="841" alt="12" src="https://github.com/user-attachments/assets/8e052aca-fcb8-4567-9a3d-10d3e1cd04e4" />
+
+
