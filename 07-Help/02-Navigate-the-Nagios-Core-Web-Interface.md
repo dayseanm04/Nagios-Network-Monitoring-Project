@@ -31,3 +31,7 @@ The landing page after you sign in.
 ### Documentation
 
 Links to the official Nagios Core documentation.
+
+### Tactical Overview
+
+A single-page summary showing total hosts and services by state, network outages, and which monitoring features are enabled. Start here for a quick overall health check.
