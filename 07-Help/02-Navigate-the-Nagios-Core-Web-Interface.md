@@ -55,3 +55,8 @@ Hover over a node to see its details:
 note: you have to change theses settings to view the map
 
 <img width="1028" height="591" alt="7" src="https://github.com/user-attachments/assets/15de3a0d-ff17-4060-be09-a690c170c380" />
+
+### Host Groups – Summary
+
+Groups hosts by type and shows a count of host and service states for each group.
+
