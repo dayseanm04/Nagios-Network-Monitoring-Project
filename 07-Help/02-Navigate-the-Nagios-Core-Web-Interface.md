@@ -17,3 +17,8 @@ go to **http://<IP>/nagios**, Enter the username: **nagiosadmin** and password.
 | 🟥 **DOWN** | Host didn't respond |
 
 **Service states**
+
+| State | Meaning |
+|---|---|
+| 🟩 **OK** | Check passed |
+| 🟥 **CRITICAL** | Crossed the critical threshold or the check failed |
