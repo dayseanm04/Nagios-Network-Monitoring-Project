@@ -22,3 +22,9 @@ go to **http://<IP>/nagios**, Enter the username: **nagiosadmin** and password.
 |---|---|
 | 🟩 **OK** | Check passed |
 | 🟥 **CRITICAL** | Crossed the critical threshold or the check failed |
+
+## General
+
+### Home
+
+The landing page after you sign in.
