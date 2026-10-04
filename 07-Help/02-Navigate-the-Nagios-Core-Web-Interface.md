@@ -40,4 +40,4 @@ The landing page after you sign in.
 | What to look for | Why it matters |
 |---|---|
 | **Daemon running with PID** | Confirms the Nagios service is running. If this is missing, Nagios is stopped |
-
+| Version number | Shows which Nagios Core version is installed |
