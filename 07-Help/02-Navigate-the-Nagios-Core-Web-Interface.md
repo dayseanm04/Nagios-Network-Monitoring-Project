@@ -156,3 +156,10 @@ Then create summary report
 
 ### Alerts – Histogram
 
+Shows how many alerts happened on each day of the month (or hour of the day), to spot patterns.
+
+1. Select type (**Host or Service**)
+2. Select the actual hostname or service name
+3. Choose report options
+4. Create the report
+
