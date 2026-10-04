@@ -171,3 +171,4 @@ Every notification sent to every contact.
 
 <img width="995" height="639" alt="26" src="https://github.com/user-attachments/assets/b99f9f1b-9d9c-4278-8a66-94177993830c" />
 
+### Event Log
