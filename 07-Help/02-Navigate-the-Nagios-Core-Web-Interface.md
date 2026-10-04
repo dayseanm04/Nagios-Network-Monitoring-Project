@@ -53,3 +53,5 @@ hover over the host for more info
 <img width="1035" height="489" alt="6" src="https://github.com/user-attachments/assets/a09d4da9-737b-414c-b3c4-d42bcc0503c1" />
 
 note: you have to change theses settings to view the map
+
+<img width="1028" height="591" alt="7" src="https://github.com/user-attachments/assets/15de3a0d-ff17-4060-be09-a690c170c380" />
