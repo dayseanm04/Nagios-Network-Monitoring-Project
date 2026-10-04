@@ -90,3 +90,4 @@ Click any host name to open its details page.
 
 #### View Notifications for This Host
 
+Shows every alert sent for that host, with the time, contact, notification command, and message.
