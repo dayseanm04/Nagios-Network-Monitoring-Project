@@ -66,5 +66,7 @@ Groups hosts by type and shows a count of host and service states for each group
 
 ### Host Groups – Grid
 
+Same groups, but lists every service as a colored box so you can spot problems at a glance.
+
 <img width="1036" height="613" alt="10" src="https://github.com/user-attachments/assets/5493376b-71f0-4852-807b-edf6e0d68ac6" />
 
