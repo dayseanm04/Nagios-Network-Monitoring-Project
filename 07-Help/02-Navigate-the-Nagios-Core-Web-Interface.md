@@ -41,3 +41,4 @@ The landing page after you sign in.
 |---|---|
 | **Daemon running with PID** | Confirms the Nagios service is running. If this is missing, Nagios is stopped |
 | Version number | Shows which Nagios Core version is installed |
+| **Check for updates** / new version banner | Tells you when an upgrade is available |
