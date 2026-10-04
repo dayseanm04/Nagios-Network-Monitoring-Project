@@ -164,3 +164,5 @@ Shows how many alerts happened on each day of the month (or hour of the day), to
 4. Create the report
 
 <img width="1023" height="713" alt="25" src="https://github.com/user-attachments/assets/1375ba71-7762-41e6-a2e4-17edb10b0ea1" />
+
+### Notifications
