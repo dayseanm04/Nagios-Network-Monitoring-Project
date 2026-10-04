@@ -70,3 +70,5 @@ Same groups, but lists every service as a colored box so you can spot problems a
 
 <img width="1036" height="613" alt="10" src="https://github.com/user-attachments/assets/5493376b-71f0-4852-807b-edf6e0d68ac6" />
 
+The icons in the **Actions** column open the host's details, service status, and map location.
+
