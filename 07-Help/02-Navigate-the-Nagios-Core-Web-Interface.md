@@ -137,3 +137,6 @@ Draws a timeline of a host's or service's state over a period.
 4. Create the report
 
 <img width="1029" height="682" alt="21" src="https://github.com/user-attachments/assets/e18724b2-98ea-46bc-8178-d9854907f7eb" />
+
+### Alerts – History
+
