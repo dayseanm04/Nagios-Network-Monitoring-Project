@@ -72,7 +72,7 @@ Same groups, but lists every service as a colored box so you can spot problems a
 
 The icons in the **Actions** column open the host's details, service status, and map location.
 
-### Hosts
+### Hosts (version 4.5.0 and 4.5.14 are the same)
 
 Lists every host with its status, last check, how long it's been in that state, and the check output.
 
