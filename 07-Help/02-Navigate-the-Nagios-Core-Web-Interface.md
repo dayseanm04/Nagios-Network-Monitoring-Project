@@ -94,7 +94,9 @@ Shows every alert sent for that host, with the time, contact, notification comma
 
 <img width="1030" height="583" alt="14" src="https://github.com/user-attachments/assets/e77131ca-a3ef-46c2-87f5-45d991b415a0" />
 
-Filter notificati0ns:
+Filter notifications:
 
-<img width="1034" height="702" alt="Screenshot 2026-10-03 212114" src="https://github.com/user-attachments/assets/35dfd83c-4758-410e-9093-a223c8f8fa6f" />
+<img width="1034" height="702" alt="15" src="https://github.com/user-attachments/assets/35dfd83c-4758-410e-9093-a223c8f8fa6f" />
+
+### Quick Search
 
