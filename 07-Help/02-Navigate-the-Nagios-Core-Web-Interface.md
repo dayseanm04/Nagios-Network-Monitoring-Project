@@ -209,4 +209,5 @@ When every check will run next
 
 <img width="1014" height="762" alt="33" src="https://github.com/user-attachments/assets/00371a9a-f354-406c-bacf-d08d063f8bea" />
 
+## Configuration 
 
