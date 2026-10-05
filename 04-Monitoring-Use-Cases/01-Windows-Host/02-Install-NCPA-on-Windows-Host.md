@@ -114,6 +114,13 @@ On the **Passive Configuration** page, leave **Send passive checks over NRDP** u
 
 **Automatic (Delayed Start)** means NCPA starts on its own after every reboot, shortly after Windows finishes loading.
 
+Powershell command:
+
+```powershell
+Get-Service -DisplayName "Nagios Cross-Platform Agent"
+```
+
+
 
 
 
