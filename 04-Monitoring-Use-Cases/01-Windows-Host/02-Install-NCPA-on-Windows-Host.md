@@ -25,3 +25,5 @@ This doc covers installing and verifying the agent on Windows.
 <img width="659" height="610" alt="3" src="https://github.com/user-attachments/assets/035f2cf3-4ad6-4252-b481-60d35b6703b0" />
 
 4. Open the email from **`info@nagios.com`** and click **Go to Your Downloads**. Check your promotions and social section of your inbox or spam folder if it doesn't arrive in a few minutes.
+
+<img width="964" height="495" alt="4" src="https://github.com/user-attachments/assets/ba922d68-3a7e-48de-b79f-8a4f1c43ffcc" />
