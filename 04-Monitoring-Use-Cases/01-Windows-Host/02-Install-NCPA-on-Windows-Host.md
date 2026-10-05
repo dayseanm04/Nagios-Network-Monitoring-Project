@@ -66,6 +66,7 @@ On the **Listener Configuration** page:
  - Configure a token [Required for Nagios to query the agent and to log in to the NCPA web interface]
  - Leave **Bind IP** as **0.0.0.0** [Listens on all network adapters]
  - Leave the **Bind Port** as **5693** [Its the default NCPA port]
+ - SSL Minimum is set to **TLSv1_2**
 
   
 <img width="498" height="398" alt="12" src="https://github.com/user-attachments/assets/1e56b6e6-5b4c-4bf7-ada7-d0c1c6d6d6d8" />
