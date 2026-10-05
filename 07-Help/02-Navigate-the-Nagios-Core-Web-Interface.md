@@ -199,4 +199,9 @@ Nagios process details and global on/off switches for checks, notifications, and
 
 ## Performance Info
 
+Check execution times and latency, to see whether Nagios is keeping up
+
+
+
+ 
 
