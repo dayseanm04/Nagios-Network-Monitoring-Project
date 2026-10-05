@@ -17,3 +17,7 @@ This doc covers installing and verifying the agent on Windows.
 2. Find **Nagios Cross-Platform Agent (NCPA)** and click **Download**.
 
 <img width="926" height="467" alt="1" src="https://github.com/user-attachments/assets/edd9173e-c9a1-4213-97d5-16556f042ab7" />
+
+3. Fill in the **Access Nagios Downloads** form and click **Submit**. Nagios emails you a download link.
+
+<img width="670" height="435" alt="2" src="https://github.com/user-attachments/assets/801a16b8-73b3-4ca4-b5fd-25120242e553" />
