@@ -40,4 +40,8 @@ The link opens the **Nagios Open Source Download Center** and stays valid for **
 
 <img width="892" height="706" alt="8" src="https://github.com/user-attachments/assets/427058d2-3290-4a9a-82a6-e97289cc9848" />
 
+---
+
+## Step 2 – Run the Installer
+
 
