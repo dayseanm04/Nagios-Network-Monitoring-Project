@@ -32,6 +32,9 @@ This doc covers installing and verifying the agent on Windows.
 
 <img width="676" height="265" alt="6" src="https://github.com/user-attachments/assets/d0409557-6bfc-4ae8-82e8-86e83c35b44f" />
 
+The link opens the **Nagios Open Source Download Center** and stays valid for **45 days**. Bookmark it instead of requesting a new link for other Nagios downloads.
+
+<img width="969" height="456" alt="7" src="https://github.com/user-attachments/assets/cdcda666-77cb-403e-a2d0-590a18706f33" />
 
 
 
