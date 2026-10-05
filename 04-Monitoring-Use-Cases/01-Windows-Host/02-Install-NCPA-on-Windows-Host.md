@@ -156,3 +156,6 @@ https://localhost:5693/
 
 ## Step 8 – Review NCPA Settings
 
+Click **Admin** to view and change settings without reinstalling.
+
+
