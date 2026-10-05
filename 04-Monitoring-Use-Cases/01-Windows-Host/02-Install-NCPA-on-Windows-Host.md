@@ -63,6 +63,7 @@ The link opens the **Nagios Open Source Download Center** and stays valid for **
 
 On the **Listener Configuration** page:
  - Set the log level to warning [keeping the logs small]
+ - Configure a token []
 
 
 
