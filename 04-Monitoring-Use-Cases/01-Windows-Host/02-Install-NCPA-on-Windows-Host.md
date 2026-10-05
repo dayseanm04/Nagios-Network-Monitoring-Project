@@ -5,3 +5,5 @@ I in this doc I will install the **Nagios Cross-Platform Agent (NCPA)** on the W
 This doc covers installing and verifying the agent on Windows. 
 
 ## Prerequisites
+
+- Administrator rights on **`comp-a-test`**
