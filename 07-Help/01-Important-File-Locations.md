@@ -37,4 +37,5 @@ Working directory: logs, status data etc
 
 CGI binaries that power the web interface
 
+<img width="790" height="460" alt="6" src="https://github.com/user-attachments/assets/ff275228-566f-44ac-80e1-7fd5cbfb1a60" />
 
