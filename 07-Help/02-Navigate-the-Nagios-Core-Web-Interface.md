@@ -181,4 +181,5 @@ The full Nagios log, `/usr/local/nagios/var/nagios.log`, in the browser. It show
 
 ### Comments 
 
+<img width="301" height="143" alt="28" src="https://github.com/user-attachments/assets/fc995bd6-14db-442a-bd99-05242d2b28fc" />
 
