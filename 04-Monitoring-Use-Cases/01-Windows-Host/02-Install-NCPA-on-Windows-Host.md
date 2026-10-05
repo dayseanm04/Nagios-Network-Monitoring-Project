@@ -14,3 +14,5 @@ This doc covers installing and verifying the agent on Windows.
 ## Step 1 – Download NCPA
 
 1. Go to [**nagios.org/downloads**](https://www.nagios.org/downloads/).
+
+<img width="926" height="467" alt="1" src="https://github.com/user-attachments/assets/edd9173e-c9a1-4213-97d5-16556f042ab7" />
