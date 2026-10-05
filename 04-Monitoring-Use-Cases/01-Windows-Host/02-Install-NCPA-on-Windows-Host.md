@@ -134,6 +134,8 @@ Get-NetTCPConnection -LocalPort 5693 -State Listen
 
 ## Step 7 – Log In to the NCPA Web Interface
 
+1. On `comp-a-test`, open a browser and go to:
+
 
 
 
