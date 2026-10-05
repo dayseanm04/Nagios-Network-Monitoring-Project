@@ -128,6 +128,8 @@ Get-Service -DisplayName "Nagios Cross-Platform Agent"
 Get-NetTCPConnection -LocalPort 5693 -State Listen
 ```
 
+<img width="914" height="275" alt="21" src="https://github.com/user-attachments/assets/e627f96c-4336-4630-8a77-7d689bd28272" />
+
 
 
 
