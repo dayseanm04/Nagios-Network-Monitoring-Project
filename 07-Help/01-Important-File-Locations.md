@@ -35,3 +35,6 @@ Working directory: logs, status data etc
 
 ## /usr/local/nagios/sbin/
 
+CGI binaries that power the web interface
+
+
