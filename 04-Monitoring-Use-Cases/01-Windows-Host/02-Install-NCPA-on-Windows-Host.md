@@ -78,4 +78,6 @@ Click **Next**.
 
 ## Step 4 – Skip Passive Configuration
 
+On the **Passive Configuration** page, leave **Send passive checks over NRDP** unchecked and click **Next**.
+
 <img width="501" height="389" alt="13" src="https://github.com/user-attachments/assets/e8f9ed38-3945-4b0e-8a38-44f67a30ed90" />
