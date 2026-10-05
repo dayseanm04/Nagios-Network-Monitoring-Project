@@ -74,5 +74,7 @@ On the **Listener Configuration** page:
 
 Click **Next**.
 
+---
 
+## Step 4 – Skip Passive Configuration
 
