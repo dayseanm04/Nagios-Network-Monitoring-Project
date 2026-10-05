@@ -193,5 +193,6 @@ All scheduled downtime windows
 
 ## Process Info
 
+Nagios process details and global on/off switches for checks, notifications, and event handlers
 
 
