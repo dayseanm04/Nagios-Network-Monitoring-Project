@@ -106,3 +106,18 @@ On the **Passive Configuration** page, leave **Send passive checks over NRDP** u
 
 1. Press **Start**, search for **Services**, and open it.
 
+<img width="863" height="381" alt="18" src="https://github.com/user-attachments/assets/f3a7e89e-8881-44be-90fb-8d20610f734e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
