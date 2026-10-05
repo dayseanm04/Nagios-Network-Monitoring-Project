@@ -112,6 +112,7 @@ On the **Passive Configuration** page, leave **Send passive checks over NRDP** u
 
 <img width="1034" height="273" alt="19" src="https://github.com/user-attachments/assets/0ca4e16d-a53e-4abb-a288-3b4767e1103b" />
 
+**Automatic (Delayed Start)** means NCPA starts on its own after every reboot, shortly after Windows finishes loading.
 
 
 
