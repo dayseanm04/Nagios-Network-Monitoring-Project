@@ -33,4 +33,5 @@ Working directory: logs, status data etc
 
 <img width="636" height="248" alt="5" src="https://github.com/user-attachments/assets/83d21c8b-3ee8-43ae-8245-0ff7c666278d" />
 
+## /usr/local/nagios/sbin/
 
