@@ -57,6 +57,8 @@ The link opens the **Nagios Open Source Download Center** and stays valid for **
 
 <img width="496" height="386" alt="11" src="https://github.com/user-attachments/assets/a6452285-6b6c-4583-a92e-7ded5fd4eece" />
 
+---
 
+## Step 3 – Configure the Listener and Token
 
 
