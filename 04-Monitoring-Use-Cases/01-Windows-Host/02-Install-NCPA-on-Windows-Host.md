@@ -158,4 +158,5 @@ https://localhost:5693/
 
 Click **Admin** to view and change settings without reinstalling.
 
+<img width="1152" height="892" alt="25" src="https://github.com/user-attachments/assets/bddbdf30-4cbc-4442-b045-025cf60c489a" />
 
