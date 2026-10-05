@@ -185,3 +185,5 @@ The full Nagios log, `/usr/local/nagios/var/nagios.log`, in the browser. It show
 
 <img width="1025" height="647" alt="29" src="https://github.com/user-attachments/assets/7ed55545-6a7e-467a-bc50-6bfa89b9b959" />
 
+## Downtime 
+
