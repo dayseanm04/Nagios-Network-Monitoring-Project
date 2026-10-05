@@ -94,6 +94,8 @@ On the **Passive Configuration** page, leave **Send passive checks over NRDP** u
 
 <img width="495" height="384" alt="15" src="https://github.com/user-attachments/assets/6c00d96f-e941-4d21-b64c-83428624f118" />
 
+<img width="501" height="388" alt="16" src="https://github.com/user-attachments/assets/bca3fba6-286e-4be5-a9a5-e13008eaf10d" />
+
 3. Wait for the install to finish, then click **Finish**.
 
 
