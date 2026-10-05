@@ -136,7 +136,9 @@ Get-NetTCPConnection -LocalPort 5693 -State Listen
 
 1. On `comp-a-test`, open a browser and go to:
 
-
+```
+https://localhost:5693/
+```
 
 
 
