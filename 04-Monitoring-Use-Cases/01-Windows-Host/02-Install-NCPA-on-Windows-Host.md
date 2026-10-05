@@ -152,3 +152,7 @@ https://localhost:5693/
 
 **Why are Check Results 0?** No checks have been sent to NCPA yet. Nagios is still using the baseline **`check_nt`** services from doc 01, which don't talk to NCPA. This number will start going up once Nagios is configured with NCPA checks in the next guide.
 
+---
+
+## Step 8 – Review NCPA Settings
+
