@@ -100,4 +100,7 @@ On the **Passive Configuration** page, leave **Send passive checks over NRDP** u
 
 <img width="500" height="390" alt="17" src="https://github.com/user-attachments/assets/8d146f5e-3887-4108-a230-9ca1e2b3cab0" />
 
+---
+
+## Step 6 – Verify the NCPA Service
 
