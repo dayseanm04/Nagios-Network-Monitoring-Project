@@ -51,4 +51,6 @@ The link opens the **Nagios Open Source Download Center** and stays valid for **
 
 3. On **Welcome to NCPA Setup**, click **Next**.
 
+<img width="497" height="381" alt="10" src="https://github.com/user-attachments/assets/916995ae-8dd7-4a1d-9215-fc23e7b90120" />
+
 
