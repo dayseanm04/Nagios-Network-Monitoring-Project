@@ -42,7 +42,7 @@ CGI binaries that power the web interface
 ## View nagios logs
 
 - cd [make sure you are in the home directory]
-
+- cd /usr/local/nagios/var
 
 <img width="880" height="284" alt="7" src="https://github.com/user-attachments/assets/1a69b35b-6f65-4b0d-b661-320e29d10c6e" />
 
