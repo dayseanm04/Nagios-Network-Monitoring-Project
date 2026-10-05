@@ -176,3 +176,8 @@ Every notification sent to every contact.
 The full Nagios log, `/usr/local/nagios/var/nagios.log`, in the browser. It shows startups, shutdowns, state changes, notifications, and errors.
 
 <img width="1029" height="694" alt="27" src="https://github.com/user-attachments/assets/4fab02ff-3c79-4a6e-9cc4-039edfb00ea7" />
+
+## System
+
+
+
