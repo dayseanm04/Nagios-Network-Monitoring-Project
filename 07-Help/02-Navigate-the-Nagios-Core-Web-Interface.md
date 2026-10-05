@@ -195,4 +195,5 @@ All scheduled downtime windows
 
 Nagios process details and global on/off switches for checks, notifications, and event handlers
 
+<img width="1030" height="684" alt="31" src="https://github.com/user-attachments/assets/52ef2656-3beb-4013-9e96-3bce9405b2ac" />
 
