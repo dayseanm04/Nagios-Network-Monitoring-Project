@@ -213,3 +213,5 @@ When every check will run next
 
 Read-only view of the loaded hosts, services, commands, contacts, and templates
 
+<img width="1009" height="744" alt="34" src="https://github.com/user-attachments/assets/f4988062-52bd-42d9-b0b7-bac9105cb91d" />
+
