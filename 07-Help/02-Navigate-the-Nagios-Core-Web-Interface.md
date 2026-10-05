@@ -205,4 +205,7 @@ Check execution times and latency, to see whether Nagios is keeping up
 
 ## Scheduling Queue
  
+When every check will run next
+
+
 
