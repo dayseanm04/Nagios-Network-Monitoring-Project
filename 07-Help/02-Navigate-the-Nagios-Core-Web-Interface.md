@@ -215,3 +215,5 @@ Read-only view of the loaded hosts, services, commands, contacts, and templates
 
 <img width="1009" height="744" alt="34" src="https://github.com/user-attachments/assets/f4988062-52bd-42d9-b0b7-bac9105cb91d" />
 
+<img width="1032" height="577" alt="35" src="https://github.com/user-attachments/assets/6f4a1298-07cf-4f17-893e-42ca1bae27e6" />
+
