@@ -68,9 +68,11 @@ On the **Listener Configuration** page:
  - Leave the **Bind Port** as **5693** [Its the default NCPA port]
  - SSL Minimum is set to **TLSv1_2** [ Blocks older, weaker TLS versions]
 
+> **Treat the token like a password.** Use something long and random, write it down somewhere secure.
   
 <img width="498" height="398" alt="12" src="https://github.com/user-attachments/assets/1e56b6e6-5b4c-4bf7-ada7-d0c1c6d6d6d8" />
 
 Click **Next**.
+
 
 
