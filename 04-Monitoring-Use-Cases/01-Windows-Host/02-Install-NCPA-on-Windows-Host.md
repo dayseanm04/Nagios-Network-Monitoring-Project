@@ -122,6 +122,7 @@ Get-Service -DisplayName "Nagios Cross-Platform Agent"
 
 <img width="773" height="260" alt="20" src="https://github.com/user-attachments/assets/6413251e-35a9-4e92-a7a0-d6ec532d2a55" />
 
+**Confirm NCPA is listening on port 5693:**
 
 
 
