@@ -90,4 +90,5 @@ On the **Passive Configuration** page, leave **Send passive checks over NRDP** u
 
 <img width="500" height="391" alt="14" src="https://github.com/user-attachments/assets/29833afc-7a05-4255-af94-64b6ea64c24c" />
 
+2. **Choose Install Location:** keep the default **`C:\Program Files\Nagios\NCPA`** and click **Install**.
 
