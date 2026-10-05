@@ -140,6 +140,8 @@ Get-NetTCPConnection -LocalPort 5693 -State Listen
 https://localhost:5693/
 ```
 
+2. The browser shows **Your connection is not private**. This is expected: NCPA uses a self-signed certificate. Click **Advanced** then **Proceed to localhost (unsafe)**.
+
 <img width="965" height="725" alt="22" src="https://github.com/user-attachments/assets/eb18ded3-6e3f-4a66-a30a-f5a44711eba8" />
 
 
