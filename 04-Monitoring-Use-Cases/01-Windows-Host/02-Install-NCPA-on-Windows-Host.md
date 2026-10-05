@@ -124,7 +124,9 @@ Get-Service -DisplayName "Nagios Cross-Platform Agent"
 
 **Confirm NCPA is listening on port 5693:**
 
-
+```powershell
+Get-NetTCPConnection -LocalPort 5693 -State Listen
+```
 
 
 
