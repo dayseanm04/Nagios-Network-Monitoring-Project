@@ -150,4 +150,5 @@ https://localhost:5693/
 
 <img width="1163" height="686" alt="24" src="https://github.com/user-attachments/assets/3523a8d9-a9ab-4c5c-8360-f36498d614f6" />
 
+**Why are Check Results 0?** No checks have been sent to NCPA yet. Nagios is still using the baseline **`check_nt`** services from doc 01, which don't talk to NCPA. This number will start going up once Nagios is configured with NCPA checks in the next guide.
 
