@@ -30,6 +30,7 @@ This doc covers installing and verifying the agent on Windows.
 
 <img width="944" height="674" alt="5" src="https://github.com/user-attachments/assets/e01e3183-ea37-45b8-9eef-411571ae37c6" />
 
+<img width="676" height="265" alt="6" src="https://github.com/user-attachments/assets/d0409557-6bfc-4ae8-82e8-86e83c35b44f" />
 
 
 
