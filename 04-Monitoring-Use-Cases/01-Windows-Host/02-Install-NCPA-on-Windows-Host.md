@@ -160,3 +160,6 @@ Click **Admin** to view and change settings without reinstalling.
 
 <img width="1152" height="892" alt="25" src="https://github.com/user-attachments/assets/bddbdf30-4cbc-4442-b045-025cf60c489a" />
 
+## Result
+
+NCPA 3.5.0 is installed on **`comp-a-test`** and running as an automatic Windows service. It's listening on TCP `5693` with TLS 1.2 minimum, protected by a token, and the web interface is reachable at **`https://localhost:5693`**. The agent is ready for Nagios to start querying it.
