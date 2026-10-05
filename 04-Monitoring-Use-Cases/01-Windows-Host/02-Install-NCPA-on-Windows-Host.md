@@ -53,4 +53,10 @@ The link opens the **Nagios Open Source Download Center** and stays valid for **
 
 <img width="497" height="381" alt="10" src="https://github.com/user-attachments/assets/916995ae-8dd7-4a1d-9215-fc23e7b90120" />
 
+4. Read the license agreement (Nagios Software License 1.3) and click **I Agree**.
+
+<img width="496" height="386" alt="11" src="https://github.com/user-attachments/assets/a6452285-6b6c-4583-a92e-7ded5fd4eece" />
+
+
+
 
