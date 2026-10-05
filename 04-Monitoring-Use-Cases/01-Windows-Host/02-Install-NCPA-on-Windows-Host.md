@@ -45,6 +45,7 @@ The link opens the **Nagios Open Source Download Center** and stays valid for **
 ## Step 2 – Run the Installer
 
 1. Open your **Downloads** folder and double-click **`ncpa-latest.exe`**.
+2. Click **Yes** at the User Account Control prompt.
 
 <img width="829" height="221" alt="9" src="https://github.com/user-attachments/assets/6baeb912-b5b2-4b0e-9c0c-d2927b80c715" />
 
