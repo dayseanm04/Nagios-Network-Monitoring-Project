@@ -44,6 +44,7 @@ CGI binaries that power the web interface
 - cd [make sure you are in the home directory]
 - cd /usr/local/nagios/var
 - tail nagios.log [this shows the last 10 lines of the file]
+- nano nagios.log [look through of the file]
 
 
 <img width="880" height="284" alt="7" src="https://github.com/user-attachments/assets/1a69b35b-6f65-4b0d-b661-320e29d10c6e" />
