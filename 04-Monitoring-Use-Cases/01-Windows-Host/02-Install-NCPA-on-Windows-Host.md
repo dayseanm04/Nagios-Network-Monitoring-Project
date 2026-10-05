@@ -7,3 +7,4 @@ This doc covers installing and verifying the agent on Windows.
 ## Prerequisites
 
 - Administrator rights on **`comp-a-test`**
+- An email address to receive the Nagios download link
