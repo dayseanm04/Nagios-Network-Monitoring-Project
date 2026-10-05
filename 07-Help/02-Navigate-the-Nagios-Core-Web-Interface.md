@@ -201,6 +201,7 @@ Nagios process details and global on/off switches for checks, notifications, and
 
 Check execution times and latency, to see whether Nagios is keeping up
 
+<img width="1015" height="611" alt="32" src="https://github.com/user-attachments/assets/b0348ae5-dd23-473f-8118-291d3e4d50d0" />
 
 
  
