@@ -36,7 +36,7 @@ The link opens the **Nagios Open Source Download Center** and stays valid for **
 
 <img width="969" height="456" alt="7" src="https://github.com/user-attachments/assets/cdcda666-77cb-403e-a2d0-590a18706f33" />
 
-Scroll down 
+5. Scroll to **NCPA on Windows** and download the **Windows 64-bit installer** (`ncpa-latest.exe`).
 
 <img width="892" height="706" alt="8" src="https://github.com/user-attachments/assets/427058d2-3290-4a9a-82a6-e97289cc9848" />
 
