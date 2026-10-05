@@ -8,3 +8,7 @@ This doc covers installing and verifying the agent on Windows.
 
 - Administrator rights on **`comp-a-test`**
 - An email address to receive the Nagios download link
+
+---
+
+## Step 1 – Download NCPA
