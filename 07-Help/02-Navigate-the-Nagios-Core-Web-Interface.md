@@ -211,3 +211,5 @@ When every check will run next
 
 ## Configuration 
 
+Read-only view of the loaded hosts, services, commands, contacts, and templates
+
