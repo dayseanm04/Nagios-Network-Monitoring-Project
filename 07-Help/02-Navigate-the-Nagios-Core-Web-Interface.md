@@ -187,3 +187,5 @@ The full Nagios log, `/usr/local/nagios/var/nagios.log`, in the browser. It show
 
 ## Downtime 
 
+All scheduled downtime windows
+
