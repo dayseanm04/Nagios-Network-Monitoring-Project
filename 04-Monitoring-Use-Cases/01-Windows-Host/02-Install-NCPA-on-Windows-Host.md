@@ -104,3 +104,5 @@ On the **Passive Configuration** page, leave **Send passive checks over NRDP** u
 
 ## Step 6 – Verify the NCPA Service
 
+1. Press **Start**, search for **Services**, and open it.
+
