@@ -76,6 +76,7 @@ This folder holds the individual config files where you define what Nagios monit
 | **`templates.cfg`** | Templates like `windows-server` and `generic-service` that hosts and services inherit from |
 | **`commands.cfg`** | Command definitions like **`check_nt`**, **`check_ping`**, and **`check_ncpa`** |
 | **`contacts.cfg`** | Who gets notified (e.g. `nagiosadmin`) and how |
+| `**timeperiods.cfg`** | When checks and notifications happen (e.g. **`24x7`**, **`workhours`**) |
 
 
 
