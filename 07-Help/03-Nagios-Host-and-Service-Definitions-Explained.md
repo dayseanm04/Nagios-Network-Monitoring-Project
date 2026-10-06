@@ -72,6 +72,7 @@ This folder holds the individual config files where you define what Nagios monit
 
 | File | What it holds |
 |---|---|
+| **`windows.cfg`** | Host and service definitions for Windows machines|
 
 
 
