@@ -185,7 +185,7 @@ Add this line at the bottom, using your own token:
 $USER2$=your-ncpa-token
 ```
 
-**Note**: $USERn$ is the only kind of variable Nagios lets you define in resource.cfg
+**Note**: `$USERn`$ is the only kind of variable Nagios lets you define in resource.cfg
 
 
 
