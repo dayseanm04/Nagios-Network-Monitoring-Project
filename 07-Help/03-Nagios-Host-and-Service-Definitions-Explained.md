@@ -159,7 +159,9 @@ This is the command that does the actual work. It's broken into two parts by the
 **`}`**
 This closes the configuration block.
 
+> **Note:** This service requires the **NSClient++** agent installed on the Windows machine. Without it, the check fails with `Socket timeout` or `No route to host`.
 
+---
 
 
 
