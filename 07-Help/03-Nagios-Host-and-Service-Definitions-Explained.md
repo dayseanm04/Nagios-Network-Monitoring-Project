@@ -42,9 +42,6 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 ├── resource.cfg        ← private variables ($USER1$, tokens)
 ├── cgi.cfg             ← web interface settings
 ├── htpasswd.users      ← web interface logins
-```
-
-```
 └── objects/            ← individual object config files
     ├── commands.cfg
     ├── contacts.cfg
@@ -73,7 +70,8 @@ This folder holds the individual config files where you define what Nagios monit
 
 <img width="684" height="281" alt="3" src="https://github.com/user-attachments/assets/51e4e616-cdc0-4dfd-9910-1bc285250ea1" />
 
-
+| File | What it holds |
+|---|---|
 
 
 
