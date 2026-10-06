@@ -7,3 +7,7 @@ It covers:
 - **Part 1** – Host definitions
 - **Part 2** – Service definitions using NSClient++ (`check_nt`)
 - **Part 3** – Service definitions using NCPA (`check_ncpa`)
+
+---
+
+## Hosts vs. Services
