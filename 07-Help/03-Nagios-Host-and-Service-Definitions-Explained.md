@@ -119,5 +119,8 @@ This is the network location of the machine. Nagios uses this exact IP address, 
 **`}`**
 This closes the configuration block.
 
+---
+
+# Part 2 – Service Definition Using NSClient++
 
 
