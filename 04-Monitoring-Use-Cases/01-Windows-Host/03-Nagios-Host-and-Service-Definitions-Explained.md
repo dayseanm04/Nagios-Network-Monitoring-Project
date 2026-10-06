@@ -22,3 +22,6 @@ To make it clear, look at the hierarchy:
 |---|---|---|
 | **Host** | The physical or virtual machine itself | `comp-a-test` (the Windows host) |
 | **Service** | A specific health metric you want to watch on that machine | CPU Usage, Memory Usage, C:\ Drive Space |
+
+**Example:** 
+
