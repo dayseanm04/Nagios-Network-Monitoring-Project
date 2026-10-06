@@ -265,6 +265,7 @@ Split by the **`!`**:
 
 - **`check_ncpa`**: The command defined in **`commands.cfg`**. It runs **`check_ncpa.py`**, connects to NCPA over HTTPS on port 5693, and sends the token.
 
+- **Everything after the `!`** becomes `$ARG1$`:
 
 
 
