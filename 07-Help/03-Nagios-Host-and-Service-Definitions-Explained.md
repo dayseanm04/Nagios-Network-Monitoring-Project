@@ -123,4 +123,10 @@ This closes the configuration block.
 
 # Part 2 – Service Definition Using NSClient++
 
+## Open the file
+
+```bash
+cd /usr/local/nagios/etc/objects
+sudo nano windows.cfg
+```
 
