@@ -181,9 +181,11 @@ sudo nano /usr/local/nagios/etc/resource.cfg
 
 Add this line at the bottom, using your own token:
 
+```
+$USER2$=your-ncpa-token
+```
 
-
-
+**Note**: $USERn$ is the only kind of variable Nagios lets you define in resource.cfg
 
 
 
