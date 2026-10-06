@@ -72,6 +72,7 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 ### Objects folder – `/usr/local/nagios/etc/objects/`
 
+This folder holds the individual config files where you define what Nagios monitors and how.
 
 
 
