@@ -141,6 +141,8 @@ For this project, I commented out the NSClient++ service blocks (every line star
 **`define service {`**
 This opens the configuration block. It tells Nagios that you are creating a new service check (a metric to monitor), rather than defining a machine (host) or a contact.
 
+**`use generic-service`**
+This tells Nagios to inherit default settings from a template called **`generic-service`**. This template is defined in **`templates.cfg`** and automatically fills in background settings like how often to run the check, who to notify if it breaks, and when to retry. 
 
 
 
