@@ -54,6 +54,7 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
     └── windows.cfg
 ```
 
+<img width="808" height="504" alt="3" src="https://github.com/user-attachments/assets/ce0bfaa9-c4e2-495f-8ac6-66d2991b1589" />
 
 
 
