@@ -23,10 +23,6 @@ To make it clear, look at the hierarchy:
 | **Host** | The physical or virtual machine itself | `comp-a-test` (the Windows host) |
 | **Service** | A specific health metric you want to watch on that machine | CPU Usage, Memory Usage, C:\ Drive Space |
 
-**Example:** 
-
-<img width="882" height="430" alt="1" src="https://github.com/user-attachments/assets/d93a6e66-f053-4920-bb15-f57c075ce1bc" />
-
 One host can have many services. Every service belongs to exactly one host. So in your configuration file, you use **`define host`** to tell Nagios **"this machine exists,"** and **`define service`** to tell Nagios **"I am about to create a specific check for that machine."**
 
 ---
@@ -55,7 +51,7 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 ### Main folder – `/usr/local/nagios/etc/`
 
-<img width="686" height="216" alt="2" src="https://github.com/user-attachments/assets/3b587fd1-592a-4e86-9746-eb19c0c37057" />
+<img width="686" height="216" alt="1" src="https://github.com/user-attachments/assets/3b587fd1-592a-4e86-9746-eb19c0c37057" />
 
 | File | What it holds |
 |---|---|
@@ -68,7 +64,7 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 This folder holds the individual config files where you define what Nagios monitors and how.
 
-<img width="684" height="281" alt="3" src="https://github.com/user-attachments/assets/51e4e616-cdc0-4dfd-9910-1bc285250ea1" />
+<img width="684" height="281" alt="2" src="https://github.com/user-attachments/assets/51e4e616-cdc0-4dfd-9910-1bc285250ea1" />
 
 | File | What it holds |
 |---|---|
@@ -97,6 +93,7 @@ sudo nano windows.cfg
 
 This project's Windows host:
 
+<img width="775" height="321" alt="3" src="https://github.com/user-attachments/assets/abd8540e-50ae-44eb-b785-484856b7ec60" />
 
 
 
