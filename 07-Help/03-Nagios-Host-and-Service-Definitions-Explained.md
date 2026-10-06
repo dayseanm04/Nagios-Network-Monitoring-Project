@@ -226,4 +226,5 @@ The actual command Nagios runs. Each part:
 | **`-P 5693`** | The port NCPA listens on |
 | **`$ARG1$`** | A placeholder. Everything after the **`!`** in the service's **`check_command`** gets dropped in here |
 
-
+**`}`**
+Closes the block.
