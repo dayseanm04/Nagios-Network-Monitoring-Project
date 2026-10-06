@@ -212,5 +212,9 @@ define command {
 **`define command {`**
 Opens a command block. A command is the template for what actually runs on the Nagios server when a check fires.
 
+**`command_name check_ncpa`**
+The name you'll use in the **`check_command`** line of a service block. It can be any name, but it should describe what it does.
+
+
 
 
