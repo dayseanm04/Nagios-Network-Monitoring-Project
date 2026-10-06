@@ -257,6 +257,24 @@ Inherits the same default check interval, retry, and notification settings as be
 **`host_name comp-a-test`**
 Links this check to the host `comp-a-test`. Nagios uses this to look up the host's `address` and fill in `$HOSTADDRESS$` in the command.
 
+**`service_description CPU Usage`**
+The label shown in the Nagios web interface.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
