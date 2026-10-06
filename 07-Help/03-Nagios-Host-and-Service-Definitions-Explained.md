@@ -5,8 +5,8 @@ A line-by-line breakdown of the two most common Nagios configuration blocks: the
 It covers:
 
 - **Part 1** – Host definitions
-- **Part 2** – Service definitions using NSClient++ (`check_nt`)
-- **Part 3** – Service definitions using NCPA (`check_ncpa`)
+- **Part 2** – Service definitions using NSClient++ (**`check_nt`**)
+- **Part 3** – Service definitions using NCPA (**`check_ncpa`**)
 
 ---
 
@@ -133,6 +133,8 @@ sudo nano windows.cfg
 Scroll down to the **SERVICE DEFINITIONS** section.
 
 <img width="882" height="430" alt="4" src="https://github.com/user-attachments/assets/2a9daa35-b5f6-4a2c-8cec-b261083279d1" />
+
+For this project, I commented out the NSClient++ service blocks (every line starts with `#`) because I will use NCPA for the Windows. A **`#`** at the start of a line tells Nagios to ignore it. It's not part of the syntax.
 
 
 
