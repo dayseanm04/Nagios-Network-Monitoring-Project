@@ -102,6 +102,11 @@ Text after a **`;`** is a comment. Nagios ignores it, so it's a good place to le
 **`define host {`**
 This opens the configuration block. It tells Nagios: **"I am registering a new hardware/machine in the system."**
 
+**`use windows-server`**
+This tells Nagios to inherit default settings from a template called **`windows-server`**. This template is pre-defined in **`templates.cfg`** and automatically configures background settings like how often to ping the machine to see if it's online, what hours to monitor it (24x7), and who to notify if the host goes down. 
+
+Without a template, you'd have to type all of those settings into every host.
+
 
 
 
