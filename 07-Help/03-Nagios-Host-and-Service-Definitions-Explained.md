@@ -271,6 +271,7 @@ Split by the **`!`**:
 |---|---|
 | **`-M cpu/percent`** | The **metric** to ask for. This is the same path shown in NCPA's **API** tab |
 | **`-w 80`** | **Warning** threshold. If CPU usage is above 80%, the service goes **WARNING** |
+| **`-c 90`** | **Critical** threshold. If CPU usage is above 90%, the service goes **CRITICAL** |
 
 
 
