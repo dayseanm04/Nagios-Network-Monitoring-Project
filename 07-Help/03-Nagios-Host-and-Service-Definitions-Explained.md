@@ -198,6 +198,12 @@ $USER2$=your-ncpa-token
 sudo nano /usr/local/nagios/etc/objects/commands.cfg
 ```
 
+Add this block:
 
-
+```
+define command {
+    command_name    check_ncpa
+    command_line    $USER1$/check_ncpa.py -H $HOSTADDRESS$ -t '$USER2$' -P 5693 $ARG1$
+}
+```
 
