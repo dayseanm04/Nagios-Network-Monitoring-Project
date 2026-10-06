@@ -254,6 +254,8 @@ Opens the block. Same as the NSClient++ example: this is a new check on a machin
 **`use generic-service`**
 Inherits the same default check interval, retry, and notification settings as before.
 
+**`host_name comp-a-test`**
+Links this check to the host `comp-a-test`. Nagios uses this to look up the host's `address` and fill in `$HOSTADDRESS$` in the command.
 
 
 
