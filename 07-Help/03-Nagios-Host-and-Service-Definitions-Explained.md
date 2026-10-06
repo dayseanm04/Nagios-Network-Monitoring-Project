@@ -116,4 +116,8 @@ This is a longer, user-friendly description or nickname for the machine. It allo
 **`address 192.168.1.9`**
 This is the network location of the machine. Nagios uses this exact IP address, or a fully qualified domain name like **`server01.example.com`**, to send pings and queries to the host.
 
+**`}`**
+This closes the configuration block.
+
+
 
