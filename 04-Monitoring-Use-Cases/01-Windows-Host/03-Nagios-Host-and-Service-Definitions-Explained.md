@@ -33,5 +33,6 @@ One host can have many services. Every service belongs to exactly one host. So i
 
 ## Where to find the Definitions
 
-
+| File | What it holds |
+|---|---|
 
