@@ -5,3 +5,4 @@ A line-by-line breakdown of the two most common Nagios configuration blocks: the
 It covers:
 
 - **Part 1** – Host definitions
+- **Part 2** – Service definitions using NSClient++ (`check_nt`)
