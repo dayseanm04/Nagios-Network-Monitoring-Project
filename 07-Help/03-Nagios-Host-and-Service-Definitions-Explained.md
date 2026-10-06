@@ -37,6 +37,23 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 <img width="686" height="216" alt="2" src="https://github.com/user-attachments/assets/3b587fd1-592a-4e86-9746-eb19c0c37057" />
 
+```
+/usr/local/nagios/etc/
+├── nagios.cfg          ← main config; lists which object files to read
+├── resource.cfg        ← private variables ($USER1$, tokens)
+├── cgi.cfg             ← web interface settings
+├── htpasswd.users      ← web interface logins
+└── objects/            ← individual object config files
+    ├── commands.cfg
+    ├── contacts.cfg
+    ├── localhost.cfg
+    ├── printer.cfg
+    ├── switch.cfg
+    ├── templates.cfg
+    ├── timeperiods.cfg
+    └── windows.cfg
+```
+
 
 
 
