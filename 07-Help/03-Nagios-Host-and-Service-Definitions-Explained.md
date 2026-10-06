@@ -267,7 +267,8 @@ Split by the **`!`**:
 
 - **Everything after the `!`** becomes `$ARG1$`:
 
-
+| Option | What it does |
+|---|---|
 
 
 
