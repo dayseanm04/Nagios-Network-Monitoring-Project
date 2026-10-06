@@ -207,3 +207,10 @@ define command {
 }
 ```
 
+### Line-by-line breakdown
+
+**`define command {`**
+Opens a command block. A command is the template for what actually runs on the Nagios server when a check fires.
+
+
+
