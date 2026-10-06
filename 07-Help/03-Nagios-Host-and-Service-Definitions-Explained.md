@@ -286,7 +286,11 @@ Every time you add or edit a host, service, or command:
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+2. If it shows **`Total Errors: 0`**, restart Nagios:
 
+```bash
+sudo systemctl restart nagios
+```
 
 
 
