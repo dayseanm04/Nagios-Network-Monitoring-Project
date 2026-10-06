@@ -33,11 +33,8 @@ One host can have many services. Every service belongs to exactly one host. So i
 
 ## Where to find the Definitions
 
-| File | What it holds |
-|---|---|
-| **`/usr/local/nagios/etc/nagios.cfg`** | Main config. Lists which object files Nagios reads (**`cfg_file=`** lines). Hosts and services are **not** defined here |
-| **`/usr/local/nagios/etc/objects/windows.cfg`** | Host and service definitions for Windows machines |
-| **`/usr/local/nagios/etc/objects/localhost.cfg`** | Host and service definitions for the Nagios server itself |
+Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all of the host, service, and command definitions in the **`objects/`** folder inside it.
+
 
 
 
