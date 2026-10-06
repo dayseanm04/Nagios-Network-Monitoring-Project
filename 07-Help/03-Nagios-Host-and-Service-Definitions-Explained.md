@@ -233,7 +233,9 @@ Closes the block.
 
 ## Step 3 – Define the service in windows.cfg
 
-
+```bash
+sudo nano /usr/local/nagios/etc/objects/windows.cfg
+```
 
 
 
