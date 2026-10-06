@@ -99,6 +99,9 @@ Text after a **`;`** is a comment. Nagios ignores it, so it's a good place to le
 
 ## Line-by-line breakdown
 
+**`define host {`**
+This opens the configuration block. It tells Nagios: **"I am registering a new hardware/machine in the system."**
+
 
 
 
