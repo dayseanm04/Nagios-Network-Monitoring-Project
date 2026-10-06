@@ -136,6 +136,10 @@ Scroll down to the **SERVICE DEFINITIONS** section.
 
 For this project, I commented out the NSClient++ service blocks (every line starts with `#`) because I will use NCPA for the Windows. A **`#`** at the start of a line tells Nagios to ignore it. It's not part of the syntax.
 
+## Line-by-line breakdown
+
+**`define service {`**
+This opens the configuration block. It tells Nagios that you are creating a new service check (a metric to monitor), rather than defining a machine (host) or a contact.
 
 
 
