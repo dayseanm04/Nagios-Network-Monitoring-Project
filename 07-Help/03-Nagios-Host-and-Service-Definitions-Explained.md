@@ -218,5 +218,8 @@ The name you'll use in the **`check_command`** line of a service block. It can b
 **`command_line ...`**
 The actual command Nagios runs. Each part:
 
+| Part | What it does |
+|---|---|
+| **`$USER1$/check_ncpa.py`** | Runs the plugin. **`$USER1$`** is defined in **`resource.cfg`** as **`/usr/local/nagios/libexec`**, the plugin folder |
 
 
