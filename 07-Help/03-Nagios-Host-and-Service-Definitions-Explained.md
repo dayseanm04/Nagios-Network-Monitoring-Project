@@ -37,8 +37,6 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 <img width="686" height="216" alt="2" src="https://github.com/user-attachments/assets/3b587fd1-592a-4e86-9746-eb19c0c37057" />
 
-<img width="808" height="504" alt="3" src="https://github.com/user-attachments/assets/ce0bfaa9-c4e2-495f-8ac6-66d2991b1589" />
-
 ```
 /usr/local/nagios/etc/
 ├── nagios.cfg          ← main config; lists which object files to read
@@ -46,6 +44,8 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 ├── cgi.cfg             ← web interface settings
 ├── htpasswd.users      ← web interface logins
 ```
+
+<img width="808" height="504" alt="3" src="https://github.com/user-attachments/assets/ce0bfaa9-c4e2-495f-8ac6-66d2991b1589" />
 
 ```
 └── objects/            ← individual object config files
