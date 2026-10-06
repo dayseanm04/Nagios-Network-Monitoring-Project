@@ -91,6 +91,7 @@ cd /usr/local/nagios/etc/objects
 sudo nano windows.cfg
 ```
 
+**Note**: **`cd`** on its own takes you back to your home directory if you're somewhere else. You don't need it before an absolute path like the one above.
 
 
 
