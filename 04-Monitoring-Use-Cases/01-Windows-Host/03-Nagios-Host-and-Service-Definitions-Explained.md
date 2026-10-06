@@ -11,3 +11,5 @@ It covers:
 ---
 
 ## Hosts vs. Services
+
+In Nagios, a **service** is simply the label for any individual metric or health check you want to track.
