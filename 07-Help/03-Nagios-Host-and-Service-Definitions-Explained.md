@@ -224,5 +224,6 @@ The actual command Nagios runs. Each part:
 | **`-H $HOSTADDRESS$`** | The host to connect to. **`$HOSTADDRESS$`** is a built-in macro that Nagios fills in with the **`address`** from the host definition, so you never type the IP into a service |
 | **`-t '$USER2$'`** | The NCPA token, pulled from **`resource.cfg`** |
 | **`-P 5693`** | The port NCPA listens on |
+| **`$ARG1$`** | A placeholder. Everything after the **`!`** in the service's **`check_command`** gets dropped in here |
 
 
