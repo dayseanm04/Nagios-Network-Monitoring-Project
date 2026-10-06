@@ -63,3 +63,5 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 <img width="686" height="216" alt="2" src="https://github.com/user-attachments/assets/3b587fd1-592a-4e86-9746-eb19c0c37057" />
 
+| File | What it holds |
+|---|---|
