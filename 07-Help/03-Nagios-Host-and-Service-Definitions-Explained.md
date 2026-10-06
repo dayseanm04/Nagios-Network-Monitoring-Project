@@ -221,5 +221,6 @@ The actual command Nagios runs. Each part:
 | Part | What it does |
 |---|---|
 | **`$USER1$/check_ncpa.py`** | Runs the plugin. **`$USER1$`** is defined in **`resource.cfg`** as **`/usr/local/nagios/libexec`**, the plugin folder |
+| **`-H $HOSTADDRESS$`** | The host to connect to. **`$HOSTADDRESS$`** is a built-in macro that Nagios fills in with the **`address`** from the host definition, so you never type the IP into a service |
 
 
