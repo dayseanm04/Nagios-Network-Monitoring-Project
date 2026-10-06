@@ -60,4 +60,6 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
     └── windows.cfg
 ```
 
+### Main folder – `/usr/local/nagios/etc/`
+
 
