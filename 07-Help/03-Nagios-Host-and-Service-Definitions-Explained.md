@@ -144,6 +144,8 @@ This opens the configuration block. It tells Nagios that you are creating a new 
 **`use generic-service`**
 This tells Nagios to inherit default settings from a template called **`generic-service`**. This template is defined in **`templates.cfg`** and automatically fills in background settings like how often to run the check, who to notify if it breaks, and when to retry. 
 
+**`host_name comp-a-test`**
+This links this specific service check to a machine you've already defined in Nagios. Nagios needs to know which machine it's supposed to run this check against. It must match the host's **`host_name`** exactly.
 
 
 
