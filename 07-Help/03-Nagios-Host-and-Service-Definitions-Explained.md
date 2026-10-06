@@ -185,6 +185,9 @@ Add this line at the bottom, using your own token:
 $USER2$=your-ncpa-token
 ```
 
+**Why store it here?**
+**`resource.cfg`** holds private values that Nagios can use in commands without showing them anywhere else. It's only readable by the nagios user and groupe. If you ever change the token in NCPA, you only update it in this one place.
+
 **Note**: `$USERn`$ is the only kind of variable Nagios lets you define in resource.cfg. 
 
 **"USER"** doesn't mean a username. It means user-defined macro. Nagios gives you up to 256 of them, **$USER1$** through $USER256$, and they can only be set in a resource file. You can't make up your own name like **`$NCPA_TOKEN`$**; Nagios won't recognize it.
