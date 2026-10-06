@@ -175,7 +175,9 @@ Before Nagios can run an NCPA check, three things need to be in place:
 
 ## Step 1 – Store the token in resource.cfg
 
-
+```bash
+sudo nano /usr/local/nagios/etc/resource.cfg
+```
 
 
 
