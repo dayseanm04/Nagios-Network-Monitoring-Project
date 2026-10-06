@@ -263,6 +263,7 @@ The label shown in the Nagios web interface.
 **`check_command check_ncpa!-M cpu/percent -w 80 -c 90 -q 'aggregate=avg'`**
 Split by the **`!`**:
 
+- **`check_ncpa`**: The command defined in **`commands.cfg`**. It runs **`check_ncpa.py`**, connects to NCPA over HTTPS on port 5693, and sends the token.
 
 
 
