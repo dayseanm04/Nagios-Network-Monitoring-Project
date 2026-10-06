@@ -80,6 +80,9 @@ This folder holds the individual config files where you define what Nagios monit
 
 A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncommented in **`nagios.cfg**`. For example, **`windows.cfg`** was commented out by default and had to be enabled before the Windows host showed up in Nagios.
 
+---
+
+# Part 1 – Host Definition
 
 
 
