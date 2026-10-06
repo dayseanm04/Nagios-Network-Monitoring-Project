@@ -36,4 +36,4 @@ One host can have many services. Every service belongs to exactly one host. So i
 | File | What it holds |
 |---|---|
 | **`/usr/local/nagios/etc/nagios.cfg`** | Main config. Lists which object files Nagios reads (**`cfg_file=`** lines). Hosts and services are **not** defined here |
-
+| **`/usr/local/nagios/etc/objects/windows.cfg`** | Host and service definitions for Windows machines |
