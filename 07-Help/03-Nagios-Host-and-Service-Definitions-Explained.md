@@ -110,5 +110,8 @@ Without a template, you'd have to type all of those settings into every host.
 **`host_name comp-a-test`**
 This is the short, unique ID for the machine. It must contain no spaces. This is the exact name you will use later inside your **`define service`** blocks to link health checks to this specific machine.
 
+**`alias My Windows Host`**
+This is a longer, user-friendly description or nickname for the machine. It allows spaces and capital letters so people looking at the Nagios web interface can easily understand what the machine does. In a real company this might be something like **`Accounting Database Server`**.
+
 
 
