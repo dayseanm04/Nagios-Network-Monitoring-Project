@@ -25,3 +25,4 @@ To make it clear, look at the hierarchy:
 
 **Example:** 
 
+<img width="882" height="430" alt="1" src="https://github.com/user-attachments/assets/d93a6e66-f053-4920-bb15-f57c075ce1bc" />
