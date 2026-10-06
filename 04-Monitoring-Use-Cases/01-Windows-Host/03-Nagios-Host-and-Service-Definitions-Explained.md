@@ -17,3 +17,7 @@ In Nagios, a **service** is simply the label for any individual metric or health
 The word **"service"** can be confusing because we usually think of a Windows Service, like a background program. But in Nagios terminology, a service is just an item or attribute you are monitoring on a machine (host).
 
 To make it clear, look at the hierarchy:
+
+| Object | What it is | Example |
+|---|---|---|
+| **Host** | The physical or virtual machine itself | `comp-a-test` (the Windows host) |
