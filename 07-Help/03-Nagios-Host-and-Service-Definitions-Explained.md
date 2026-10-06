@@ -280,6 +280,11 @@ You can run the exact same check by hand on the Nagios server to make sure it wo
 
 Every time you add or edit a host, service, or command:
 
+1. Run the pre-flight check:
+
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
