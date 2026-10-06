@@ -169,10 +169,11 @@ NCPA (Nagios Cross-Platform Agent) is the agent I will use in this project uses 
 
 Before Nagios can run an NCPA check, three things need to be in place:
 
-1. The **`check_ncpa.py`** plugin installed in `/usr/local/nagios/libexec` on the Nagios server
+1. The **`check_ncpa.py`** plugin installed in **`/usr/local/nagios/libexec`** on the Nagios server
 2. The **NCPA token** stored in `resource.cfg`
-3. A **`check_ncpa` command** defined in `commands.cfg`
+3. A **`check_ncpa` command** defined in **`commands.cfg`**
 
+## Step 1 – Store the token in resource.cfg
 
 
 
