@@ -194,6 +194,9 @@ $USER2$=your-ncpa-token
 
 ## Step 2 – Define the command in commands.cfg
 
+```bash
+sudo nano /usr/local/nagios/etc/objects/commands.cfg
+```
 
 
 
