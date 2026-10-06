@@ -35,7 +35,6 @@ One host can have many services. Every service belongs to exactly one host. So i
 
 Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all of the host, service, and command definitions in the **`objects/`** folder inside it.
 
-<img width="686" height="216" alt="2" src="https://github.com/user-attachments/assets/3b587fd1-592a-4e86-9746-eb19c0c37057" />
 
 ```
 /usr/local/nagios/etc/
@@ -62,4 +61,5 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 ### Main folder – `/usr/local/nagios/etc/`
 
+<img width="686" height="216" alt="2" src="https://github.com/user-attachments/assets/3b587fd1-592a-4e86-9746-eb19c0c37057" />
 
