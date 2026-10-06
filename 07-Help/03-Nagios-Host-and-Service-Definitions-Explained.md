@@ -153,7 +153,7 @@ This is simply the label or display name. It's exactly what you'll see in the Na
 **`check_command check_nt!CLIENTVERSION`**
 This is the command that does the actual work. It's broken into two parts by the exclamation mark (**`!`**):
 
-
+- **`check_nt`**: The command defined in **`commands.cfg`**. It tells Nagios to use the **`check_nt`** plugin to reach out to the Windows machine over network port **`12489`**, where the NSClient++ agent listens.
 
 
 
