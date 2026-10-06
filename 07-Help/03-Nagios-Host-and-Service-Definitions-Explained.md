@@ -246,6 +246,11 @@ define service {
 }
 ```
 
+### Line-by-line breakdown
+
+**`define service {`**
+Opens the block. Same as the NSClient++ example: this is a new check on a machine.
+
 
 
 
