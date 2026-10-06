@@ -165,6 +165,8 @@ This closes the configuration block.
 
 # Part 3 – Service Definition Using NCPA
 
+NCPA (Nagios Cross-Platform Agent) is the agent I will use in this project uses on the Windows host. It works differently from NSClient++: it uses HTTPS on port `5693`, requires a token, and asks for data using APIs.
+
 
 
 
