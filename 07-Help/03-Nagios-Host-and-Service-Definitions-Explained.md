@@ -192,6 +192,7 @@ $USER2$=your-ncpa-token
 
 **"USER"** doesn't mean a username. It means user-defined macro. Nagios gives you up to 256 of them, **$USER1$** through $USER256$, and they can only be set in a resource file. You can't make up your own name like **`$NCPA_TOKEN`$**; Nagios won't recognize it.
 
+## Step 2 – Define the command in commands.cfg
 
 
 
