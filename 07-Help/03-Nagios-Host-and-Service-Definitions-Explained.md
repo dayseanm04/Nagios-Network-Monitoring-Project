@@ -237,6 +237,14 @@ Closes the block.
 sudo nano /usr/local/nagios/etc/objects/windows.cfg
 ```
 
+```
+define service {
+    use                     generic-service
+    host_name               comp-a-test
+    service_description     CPU Usage
+    check_command           check_ncpa!-M cpu/percent -w 80 -c 90 -q 'aggregate=avg'
+}
+```
 
 
 
