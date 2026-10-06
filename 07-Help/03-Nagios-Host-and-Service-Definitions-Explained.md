@@ -260,6 +260,8 @@ Links this check to the host `comp-a-test`. Nagios uses this to look up the host
 **`service_description CPU Usage`**
 The label shown in the Nagios web interface.
 
+**`check_command check_ncpa!-M cpu/percent -w 80 -c 90 -q 'aggregate=avg'`**
+Split by the **`!`**:
 
 
 
