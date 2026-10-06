@@ -66,6 +66,7 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 | File | What it holds |
 |---|---|
 | **`nagios.cfg`** | Main config. Lists which object files Nagios reads (`cfg_file=` lines). Hosts and services are **not** defined here |
+| **`resource.cfg`** | Private variables like `$USER1$` (the plugin folder) and secrets like the NCPA token (`$USER2$`) |
 
 
 
