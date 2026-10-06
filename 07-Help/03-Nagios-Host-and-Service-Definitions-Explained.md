@@ -107,6 +107,8 @@ This tells Nagios to inherit default settings from a template called **`windows-
 
 Without a template, you'd have to type all of those settings into every host.
 
+**`host_name comp-a-test`**
+This is the short, unique ID for the machine. It must contain no spaces. This is the exact name you will use later inside your **`define service`** blocks to link health checks to this specific machine.
 
 
 
