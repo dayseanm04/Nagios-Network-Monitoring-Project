@@ -179,6 +179,8 @@ Before Nagios can run an NCPA check, three things need to be in place:
 sudo nano /usr/local/nagios/etc/resource.cfg
 ```
 
+Add this line at the bottom, using your own token:
+
 
 
 
