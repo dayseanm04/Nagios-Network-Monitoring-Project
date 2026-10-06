@@ -274,7 +274,11 @@ Split by the **`!`**:
 | **`-c 90`** | **Critical** threshold. If CPU usage is above 90%, the service goes **CRITICAL** |
 | **`-q 'aggregate=avg'`** | A **query** option. Averages all CPU cores into one number. Without it, NCPA returns a separate value for each core |
 
+You can run the exact same check by hand on the Nagios server to make sure it works before putting it in a config file:
 
+## Applying Changes
+
+Every time you add or edit a host, service, or command:
 
 
 
