@@ -113,5 +113,7 @@ This is the short, unique ID for the machine. It must contain no spaces. This is
 **`alias My Windows Host`**
 This is a longer, user-friendly description or nickname for the machine. It allows spaces and capital letters so people looking at the Nagios web interface can easily understand what the machine does. In a real company this might be something like **`Accounting Database Server`**.
 
+**`address 192.168.1.9`**
+This is the network location of the machine. Nagios uses this exact IP address, or a fully qualified domain name like **`server01.example.com`**, to send pings and queries to the host.
 
 
