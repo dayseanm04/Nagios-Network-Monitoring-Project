@@ -95,7 +95,9 @@ This project's Windows host:
 
 <img width="775" height="321" alt="3" src="https://github.com/user-attachments/assets/abd8540e-50ae-44eb-b785-484856b7ec60" />
 
+Text after a **`;`** is a comment. Nagios ignores it, so it's a good place to leave notes.
 
+## Line-by-line breakdown
 
 
 
