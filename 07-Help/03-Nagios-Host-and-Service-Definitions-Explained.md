@@ -84,6 +84,7 @@ A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncomm
 
 # Part 1 – Host Definition
 
+## Open the file
 
 
 
