@@ -171,6 +171,7 @@ Before Nagios can run an NCPA check, three things need to be in place:
 
 1. The **`check_ncpa.py`** plugin installed in `/usr/local/nagios/libexec` on the Nagios server
 2. The **NCPA token** stored in `resource.cfg`
+3. A **`check_ncpa` command** defined in `commands.cfg`
 
 
 
