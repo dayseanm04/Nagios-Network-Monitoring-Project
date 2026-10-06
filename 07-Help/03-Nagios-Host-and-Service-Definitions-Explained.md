@@ -130,6 +130,8 @@ cd /usr/local/nagios/etc/objects
 sudo nano windows.cfg
 ```
 
+Scroll down to the **SERVICE DEFINITIONS** section.
+
 <img width="882" height="430" alt="4" src="https://github.com/user-attachments/assets/2a9daa35-b5f6-4a2c-8cec-b261083279d1" />
 
 
