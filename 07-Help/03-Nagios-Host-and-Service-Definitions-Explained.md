@@ -231,3 +231,16 @@ Closes the block.
 
 **What's a macro?** Anything wrapped in **`$...$`** is a macro. Nagios replaces it with a real value before running the command. **`$USER1$`** and **`$USER2$`** come from **`resource.cfg`**, **`$HOSTADDRESS$**` comes from the host definition, and **`$ARG1$`** comes from the service definition.
 
+## Step 3 – Define the service in windows.cfg
+
+
+
+
+
+
+
+
+
+
+
+
