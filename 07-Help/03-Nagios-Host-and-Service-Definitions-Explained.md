@@ -147,6 +147,8 @@ This tells Nagios to inherit default settings from a template called **`generic-
 **`host_name comp-a-test`**
 This links this specific service check to a machine you've already defined in Nagios. Nagios needs to know which machine it's supposed to run this check against. It must match the host's **`host_name`** exactly.
 
+**`service_description NSClient++ Version`**
+This is simply the label or display name. It's exactly what you'll see in the Nagios web interface under the **Service** column for that machine.
 
 
 
