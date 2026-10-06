@@ -150,6 +150,8 @@ This links this specific service check to a machine you've already defined in Na
 **`service_description NSClient++ Version`**
 This is simply the label or display name. It's exactly what you'll see in the Nagios web interface under the **Service** column for that machine.
 
+**`check_command check_nt!CLIENTVERSION`**
+This is the command that does the actual work. It's broken into two parts by the exclamation mark (**`!`**):
 
 
 
