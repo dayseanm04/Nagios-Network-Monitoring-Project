@@ -72,6 +72,8 @@ sudo nano windows.cfg
 
 ## Step 4 – Point the Services at the Host
 
+## Ignore step 4, these services checks uses NSClient++ running on the machine we want to monitor
+
 Further down in **`windows.cfg`** are seven service definitions. Each one has a **`host_name`** line that must match the host defined in **Step 3**.
 
 Example: 
