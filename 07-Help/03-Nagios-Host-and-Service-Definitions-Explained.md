@@ -251,6 +251,9 @@ define service {
 **`define service {`**
 Opens the block. Same as the NSClient++ example: this is a new check on a machine.
 
+**`use generic-service`**
+Inherits the same default check interval, retry, and notification settings as before.
+
 
 
 
