@@ -45,7 +45,8 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 ├── htpasswd.users      ← web interface logins
 ```
 
-<img width="686" height="216" alt="3" src="https://github.com/user-attachments/assets/3f6aee8a-322e-4561-8bd9-9410b23c14ff" />
+<img width="684" height="281" alt="3" src="https://github.com/user-attachments/assets/51e4e616-cdc0-4dfd-9910-1bc285250ea1" />
+
 
 ```
 └── objects/            ← individual object config files
