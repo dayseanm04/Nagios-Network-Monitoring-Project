@@ -55,4 +55,8 @@ sudo sed -i '1s/^#!\/usr\/bin\/env python$/#!\/usr\/bin\/env python3/' /usr/loca
 | **`^#!\/usr\/bin\/env python$`** | Finds the exact line **`#!/usr/bin/env python`** |
 | **`#!\/usr\/bin\/env python3`** | Replaces it with **`#!/usr/bin/env python3`** |
 
+---
+
+## Step 4 – Verify the Plugin Runs
+
 
