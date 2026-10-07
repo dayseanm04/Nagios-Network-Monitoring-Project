@@ -69,6 +69,7 @@ sudo sed -i '1s/^#!\/usr\/bin\/env python$/#!\/usr\/bin\/env python3/' /usr/loca
 
 ## Step 5 – Store the Token in resource.cfg
 
+1. Go to the Nagios config folder and confirm the file permissions:
 
 
 
