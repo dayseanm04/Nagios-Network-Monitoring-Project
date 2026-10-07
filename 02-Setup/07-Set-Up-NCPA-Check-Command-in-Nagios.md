@@ -110,6 +110,8 @@ cd /usr/local/nagios/etc/objects
 sudo nano commands.cfg
 ```
 
+<img width="665" height="279" alt="7" src="https://github.com/user-attachments/assets/1300029d-347a-4f0f-b70d-97d606fe1cd0" />
+
 
 
 
