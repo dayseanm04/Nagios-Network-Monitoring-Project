@@ -97,6 +97,7 @@ $USER5$=your-ncpa-token
 
 4. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+**Why `$USER5$`?** The sample file already uses or reserves the first four:
 
 
 
