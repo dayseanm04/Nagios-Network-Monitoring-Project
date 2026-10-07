@@ -182,7 +182,7 @@ sudo nano /usr/local/nagios/etc/resource.cfg
 Add this line at the bottom, using your own token:
 
 ```
-$USER2$=your-ncpa-token
+$USER5$=your-ncpa-token
 ```
 
 **Why store it here?**
