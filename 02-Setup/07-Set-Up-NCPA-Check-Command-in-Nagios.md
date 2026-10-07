@@ -24,4 +24,5 @@ sudo wget -O /usr/local/nagios/libexec/check_ncpa.py https://raw.githubuserconte
 | **`/usr/local/nagios/libexec`** | The folder where every Nagios plugin lives. **`$USER1$`** points here |
 | The URL | The official plugin from Nagios Enterprises' NCPA GitHub repository |
 
+<img width="873" height="393" alt="1" src="https://github.com/user-attachments/assets/5a1f3c05-b7ec-40d8-b656-3519004d51b5" />
 
