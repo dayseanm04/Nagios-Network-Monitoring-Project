@@ -26,3 +26,7 @@ sudo wget -O /usr/local/nagios/libexec/check_ncpa.py https://raw.githubuserconte
 
 <img width="873" height="393" alt="1" src="https://github.com/user-attachments/assets/5a1f3c05-b7ec-40d8-b656-3519004d51b5" />
 
+---
+
+## Step 2 – Make the Plugin Executable
+
