@@ -132,6 +132,10 @@ So when a service later uses **`check_ncpa!-M cpu/percent -w 80 -c 90`**, Nagios
 
 Run the pre-flight check:
 
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
+
 
 
 
