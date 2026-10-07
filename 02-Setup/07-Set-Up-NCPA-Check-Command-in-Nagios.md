@@ -23,5 +23,6 @@ sudo wget -O /usr/local/nagios/libexec/check_ncpa.py \
 |---|---|
 | **`-O /usr/local/nagios/libexec/check_ncpa.py`** | Saves the file with this exact name and location |
 | **`/usr/local/nagios/libexec`** | The folder where every Nagios plugin lives. **`$USER1$`** points here |
+| The URL | The official plugin from Nagios Enterprises' NCPA GitHub repository |
 
 
