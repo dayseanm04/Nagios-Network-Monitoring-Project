@@ -130,6 +130,8 @@ So when a service later uses **`check_ncpa!-M cpu/percent -w 80 -c 90`**, Nagios
 
 ## Step 7 – Verify the Config
 
+Run the pre-flight check:
+
 
 
 
