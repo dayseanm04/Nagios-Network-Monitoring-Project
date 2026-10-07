@@ -34,6 +34,8 @@ sudo wget -O /usr/local/nagios/libexec/check_ncpa.py https://raw.githubuserconte
 sudo chmod +x /usr/local/nagios/libexec/check_ncpa.py
 ```
 
+<img width="873" height="393" alt="2" src="https://github.com/user-attachments/assets/80c9d012-99cc-4b84-9bde-4b1a1a4813e3" />
+
 
 
 
