@@ -42,4 +42,7 @@ Downloaded files aren't allowed to run by default. **`chmod +x`** adds execute p
 
 ## Step 3 – Point the Plugin at Python 3
 
+```bash
+sudo sed -i '1s/^#!\/usr\/bin\/env python$/#!\/usr\/bin\/env python3/' /usr/local/nagios/libexec/check_ncpa.py
+```
 
