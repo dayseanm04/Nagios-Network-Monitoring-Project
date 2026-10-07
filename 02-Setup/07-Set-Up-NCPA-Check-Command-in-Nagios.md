@@ -105,6 +105,10 @@ $USER5$=your-ncpa-token
 
 1. Open `commands.cfg`:
 
+```bash
+cd /usr/local/nagios/etc/objects
+sudo nano commands.cfg
+```
 
 
 
