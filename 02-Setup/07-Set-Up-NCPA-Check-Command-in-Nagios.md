@@ -144,5 +144,9 @@ Restart Nagios to load the new command:
 sudo systemctl restart nagios
 ```
 
+## Step 8 – Test the Plugin Against comp-a-test
+
+Before defining any services, run the plugin by hand to prove the whole path works: network, port, and token.
+
 
 
