@@ -59,4 +59,6 @@ sudo sed -i '1s/^#!\/usr\/bin\/env python$/#!\/usr\/bin\/env python3/' /usr/loca
 
 ## Step 4 – Verify the Plugin Runs
 
-
+```bash
+/usr/local/nagios/libexec/check_ncpa.py --help
+```
