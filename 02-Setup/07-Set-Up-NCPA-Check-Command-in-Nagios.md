@@ -71,7 +71,10 @@ sudo sed -i '1s/^#!\/usr\/bin\/env python$/#!\/usr\/bin\/env python3/' /usr/loca
 
 1. Go to the Nagios config folder and confirm the file permissions:
 
-
+```bash
+cd /usr/local/nagios/etc
+ls -l
+```
 
 
 
