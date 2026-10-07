@@ -112,6 +112,8 @@ sudo nano commands.cfg
 
 <img width="665" height="279" alt="7" src="https://github.com/user-attachments/assets/1300029d-347a-4f0f-b70d-97d606fe1cd0" />
 
+<img width="858" height="498" alt="8" src="https://github.com/user-attachments/assets/b1dc8d64-8b68-4fd4-b6b2-d17eea50c925" />
+
 
 
 
