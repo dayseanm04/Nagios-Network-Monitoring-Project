@@ -203,7 +203,7 @@ Add this block:
 ```
 define command {
     command_name    check_ncpa
-    command_line    $USER1$/check_ncpa.py -H $HOSTADDRESS$ -t '$USER2$' -P 5693 $ARG1$
+    command_line    $USER1$/check_ncpa.py -H $HOSTADDRESS$ -t '$USER5$' -P 5693 $ARG1$
 }
 ```
 
@@ -291,16 +291,3 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```bash
 sudo systemctl restart nagios
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
