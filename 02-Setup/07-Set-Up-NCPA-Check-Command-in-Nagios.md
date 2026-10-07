@@ -11,3 +11,6 @@ No service checks are defined yet. That's covered in the next guide. By the end 
 ---
 
 ## Step 1 – Download check_ncpa.py
+
+Download the plugin straight into the Nagios plugin folder:
+
