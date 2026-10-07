@@ -62,3 +62,25 @@ sudo sed -i '1s/^#!\/usr\/bin\/env python$/#!\/usr\/bin\/env python3/' /usr/loca
 ```bash
 /usr/local/nagios/libexec/check_ncpa.py --help
 ```
+
+<img width="884" height="440" alt="3" src="https://github.com/user-attachments/assets/824cebfe-e8d0-479b-a5eb-97618b1390bd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
