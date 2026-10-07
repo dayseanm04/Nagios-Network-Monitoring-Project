@@ -140,6 +140,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 Restart Nagios to load the new command:
 
+```bash
+sudo systemctl restart nagios
+```
 
 
 
