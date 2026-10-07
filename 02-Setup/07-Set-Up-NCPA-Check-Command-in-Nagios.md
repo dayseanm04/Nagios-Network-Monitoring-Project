@@ -116,6 +116,9 @@ sudo nano commands.cfg
 
 2. Scroll down and add this block. Placing it above the **SAMPLE NOTIFICATION COMMANDS** section with a comment makes it easy to find later:
 
+<img width="693" height="252" alt="9" src="https://github.com/user-attachments/assets/ebc3ac24-eb8c-4199-94d1-0c8e171d41de" />
+
+
 
 
 
