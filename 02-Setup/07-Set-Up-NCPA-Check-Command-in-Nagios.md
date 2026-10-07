@@ -46,3 +46,6 @@ Downloaded files aren't allowed to run by default. **`chmod +x`** adds execute p
 sudo sed -i '1s/^#!\/usr\/bin\/env python$/#!\/usr\/bin\/env python3/' /usr/local/nagios/libexec/check_ncpa.py
 ```
 
+**Why this is needed:** The first line of **`check_ncpa.py`** (the *shebang*) tells Linux which program runs the script. It says **`python`**, but Ubuntu doesn't include a **`python`** command, only **`python3`**. Without this fix, the plugin fails with an error like `/usr/bin/env: 'python': No such file or directory`.
+
+
