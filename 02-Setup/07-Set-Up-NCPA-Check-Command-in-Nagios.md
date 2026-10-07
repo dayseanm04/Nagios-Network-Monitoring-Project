@@ -7,3 +7,7 @@ No service checks are defined yet. That's covered in the next guide. By the end 
 ## Prerequisites
 - NCPA installed and running on **`comp-a-test`** (see [**02 – Install NCPA on Windows Host**](../04-Monitoring-Use-Cases/01-Windows-Host/02-Install-NCPA-on-Windows-Host.md))
 - The NCPA token set during that install
+
+---
+
+## Step 1 – Download check_ncpa.py
