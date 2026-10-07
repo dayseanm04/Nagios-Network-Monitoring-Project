@@ -95,6 +95,7 @@ $USER5$=your-ncpa-token
 
 <img width="884" height="415" alt="6" src="https://github.com/user-attachments/assets/00ba8c23-cc32-4db2-b3ad-4540d96529f8" />
 
+4. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
