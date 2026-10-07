@@ -120,7 +120,11 @@ sudo nano commands.cfg
 
 3. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+So when a service later uses **`check_ncpa!-M cpu/percent -w 80 -c 90`**, Nagios actually runs:
 
+```
+/usr/local/nagios/libexec/check_ncpa.py -H 192.168.1.9 -t '<token>' -P 5693 -M cpu/percent -w 80 -c 90
+```
 
 
 
