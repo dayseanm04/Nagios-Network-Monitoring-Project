@@ -148,5 +148,8 @@ sudo systemctl restart nagios
 
 Before defining any services, run the plugin by hand to prove the whole path works: network, port, and token.
 
+```bash
+/usr/local/nagios/libexec/check_ncpa.py -H 192.168.1.9 -t '<TOKEN>' -P 5693 -M cpu/percent -w 80 -c 90 -q 'aggregate=avg'
+```
 
 
