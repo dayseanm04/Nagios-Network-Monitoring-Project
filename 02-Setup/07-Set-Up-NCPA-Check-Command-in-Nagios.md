@@ -118,6 +118,8 @@ sudo nano commands.cfg
 
 <img width="693" height="252" alt="9" src="https://github.com/user-attachments/assets/ebc3ac24-eb8c-4199-94d1-0c8e171d41de" />
 
+3. Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
+
 
 
 
