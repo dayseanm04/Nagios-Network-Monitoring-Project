@@ -88,7 +88,10 @@ sudo nano resource.cfg
 
 3. Scroll to the bottom and add the token with a comment above it:
 
-
+```
+# NCPA API token for Windows hosts
+$USER5$=your-ncpa-token
+```
 
 
 
