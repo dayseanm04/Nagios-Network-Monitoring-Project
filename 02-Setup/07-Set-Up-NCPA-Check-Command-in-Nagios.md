@@ -78,7 +78,11 @@ ls -l
 
 <img width="686" height="216" alt="4" src="https://github.com/user-attachments/assets/f9b98676-3488-454a-a4cf-4fbe192bab8f" />
 
+2. Open the file:
 
+```bash
+sudo nano resource.cfg
+```
 
 
 
