@@ -138,6 +138,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="829" height="479" alt="10" src="https://github.com/user-attachments/assets/33a9faae-b7c9-4d6e-856e-6561b6f09305" />
 
+Restart Nagios to load the new command:
 
 
 
