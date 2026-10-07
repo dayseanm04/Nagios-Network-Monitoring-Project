@@ -86,6 +86,7 @@ sudo nano resource.cfg
 
 <img width="768" height="440" alt="5" src="https://github.com/user-attachments/assets/7da92e2c-6de9-4149-8b01-a6be60f9dd26" />
 
+3. Scroll to the bottom and add the token with a comment above it:
 
 
 
