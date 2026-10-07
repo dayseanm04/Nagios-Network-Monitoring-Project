@@ -38,5 +38,8 @@ sudo chmod +x /usr/local/nagios/libexec/check_ncpa.py
 
 Downloaded files aren't allowed to run by default. **`chmod +x`** adds execute permission so Nagios can run the plugin.
 
+---
+
+## Step 3 – Point the Plugin at Python 3
 
 
