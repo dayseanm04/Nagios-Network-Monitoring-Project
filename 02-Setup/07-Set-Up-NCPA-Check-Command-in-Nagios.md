@@ -99,6 +99,9 @@ $USER5$=your-ncpa-token
 
 **Why `$USER5$`?** The sample file already uses or reserves the first four:
 
+---
+
+## Step 6 – Create the check_ncpa Command
 
 
 
