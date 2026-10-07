@@ -18,3 +18,9 @@ Download the plugin straight into the Nagios plugin folder:
 sudo wget -O /usr/local/nagios/libexec/check_ncpa.py \
   https://raw.githubusercontent.com/NagiosEnterprises/ncpa/master/client/check_ncpa.py
 ```
+
+| Part | What it does |
+|---|---|
+| **`-O /usr/local/nagios/libexec/check_ncpa.py`** | Saves the file with this exact name and location |
+
+
