@@ -14,3 +14,7 @@ No service checks are defined yet. That's covered in the next guide. By the end 
 
 Download the plugin straight into the Nagios plugin folder:
 
+```bash
+sudo wget -O /usr/local/nagios/libexec/check_ncpa.py \
+  https://raw.githubusercontent.com/NagiosEnterprises/ncpa/master/client/check_ncpa.py
+```
