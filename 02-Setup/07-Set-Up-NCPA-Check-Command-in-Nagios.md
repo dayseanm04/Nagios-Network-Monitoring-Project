@@ -30,3 +30,10 @@ sudo wget -O /usr/local/nagios/libexec/check_ncpa.py https://raw.githubuserconte
 
 ## Step 2 – Make the Plugin Executable
 
+```bash
+sudo chmod +x /usr/local/nagios/libexec/check_ncpa.py
+```
+
+
+
+
