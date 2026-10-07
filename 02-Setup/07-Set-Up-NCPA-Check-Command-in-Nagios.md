@@ -103,6 +103,7 @@ $USER5$=your-ncpa-token
 
 ## Step 6 – Create the check_ncpa Command
 
+1. Open `commands.cfg`:
 
 
 
