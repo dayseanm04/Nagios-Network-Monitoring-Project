@@ -147,6 +147,7 @@ define service {
 
 1. I select **cpu** and **percent**, then click **Reload**.
 
+<img width="958" height="556" alt="12" src="https://github.com/user-attachments/assets/7ab3db1c-5c9d-4962-b3eb-2391987e6b03" />
 
 
 
