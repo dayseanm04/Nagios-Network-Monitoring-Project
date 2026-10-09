@@ -5,3 +5,5 @@ In this doc, I will use the NCPA web interface on **`comp-a-test`** to find the 
 I'm testing checks in NCPA first because it's faster than editing Nagios config files, running the pre-flight check, restarting Nagios, and waiting for results. Once a check returns what I expect in NCPA, I can copy it into Nagios.
 
 > I ran these examples on **`comp-a-test`** (Windows 11) with **NCPA 3.5.0**.
+
+## Related Docs
