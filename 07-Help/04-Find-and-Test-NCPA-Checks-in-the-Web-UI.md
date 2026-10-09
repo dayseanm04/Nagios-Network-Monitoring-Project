@@ -107,5 +107,6 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 3. I click **As active check using check_ncpa.py**.
 
+<img width="603" height="286" alt="11" src="https://github.com/user-attachments/assets/5524c93e-944a-473d-97e8-51aa8dae9a77" />
 
 
