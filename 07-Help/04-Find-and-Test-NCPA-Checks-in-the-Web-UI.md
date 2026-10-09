@@ -11,3 +11,4 @@ I'm testing checks in NCPA first because it's faster than editing Nagios config 
 - [**02-Setup / 07 – Set Up NCPA Check Command in Nagios**](../02-Setup/07-Set-Up-NCPA-Check-Command-in-Nagios.md)
 - [**07-Help / 03 – Nagios Host and Service Definitions Explained**](03-Nagios-Host-and-Service-Definitions-Explained.md)
 
+---
