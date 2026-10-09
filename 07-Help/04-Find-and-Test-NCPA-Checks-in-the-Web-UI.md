@@ -103,4 +103,5 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 | Option | Use it for |
 |---|---|
 | **As active check using check_ncpa.py** | The command Nagios runs to ask NCPA for data. **This is what I use in this project** |
+| **As passive check config definition** | Config for NCPA to push results to Nagios on its own (requires NRDP) |
 
