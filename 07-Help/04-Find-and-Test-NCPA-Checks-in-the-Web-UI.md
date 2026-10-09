@@ -56,6 +56,7 @@ I open the **API Endpoint** dropdown to see the categories:
 | **`plugins`** | Custom plugin scripts installed on the agent |
 | **`interface`** | Network adapters: status, bytes sent/received, errors |
 | **`memory`** | Physical (virtual) memory and swap usage |
+| **`processes`** | Running processes |
 
 
 
