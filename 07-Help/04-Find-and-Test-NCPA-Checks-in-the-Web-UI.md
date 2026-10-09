@@ -121,3 +121,5 @@ So I only copy the part **after the token** into the service's **`check_command`
 
 | NCPA shows | Where it goes in Nagios |
 |---|---|
+| **`./check_ncpa.py`** | Already in the command definition (`$USER1$/check_ncpa.py`) |
+
