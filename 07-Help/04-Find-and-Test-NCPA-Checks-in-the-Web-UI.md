@@ -153,4 +153,5 @@ By default, NCPA returns one value **per CPU core**. **`comp-a-test`** has 8 cor
 
 2. Under **Data Settings**, I open **Aggregate**, choose **average**, and click **Reload**.
 
+<img width="960" height="557" alt="13" src="https://github.com/user-attachments/assets/9e8a0c5c-5c6f-476f-9843-1cf0767c7351" />
 
