@@ -232,6 +232,7 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 | **Node Endpoint** | The metric that was checked, e.g. **`cpu/percent`** |
 | **Check Time** | When it ran |
 | **Status** | OK, WARNING, CRITICAL, or UNKNOWN |
+| S**tatus Information** | The full output, including performance data |
 
 
 
