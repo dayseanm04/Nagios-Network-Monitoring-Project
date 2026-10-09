@@ -119,4 +119,5 @@ command_line    $USER1$/check_ncpa.py -H $HOSTADDRESS$ -t '$USER5$' -P 5693 $ARG
 
 So I only copy the part **after the token** into the service's **`check_command`**:
 
-
+| NCPA shows | Where it goes in Nagios |
+|---|---|
