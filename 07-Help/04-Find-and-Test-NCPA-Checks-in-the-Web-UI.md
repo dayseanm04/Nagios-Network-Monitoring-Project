@@ -31,4 +31,5 @@ https://localhost:5693/
 
 The **Dashboard** loads. **Check Results** shows how many checks NCPA has answered in the last 30 days.
 
+<img width="1207" height="765" alt="3" src="https://github.com/user-attachments/assets/a0ef73c2-21b0-4def-8a39-c35afd1e0192" />
 
