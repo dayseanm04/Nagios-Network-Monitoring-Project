@@ -209,5 +209,9 @@ check_command           check_ncpa!-M 'cpu/percent' -w 70 -c 80 -q 'aggregate=av
 
 ## Step 9 – Test a CRITICAL Result
 
+To confirm my thresholds work, I set one low enough to trigger on purpose.
+
+
+
 
 
