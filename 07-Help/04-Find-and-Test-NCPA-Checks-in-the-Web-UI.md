@@ -98,6 +98,7 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 2. There are two options:
 
+<img width="908" height="158" alt="10" src="https://github.com/user-attachments/assets/dc7d0d67-9114-4d2e-aa38-8213cbc0a676" />
 
 
 
