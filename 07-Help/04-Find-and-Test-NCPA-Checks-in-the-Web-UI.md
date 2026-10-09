@@ -177,6 +177,7 @@ Aggregate matters for thresholds. Without it, Nagios would compare the warning a
 
 1. I check **Run as a Nagios check**.
 
+<img width="968" height="557" alt="15" src="https://github.com/user-attachments/assets/91456116-dd48-4a0c-8fbc-4ddd734f5948" />
 
 
 
