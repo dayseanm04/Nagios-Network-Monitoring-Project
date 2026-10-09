@@ -215,6 +215,8 @@ To confirm my thresholds work, I set one low enough to trigger on purpose.
 
 <img width="967" height="563" alt="18" src="https://github.com/user-attachments/assets/0460d333-c7f0-4da4-9e14-8fd0e041cdfd" />
 
+Average CPU was **17.91%**, which is above **5%**, so the check returns **CRITICAL** with return code **`2`**. I set the thresholds back to normal values when I'm done.
+
 
 
 
