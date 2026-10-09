@@ -26,3 +26,5 @@ https://localhost:5693/
 2. At **Your connection is not private**, I click **Advanced** then **Proceed to localhost (unsafe)**. NCPA uses a self-signed certificate, so this warning is expected.
 
 3. I enter my NCPA token and click **Log In**.
+
+<img width="1150" height="552" alt="2" src="https://github.com/user-attachments/assets/66cb8430-d3c0-4703-bee0-ba392041024d" />
