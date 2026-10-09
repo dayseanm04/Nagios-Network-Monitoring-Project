@@ -205,6 +205,9 @@ check_command           check_ncpa!-M 'cpu/percent' -w 70 -c 80 -q 'aggregate=av
 | **Text before `\|`** | The status message shown in the Nagios **Status Information** column |
 | **Text after `\|`** | **Performance data**: **`'percent'=13.49%;70;80;`** is the value, warning, and critical. Used for graphing |
 
+---
+
+## Step 9 – Test a CRITICAL Result
 
 
 
