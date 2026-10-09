@@ -84,6 +84,8 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 1. I select **system** in the first dropdown and **uptime** in the second.
 2. I check **Run as a Nagios check**.
 
+<img width="945" height="468" alt="8" src="https://github.com/user-attachments/assets/e20e3a1f-c703-4641-b562-0e52985b5c3b" />
+
 
 
 
