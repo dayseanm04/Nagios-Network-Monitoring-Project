@@ -54,6 +54,7 @@ I open the **API Endpoint** dropdown to see the categories:
 | **`cpu`** | Core count, usage percent, idle and system time |
 | **`disk`** | Physical and logical disks, used/free space |
 | **`plugins`** | Custom plugin scripts installed on the agent |
+| **`interface`** | Network adapters: status, bytes sent/received, errors |
 
 
 
