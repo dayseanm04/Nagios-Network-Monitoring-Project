@@ -28,3 +28,7 @@ https://localhost:5693/
 3. I enter my NCPA token and click **Log In**.
 
 <img width="1150" height="552" alt="2" src="https://github.com/user-attachments/assets/66cb8430-d3c0-4703-bee0-ba392041024d" />
+
+The **Dashboard** loads. **Check Results** shows how many checks NCPA has answered in the last 30 days.
+
+
