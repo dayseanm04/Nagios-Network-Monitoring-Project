@@ -35,3 +35,4 @@ The **Dashboard** loads. **Check Results** shows how many checks NCPA has answer
 
 ---
 
+## Step 2 – Browse the API
