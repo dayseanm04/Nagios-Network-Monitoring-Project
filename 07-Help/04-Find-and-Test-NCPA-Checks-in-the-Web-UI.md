@@ -20,3 +20,5 @@ I'm testing checks in NCPA first because it's faster than editing Nagios config 
 ```
 https://localhost:5693/
 ```
+
+<img width="1215" height="852" alt="1" src="https://github.com/user-attachments/assets/69c93bea-7e6f-42d9-8af7-376e54bda45b" />
