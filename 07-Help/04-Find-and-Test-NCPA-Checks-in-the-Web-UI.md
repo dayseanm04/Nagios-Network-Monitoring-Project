@@ -250,6 +250,7 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 
 The **Dashboard** also shows the total number of checks:
 
+<img width="962" height="395" alt="22" src="https://github.com/user-attachments/assets/1f36fe60-14da-4df5-aa0b-17677a57686f" />
 
 
 
