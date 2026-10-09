@@ -187,6 +187,7 @@ Aggregate matters for thresholds. Without it, Nagios would compare the warning a
 
 <img width="969" height="197" alt="16" src="https://github.com/user-attachments/assets/b0583e02-bad4-4510-a5df-9de883d8986a" />
 
+<img width="607" height="299" alt="17" src="https://github.com/user-attachments/assets/36a69686-3dd0-4615-812c-45fb0fd71c40" />
 
 
 
