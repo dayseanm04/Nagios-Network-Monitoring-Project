@@ -227,6 +227,7 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 
 | Column | What it shows |
 |---|---|
+| **Node Endpoint** | The metric that was checked, e.g. **`cpu/percent`** |
 
 
 
