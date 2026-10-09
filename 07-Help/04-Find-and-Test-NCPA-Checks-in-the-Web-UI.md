@@ -177,10 +177,15 @@ Aggregate matters for thresholds. Without it, Nagios would compare the warning a
 
 1. I check **Run as a Nagios check**.
 2. I enter **70** in **Warning** and **80** in **Critical**.
-3. At the bottom left, I click View in alternate format.
-4. I click As active check using check_ncpa.py.
+3. I click **Reload**.
 
-<img width="969" height="197" alt="15" src="https://github.com/user-attachments/assets/b0583e02-bad4-4510-a5df-9de883d8986a" />
+<img width="968" height="557" alt="15" src="https://github.com/user-attachments/assets/eee356cb-f579-451d-97a8-856464b36dc4" />
+
+
+5. At the bottom left, I click View in alternate format.
+6. I click As active check using check_ncpa.py.
+
+<img width="969" height="197" alt="16" src="https://github.com/user-attachments/assets/b0583e02-bad4-4510-a5df-9de883d8986a" />
 
 
 
