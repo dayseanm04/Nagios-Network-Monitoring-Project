@@ -203,6 +203,7 @@ check_command           check_ncpa!-M 'cpu/percent' -w 70 -c 80 -q 'aggregate=av
 |---|---|
 | **`returncode`** | The Nagios exit code: **`0`** = OK, **`1`** = WARNING, **`2`** = CRITICAL, **`3`** = UNKNOWN. This decides the color in Nagios |
 | **Text before `\|`** | The status message shown in the Nagios **Status Information** column |
+| **Text after `\|`** | **Performance data**: **`'percent'=13.49%;70;80;`** is the value, warning, and critical. Used for graphing |
 
 
 
