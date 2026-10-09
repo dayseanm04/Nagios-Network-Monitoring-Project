@@ -86,6 +86,7 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 <img width="945" height="468" alt="8" src="https://github.com/user-attachments/assets/e20e3a1f-c703-4641-b562-0e52985b5c3b" />
 
+3. I click **Reload**. Instead of raw data, NCPA now returns a Nagios check result.
 
 
 
