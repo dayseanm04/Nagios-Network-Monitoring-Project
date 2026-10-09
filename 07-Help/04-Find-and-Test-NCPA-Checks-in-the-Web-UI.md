@@ -193,7 +193,9 @@ Aggregate matters for thresholds. Without it, Nagios would compare the warning a
 
 In Nagios, that becomes:
 
-
+```
+check_command           check_ncpa!-M 'cpu/percent' -w 70 -c 80 -q 'aggregate=avg'
+```
 
 
 
