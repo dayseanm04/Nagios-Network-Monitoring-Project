@@ -223,5 +223,7 @@ Average CPU was **17.91%**, which is above **5%**, so the check returns **CRITIC
 
 I click **Checks** in the top menu. Every check NCPA has answered is logged here, including the ones I just tested.
 
+<img width="962" height="803" alt="19" src="https://github.com/user-attachments/assets/a353c6f7-51fc-4bff-b928-e781baf8a4ee" />
+
 
 
