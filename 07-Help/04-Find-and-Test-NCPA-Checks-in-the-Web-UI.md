@@ -156,3 +156,6 @@ By default, NCPA returns one value **per CPU core**. **`comp-a-test`** has 8 cor
 <img width="960" height="557" alt="13" src="https://github.com/user-attachments/assets/9e8a0c5c-5c6f-476f-9843-1cf0767c7351" />
 
 Now it returns a single number, the average across all cores. The URL changes to include **`&aggregate=avg`**.
+
+| Setting | What it does | Check option |
+|---|---|---|
