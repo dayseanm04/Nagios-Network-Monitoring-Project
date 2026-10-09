@@ -79,6 +79,7 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 ## Step 4 – Turn a Metric into a Nagios Check
 
+**Example: `system/uptime`**
 
 
 
