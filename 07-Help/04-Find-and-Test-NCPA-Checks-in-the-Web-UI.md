@@ -165,5 +165,6 @@ Now it returns a single number, the average across all cores. The URL changes to
 | **Aggregate: sum** | One value: all items added together | **`-q 'aggregate=sum'`** |
 | **Delta** | Shows the change per second since the last check instead of a running total. Useful for counters like network bytes or disk reads | **`-d`** |
 
+Aggregate matters for thresholds. Without it, Nagios would compare the warning and critical values against each core separately. With **`average`**, it compares against one overall number, which is what I want for CPU.
 
 
