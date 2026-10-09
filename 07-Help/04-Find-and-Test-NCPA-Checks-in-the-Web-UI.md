@@ -236,6 +236,7 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 | **Executed By** | The IP that asked for the check |
 | **Type** | Active or Passive |
 
+### Filtering the log
 
 
 
