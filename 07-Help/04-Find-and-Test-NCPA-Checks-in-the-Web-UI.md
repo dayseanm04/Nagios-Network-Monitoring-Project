@@ -124,6 +124,7 @@ So I only copy the part **after the token** into the service's **`check_command`
 | **`./check_ncpa.py`** | Already in the command definition (**`$USER1$/check_ncpa.py`**) |
 | **`-H localhost`** | Already handled by **`$HOSTADDRESS$`**, using the host's IP |
 | **`-t '<your token>'`** | Already handled by **`$USER5$`** in `resource.cfg` |
+| **`-M 'system/uptime'`** and anything after | **This goes after `check_ncpa!` in the service** |
 
 
 
