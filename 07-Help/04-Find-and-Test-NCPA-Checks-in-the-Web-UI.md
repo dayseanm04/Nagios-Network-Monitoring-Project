@@ -117,3 +117,6 @@ The command NCPA shows is written for running by hand **on the monitored host**.
 command_line    $USER1$/check_ncpa.py -H $HOSTADDRESS$ -t '$USER5$' -P 5693 $ARG1$
 ```
 
+So I only copy the part **after the token** into the service's **`check_command`**:
+
+
