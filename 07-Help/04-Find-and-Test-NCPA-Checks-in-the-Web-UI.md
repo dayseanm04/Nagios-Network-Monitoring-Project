@@ -217,7 +217,9 @@ To confirm my thresholds work, I set one low enough to trigger on purpose.
 
 Average CPU was **17.91%**, which is above **5%**, so the check returns **CRITICAL** with return code **`2`**. I set the thresholds back to normal values when I'm done.
 
+---
 
+## Step 10 – Review Checks in the Checks Tab
 
 
 
