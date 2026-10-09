@@ -7,3 +7,5 @@ I'm testing checks in NCPA first because it's faster than editing Nagios config 
 > I ran these examples on **`comp-a-test`** (Windows 11) with **NCPA 3.5.0**.
 
 ## Related Docs
+- [**04-Monitoring-Use-Cases / 01-Windows-Host / 02 – Install NCPA on Windows Host**](../04-Monitoring-Use-Cases/01-Windows-Host/02-Install-NCPA-on-Windows-Host.md)
+
