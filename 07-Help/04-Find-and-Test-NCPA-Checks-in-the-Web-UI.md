@@ -55,6 +55,7 @@ I open the **API Endpoint** dropdown to see the categories:
 | **`disk`** | Physical and logical disks, used/free space |
 | **`plugins`** | Custom plugin scripts installed on the agent |
 | **`interface`** | Network adapters: status, bytes sent/received, errors |
+| **`memory`** | Physical (virtual) memory and swap usage |
 
 
 
