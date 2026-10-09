@@ -244,4 +244,6 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 
 2. I click **Filter**.
 
+<img width="959" height="783" alt="21" src="https://github.com/user-attachments/assets/7d31b659-21b9-45b1-925c-7c9223b61072" />
+
 
