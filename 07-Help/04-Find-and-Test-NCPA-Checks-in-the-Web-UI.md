@@ -169,3 +169,5 @@ Aggregate matters for thresholds. Without it, Nagios would compare the warning a
 
 **Verifying against Task Manager:** I opened Task Manager next to NCPA to compare the CPU %. The numbers don't match exactly because CPU usage changes every second and the two tools sample at different moments, but they're in the same range.
 
+<img width="1053" height="415" alt="14" src="https://github.com/user-attachments/assets/4fe9d2fb-4af2-47e4-bdda-49319429b873" />
+
