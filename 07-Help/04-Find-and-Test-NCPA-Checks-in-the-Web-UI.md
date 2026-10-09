@@ -225,9 +225,12 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 
 <img width="962" height="803" alt="19" src="https://github.com/user-attachments/assets/a353c6f7-51fc-4bff-b928-e781baf8a4ee" />
 
+<br/>
+
 | Column | What it shows |
 |---|---|
 | **Node Endpoint** | The metric that was checked, e.g. **`cpu/percent`** |
+| **Check Time** | When it ran |
 
 
 
