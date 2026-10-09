@@ -197,7 +197,10 @@ In Nagios, that becomes:
 check_command           check_ncpa!-M 'cpu/percent' -w 70 -c 80 -q 'aggregate=avg'
 ```
 
+### Reading and understanding the result
 
+| Part | Meaning |
+|---|---|
 
 
 
