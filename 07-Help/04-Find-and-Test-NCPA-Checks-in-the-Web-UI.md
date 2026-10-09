@@ -67,6 +67,7 @@ I open the **API Endpoint** dropdown to see the categories:
 
 ## Step 3 – Explore an Endpoint
 
+**Example: `system`**
 
 
 
