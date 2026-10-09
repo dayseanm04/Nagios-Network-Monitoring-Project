@@ -92,4 +92,5 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 ## Step 5 – Get the Command
 
+1. At the bottom left, I click **View in alternate format**.
 
