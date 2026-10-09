@@ -248,5 +248,8 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 
 **Executed By is a useful check.** My tests from the NCPA web interface show **`127.0.0.1`**, which is **`comp-a-test`** itself. Once Nagios starts running checks, they'll show **`192.168.1.99`**. Filtering by that IP is how I'll confirm Nagios is actually reaching the agent.
 
+The **Dashboard** also shows the total number of checks:
+
+
 
 
