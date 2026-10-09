@@ -161,7 +161,8 @@ Now it returns a single number, the average across all cores. The URL changes to
 |---|---|---|
 | **Aggregate: average** | One value: the average of all items | **`-q 'aggregate=avg'`** |
 | ****Aggregate: minimum** | One value: the lowest item | **`-q 'aggregate=min'`** |
-| Aggregate: maximum** | One value: the highest item | **`-q 'aggregate=max'`** |
+| **Aggregate: maximum** | One value: the highest item | **`-q 'aggregate=max'`** |
+| **Aggregate: sum** | One value: all items added together | **`-q 'aggregate=sum'`** |
 
 
 
