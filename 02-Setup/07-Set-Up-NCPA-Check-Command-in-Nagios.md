@@ -154,5 +154,5 @@ Before defining any services, run the plugin by hand to prove the whole path wor
 
 <img width="935" height="81" alt="11" src="https://github.com/user-attachments/assets/9f5f00d2-0831-4747-8ad3-0c067f705edc" />
 
-I logged into the WebUI of NCPA on **comp-a-test**
+I logged into the **WebUI** of NCPA on **comp-a-test** and clicked **Checks**
 
