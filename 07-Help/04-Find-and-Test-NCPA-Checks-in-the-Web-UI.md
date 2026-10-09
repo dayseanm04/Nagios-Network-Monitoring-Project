@@ -176,6 +176,7 @@ Aggregate matters for thresholds. Without it, Nagios would compare the warning a
 ## Step 8 – Set Warning and Critical Thresholds
 
 1. I check **Run as a Nagios check**.
+2. I enter **70** in **Warning** and **80** in **Critical**.
 
 <img width="968" height="557" alt="15" src="https://github.com/user-attachments/assets/91456116-dd48-4a0c-8fbc-4ddd734f5948" />
 
