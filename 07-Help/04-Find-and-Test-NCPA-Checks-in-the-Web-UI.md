@@ -43,5 +43,6 @@ I click **API** in the top menu. With no endpoint selected, it shows the **root*
 
 <img width="950" height="537" alt="5" src="https://github.com/user-attachments/assets/0fee89b9-3385-462b-9193-613c474ebd3c" />
 
+I open the **API Endpoint** dropdown to see the categories:
 
 
