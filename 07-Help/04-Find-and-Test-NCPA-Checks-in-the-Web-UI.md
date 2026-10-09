@@ -9,5 +9,5 @@ I'm testing checks in NCPA first because it's faster than editing Nagios config 
 ## Related Docs
 - [**04-Monitoring-Use-Cases / 01-Windows-Host / 02 – Install NCPA on Windows Host**](../04-Monitoring-Use-Cases/01-Windows-Host/02-Install-NCPA-on-Windows-Host.md)
 - [**02-Setup / 07 – Set Up NCPA Check Command in Nagios**](../02-Setup/07-Set-Up-NCPA-Check-Command-in-Nagios.md)
-- [07-Help / 03 – Nagios Host and Service Definitions Explained](03-Nagios-Host-and-Service-Definitions-Explained.md)
+- [**07-Help / 03 – Nagios Host and Service Definitions Explained**](03-Nagios-Host-and-Service-Definitions-Explained.md)
 
