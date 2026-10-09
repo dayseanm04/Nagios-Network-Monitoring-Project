@@ -75,5 +75,7 @@ I select **system** from the first dropdown. The right side shows everything NCP
 
 The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows the API path. That path is what I'll put after **`-M`** in a check, without the **`api/`** part.
 
+---
+
 
 
