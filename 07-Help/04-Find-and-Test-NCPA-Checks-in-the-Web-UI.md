@@ -246,4 +246,6 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 
 <img width="959" height="783" alt="21" src="https://github.com/user-attachments/assets/7d31b659-21b9-45b1-925c-7c9223b61072" />
 
+**Executed By is a useful check.** My tests from the NCPA web interface show **`127.0.0.1`**, which is **`comp-a-test`** itself. 
+
 
