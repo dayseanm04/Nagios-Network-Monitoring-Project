@@ -81,5 +81,7 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 **Example: `system/uptime`**
 
+1. I select **system** in the first dropdown and **uptime** in the second.
+
 
 
