@@ -158,4 +158,5 @@ I logged into the **WebUI** of NCPA on **comp-a-test** and clicked **Checks**
 
 <img width="945" height="523" alt="12" src="https://github.com/user-attachments/assets/16acfd44-3889-4b6e-8f3f-99313c0e1270" />
 
+You can see the check I just ran!
 
