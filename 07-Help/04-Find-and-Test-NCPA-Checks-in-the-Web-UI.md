@@ -128,4 +128,12 @@ So I only copy the part **after the token** into the service's **`check_command`
 
 Result:
 
+```
+define service {
+    use                     generic-service
+    host_name               comp-a-test
+    service_description     Uptime
+    check_command           check_ncpa!-M 'system/uptime'
+}
+```
 
