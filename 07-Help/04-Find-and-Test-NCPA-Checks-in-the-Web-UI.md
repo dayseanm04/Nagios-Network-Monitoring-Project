@@ -234,6 +234,8 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 | **Status** | OK, WARNING, CRITICAL, or UNKNOWN |
 | S**tatus Information** | The full output, including performance data |
 | **Executed By** | The IP that asked for the check |
+| **Type** | Active or Passive |
+
 
 
 
