@@ -33,6 +33,8 @@ The **Dashboard** loads. **Check Results** shows how many checks NCPA has answer
 
 <img width="1207" height="765" alt="3" src="https://github.com/user-attachments/assets/a0ef73c2-21b0-4def-8a39-c35afd1e0192" />
 
+<img width="945" height="523" alt="4" src="https://github.com/user-attachments/assets/2cf36bb6-6e76-41e2-8703-1bce22f677c9" />
+
 ---
 
 ## Step 2 – Browse the API
