@@ -143,4 +143,7 @@ define service {
 
 ## Step 7 – Use Data Settings
 
+**Example: `cpu/percent`**
+
+
 
