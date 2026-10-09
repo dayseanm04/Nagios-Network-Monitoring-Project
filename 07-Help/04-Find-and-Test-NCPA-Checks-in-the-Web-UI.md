@@ -60,6 +60,7 @@ I open the **API Endpoint** dropdown to see the categories:
 | **`services`** | Windows services and their status |
 | **`system`** | Hostname, OS version, uptime, agent version |
 | **`user`** | Logged-in users |
+| **`logs`** | Windows Event Log entries |
 
 
 
