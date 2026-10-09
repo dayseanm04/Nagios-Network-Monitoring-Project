@@ -159,3 +159,7 @@ Now it returns a single number, the average across all cores. The URL changes to
 
 | Setting | What it does | Check option |
 |---|---|---|
+| **Aggregate: average** | One value: the average of all items | **`-q 'aggregate=avg'`** |
+
+
+
