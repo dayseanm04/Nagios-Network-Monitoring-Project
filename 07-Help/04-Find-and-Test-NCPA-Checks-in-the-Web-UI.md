@@ -96,4 +96,8 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 <img width="948" height="278" alt="9" src="https://github.com/user-attachments/assets/7df02571-4d52-47d9-b397-f0de783dbff8" />
 
+2. There are two options:
+
+
+
 
