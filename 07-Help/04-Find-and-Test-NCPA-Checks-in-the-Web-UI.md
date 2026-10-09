@@ -57,6 +57,8 @@ I open the **API Endpoint** dropdown to see the categories:
 | **`interface`** | Network adapters: status, bytes sent/received, errors |
 | **`memory`** | Physical (virtual) memory and swap usage |
 | **`processes`** | Running processes |
+| **`services`** | Windows services and their status |
+
 
 
 
