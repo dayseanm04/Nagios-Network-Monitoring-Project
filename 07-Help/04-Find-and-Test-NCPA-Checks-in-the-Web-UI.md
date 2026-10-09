@@ -71,6 +71,7 @@ I open the **API Endpoint** dropdown to see the categories:
 
 I select **system** from the first dropdown. The right side shows everything NCPA knows about **`comp-a-test`**:
 
+<img width="942" height="622" alt="7" src="https://github.com/user-attachments/assets/a9bd38a7-5f7c-4f6a-bbbc-4a1211bdf8ea" />
 
 
 
