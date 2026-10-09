@@ -12,3 +12,5 @@ I'm testing checks in NCPA first because it's faster than editing Nagios config 
 - [**07-Help / 03 – Nagios Host and Service Definitions Explained**](03-Nagios-Host-and-Service-Definitions-Explained.md)
 
 ---
+
+## Step 1 – Log In to NCPA
