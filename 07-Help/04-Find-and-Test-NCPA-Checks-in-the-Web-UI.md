@@ -47,5 +47,7 @@ I open the **API Endpoint** dropdown to see the categories:
 
 <img width="950" height="553" alt="6" src="https://github.com/user-attachments/assets/a301119a-ffce-4e28-8200-a436fd6aaae2" />
 
+| Endpoint | What it covers |
+
 
 
