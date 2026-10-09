@@ -238,6 +238,8 @@ I click **Checks** in the top menu. Every check NCPA has answered is logged here
 
 ### Filtering the log
 
+1. I choose a **Status**, **Type**, and **Executed By**.
+
 <img width="972" height="363" alt="20" src="https://github.com/user-attachments/assets/2f604b3b-8958-41c6-8337-418e014c0545" />
 
 
