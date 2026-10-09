@@ -69,6 +69,8 @@ I open the **API Endpoint** dropdown to see the categories:
 
 **Example: `system`**
 
+I select **system** from the first dropdown. The right side shows everything NCPA knows about **`comp-a-test`**:
+
 
 
 
