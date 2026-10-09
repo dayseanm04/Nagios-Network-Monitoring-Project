@@ -163,6 +163,7 @@ Now it returns a single number, the average across all cores. The URL changes to
 | ****Aggregate: minimum** | One value: the lowest item | **`-q 'aggregate=min'`** |
 | **Aggregate: maximum** | One value: the highest item | **`-q 'aggregate=max'`** |
 | **Aggregate: sum** | One value: all items added together | **`-q 'aggregate=sum'`** |
+| **Delta** | Shows the change per second since the last check instead of a running total. Useful for counters like network bytes or disk reads | **`-d`** |
 
 
 
