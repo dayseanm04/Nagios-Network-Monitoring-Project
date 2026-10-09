@@ -171,3 +171,17 @@ Aggregate matters for thresholds. Without it, Nagios would compare the warning a
 
 <img width="1053" height="415" alt="14" src="https://github.com/user-attachments/assets/4fe9d2fb-4af2-47e4-bdda-49319429b873" />
 
+---
+
+## Step 8 – Set Warning and Critical Thresholds
+
+
+
+
+
+
+
+
+
+
+
