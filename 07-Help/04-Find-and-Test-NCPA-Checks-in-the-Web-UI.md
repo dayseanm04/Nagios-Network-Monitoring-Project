@@ -145,5 +145,8 @@ define service {
 
 **Example: `cpu/percent`**
 
+1. I select **cpu** and **percent**, then click **Reload**.
+
+
 
 
