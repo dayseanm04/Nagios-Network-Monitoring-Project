@@ -41,4 +41,6 @@ The **Dashboard** loads. **Check Results** shows how many checks NCPA has answer
 
 I click **API** in the top menu. With no endpoint selected, it shows the **root** of the API: every metric NCPA can report, all at once.
 
+<img width="950" height="537" alt="5" src="https://github.com/user-attachments/assets/0fee89b9-3385-462b-9193-613c474ebd3c" />
+
 
