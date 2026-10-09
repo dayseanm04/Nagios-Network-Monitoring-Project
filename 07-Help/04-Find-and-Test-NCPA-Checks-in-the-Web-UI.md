@@ -111,5 +111,7 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 ---
 
+The command NCPA shows is written for running by hand **on the monitored host**. In Nagios, my **`check_ncpa`** command definition already fills in the host, token, and port (see **`02-Setup/07`**):
+
 
 
