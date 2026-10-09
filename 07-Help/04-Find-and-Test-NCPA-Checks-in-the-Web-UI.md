@@ -160,7 +160,8 @@ Now it returns a single number, the average across all cores. The URL changes to
 | Setting | What it does | Check option |
 |---|---|---|
 | **Aggregate: average** | One value: the average of all items | **`-q 'aggregate=avg'`** |
-| **Aggregate: minimum** | One value: the lowest item | **`-q 'aggregate=min'`** |
+| ****Aggregate: minimum** | One value: the lowest item | **`-q 'aggregate=min'`** |
+| Aggregate: maximum** | One value: the highest item | **`-q 'aggregate=max'`** |
 
 
 
