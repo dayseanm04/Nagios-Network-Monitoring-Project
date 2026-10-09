@@ -139,3 +139,6 @@ define service {
 
 > I never copy **`-H localhost`** into Nagios. On the Nagios server, **`localhost`** is the Nagios server itself, not **`comp-a-test`**.
 
+---
+
+
