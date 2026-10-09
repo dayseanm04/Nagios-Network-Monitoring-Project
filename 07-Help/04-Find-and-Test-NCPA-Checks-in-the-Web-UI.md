@@ -126,5 +126,6 @@ So I only copy the part **after the token** into the service's **`check_command`
 | **`-t '<your token>'`** | Already handled by **`$USER5$`** in `resource.cfg` |
 | **`-M 'system/uptime'`** and anything after | **This goes after `check_ncpa!` in the service** |
 
+Result:
 
 
