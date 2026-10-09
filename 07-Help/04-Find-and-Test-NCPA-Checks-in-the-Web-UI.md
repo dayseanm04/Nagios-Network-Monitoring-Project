@@ -167,4 +167,5 @@ Now it returns a single number, the average across all cores. The URL changes to
 
 Aggregate matters for thresholds. Without it, Nagios would compare the warning and critical values against each core separately. With **`average`**, it compares against one overall number, which is what I want for CPU.
 
+**Verifying against Task Manager:** I opened Task Manager next to NCPA to compare the CPU %. The numbers don't match exactly because CPU usage changes every second and the two tools sample at different moments, but they're in the same range.
 
