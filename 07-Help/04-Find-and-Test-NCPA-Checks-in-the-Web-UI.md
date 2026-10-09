@@ -1,2 +1,3 @@
 # 04 – Find and Test NCPA Checks in the Web UI
 
+In this doc, I will use the NCPA web interface on **`comp-a-test`** to find the metrics NCPA can report, test them as Nagios checks with warning and critical thresholds, and get the exact command I need for a Nagios service definition.
