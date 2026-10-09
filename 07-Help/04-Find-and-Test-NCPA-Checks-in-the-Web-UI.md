@@ -213,6 +213,8 @@ To confirm my thresholds work, I set one low enough to trigger on purpose.
 
 1. I clear **Warning**, enter **5** in **Critical**, and click **Reload**.
 
+<img width="967" height="563" alt="18" src="https://github.com/user-attachments/assets/0460d333-c7f0-4da4-9e14-8fd0e041cdfd" />
+
 
 
 
