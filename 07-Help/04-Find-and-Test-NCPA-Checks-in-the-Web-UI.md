@@ -90,4 +90,6 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 ---
 
+## Step 5 – Get the Command
+
 
