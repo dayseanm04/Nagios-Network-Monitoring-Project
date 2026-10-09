@@ -63,6 +63,7 @@ I open the **API Endpoint** dropdown to see the categories:
 | **`logs`** | Windows Event Log entries |
 | **`windowscounters`** | Windows Performance Counters |
 
+---
 
 
 
