@@ -88,5 +88,6 @@ The URL above the results (e.g. **`https://localhost:5693/api/system`**) shows t
 
 3. I click **Reload**. Instead of raw data, NCPA now returns a Nagios check result.
 
+---
 
 
