@@ -58,6 +58,8 @@ I open the **API Endpoint** dropdown to see the categories:
 | **`memory`** | Physical (virtual) memory and swap usage |
 | **`processes`** | Running processes |
 | **`services`** | Windows services and their status |
+| **`system`** | Hostname, OS version, uptime, agent version |
+
 
 
 
