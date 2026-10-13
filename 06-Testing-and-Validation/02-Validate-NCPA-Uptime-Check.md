@@ -36,5 +36,7 @@ check_command           check_ncpa!-M system/uptime
 
 **Steps:**
 
+1. I log in to the Nagios web interface at **`http://192.168.1.99/nagios`**.
+
 
 
