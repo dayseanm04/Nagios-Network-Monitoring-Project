@@ -4,3 +4,6 @@ In this doc, I will verify that the **`system uptime`** service check for **`com
 
 1. **Without thresholds** – confirm Nagios can reach NCPA and get a result.
 2. **With thresholds** – confirm the check goes WARNING and CRITICAL after a reboot.
+
+I'll confirm results from both sides: in Nagios, where the check is scheduled, and in NCPA, where the check is answered.
+
