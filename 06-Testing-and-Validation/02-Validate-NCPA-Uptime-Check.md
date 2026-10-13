@@ -166,5 +166,37 @@ Then I run the pre-flight check, reload Nagios, and restart **`comp-a-test`** ag
 
 After the restart, I check **Services** in Nagios.
 
+<img width="1027" height="483" alt="9" src="https://github.com/user-attachments/assets/3885ce45-8e37-44d7-a8a4-e55010d0821b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
