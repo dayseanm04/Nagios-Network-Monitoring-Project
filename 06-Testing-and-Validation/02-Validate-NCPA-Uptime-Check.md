@@ -213,6 +213,7 @@ Clicked on system uptime for **comp-a-test** for more info
 | Field | What it told me |
 |---|---|
 | **Performance Data** | Shows the value and the thresholds actually in use. Comparing **`3600;600`** with **`3600:;600:`** is how I confirmed which config was running |
+| **Current Attempt – SOFT** | Nagios saw a problem but is still retrying (2/3). No notification yet |
 
 
 
