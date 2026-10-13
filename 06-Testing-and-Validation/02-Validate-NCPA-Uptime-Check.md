@@ -176,6 +176,9 @@ Clicked on system uptime for **comp-a-test**
 
 **Result:** PASS
 
+---
+
+## TC-06 – Uptime Between 10 Minutes and 1 Hour
 
 
 
