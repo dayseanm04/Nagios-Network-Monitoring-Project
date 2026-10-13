@@ -34,5 +34,7 @@ check_command           check_ncpa!-M system/uptime
 
 ## TC-01 – Check the Service in Nagios Core
 
+**Steps:**
+
 
 
