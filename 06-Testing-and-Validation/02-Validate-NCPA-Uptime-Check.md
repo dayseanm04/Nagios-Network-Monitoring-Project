@@ -15,4 +15,5 @@ I'll confirm results from both sides: in Nagios, where the check is scheduled, a
 
 | ID | Phase | Test | Expected | Actual | Status |
 |---|---|---|---|---|---|
-| TC-01 | No thresholds | Service in Nagios | **OK** with uptime value | OK – Uptime was 3 hours 56 minutes 33 seconds | ✅ PASS |
+| TC-01 | No thresholds | Service in Nagios | **OK** with uptime value | OK – Uptime was 3 hours 56 minutes 33 seconds | PASS |
+| TC-02 | No thresholds | Check source in NCPA | Executed By **`192.168.1.99`** | **`192.168.1.99`**, Active | PASS |
