@@ -78,5 +78,7 @@ When this check runs, Nagios turns it into:
 /usr/local/nagios/libexec/check_ncpa.py -H 192.168.1.9 -t '<token>' -P 5693 -M system/uptime
 ```
 
+The host IP comes from **`$HOSTADDRESS$`** and the token from **`$USER5$`** in **`resource.cfg`**, so neither is typed into **`windows.cfg`**.
+
 
 
