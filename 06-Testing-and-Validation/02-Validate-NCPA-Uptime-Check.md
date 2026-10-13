@@ -120,6 +120,7 @@ I run the pre-flight check, reload Nagios, and restart **`comp-a-test`**.
 | Field | Value |
 |---|---|
 | Current Status | **CRITICAL** |
+| Status Information | CRITICAL: Uptime was 23 minutes 53 seconds |
 
 
 
