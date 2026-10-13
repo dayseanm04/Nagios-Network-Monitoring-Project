@@ -61,6 +61,7 @@ define service {
 
 <img width="995" height="542" alt="2" src="https://github.com/user-attachments/assets/e4f20bf2-dd40-44fd-8ff2-fca30942140d" />
 
+I save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
