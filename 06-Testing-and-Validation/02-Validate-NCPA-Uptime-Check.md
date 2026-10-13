@@ -170,6 +170,7 @@ After the restart, I check **Services** in Nagios.
 
 **Expected:** CRITICAL (under 600 seconds).
 
+**Result:** PASS
 
 
 
