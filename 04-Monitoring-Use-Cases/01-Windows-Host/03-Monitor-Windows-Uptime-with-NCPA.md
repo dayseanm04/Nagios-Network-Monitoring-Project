@@ -15,3 +15,4 @@ In this doc, I will create my first NCPA service check in Nagios. It monitors ho
 
 ## Why Monitor Uptime?
 
+Uptime tells me how long a machine has been running since it last restarted.
