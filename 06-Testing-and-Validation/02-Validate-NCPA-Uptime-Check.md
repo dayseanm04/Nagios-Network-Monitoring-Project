@@ -42,4 +42,10 @@ check_command           check_ncpa!-M system/uptime
 
 <img width="1035" height="521" alt="1" src="https://github.com/user-attachments/assets/243a7682-57dc-4f0c-a381-2254e0be8536" />
 
+**Actual:**
+
+| Host | Service | Status | Attempt | Status Information |
+|---|---|---|---|---|
+
+
 
