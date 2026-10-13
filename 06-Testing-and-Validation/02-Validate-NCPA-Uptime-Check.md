@@ -127,6 +127,8 @@ Clicked on system uptime for **comp-a-test**
 | Current Status | **CRITICAL** |
 | Status Information | CRITICAL: Uptime was 23 minutes 53 seconds |
 
+**Expected:** WARNING, since 23 minutes is under 1 hour but over 10 minutes.
+
 
 
 
