@@ -182,6 +182,7 @@ Clicked on system uptime for **comp-a-test**
 
 I wait a few minutes and click **system uptime** reloaded the paged and click on services.
 
+<img width="1019" height="493" alt="11" src="https://github.com/user-attachments/assets/c433b4a1-42a6-46d0-815a-6140790bde07" />
 
 
 
