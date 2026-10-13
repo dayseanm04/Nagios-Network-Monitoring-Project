@@ -31,6 +31,7 @@ ls -l
 
 <img width="936" height="411" alt="1" src="https://github.com/user-attachments/assets/d85da69f-8fc3-461f-8aee-92bd3146ded1" />
 
+Then I open `windows.cfg`:
 
 
 
