@@ -225,7 +225,9 @@ The **`system uptime`** NCPA check works end to end. Nagios schedules the check,
 
 During threshold testing, my first configuration (**`-w 3600 -c 600`**) alerted on the wrong condition, marking a machine that had been up for 23 minutes as CRITICAL. Adding colons (**`-w 3600: -c 600:`**) fixed it, and the check now correctly shows CRITICAL under 10 minutes and WARNING under 1 hour after a reboot.
 
+---
 
+## Notes
 
 
 
