@@ -33,6 +33,8 @@ ls -l
 
 Then I open `windows.cfg`:
 
-
+```bash
+sudo nano windows.cfg
+```
 
 
