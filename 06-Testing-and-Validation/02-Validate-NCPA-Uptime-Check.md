@@ -221,6 +221,7 @@ Clicked on system uptime for **comp-a-test** for more info
 
 ## Conclusion
 
+The **`system uptime`** NCPA check works end to end. Nagios schedules the check, **`check_ncpa.py`** reaches NCPA on **`comp-a-test`** over port **`5693`**, and the result shows up in both Nagios and NCPA.
 
 
 
