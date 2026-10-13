@@ -238,7 +238,7 @@ During threshold testing, my first configuration (**`-w 3600 -c 600`**) alerted 
 
 - [**04-Monitoring-Use-Cases / 01-Windows-Host / 03 – Monitor Windows Uptime with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/03-Monitor-Windows-Uptime-with-NCPA.md)
 - [**07-Help / 04 – Find and Test NCPA Checks in the Web UI**](../07-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md)
-
+- [**06-Testing-and-Validation / 01 – Validate Windows Host Connectivity**](01-Validate-Windows-Host-Connectivity.md)
 
 
 
