@@ -90,6 +90,7 @@ The host IP comes from **`$HOSTADDRESS$`** and the token from **`$USER5$`** in *
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="1079" height="613" alt="3" src="https://github.com/user-attachments/assets/885bb60e-3de6-4ab7-a422-80eb2351c123" />
 
 
 
