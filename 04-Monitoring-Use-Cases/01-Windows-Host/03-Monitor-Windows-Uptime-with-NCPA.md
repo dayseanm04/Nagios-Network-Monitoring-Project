@@ -80,5 +80,6 @@ When this check runs, Nagios turns it into:
 
 The host IP comes from **`$HOSTADDRESS$`** and the token from **`$USER5$`** in **`resource.cfg`**, so neither is typed into **`windows.cfg`**.
 
-> **No thresholds yet.** This check has no `-w` or `-c`, so it always returns **OK** and just reports the uptime. 
+> **No thresholds yet.** This check has no **`-w`** or **`-c`**, so it always returns **OK** and just reports the uptime. 
 
+---
