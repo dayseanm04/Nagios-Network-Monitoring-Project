@@ -146,6 +146,10 @@ For uptime, the problem is a value that's too **low**. In Nagios range syntax, a
 
 I update the service:
 
+```
+check_command           check_ncpa!-M system/uptime -w 3600: -c 600:
+```
+
 
 
 
