@@ -180,6 +180,7 @@ Clicked on system uptime for **comp-a-test**
 
 ## TC-06 – Uptime Between 10 Minutes and 1 Hour
 
+I wait a few minutes and click **system uptime** reloaded the paged and click on services.
 
 
 
