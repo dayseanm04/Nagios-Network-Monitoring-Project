@@ -56,6 +56,7 @@ check_command           check_ncpa!-M system/uptime
 
 ## TC-02 – Confirm NCPA Received the Check
 
+**Steps:**
 
 
 
