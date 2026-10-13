@@ -124,7 +124,8 @@ sudo systemctl reload nagios
 check_command           check_ncpa!-M system/uptime -w 3600: -c 600:
 ```
 
-<img width="820" height="431" alt="5" src="https://github.com/user-attachments/assets/d937ffc5-2b8e-41df-af61-9b7337ec53fb" />
+<img width="824" height="435" alt="5" src="https://github.com/user-attachments/assets/3bc9e189-44e4-46a9-a592-c466f95f31fc" />
+
 
 | Uptime | Result |
 |---|---|
