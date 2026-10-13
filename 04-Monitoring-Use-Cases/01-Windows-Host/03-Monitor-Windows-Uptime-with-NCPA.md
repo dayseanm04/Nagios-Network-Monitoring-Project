@@ -7,3 +7,4 @@ In this doc, I will create my first NCPA service check in Nagios. It monitors ho
 ---
 
 ## Prerequisites
+- NCPA installed and running on **`comp-a-test`** (see [**02 – Install NCPA on Windows Host**](02-Install-NCPA-on-Windows-Host.md))
