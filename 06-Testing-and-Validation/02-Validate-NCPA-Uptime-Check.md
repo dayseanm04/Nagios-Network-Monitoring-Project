@@ -158,6 +158,7 @@ Then I run the pre-flight check, reload Nagios, and restart **`comp-a-test`** ag
 
 ## TC-05 – Uptime Under 10 Minutes
 
+After the restart, I check **Services** in Nagios.
 
 
 
