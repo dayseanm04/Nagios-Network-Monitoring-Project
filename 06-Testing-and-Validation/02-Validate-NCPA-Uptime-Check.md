@@ -182,10 +182,11 @@ Clicked on system uptime for **comp-a-test**
 
 I wait a few minutes and click **system uptime** reloaded the paged and click on services.
 
-<img width="1023" height="755" alt="Screenshot 2026-10-13 145131" src="https://github.com/user-attachments/assets/c81ae8eb-650f-46d4-ae7c-e5b273420c86" />
+<img width="1023" height="755" alt="11" src="https://github.com/user-attachments/assets/c81ae8eb-650f-46d4-ae7c-e5b273420c86" />
 
+Clicked on system uptime for **comp-a-test** for more info
 
-
+<img width="1028" height="733" alt="12" src="https://github.com/user-attachments/assets/e38313ba-6cdf-43b7-aa6e-86e9036054a2" />
 
 
 
