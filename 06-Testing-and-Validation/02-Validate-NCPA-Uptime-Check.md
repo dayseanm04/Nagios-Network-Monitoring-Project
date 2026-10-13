@@ -100,6 +100,7 @@ Without thresholds, the check always returns OK, so it can't alert me to a reboo
 | Uptime | Expected result |
 |---|---|
 | More than 1 hour (3600 seconds) | 🟩 OK |
+| Under 1 hour | 🟨 WARNING |
 
 
 
