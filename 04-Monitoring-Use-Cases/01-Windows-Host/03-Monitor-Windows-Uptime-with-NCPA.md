@@ -18,3 +18,5 @@ In this doc, I will create my first NCPA service check in Nagios. It monitors ho
 Uptime tells me how long a machine has been running since it last restarted. I'm starting with uptime because it's a simple, low-risk metric for confirming that Nagios, the **`check_ncpa`** command, and the NCPA agent all work together.
 
 ---
+
+## Step 1 – Open the Windows Config File
