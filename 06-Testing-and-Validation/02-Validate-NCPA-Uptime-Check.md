@@ -129,6 +129,8 @@ Clicked on system uptime for **comp-a-test**
 
 **Expected:** WARNING, since 23 minutes is under 1 hour but over 10 minutes.
 
+**Result:** FAIL
+
 
 
 
