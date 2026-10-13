@@ -210,6 +210,8 @@ Clicked on system uptime for **comp-a-test** for more info
 
 ## Reading the Service Details
 
+| Field | What it told me |
+|---|---|
 
 
 
