@@ -97,9 +97,11 @@ Expected result:
 ```
 Checked 9 services.
 Checked 2 hosts.
-...
+
 Total Warnings: 0
 Total Errors:   0
 ```
+
+The service count went from **8 to 9**, which confirms Nagios picked up the new **`system uptime`** service.
 
 
