@@ -200,6 +200,7 @@ The colons in the performance data (**`3600:;600:`**) confirm the corrected thre
 
 **Expected:** Once **`comp-a-test`** has been up for more than 3600 seconds, the service returns to **OK**.
 
+<img width="1032" height="371" alt="13" src="https://github.com/user-attachments/assets/d8d5c440-9a90-4939-9ea5-46f591cb1897" />
 
 
 
