@@ -229,6 +229,8 @@ During threshold testing, my first configuration (**`-w 3600 -c 600`**) alerted 
 
 ## Notes
 
+- **Restarting `comp-a-test` also restarts the Nagios VM**, since **`NetworkVM`** runs on it in Hyper-V. In a real company, the monitoring server would run on separate hardware so it stays up when the machines it monitors go down.
+
 
 
 
