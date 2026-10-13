@@ -82,6 +82,7 @@ In the NCPA **Checks** log, I look at the **`system/uptime`** entries over time.
 | Check Time | Uptime reported |
 |---|---|
 | 14:34:17 | 3 hours 28 minutes 31 seconds |
+| 14:36:08 | 3 hours 30 minutes 22 seconds |
 
 **Result:** PASS. Checks keep arriving from **`192.168.1.99`**, and the uptime goes up each time, which shows the value is live.
 
