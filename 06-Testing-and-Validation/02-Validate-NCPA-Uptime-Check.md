@@ -25,3 +25,9 @@ I'll confirm results from both sides: in Nagios, where the check is scheduled, a
 ---
 
 # Phase 1 – Without Thresholds
+
+Check command:
+
+```
+check_command           check_ncpa!-M system/uptime
+```
