@@ -37,6 +37,10 @@ check_command           check_ncpa!-M system/uptime
 **Steps:**
 
 1. I log in to the Nagios web interface at **`http://192.168.1.99/nagios`**.
+
+<img width="840" height="415" alt="0" src="https://github.com/user-attachments/assets/2b0c5d48-99b8-4ee9-ab6c-33006c2e5299" />
+
+
 2. I click **Services**.
 3. I find **system uptime** for **`comp-a-test`**.
 
