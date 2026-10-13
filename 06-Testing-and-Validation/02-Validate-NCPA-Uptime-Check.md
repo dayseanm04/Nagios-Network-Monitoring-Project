@@ -40,11 +40,13 @@ check_command           check_ncpa!-M system/uptime
 
 <img width="840" height="415" alt="0" src="https://github.com/user-attachments/assets/2b0c5d48-99b8-4ee9-ab6c-33006c2e5299" />
 
-
 2. I click **Services**.
+
+<img width="968" height="489" alt="1" src="https://github.com/user-attachments/assets/cb58edf7-f4c2-4f65-8b21-daa4d92e7891" />
+
 3. I find **system uptime** for **`comp-a-test`**.
 
-<img width="1035" height="521" alt="1" src="https://github.com/user-attachments/assets/243a7682-57dc-4f0c-a381-2254e0be8536" />
+<img width="1035" height="521" alt="2" src="https://github.com/user-attachments/assets/243a7682-57dc-4f0c-a381-2254e0be8536" />
 
 **Actual:**
 
@@ -64,13 +66,13 @@ check_command           check_ncpa!-M system/uptime
 
 1. On **`comp-a-test`**, I open **`https://localhost:5693`** and log in with the token.
 
-<img width="963" height="442" alt="2" src="https://github.com/user-attachments/assets/6f3573cf-c48a-4bbc-b07b-22dc3f872483" />
+<img width="963" height="442" alt="3" src="https://github.com/user-attachments/assets/6f3573cf-c48a-4bbc-b07b-22dc3f872483" />
 
 The **Check Results** count is now **36**, up from 2 when I was testing in the NCPA web interface.
 
 2. I click **Checks**.
 
-<img width="966" height="763" alt="3" src="https://github.com/user-attachments/assets/37c6104c-3c2e-4ea6-8092-53fc0e79ce7d" />
+<img width="966" height="763" alt="4" src="https://github.com/user-attachments/assets/37c6104c-3c2e-4ea6-8092-53fc0e79ce7d" />
 
 
 **Result:** PASS
@@ -113,13 +115,13 @@ Without thresholds, the check always returns OK, so it can't alert me to a reboo
 
 I edit the service in **`windows.cfg`**:
 
-<img width="820" height="431" alt="4" src="https://github.com/user-attachments/assets/8b435bd2-dba8-415b-87a7-72e1d7116513" />
+<img width="820" height="431" alt="5" src="https://github.com/user-attachments/assets/8b435bd2-dba8-415b-87a7-72e1d7116513" />
 
 I run the pre-flight check, reload Nagios, and restart **`comp-a-test`**.
 
-<img width="1028" height="761" alt="5" src="https://github.com/user-attachments/assets/8b70cc01-0883-472d-a501-01f82ed0d288" />
+<img width="1028" height="761" alt="6" src="https://github.com/user-attachments/assets/8b70cc01-0883-472d-a501-01f82ed0d288" />
 
-<img width="1024" height="719" alt="6" src="https://github.com/user-attachments/assets/ab9a90f0-52e1-49e2-a905-ee687b258a50" />
+<img width="1024" height="719" alt="7" src="https://github.com/user-attachments/assets/ab9a90f0-52e1-49e2-a905-ee687b258a50" />
 
 
 Clicked on system uptime for **comp-a-test**
@@ -154,7 +156,7 @@ I update the service:
 check_command           check_ncpa!-M system/uptime -w 3600: -c 600:
 ```
 
-<img width="893" height="445" alt="7" src="https://github.com/user-attachments/assets/52b75b98-4f90-441a-9d72-092b5739f170" />
+<img width="893" height="445" alt="8" src="https://github.com/user-attachments/assets/52b75b98-4f90-441a-9d72-092b5739f170" />
 
 Then I run the pre-flight check, reload Nagios, and restart **`comp-a-test`** again.
 
