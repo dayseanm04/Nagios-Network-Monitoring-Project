@@ -111,3 +111,6 @@ The service count went from **8 to 9**, which confirms Nagios picked up the new 
 ```bash
 sudo systemctl reload nagios
 ```
+
+<img width="902" height="575" alt="14" src="https://github.com/user-attachments/assets/585bbb88-8e24-4c72-837c-8777c10d6809" />
+
