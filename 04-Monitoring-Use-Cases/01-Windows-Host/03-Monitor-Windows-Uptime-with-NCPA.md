@@ -70,5 +70,7 @@ I save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`use generic-service`** | Inherits default check interval, retries, and notification settings |
 | **`host_name comp-a-test`** | Attaches this check to the Windows host |
 | **`service_description system uptime`** | The name shown in the Nagios **Services** page |
-| **`check_command check_ncpa!-M system/uptime`** | Runs the **`check_ncpa`** command and passes **`-M system/uptime`** as `$ARG1$` |
+| **`check_command check_ncpa!-M system/uptime`** | Runs the **`check_ncpa`** command and passes **`-M system/uptime`** as **`$ARG1$`** |
+
+When this check runs, Nagios turns it into:
 
