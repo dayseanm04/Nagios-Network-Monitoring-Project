@@ -60,6 +60,7 @@ check_command           check_ncpa!-M system/uptime
 
 1. On **`comp-a-test`**, I open **`https://localhost:5693`** and log in with the token.
 
+<img width="963" height="442" alt="2" src="https://github.com/user-attachments/assets/6f3573cf-c48a-4bbc-b07b-22dc3f872483" />
 
 
 
