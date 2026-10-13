@@ -64,6 +64,8 @@ check_command           check_ncpa!-M system/uptime
 
 The **Check Results** count is now **36**, up from 2 when I was testing in the NCPA web interface.
 
+2. I click **Checks**.
+
 <img width="966" height="763" alt="3" src="https://github.com/user-attachments/assets/37c6104c-3c2e-4ea6-8092-53fc0e79ce7d" />
 
 
