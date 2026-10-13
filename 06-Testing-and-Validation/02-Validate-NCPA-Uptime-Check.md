@@ -152,6 +152,7 @@ check_command           check_ncpa!-M system/uptime -w 3600: -c 600:
 
 <img width="893" height="445" alt="7" src="https://github.com/user-attachments/assets/52b75b98-4f90-441a-9d72-092b5739f170" />
 
+Then I run the pre-flight check, reload Nagios, and restart `comp-a-test` again.
 
 
 
