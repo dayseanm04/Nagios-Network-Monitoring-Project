@@ -43,5 +43,10 @@ sudo nano windows.cfg
 
 I scroll down to **SERVICE DEFINITIONS** and add a labeled section so I can group future NCPA system checks together:
 
+```
+#----------------------------------
+# SECTION: system
+# Purpose: monitor core OS metrics.
+#----------------------------------
 
 
