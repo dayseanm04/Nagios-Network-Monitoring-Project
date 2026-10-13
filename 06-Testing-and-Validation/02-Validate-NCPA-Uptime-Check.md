@@ -97,7 +97,8 @@ Without thresholds, the check always returns OK, so it can't alert me to a reboo
 
 **Goal:**
 
-
+| Uptime | Expected result |
+|---|---|
 
 
 
