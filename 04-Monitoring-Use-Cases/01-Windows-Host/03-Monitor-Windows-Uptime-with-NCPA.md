@@ -129,3 +129,4 @@ check_command           check_ncpa!-M system/uptime -w 3600: -c 600:
 | Uptime | Result |
 |---|---|
 | More than 1 hour | 🟩 OK |
+| Under 1 hour (3600 seconds) | 🟨 WARNING |
