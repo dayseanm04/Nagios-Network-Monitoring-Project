@@ -22,3 +22,9 @@ Uptime tells me how long a machine has been running since it last restarted. I'm
 ## Step 1 – Open the Windows Config File
 
 Ensure I was in my home directory, then I change directory the Nagios objects folder:
+
+```bash
+cd
+cd /usr/local/nagios/etc/objects
+ls -l
+```
