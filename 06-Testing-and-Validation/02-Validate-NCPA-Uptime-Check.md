@@ -111,6 +111,7 @@ I edit the service in **`windows.cfg`**:
 
 <img width="820" height="431" alt="4" src="https://github.com/user-attachments/assets/8b435bd2-dba8-415b-87a7-72e1d7116513" />
 
+I run the pre-flight check, reload Nagios, and restart **`comp-a-test`**.
 
 
 
