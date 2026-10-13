@@ -118,6 +118,7 @@ sudo systemctl reload nagios
 
 ## Next Steps
 
+**Add thresholds so a reboot triggers an alert.** For uptime, a **low** value is the problem. 
 
 
 
