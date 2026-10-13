@@ -108,4 +108,6 @@ The service count went from **8 to 9**, which confirms Nagios picked up the new 
 
 ## Step 4 – Reload Nagios
 
-
+```bash
+sudo systemctl reload nagios
+```
