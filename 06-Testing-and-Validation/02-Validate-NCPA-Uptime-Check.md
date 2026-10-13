@@ -103,6 +103,9 @@ Without thresholds, the check always returns OK, so it can't alert me to a reboo
 | Under 1 hour | 🟨 WARNING |
 | Under 10 minutes (600 seconds) | 🟥 CRITICAL |
 
+---
+
+## TC-04 – First Attempt: Thresholds Without Colons
 
 
 
