@@ -112,7 +112,7 @@ The service count went from **8 to 9**, which confirms Nagios picked up the new 
 sudo systemctl reload nagios
 ```
 
-<img width="902" height="575" alt="14" src="https://github.com/user-attachments/assets/585bbb88-8e24-4c72-837c-8777c10d6809" />
+<img width="902" height="575" alt="4" src="https://github.com/user-attachments/assets/585bbb88-8e24-4c72-837c-8777c10d6809" />
 
 ---
 
@@ -123,5 +123,7 @@ sudo systemctl reload nagios
 ```
 check_command           check_ncpa!-M system/uptime -w 3600 -c 600
 ```
+
+<img width="820" height="431" alt="5" src="https://github.com/user-attachments/assets/d937ffc5-2b8e-41df-af61-9b7337ec53fb" />
 
 
