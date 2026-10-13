@@ -58,7 +58,7 @@ check_command           check_ncpa!-M system/uptime
 
 **Steps:**
 
-
+1. On **`comp-a-test`**, I open **`https://localhost:5693`** and log in with the token.
 
 
 
