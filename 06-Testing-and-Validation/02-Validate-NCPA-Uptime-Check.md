@@ -10,3 +10,6 @@ I'll confirm results from both sides: in Nagios, where the check is scheduled, a
 > **How this check was created:** [**Click here to see Monitor Windows Uptime with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/03-Monitor-Windows-Uptime-with-NCPA.md)
 
 ---
+
+## Test Cases
+
