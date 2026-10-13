@@ -8,3 +8,4 @@ In this doc, I will create my first NCPA service check in Nagios. It monitors ho
 
 ## Prerequisites
 - NCPA installed and running on **`comp-a-test`** (see [**02 – Install NCPA on Windows Host**](02-Install-NCPA-on-Windows-Host.md))
+- **`check_ncpa.py`** plugin and **`check_ncpa`** command set up on the Nagios server (see [**02-Setup / 07 – Set Up NCPA Check Command in Nagios**](../../02-Setup/07-Set-Up-NCPA-Check-Command-in-Nagios.md))
