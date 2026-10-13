@@ -92,7 +92,14 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1079" height="613" alt="3" src="https://github.com/user-attachments/assets/885bb60e-3de6-4ab7-a422-80eb2351c123" />
 
+Expected result:
 
-
+```
+Checked 9 services.
+Checked 2 hosts.
+...
+Total Warnings: 0
+Total Errors:   0
+```
 
 
