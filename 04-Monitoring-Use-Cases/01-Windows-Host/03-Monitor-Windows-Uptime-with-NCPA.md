@@ -67,4 +67,5 @@ I save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 | Line | What it does |
 |---|---|
+| **`use generic-service`** | Inherits default check interval, retries, and notification settings |
 
