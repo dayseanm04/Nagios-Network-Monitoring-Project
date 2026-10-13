@@ -144,6 +144,7 @@ For uptime, the problem is a value that's too **low**. In Nagios range syntax, a
 | **`600`** | Alert if **above** 600 |
 | **`600:`** | Alert if **below** 600 |
 
+I update the service:
 
 
 
