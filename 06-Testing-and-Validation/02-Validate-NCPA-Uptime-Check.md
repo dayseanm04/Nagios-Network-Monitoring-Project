@@ -133,7 +133,9 @@ Clicked on system uptime for **comp-a-test**
 
 **Why:** By default, Nagios thresholds alert when a value goes **above** the number. So **`-c 600`** meant "CRITICAL if uptime is **more than** 600 seconds." Any machine running longer than 10 minutes would be CRITICAL, which is backwards for uptime.
 
+---
 
+## Fix – Add Colons to the Thresholds
 
 
 
