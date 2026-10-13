@@ -12,3 +12,6 @@ In this doc, I will create my first NCPA service check in Nagios. It monitors ho
 - The metric tested in the NCPA web interface first (see [**07-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../07-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md))
 
 ---
+
+## Why Monitor Uptime?
+
