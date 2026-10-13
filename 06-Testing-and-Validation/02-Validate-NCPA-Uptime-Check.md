@@ -101,6 +101,7 @@ Without thresholds, the check always returns OK, so it can't alert me to a reboo
 |---|---|
 | More than 1 hour (3600 seconds) | 🟩 OK |
 | Under 1 hour | 🟨 WARNING |
+| Under 10 minutes (600 seconds) | 🟥 CRITICAL |
 
 
 
