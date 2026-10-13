@@ -41,6 +41,7 @@ sudo nano windows.cfg
 
 ## Step 2 – Create the Service
 
+I scroll down to **SERVICE DEFINITIONS** and add a labeled section so I can group future NCPA system checks together:
 
 
 
