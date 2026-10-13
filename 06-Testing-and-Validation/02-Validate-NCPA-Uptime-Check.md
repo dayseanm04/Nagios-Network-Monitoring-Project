@@ -198,6 +198,7 @@ The colons in the performance data (**`3600:;600:`**) confirm the corrected thre
 
 ## TC-07 – Uptime Over 1 Hour
 
+**Expected:** Once **`comp-a-test`** has been up for more than 3600 seconds, the service returns to **OK**.
 
 
 
