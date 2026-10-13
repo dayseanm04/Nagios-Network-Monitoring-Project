@@ -194,6 +194,9 @@ Clicked on system uptime for **comp-a-test** for more info
 
 The colons in the performance data (**`3600:;600:`**) confirm the corrected thresholds are in use.
 
+---
+
+## TC-07 – Uptime Over 1 Hour
 
 
 
