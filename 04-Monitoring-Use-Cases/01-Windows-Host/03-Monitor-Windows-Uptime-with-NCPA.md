@@ -68,4 +68,5 @@ I save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | Line | What it does |
 |---|---|
 | **`use generic-service`** | Inherits default check interval, retries, and notification settings |
+| **`host_name comp-a-test`** | Attaches this check to the Windows host |
 
