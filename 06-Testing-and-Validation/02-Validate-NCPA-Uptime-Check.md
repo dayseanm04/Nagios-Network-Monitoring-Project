@@ -119,6 +119,7 @@ I run the pre-flight check, reload Nagios, and restart **`comp-a-test`**.
 
 | Field | Value |
 |---|---|
+| Current Status | **CRITICAL** |
 
 
 
