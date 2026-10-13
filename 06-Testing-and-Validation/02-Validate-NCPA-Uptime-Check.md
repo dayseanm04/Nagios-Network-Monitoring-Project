@@ -117,6 +117,8 @@ I run the pre-flight check, reload Nagios, and restart **`comp-a-test`**.
 
 **Actual:**
 
+| Field | Value |
+|---|---|
 
 
 
