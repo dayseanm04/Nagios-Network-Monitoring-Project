@@ -73,6 +73,7 @@ The **Check Results** count is now **36**, up from 2 when I was testing in the N
 
 The uptime in NCPA matches what Nagios shows, and **Executed By `192.168.1.99`** proves the check came from the Nagios server. My earlier tests from the NCPA web interface showed **`127.0.0.1`** instead.
 
+---
 
 
 
