@@ -74,3 +74,9 @@ I save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 When this check runs, Nagios turns it into:
 
+```
+/usr/local/nagios/libexec/check_ncpa.py -H 192.168.1.9 -t '<token>' -P 5693 -M system/uptime
+```
+
+
+
