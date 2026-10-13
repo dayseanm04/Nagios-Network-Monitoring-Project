@@ -115,6 +115,9 @@ I run the pre-flight check, reload Nagios, and restart **`comp-a-test`**.
 
 <img width="1028" height="761" alt="5" src="https://github.com/user-attachments/assets/8b70cc01-0883-472d-a501-01f82ed0d288" />
 
+<img width="1024" height="719" alt="6" src="https://github.com/user-attachments/assets/ab9a90f0-52e1-49e2-a905-ee687b258a50" />
+
+
 Clicked on system uptime for **comp-a-test**
 
 **Actual:**
