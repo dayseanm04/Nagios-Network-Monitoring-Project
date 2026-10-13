@@ -51,5 +51,11 @@ I scroll down to **SERVICE DEFINITIONS** and add a labeled section so I can grou
 
 # Create a service for monitoring system uptime
 
+define service {
+    use                     generic-service
+    host_name               comp-a-test
+    service_description     system uptime
+    check_command           check_ncpa!-M system/uptime
+}
 ```
 
