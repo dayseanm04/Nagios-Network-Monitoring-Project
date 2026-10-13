@@ -107,6 +107,8 @@ Without thresholds, the check always returns OK, so it can't alert me to a reboo
 
 ## TC-04 – First Attempt: Thresholds Without Colons
 
+I edit the service in **`windows.cfg`**:
+
 <img width="820" height="431" alt="4" src="https://github.com/user-attachments/assets/8b435bd2-dba8-415b-87a7-72e1d7116513" />
 
 
