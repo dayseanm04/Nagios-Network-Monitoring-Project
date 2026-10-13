@@ -83,3 +83,7 @@ The host IP comes from **`$HOSTADDRESS$`** and the token from **`$USER5$`** in *
 > **No thresholds yet.** This check has no **`-w`** or **`-c`**, so it always returns **OK** and just reports the uptime. 
 
 ---
+
+## Step 3 – Run the Pre-Flight Check
+
+
