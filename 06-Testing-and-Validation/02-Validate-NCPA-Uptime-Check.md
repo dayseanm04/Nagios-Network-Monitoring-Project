@@ -206,6 +206,9 @@ Clicked on system uptime for **comp-a-test** for more info
 
 <img width="1017" height="628" alt="14" src="https://github.com/user-attachments/assets/eb29d504-be07-4f55-8a90-235ee99b6873" />
 
+---
+
+## Reading the Service Details
 
 
 
