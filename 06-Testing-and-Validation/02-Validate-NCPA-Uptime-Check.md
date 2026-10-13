@@ -223,6 +223,7 @@ Clicked on system uptime for **comp-a-test** for more info
 
 The **`system uptime`** NCPA check works end to end. Nagios schedules the check, **`check_ncpa.py`** reaches NCPA on **`comp-a-test`** over port **`5693`**, and the result shows up in both Nagios and NCPA.
 
+During threshold testing, my first configuration (**`-w 3600 -c 600`**) alerted on the wrong condition, marking a machine that had been up for 23 minutes as CRITICAL. Adding colons (**`-w 3600: -c 600:`**) fixed it, and the check now correctly shows CRITICAL under 10 minutes and WARNING under 1 hour after a reboot.
 
 
 
