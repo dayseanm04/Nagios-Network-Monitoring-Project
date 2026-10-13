@@ -217,7 +217,9 @@ Clicked on system uptime for **comp-a-test** for more info
 | **Current Attempt – HARD** | The problem was confirmed on every retry (3/3). This is when notifications are sent |
 | **Is This Service Flapping?** | YES means the service changed state a lot in a short time. Rebooting and changing thresholds moved it between OK, CRITICAL, and WARNING quickly. While a service is flapping, Nagios holds back notifications so it doesn't spam alerts |
 
+---
 
+## Conclusion
 
 
 
