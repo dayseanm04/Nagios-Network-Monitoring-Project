@@ -188,6 +188,7 @@ Clicked on system uptime for **comp-a-test** for more info
 
 <img width="1028" height="733" alt="12" src="https://github.com/user-attachments/assets/e38313ba-6cdf-43b7-aa6e-86e9036054a2" />
 
+**Expected:** WARNING (over 600 seconds, under 3600 seconds).
 
 
 
