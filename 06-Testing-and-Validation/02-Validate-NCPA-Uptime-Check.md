@@ -232,6 +232,9 @@ During threshold testing, my first configuration (**`-w 3600 -c 600`**) alerted 
 - **Restarting `comp-a-test` also restarts the Nagios VM**, since **`NetworkVM`** runs on it in Hyper-V. In a real company, the monitoring server would run on separate hardware so it stays up when the machines it monitors go down.
 - Filtering the NCPA **Checks** log by **Executed By: 192.168.1.99** is a quick way to confirm Nagios is reaching any NCPA host.
 
+---
+
+## Related Docs
 
 
 
