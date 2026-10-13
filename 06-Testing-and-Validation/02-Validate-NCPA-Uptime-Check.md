@@ -236,6 +236,7 @@ During threshold testing, my first configuration (**`-w 3600 -c 600`**) alerted 
 
 ## Related Docs
 
+- [04-Monitoring-Use-Cases / 01-Windows-Host / 03 – Monitor Windows Uptime with NCPA](../04-Monitoring-Use-Cases/01-Windows-Host/03-Monitor-Windows-Uptime-with-NCPA.md)
 
 
 
