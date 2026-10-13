@@ -50,4 +50,5 @@ check_command           check_ncpa!-M system/uptime
 
 **Result:** PASS
 
+> The service totals show **8 OK, 1 CRITICAL**. The CRITICAL is the **`SSH`** check on **`localhost`**, which is unrelated to this test.
 
