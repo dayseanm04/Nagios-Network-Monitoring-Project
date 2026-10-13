@@ -75,6 +75,7 @@ The uptime in NCPA matches what Nagios shows, and **Executed By `192.168.1.99`**
 
 ---
 
+## TC-03 – Confirm the Check Runs on a Schedule
 
 
 
