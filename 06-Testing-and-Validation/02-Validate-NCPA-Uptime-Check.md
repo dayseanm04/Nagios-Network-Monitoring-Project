@@ -13,3 +13,5 @@ I'll confirm results from both sides: in Nagios, where the check is scheduled, a
 
 ## Test Cases
 
+| ID | Phase | Test | Expected | Actual | Status |
+|---|---|---|---|---|---|
