@@ -46,6 +46,7 @@ check_command           check_ncpa!-M system/uptime
 
 | Host | Service | Status | Attempt | Status Information |
 |---|---|---|---|---|
+| **`comp-a-test`** | system uptime | **OK** | 1/3 | OK: Uptime was 3 hours 56 minutes 33 seconds |
 
 
 
