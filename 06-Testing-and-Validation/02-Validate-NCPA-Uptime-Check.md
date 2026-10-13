@@ -95,7 +95,7 @@ In the NCPA **Checks** log, I look at the **`system/uptime`** entries over time.
 
 Without thresholds, the check always returns OK, so it can't alert me to a reboot. In this phase, I add thresholds and restart **`comp-a-test`** to make sure a recent reboot triggers WARNING and CRITICAL.
 
-
+**Goal:**
 
 
 
