@@ -20,3 +20,4 @@ I'll confirm results from both sides: in Nagios, where the check is scheduled, a
 | TC-03 | No thresholds | Checks run on a schedule | Repeated entries, uptime increasing | Entries from 17:43 to 17:50 | PASS |
 | TC-04 | Thresholds (first attempt) | **`-w 3600 -c 600`**, uptime 23 min | **WARNING** (under 1 hour) | **CRITICAL** | FAIL – config issue |
 | TC-05 | Thresholds (fixed) | **`-w 3600: -c 600:`**, uptime under 10 min | **CRITICAL** | CRITICAL – Uptime was 8 minutes 20 seconds | PASS |
+| TC-06 | Thresholds (fixed) | Uptime between 10 min and 1 hour | **WARNING** | WARNING – Uptime was 12 minutes 17 seconds |  PASS |
