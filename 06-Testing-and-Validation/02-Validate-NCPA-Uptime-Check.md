@@ -190,6 +190,7 @@ Clicked on system uptime for **comp-a-test** for more info
 
 **Expected:** WARNING (over 600 seconds, under 3600 seconds).
 
+**Result:** PASS
 
 
 
