@@ -137,5 +137,10 @@ Clicked on system uptime for **comp-a-test**
 
 ## Fix – Add Colons to the Thresholds
 
+For uptime, the problem is a value that's too **low**. In Nagios range syntax, a number followed by a colon means "alert if the value is **below** this":
+
+
+
+
 
 
