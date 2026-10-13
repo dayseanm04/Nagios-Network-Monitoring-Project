@@ -120,5 +120,8 @@ sudo systemctl reload nagios
 
 **Add thresholds so a reboot triggers an alert.** For uptime, a **low** value is the problem. 
 
+```
+check_command           check_ncpa!-M system/uptime -w 3600 -c 600
+```
 
 
