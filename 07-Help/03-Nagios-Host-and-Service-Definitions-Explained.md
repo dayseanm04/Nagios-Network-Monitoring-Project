@@ -100,7 +100,7 @@ In this project, each Windows host has its own file in **`windows-hosts/`**:
 
 ```bash
 cd /usr/local/nagios/etc/windows-hosts
-sudo nano windows.cfg
+sudo nano comp-a-test.cfg
 ```
 
 **Note**: **`cd`** on its own takes you back to your home directory if you're somewhere else. You don't need it before an absolute path like the one above.
