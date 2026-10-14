@@ -236,6 +236,8 @@ The counts match what I had before the restructure. Same counts with 0 errors me
 
 ---
 
+## Step 8 – Restart Nagios
+
 
 
 
