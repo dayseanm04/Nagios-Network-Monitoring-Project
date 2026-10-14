@@ -212,6 +212,7 @@ sudo nano windows-hostgroup.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+I set its ownership and permissions to match:
 
 
 
