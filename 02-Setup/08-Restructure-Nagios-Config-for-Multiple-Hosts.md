@@ -281,6 +281,10 @@ cd /usr/local/nagios/etc/windows-hosts
 sudo cp comp-a-test.cfg comp-b-test.cfg
 ```
 
+Then:
+
+1. Change the **`address`** and **`alias`** to the new host's details.
+2. Set ownership and permissions:
 
 
 
