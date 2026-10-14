@@ -118,6 +118,7 @@ Now **`comp-a-test`** is defined in two places: **`objects/windows.cfg`** and **
 Error: Duplicate definition found for host 'comp-a-test'
 ```
 
+I go back to the **`etc`** folder and open **`nagios.cfg`**:
 
 
 
