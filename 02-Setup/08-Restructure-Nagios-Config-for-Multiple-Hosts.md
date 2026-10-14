@@ -29,3 +29,4 @@ This makes it easy to add a new Windows host by adding a new file, instead of ad
 
 ---
 
+## cfg_file vs. cfg_dir
