@@ -73,6 +73,9 @@ In this project, Windows hosts are defined here instead of in **`windows.cfg`**,
 cfg_dir=/usr/local/nagios/etc/windows-hosts
 ```
 
+<img width="787" height="285" alt="Screenshot 2026-10-13 195050" src="https://github.com/user-attachments/assets/61b45f3c-edb5-4b0e-a839-ba15b5f7db2d" />
+
+
 A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncommented in **`nagios.cfg**`. For example, **`windows.cfg`** was commented out by default and had to be enabled before the Windows host showed up in Nagios.
 
 | File | What it holds |
