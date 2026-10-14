@@ -262,6 +262,9 @@ The check is running from the new **`windows-hosts/comp-a-test.cfg`** file with 
 
 The check is running from the new **`windows-hosts/comp-a-test.cfg`** file with the same thresholds as before.
 
+---
+
+## Result
 
 
 
