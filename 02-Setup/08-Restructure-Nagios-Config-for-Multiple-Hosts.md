@@ -18,3 +18,11 @@ This makes it easy to add a new Windows host by adding a new file, instead of ad
 
 **After** – one file per host, shared definitions in their own file:
 
+```
+/usr/local/nagios/etc/
+├── objects/
+│   └── windows.cfg            ← disabled, kept for reference
+└── windows-hosts/
+    ├── windows-hostgroup.cfg  ← windows-servers hostgroup (shared)
+    └── comp-a-test.cfg        ← comp-a-test host + its services
+```
