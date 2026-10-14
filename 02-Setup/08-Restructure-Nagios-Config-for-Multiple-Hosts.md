@@ -102,6 +102,7 @@ sudo mv windows.cfg comp-a-test.cfg
 ls -l
 ```
 
+<img width="958" height="437" alt="5" src="https://github.com/user-attachments/assets/afe5eced-a285-4737-8ccc-d811bd1fadeb" />
 
 
 
