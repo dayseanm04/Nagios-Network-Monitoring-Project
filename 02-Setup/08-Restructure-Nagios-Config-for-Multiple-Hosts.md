@@ -176,7 +176,7 @@ These match the `objects` folder (**`drwxrwxr-x`**) and its files (**`-rw-rw-r--
 
 ### Why
 
-**`comp-a-test.cfg`** should only hold **`comp-a-test`** and its services. But the copied file also includes the **`windows-servers`** hostgroup, which is shared by **every** Windows host. E
+**`comp-a-test.cfg`** should only hold **`comp-a-test`** and its services. But the copied file also includes the **`windows-servers`** hostgroup, which is shared by **every** Windows host. Every host that uses the **`windows-server`** template joins it automatically.
 
 
 
