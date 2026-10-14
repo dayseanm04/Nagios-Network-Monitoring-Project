@@ -200,6 +200,7 @@ I delete the **HOST GROUP DEFINITIONS** section:
 
 <img width="893" height="413" alt="13" src="https://github.com/user-attachments/assets/bc662be1-263e-4ce0-a636-9ece087abb77" />
 
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
