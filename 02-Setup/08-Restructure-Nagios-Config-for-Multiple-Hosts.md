@@ -15,3 +15,6 @@ This makes it easy to add a new Windows host by adding a new file, instead of ad
 └── objects/
     └── windows.cfg        ← hostgroup + comp-a-test + all its services
 ```
+
+**After** – one file per host, shared definitions in their own file:
+
