@@ -64,7 +64,7 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 ### Windows hosts folder – `/usr/local/nagios/etc/windows-hosts/`
 
-<img width="898" height="350" alt="1a" src="https://github.com/user-attachments/assets/9ee058c0-e8d1-401f-84f9-35d1778c896d" />
+<img width="873" height="382" alt="1b" src="https://github.com/user-attachments/assets/682a8438-d5e9-4b51-93ff-27c2bf762d6d" />
 
 
 In this project, Windows hosts are defined here instead of in **`windows.cfg`**, with one file per host. The whole folder is loaded with a single line in **`nagios.cfg`**:
@@ -73,7 +73,7 @@ In this project, Windows hosts are defined here instead of in **`windows.cfg`**,
 cfg_dir=/usr/local/nagios/etc/windows-hosts
 ```
 
-<img width="787" height="285" alt="Screenshot 2026-10-13 195050" src="https://github.com/user-attachments/assets/61b45f3c-edb5-4b0e-a839-ba15b5f7db2d" />
+<img width="787" height="285" alt="1c" src="https://github.com/user-attachments/assets/61b45f3c-edb5-4b0e-a839-ba15b5f7db2d" />
 
 
 A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncommented in **`nagios.cfg`**. For example, **`windows.cfg`** was commented out by default and had to be enabled before the Windows host showed up in Nagios.
