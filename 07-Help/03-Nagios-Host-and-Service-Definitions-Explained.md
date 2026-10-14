@@ -64,6 +64,9 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 ### Windows hosts folder – `/usr/local/nagios/etc/windows-hosts/`
 
+<img width="898" height="350" alt="1a" src="https://github.com/user-attachments/assets/9ee058c0-e8d1-401f-84f9-35d1778c896d" />
+
+
 In this project, Windows hosts are defined here instead of in **`windows.cfg`**, with one file per host. The whole folder is loaded with a single line in **`nagios.cfg`**:
 
 A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncommented in **`nagios.cfg**`. For example, **`windows.cfg`** was commented out by default and had to be enabled before the Windows host showed up in Nagios.
