@@ -63,7 +63,7 @@ ls -l
 
 The new folder is owned by **`root:root`** because I created it with **`sudo`**. I'll fix that in Step 5.
 
-
+---
 
 
 
