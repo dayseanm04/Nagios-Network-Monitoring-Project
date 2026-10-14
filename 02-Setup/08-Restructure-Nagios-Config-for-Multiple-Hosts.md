@@ -112,6 +112,7 @@ Naming each file after its host means I can tell what's in it without opening it
 
 ## Step 4 – Disable the Old windows.cfg
 
+Now **`comp-a-test`** is defined in two places: **`objects/windows.cfg`** and **`windows-hosts/comp-a-test.cfg`**. If both load, the pre-flight check fails with:
 
 
 
