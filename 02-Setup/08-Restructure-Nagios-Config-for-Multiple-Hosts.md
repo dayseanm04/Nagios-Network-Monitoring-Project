@@ -202,6 +202,7 @@ I delete the **HOST GROUP DEFINITIONS** section:
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+### Create windows-hostgroup.cfg
 
 
 
