@@ -73,6 +73,8 @@ I open the main config:
 sudo nano nagios.cfg
 ```
 
+I scroll down to the **`cfg_dir`** section. It already has commented-out examples like **`servers`**, **`printers`**, **`switches`**, and **`routers`**. Under them, I add:
+
 <img width="873" height="382" alt="3" src="https://github.com/user-attachments/assets/28dbce63-4c07-40de-95ee-47b0470c2c65" />
 
 
