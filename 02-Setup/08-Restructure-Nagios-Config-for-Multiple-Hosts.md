@@ -138,6 +138,8 @@ I comment out the old **`windows.cfg`** line:
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+I keep **`objects/windows.cfg`** as a reference copy. It won't load as long as that line is commented out.
+
 
 
 
