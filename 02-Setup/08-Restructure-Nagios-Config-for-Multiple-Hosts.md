@@ -61,6 +61,8 @@ ls -l
 
 <img width="811" height="235" alt="2" src="https://github.com/user-attachments/assets/d17161cc-96e2-421d-bd65-84dfbc303987" />
 
+The new folder is owned by **`root:root`** because I created it with **`sudo`**. I'll fix that in Step 5.
+
 
 
 
