@@ -74,6 +74,7 @@ A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncomm
 | File | What it holds |
 |---|---|
 | **`windows-hostgroup.cfg`** | The **`windows-servers`** hostgroup, shared by every Windows host |
+| **`comp-a-test.cfg`** | The **`comp-a-test`** host and its services |
 
 ### Objects folder – `/usr/local/nagios/etc/objects/`
 
