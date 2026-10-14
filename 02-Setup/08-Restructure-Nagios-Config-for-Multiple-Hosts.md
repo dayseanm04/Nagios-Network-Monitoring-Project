@@ -268,7 +268,9 @@ The check is running from the new **`windows-hosts/comp-a-test.cfg`** file with 
 
 Windows host configuration now lives in **`/usr/local/nagios/etc/windows-hosts/`**, loaded by a single **`cfg_dir`** line in **`nagios.cfg`**. **`comp-a-test.cfg`** holds only **`comp-a-test`** and its services, and the shared **`windows-servers`** hostgroup has its own file. The old **`objects/windows.cfg`** is disabled. The pre-flight check passes with 0 warnings and 0 errors, and the existing uptime check still works.
 
+---
 
+## Adding a New Windows Host
 
 
 
