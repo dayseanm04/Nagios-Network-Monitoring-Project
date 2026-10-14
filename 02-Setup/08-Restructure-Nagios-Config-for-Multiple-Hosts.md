@@ -294,6 +294,7 @@ sudo chmod 664 comp-b-test.cfg
 3. Run the pre-flight check. It should show **one more host** than before.
 4. Restart Nagios.
 
+The new host joins **`windows-servers`** [use windows-server] automatically through the **`windows-server`** template. Nothing in **`nagios.cfg`** or **`windows-hostgroup.cfg`** needs to change.
 
 
 
