@@ -242,6 +242,7 @@ The counts match what I had before the restructure. Same counts with 0 errors me
 sudo systemctl restart nagios
 ```
 
+<img width="881" height="236" alt="17" src="https://github.com/user-attachments/assets/35c946ee-2661-45af-97ed-3b021d183de3" />
 
 
 
