@@ -127,6 +127,7 @@ sudo nano nagios.cfg
 
 <img width="781" height="215" alt="6" src="https://github.com/user-attachments/assets/180e4be3-2eb8-4916-b7ec-89ff01a5848b" />
 
+I comment out the old **`windows.cfg`** line:
 
 
 
