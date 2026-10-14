@@ -59,6 +59,7 @@ sudo mkdir windows-hosts
 ls -l
 ```
 
+<img width="811" height="235" alt="2" src="https://github.com/user-attachments/assets/d17161cc-96e2-421d-bd65-84dfbc303987" />
 
 
 
