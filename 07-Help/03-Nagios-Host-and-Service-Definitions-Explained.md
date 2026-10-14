@@ -66,6 +66,7 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 In this project, Windows hosts are defined here instead of in **`windows.cfg`**, with one file per host. The whole folder is loaded with a single line in **`nagios.cfg`**:
 
+A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncommented in **`nagios.cfg**`. For example, **`windows.cfg`** was commented out by default and had to be enabled before the Windows host showed up in Nagios.
 
 ### Objects folder – `/usr/local/nagios/etc/objects/`
 
@@ -80,8 +81,6 @@ This folder holds the individual config files where you define what Nagios monit
 | **`commands.cfg`** | Command definitions like **`check_nt`**, **`check_ping`**, and **`check_ncpa`** |
 | **`contacts.cfg`** | Who gets notified (e.g. `nagiosadmin`) and how |
 | `**timeperiods.cfg`** | When checks and notifications happen (e.g. **`24x7`**, **`workhours`**) |
-
-A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncommented in **`nagios.cfg**`. For example, **`windows.cfg`** was commented out by default and had to be enabled before the Windows host showed up in Nagios.
 
 ---
 
