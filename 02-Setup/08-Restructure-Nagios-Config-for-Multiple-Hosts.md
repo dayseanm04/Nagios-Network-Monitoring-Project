@@ -180,6 +180,7 @@ These match the `objects` folder (**`drwxrwxr-x`**) and its files (**`-rw-rw-r--
 
 | Belongs to `comp-a-test` only | Shared by all Windows hosts |
 |---|---|
+| **`define host`** for **`comp-a-test`** | **`define hostgroup`** for **`windows-servers`** |
 
 
 
