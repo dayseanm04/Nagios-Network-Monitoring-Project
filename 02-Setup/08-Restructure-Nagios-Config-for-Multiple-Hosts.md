@@ -81,6 +81,9 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ---
 
+## Step 3 – Copy windows.cfg and Rename It
+
+
 
 
 
