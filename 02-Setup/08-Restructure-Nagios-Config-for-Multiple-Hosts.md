@@ -142,6 +142,8 @@ I keep **`objects/windows.cfg`** as a reference copy. It won't load as long as t
 
 ## Step 5 – Set Ownership and Permissions
 
+Since I used **`sudo`** to create the folder and copy the file, both are owned by **`root`**. I change them to match the rest of the Nagios config:
+
 
 
 
