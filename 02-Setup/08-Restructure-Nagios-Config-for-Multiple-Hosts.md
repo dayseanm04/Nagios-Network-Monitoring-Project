@@ -286,6 +286,10 @@ Then:
 1. Change the **`address`** and **`alias`** to the new host's details.
 2. Set ownership and permissions:
 
+```bash
+sudo chown nagios:nagios comp-b-test.cfg
+sudo chmod 664 comp-b-test.cfg
+```
 
 
 
