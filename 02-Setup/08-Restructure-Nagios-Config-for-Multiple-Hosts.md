@@ -189,8 +189,12 @@ If the hostgroup stays in **`comp-a-test.cfg`**:
 
 ### Remove it from comp-a-test.cfg
 
+```bash
+cd windows-hosts
+sudo nano comp-a-test.cfg
+```
 
-
+<img width="911" height="508" alt="12" src="https://github.com/user-attachments/assets/0cecbbf5-15aa-415c-b171-0e7c0c20fa8b" />
 
 
 
