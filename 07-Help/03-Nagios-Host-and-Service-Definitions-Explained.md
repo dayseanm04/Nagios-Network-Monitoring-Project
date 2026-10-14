@@ -73,6 +73,7 @@ A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncomm
 
 | File | What it holds |
 |---|---|
+| **`windows-hostgroup.cfg`** | The **`windows-servers`** hostgroup, shared by every Windows host |
 
 ### Objects folder – `/usr/local/nagios/etc/objects/`
 
