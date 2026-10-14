@@ -182,6 +182,8 @@ These match the `objects` folder (**`drwxrwxr-x`**) and its files (**`-rw-rw-r--
 |---|---|
 | **`define host`** for **`comp-a-test`** | **`define hostgroup`** for **`windows-servers`** |
 
+If the hostgroup stays in **`comp-a-test.cfg`**:
+
 
 
 
