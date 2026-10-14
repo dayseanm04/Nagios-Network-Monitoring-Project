@@ -187,6 +187,7 @@ If the hostgroup stays in **`comp-a-test.cfg`**:
 - **Adding a host breaks the config.** Copying **`comp-a-test.cfg`** to make **`comp-b-test.cfg`** would define **`windows-servers`** twice, causing **`Duplicate definition found for hostgroup 'windows-servers'`**.
 - **Removing a host breaks the config.** Deleting **`comp-a-test.cfg`** would delete the hostgroup, and every other Windows host would fail with **`Could not find any hostgroup matching 'windows-servers'`**.
 
+### Remove it from comp-a-test.cfg
 
 
 
