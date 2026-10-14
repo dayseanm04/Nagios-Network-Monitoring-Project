@@ -291,5 +291,21 @@ sudo chown nagios:nagios comp-b-test.cfg
 sudo chmod 664 comp-b-test.cfg
 ```
 
+3. Run the pre-flight check. It should show **one more host** than before.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
