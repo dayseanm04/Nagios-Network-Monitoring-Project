@@ -54,7 +54,10 @@ ls -l
 
 I create the folder:
 
-
+```bash
+sudo mkdir windows-hosts
+ls -l
+```
 
 
 
