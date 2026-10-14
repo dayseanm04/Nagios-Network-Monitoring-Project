@@ -184,6 +184,7 @@ These match the `objects` folder (**`drwxrwxr-x`**) and its files (**`-rw-rw-r--
 
 If the hostgroup stays in **`comp-a-test.cfg`**:
 
+- **Adding a host breaks the config.** Copying **`comp-a-test.cfg`** to make **`comp-b-test.cfg`** would define **`windows-servers`** twice, causing **`Duplicate definition found for hostgroup 'windows-servers'`**.
 
 
 
