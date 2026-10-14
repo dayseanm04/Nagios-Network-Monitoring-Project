@@ -42,5 +42,6 @@ With **`cfg_dir`**, I don't have to edit **`nagios.cfg`** every time I add a hos
 
 ## Step 1 – Create the Directory
 
+I make sure I'm in my home directory, then go to the Nagios **`etc`** folder:
 
 
