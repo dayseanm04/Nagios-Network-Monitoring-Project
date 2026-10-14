@@ -91,7 +91,7 @@ sudo cp /usr/local/nagios/etc/objects/windows.cfg .
 ls -l
 ```
 
-<img width="937" height="378" alt="5" src="https://github.com/user-attachments/assets/9da42d28-520e-43be-acb1-e7268b366939" />
+<img width="937" height="378" alt="4" src="https://github.com/user-attachments/assets/9da42d28-520e-43be-acb1-e7268b366939" />
 
 
 
