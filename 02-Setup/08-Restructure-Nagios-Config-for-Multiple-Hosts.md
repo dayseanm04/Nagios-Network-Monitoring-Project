@@ -224,6 +224,7 @@ ls -l
 
 ---
 
+## Step 7 – Run the Pre-Flight Check
 
 
 
