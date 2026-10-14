@@ -8,3 +8,4 @@ This makes it easy to add a new Windows host by adding a new file, instead of ad
 
 ## Before and After
 
+**Before** – everything in one file:
