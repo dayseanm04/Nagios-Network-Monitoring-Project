@@ -260,6 +260,7 @@ I log in to **`http://192.168.1.99/nagios`** and click **Services**.
 
 The check is running from the new **`windows-hosts/comp-a-test.cfg`** file with the same thresholds as before.
 
+The check is running from the new **`windows-hosts/comp-a-test.cfg`** file with the same thresholds as before.
 
 
 
