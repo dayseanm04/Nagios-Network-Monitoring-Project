@@ -68,6 +68,9 @@ In this project, Windows hosts are defined here instead of in **`windows.cfg`**,
 
 A file in **`objects/`** only takes effect if its **`cfg_file=`** line is uncommented in **`nagios.cfg**`. For example, **`windows.cfg`** was commented out by default and had to be enabled before the Windows host showed up in Nagios.
 
+| File | What it holds |
+|---|---|
+
 ### Objects folder – `/usr/local/nagios/etc/objects/`
 
 This folder holds the individual config files where you define what Nagios monitors and how.
