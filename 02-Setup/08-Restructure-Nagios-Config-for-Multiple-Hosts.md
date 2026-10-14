@@ -140,6 +140,8 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 I keep **`objects/windows.cfg`** as a reference copy. It won't load as long as that line is commented out.
 
+## Step 5 – Set Ownership and Permissions
+
 
 
 
