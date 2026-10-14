@@ -69,6 +69,9 @@ The new folder is owned by **`root:root`** because I created it with **`sudo`**.
 
 I open the main config:
 
+```bash
+sudo nano nagios.cfg
+```
 
 
 
