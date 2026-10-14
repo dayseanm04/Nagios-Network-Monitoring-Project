@@ -301,6 +301,7 @@ The new host joins **`windows-servers`** [use windows-server] automatically thro
 ## Related Docs
 
 - [**04-Monitoring-Use-Cases / 01-Windows-Host / 03 – Monitor Windows Uptime with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/03-Monitor-Windows-Uptime-with-NCPA.md)
+- [**07 – Set Up NCPA Check Command in Nagios**](07-Set-Up-NCPA-Check-Command-in-Nagios.md)
 
 
 
