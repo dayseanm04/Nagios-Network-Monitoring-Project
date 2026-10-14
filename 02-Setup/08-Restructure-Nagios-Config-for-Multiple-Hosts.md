@@ -222,6 +222,7 @@ ls -l
 
 <img width="935" height="227" alt="15" src="https://github.com/user-attachments/assets/c6f067c0-33c7-48c3-915b-f30ee08c3e61" />
 
+---
 
 
 
