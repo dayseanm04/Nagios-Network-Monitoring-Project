@@ -214,7 +214,9 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 I set its ownership and permissions to match:
 
-
+```bash
+sudo chown nagios:nagios /usr/local/nagios/etc/windows-hosts/windows-hostgroup.cfg
+```
 
 
 
