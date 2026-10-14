@@ -144,7 +144,11 @@ I keep **`objects/windows.cfg`** as a reference copy. It won't load as long as t
 
 Since I used **`sudo`** to create the folder and copy the file, both are owned by **`root`**. I change them to match the rest of the Nagios config:
 
+```bash
+sudo chown -R nagios:nagios /usr/local/nagios/etc/windows-hosts
+```
 
+<img width="845" height="496" alt="8" src="https://github.com/user-attachments/assets/ceb6daa5-7381-480d-9a88-9be05dafcfa7" />
 
 
 
