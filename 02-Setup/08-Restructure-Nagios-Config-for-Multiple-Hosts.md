@@ -83,6 +83,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ## Step 3 – Copy windows.cfg and Rename It
 
+I go into the new folder and copy **`windows.cfg`** from **`objects`**:
 
 
 
