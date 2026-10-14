@@ -250,6 +250,7 @@ I use **`restart`** instead of **`reload`** because I changed where Nagios loads
 
 ## Step 9 – Verify in the Web Interface
 
+I log in to **`http://192.168.1.99/nagios`** and click **Services**.
 
 
 
