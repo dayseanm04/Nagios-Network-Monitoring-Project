@@ -296,7 +296,9 @@ sudo chmod 664 comp-b-test.cfg
 
 The new host joins **`windows-servers`** [use windows-server] automatically through the **`windows-server`** template. Nothing in **`nagios.cfg`** or **`windows-hostgroup.cfg`** needs to change.
 
+---
 
+## Related Docs
 
 
 
