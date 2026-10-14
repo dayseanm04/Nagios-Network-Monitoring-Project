@@ -104,6 +104,7 @@ ls -l
 
 <img width="958" height="437" alt="5" src="https://github.com/user-attachments/assets/afe5eced-a285-4737-8ccc-d811bd1fadeb" />
 
+Naming each file after its host means I can tell what's in it without opening it, and I can find any host's config with **`ls`**.
 
 
 
