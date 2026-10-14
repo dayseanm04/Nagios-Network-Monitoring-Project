@@ -272,6 +272,7 @@ Windows host configuration now lives in **`/usr/local/nagios/etc/windows-hosts/`
 
 ## Adding a New Windows Host
 
+This is what the restructure makes easy. For a new host like **`comp-b-test`**:
 
 
 
