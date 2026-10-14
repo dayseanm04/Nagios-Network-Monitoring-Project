@@ -232,6 +232,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="942" height="513" alt="16" src="https://github.com/user-attachments/assets/7f4c8648-e66f-47c4-9906-75bff9e83f0c" />
 
+The counts match what I had before the restructure. Same counts with 0 errors means I moved everything without losing or duplicating anything.
 
 
 
