@@ -158,7 +158,8 @@ sudo chmod 664 /usr/local/nagios/etc/windows-hosts/*.cfg
 
 <img width="765" height="176" alt="11" src="https://github.com/user-attachments/assets/e94700b5-e8f6-473e-a107-5ec6f33f66f8" />
 
-
+| Command | What it does |
+|---|---|
 
 
 
