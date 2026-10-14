@@ -64,6 +64,8 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 
 ### Windows hosts folder – `/usr/local/nagios/etc/windows-hosts/`
 
+In this project, Windows hosts are defined here instead of in **`windows.cfg`**, with one file per host. The whole folder is loaded with a single line in **`nagios.cfg`**:
+
 
 ### Objects folder – `/usr/local/nagios/etc/objects/`
 
