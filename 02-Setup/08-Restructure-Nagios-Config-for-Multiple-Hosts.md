@@ -50,6 +50,7 @@ cd /usr/local/nagios/etc
 ls -l
 ```
 
+<img width="904" height="436" alt="1" src="https://github.com/user-attachments/assets/1729bf33-4236-459e-a983-fa43d9a5741d" />
 
 
 
