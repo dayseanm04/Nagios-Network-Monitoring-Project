@@ -204,7 +204,9 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ### Create windows-hostgroup.cfg
 
-
+```bash
+sudo nano windows-hostgroup.cfg
+```
 
 
 
