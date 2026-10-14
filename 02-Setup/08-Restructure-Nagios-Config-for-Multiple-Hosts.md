@@ -151,6 +151,7 @@ sudo chmod 775 /usr/local/nagios/etc/windows-hosts
 
 <img width="845" height="496" alt="8" src="https://github.com/user-attachments/assets/ceb6daa5-7381-480d-9a88-9be05dafcfa7" />
 
+<img width="874" height="235" alt="9" src="https://github.com/user-attachments/assets/10eb5ebe-298b-4a79-9be4-32ffdb7453b8" />
 
 
 
