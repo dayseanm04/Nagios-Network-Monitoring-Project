@@ -292,6 +292,7 @@ sudo chmod 664 comp-b-test.cfg
 ```
 
 3. Run the pre-flight check. It should show **one more host** than before.
+4. Restart Nagios.
 
 
 
