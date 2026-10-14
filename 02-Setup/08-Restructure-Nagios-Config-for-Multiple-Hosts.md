@@ -73,6 +73,7 @@ I open the main config:
 sudo nano nagios.cfg
 ```
 
+<img width="873" height="382" alt="3" src="https://github.com/user-attachments/assets/28dbce63-4c07-40de-95ee-47b0470c2c65" />
 
 
 
