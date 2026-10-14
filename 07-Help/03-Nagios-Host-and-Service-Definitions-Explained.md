@@ -31,22 +31,24 @@ One host can have many services. Every service belongs to exactly one host. So i
 
 Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all of the host, service, and command definitions in the **`objects/`** folder inside it.
 
-
 ```
 /usr/local/nagios/etc/
-├── nagios.cfg          ← main config; lists which object files to read
-├── resource.cfg        ← private variables ($USER1$, tokens)
-├── cgi.cfg             ← web interface settings
-├── htpasswd.users      ← web interface logins
-└── objects/            ← individual object config files
-    ├── commands.cfg
-    ├── contacts.cfg
-    ├── localhost.cfg
-    ├── printer.cfg
-    ├── switch.cfg
-    ├── templates.cfg
-    ├── timeperiods.cfg
-    └── windows.cfg
+├── nagios.cfg              ← main config; lists which files and folders to read
+├── resource.cfg            ← private variables ($USER1$, NCPA token as $USER5$)
+├── cgi.cfg                 ← web interface settings
+├── htpasswd.users          ← web interface logins
+├── objects/                ← sample and shared object config files
+│   ├── commands.cfg
+│   ├── contacts.cfg
+│   ├── localhost.cfg
+│   ├── printer.cfg
+│   ├── switch.cfg
+│   ├── templates.cfg
+│   ├── timeperiods.cfg
+│   └── windows.cfg         ← disabled; kept as a reference
+└── windows-hosts/          ← one file per Windows host
+    ├── windows-hostgroup.cfg
+    └── comp-a-test.cfg
 ```
 
 ### Main folder – `/usr/local/nagios/etc/`
