@@ -208,6 +208,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 sudo nano windows-hostgroup.cfg
 ```
 
+<img width="780" height="310" alt="14" src="https://github.com/user-attachments/assets/22547772-db02-4e32-8472-8c3929d5c5cd" />
 
 
 
