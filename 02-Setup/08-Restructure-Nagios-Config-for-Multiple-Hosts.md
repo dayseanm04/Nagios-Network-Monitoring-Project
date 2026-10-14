@@ -67,6 +67,7 @@ The new folder is owned by **`root:root`** because I created it with **`sudo`**.
 
 ## Step 2 – Add the Directory to nagios.cfg
 
+I open the main config:
 
 
 
