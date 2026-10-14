@@ -33,6 +33,7 @@ This makes it easy to add a new Windows host by adding a new file, instead of ad
 
 | Directive | What it loads | Example |
 |---|---|---|
+| **`cfg_file=`** | One specific file | **`cfg_file=/usr/local/nagios/etc/objects/windows.cfg`** |
 
 
 
