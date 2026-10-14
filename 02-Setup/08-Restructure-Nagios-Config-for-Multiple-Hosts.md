@@ -196,6 +196,7 @@ sudo nano comp-a-test.cfg
 
 <img width="911" height="508" alt="12" src="https://github.com/user-attachments/assets/0cecbbf5-15aa-415c-b171-0e7c0c20fa8b" />
 
+<img width="893" height="413" alt="13" src="https://github.com/user-attachments/assets/bc662be1-263e-4ce0-a636-9ece087abb77" />
 
 
 
