@@ -85,7 +85,11 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 I go into the new folder and copy **`windows.cfg`** from **`objects`**:
 
-
+```bash
+cd windows-hosts
+sudo cp /usr/local/nagios/etc/objects/windows.cfg .
+ls -l
+```
 
 
 
