@@ -26,3 +26,6 @@ This makes it easy to add a new Windows host by adding a new file, instead of ad
     ├── windows-hostgroup.cfg  ← windows-servers hostgroup (shared)
     └── comp-a-test.cfg        ← comp-a-test host + its services
 ```
+
+---
+
