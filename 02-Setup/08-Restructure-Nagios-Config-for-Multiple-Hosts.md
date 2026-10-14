@@ -258,6 +258,8 @@ I log in to **`http://192.168.1.99/nagios`** and click **Services**.
 
 <img width="1009" height="748" alt="19" src="https://github.com/user-attachments/assets/141722cf-dae0-46ce-b36b-488c824aca9d" />
 
+The check is running from the new **`windows-hosts/comp-a-test.cfg`** file with the same thresholds as before.
+
 
 
 
