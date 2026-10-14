@@ -110,6 +110,7 @@ Naming each file after its host means I can tell what's in it without opening it
 
 ---
 
+## Step 4 – Disable the Old windows.cfg
 
 
 
