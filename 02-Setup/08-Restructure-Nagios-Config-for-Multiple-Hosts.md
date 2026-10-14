@@ -274,7 +274,12 @@ Windows host configuration now lives in **`/usr/local/nagios/etc/windows-hosts/`
 
 This is what the restructure makes easy. For a new host like **`comp-b-test`**:
 
+```bash
+cd /usr/local/nagios/etc/windows-hosts
 
+# Copy an existing host file
+sudo cp comp-a-test.cfg comp-b-test.cfg
+```
 
 
 
