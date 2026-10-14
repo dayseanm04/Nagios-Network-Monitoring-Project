@@ -248,6 +248,7 @@ I use **`restart`** instead of **`reload`** because I changed where Nagios loads
 
 ---
 
+## Step 9 – Verify in the Web Interface
 
 
 
