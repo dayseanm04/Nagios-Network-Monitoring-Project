@@ -97,7 +97,10 @@ The **`.`** at the end means **"copy it here,"** into the current folder.
 
 I rename it after the host it's for:
 
-
+```bash
+sudo mv windows.cfg comp-a-test.cfg
+ls -l
+```
 
 
 
