@@ -38,4 +38,8 @@ This makes it easy to add a new Windows host by adding a new file, instead of ad
 
 With **`cfg_dir`**, I don't have to edit **`nagios.cfg`** every time I add a host. I just drop a new **`.cfg`** file into the folder.
 
+---
+
+
+
 
