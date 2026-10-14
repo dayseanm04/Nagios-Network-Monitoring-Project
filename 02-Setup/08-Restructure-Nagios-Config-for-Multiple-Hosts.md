@@ -176,6 +176,9 @@ These match the `objects` folder (**`drwxrwxr-x`**) and its files (**`-rw-rw-r--
 
 ### Why
 
+**`comp-a-test.cfg`** should only hold **`comp-a-test`** and its services. 
+
+
 
 
 
