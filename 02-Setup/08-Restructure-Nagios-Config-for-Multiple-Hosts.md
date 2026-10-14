@@ -147,6 +147,7 @@ Since I used **`sudo`** to create the folder and copy the file, both are owned b
 ```bash
 sudo chown -R nagios:nagios /usr/local/nagios/etc/windows-hosts
 sudo chmod 775 /usr/local/nagios/etc/windows-hosts
+sudo chmod 664 /usr/local/nagios/etc/windows-hosts/*.cfg
 ```
 
 <img width="845" height="496" alt="8" src="https://github.com/user-attachments/assets/ceb6daa5-7381-480d-9a88-9be05dafcfa7" />
