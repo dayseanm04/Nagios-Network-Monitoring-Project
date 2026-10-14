@@ -62,6 +62,9 @@ Nagios keeps its main settings in **`/usr/local/nagios/etc/`**, and almost all o
 | **`cgi.cfg`** | Settings for the web interface, like which users can see and run commands |
 | **`htpasswd.users`** | Usernames and hashed passwords for logging in to the web interface |
 
+### Windows hosts folder – `/usr/local/nagios/etc/windows-hosts/`
+
+
 ### Objects folder – `/usr/local/nagios/etc/objects/`
 
 This folder holds the individual config files where you define what Nagios monitors and how.
