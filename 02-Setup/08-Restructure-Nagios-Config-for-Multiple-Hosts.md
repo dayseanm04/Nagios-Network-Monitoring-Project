@@ -168,7 +168,9 @@ These match the `objects` folder (**`drwxrwxr-x`**) and its files (**`-rw-rw-r--
 
 > The **`x`** permission on a folder lets a user open it and see what's inside. Without it, Nagios couldn't read the files in the folder, even if the files themselves were readable.
 
+> I don't use these permissions on files with secrets. **`resource.cfg`** stays **`660`** so only the **`nagios`** user and group can read the NCPA token.
 
+---
 
 
 
