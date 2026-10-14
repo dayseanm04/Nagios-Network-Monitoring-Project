@@ -246,6 +246,7 @@ sudo systemctl restart nagios
 
 I use **`restart`** instead of **`reload`** because I changed where Nagios loads its files from, not just what's inside them.
 
+---
 
 
 
