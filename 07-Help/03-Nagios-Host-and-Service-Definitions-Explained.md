@@ -141,6 +141,9 @@ This closes the configuration block.
 
 ## Open the file
 
+The NSClient++ example comes from the sample **`windows.cfg`** that comes with Nagios. In this project that file is disabled and kept as a reference, so I'm showing it here to explain the syntax:
+
+
 ```bash
 cd /usr/local/nagios/etc/objects
 sudo nano windows.cfg
