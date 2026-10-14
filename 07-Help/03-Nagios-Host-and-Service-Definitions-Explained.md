@@ -96,6 +96,8 @@ This folder holds the individual config files where you define what Nagios monit
 
 ## Open the file
 
+In this project, each Windows host has its own file in **`windows-hosts/`**:
+
 ```bash
 cd /usr/local/nagios/etc/objects
 sudo nano windows.cfg
