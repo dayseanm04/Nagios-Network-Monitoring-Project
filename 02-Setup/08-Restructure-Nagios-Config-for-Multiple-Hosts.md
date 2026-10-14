@@ -154,6 +154,7 @@ sudo chmod 664 /usr/local/nagios/etc/windows-hosts/*.cfg
 
 <img width="874" height="235" alt="9" src="https://github.com/user-attachments/assets/10eb5ebe-298b-4a79-9be4-32ffdb7453b8" />
 
+<img width="860" height="212" alt="10" src="https://github.com/user-attachments/assets/898faf99-3ad8-4049-b449-f9862bfa7cb9" />
 
 
 
