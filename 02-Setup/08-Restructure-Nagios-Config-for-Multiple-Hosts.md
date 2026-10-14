@@ -256,6 +256,7 @@ I log in to **`http://192.168.1.99/nagios`** and click **Services**.
 
 **`comp-a-test`** and its **`system uptime`** check are still there and still updating. I click **system uptime** to see the details:
 
+<img width="1009" height="748" alt="19" src="https://github.com/user-attachments/assets/141722cf-dae0-46ce-b36b-488c824aca9d" />
 
 
 
