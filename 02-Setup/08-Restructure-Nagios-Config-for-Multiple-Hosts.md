@@ -108,7 +108,7 @@ Naming each file after its host means I can tell what's in it without opening it
 
 > The file must end in **`.cfg`**. **`cfg_dir`** skips anything else, like **`.conf`** or **`.txt`**.
 
-
+---
 
 
 
