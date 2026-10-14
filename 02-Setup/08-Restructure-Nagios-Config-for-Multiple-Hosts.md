@@ -95,6 +95,7 @@ ls -l
 
 The **`.`** at the end means **"copy it here,"** into the current folder.
 
+I rename it after the host it's for:
 
 
 
