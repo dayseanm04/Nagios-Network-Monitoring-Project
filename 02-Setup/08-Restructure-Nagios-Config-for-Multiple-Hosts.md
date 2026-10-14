@@ -44,4 +44,41 @@ With **`cfg_dir`**, I don't have to edit **`nagios.cfg`** every time I add a hos
 
 I make sure I'm in my home directory, then go to the Nagios **`etc`** folder:
 
+```bash
+cd
+cd /usr/local/nagios/etc
+ls -l
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
