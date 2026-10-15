@@ -30,6 +30,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | Nagios VM got a **`169.254.x.x`** (APIPA) address | DHCP wasn't working over the Wi-Fi-bridged virtual switch | Set a static IP and created a DHCP reservation on the router |
 | Windows host showed DOWN in Nagios | Host IP had changed, and Windows Firewall blocked inbound ping | Updated the host address and added a firewall rule allowing ICMP only from the Nagios server |
 | Uptime check went CRITICAL on a healthy machine | Thresholds alerted on values **above** the limit instead of **below** | Used Nagios range syntax (**`-w 3600: -c 600:`**) |
+| Config wouldn't scale past one Windows host | Everything was in one **`windows.cfg`** file | Moved to one file per host with **`cfg_dir`**, and moved the shared hostgroup to its own file |
 
 
 
