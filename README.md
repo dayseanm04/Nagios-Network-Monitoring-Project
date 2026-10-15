@@ -25,6 +25,11 @@ The goal of this project is to plan and build network monitoring for a **small c
 
 ## Problems I Solved
 
+| Problem | Cause | Fix |
+|---|---|---|
+
+
+
 ## Roadmap
 - [x] Build Nagios Core server on Ubuntu VM
 - [x] Upgrade Nagios Core to 4.5.14
