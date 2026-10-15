@@ -25,6 +25,8 @@ The goal of this project is to plan and build network monitoring for a **small c
 
 ## Repository Structure
 
+| Folder | What's inside |
+|---|---|
 
 ## Problems I Solved
 
