@@ -27,6 +27,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 
 | Folder | What's inside |
 |---|---|
+| [**01-Overview**](01-Overview) | Project scenario, goals, and network diagrams |
 
 ## Problems I Solved
 
