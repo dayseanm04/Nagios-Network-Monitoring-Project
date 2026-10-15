@@ -83,3 +83,8 @@ Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06
 
 No passwords, tokens, or other secrets are stored in this repository. Credentials are blurred in screenshots, and the NCPA token is stored only in **`resource.cfg`** on the Nagios server.
 
+---
+
+## Author
+
+
