@@ -29,6 +29,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 |---|---|---|---|
 | comp-a-test | Host availability | Ping (ICMP) | ✅ Active |
 | comp-a-test | System uptime (alerts after a reboot) | NCPA – **`check_ncpa`** | ✅ Active |
+| NetworkVM | Load, users, disk, swap, processes, HTTP, ping | Local Nagios plugins | ✅ Active |
 
 ---
 
