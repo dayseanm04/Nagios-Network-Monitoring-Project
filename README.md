@@ -29,6 +29,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 |---|---|
 | [**01-Overview**](01-Overview) | Project scenario, goals, and network diagrams |
 | [**02-Setup**](02-Setup) | Building the Nagios server: Hyper-V VM, virtual switch, static IP, DHCP reservation, compiling Nagios Core, upgrading, NCPA command setup, and restructuring the config to scale |
+| [**03-Templates**](03-Templates) | Reusable guides for recurring tasks, like adding a host and service |
 
 
 
