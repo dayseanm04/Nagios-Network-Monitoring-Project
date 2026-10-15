@@ -27,3 +27,4 @@ The goal of this project is to plan and build network monitoring for a **small c
 - [x] Build Nagios Core server on Ubuntu VM
 - [x] Upgrade Nagios Core to 4.5.14
 - [x] Add Windows host and resolve host DOWN issue
+- [x] Install NCPA and create first agent-based check (uptime)
