@@ -28,6 +28,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | Host | Check | How | Status |
 |---|---|---|---|
 | comp-a-test | Host availability | Ping (ICMP) | ✅ Active |
+| comp-a-test | System uptime (alerts after a reboot) | NCPA – **`check_ncpa`** | ✅ Active |
 
 ---
 
