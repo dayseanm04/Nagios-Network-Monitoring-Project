@@ -4,3 +4,4 @@ Monitoring a small company network with **Nagios Core** running on an Ubuntu VM.
 
 ---
 
+## Project Scenario
