@@ -94,5 +94,5 @@ B.Tech in Computer Systems (Networking and Security) – New York City College o
 
 **CompTIA Network+ · Cisco CCNA**
 
-[**LinkedIn**]([https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/daysean-mensah-1ba363355)) · [**GitHub**](https://github.com/dayseanm04)
+[**LinkedIn**]((https://www.linkedin.com/in/daysean-mensah-1ba363355) · [**GitHub**](https://github.com/dayseanm04)
 
