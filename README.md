@@ -39,6 +39,7 @@ Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06
 ## Skills Demonstrated
 - **Linux administration** – compiling software from source, users and groups, file permissions, systemd services
 - **Networking** – static IP and DHCP reservations, Hyper-V virtual switching, subnetting, firewall rules
+- **Monitoring** – Nagios host and service definitions, templates, hostgroups, thresholds, agent-based checks with NCPA
 
 ---
 
