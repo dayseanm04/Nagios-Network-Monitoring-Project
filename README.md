@@ -33,6 +33,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | [**04-Monitoring-Use-Cases**](04-Monitoring-Use-Cases) | Monitoring specific devices, starting with the Windows host: adding it to Nagios, installing NCPA, and creating service checks |
 | [**05-Troubleshooting**](05-Troubleshooting) | Real problems I ran into: what happened, how I found the cause, and how I fixed it |
 | [**06-Testing-and-Validation**](06-Testing-and-Validation) | Test cases and results proving each change works |
+| [**08-Help**](08-Help) | Reference guides: navigating the Nagios web UI, understanding host and service definitions, and testing checks in NCPA |
 
 
 
