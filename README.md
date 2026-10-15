@@ -76,3 +76,8 @@ Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06
 - [x] Add Windows host and resolve host DOWN issue
 - [x] Install NCPA and create first agent-based check (uptime)
 - [x] Restructure config into per-host files
+
+---
+
+## Security Note
+
