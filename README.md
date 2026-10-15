@@ -16,3 +16,4 @@ The goal of this project is to plan and build network monitoring for a **small c
 
 | Device | Role | IP Address | Details |
 |---|---|---|---|
+| **Verizon-R1** | Edge router / gateway | **`192.168.1.1`** | Connects the project to the internet. DHCP reservations for projecct devices |
