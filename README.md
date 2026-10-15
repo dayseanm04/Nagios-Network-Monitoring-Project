@@ -31,6 +31,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | [**02-Setup**](02-Setup) | Building the Nagios server: Hyper-V VM, virtual switch, static IP, DHCP reservation, compiling Nagios Core, upgrading, NCPA command setup, and restructuring the config to scale |
 | [**03-Templates**](03-Templates) | Reusable guides for recurring tasks, like adding a host and service |
 | [**04-Monitoring-Use-Cases**](04-Monitoring-Use-Cases) | Monitoring specific devices, starting with the Windows host: adding it to Nagios, installing NCPA, and creating service checks |
+| [**05-Troubleshooting**](05-Troubleshooting) | Real problems I ran into: what happened, how I found the cause, and how I fixed it |
 
 
 
