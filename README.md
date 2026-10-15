@@ -27,6 +27,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 
 | Problem | Cause | Fix |
 |---|---|---|
+| Nagios VM got a **`169.254.x.x`** (APIPA) address | DHCP wasn't working over the Wi-Fi-bridged virtual switch | Set a static IP and created a DHCP reservation on the router |
 
 
 
