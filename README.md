@@ -32,6 +32,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | Uptime check went CRITICAL on a healthy machine | Thresholds alerted on values **above** the limit instead of **below** | Used Nagios range syntax (**`-w 3600: -c 600:`**) |
 | Config wouldn't scale past one Windows host | Everything was in one **`windows.cfg`** file | Moved to one file per host with **`cfg_dir`**, and moved the shared hostgroup to its own file |
 
+Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06-Testing-and-Validation**](06-Testing-and-Validation).
 
 
 ## Roadmap
