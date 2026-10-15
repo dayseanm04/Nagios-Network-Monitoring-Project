@@ -19,3 +19,4 @@ The goal of this project is to plan and build network monitoring for a **small c
 | **Verizon-R1** | Edge router / gateway | **`192.168.1.1`** | Connects the project to the internet. DHCP reservations for projecct devices |
 | **comp-a-test** | Monitored Windows host + Hyper-V host | **`192.168.1.9`** | Windows 11, NCPA 3.5.0 agent. Connected to the router over Wi-Fi |
 | **Net-MGNT-SW** | Hyper-V external virtual switch | — | Bridged to comp-a-test's Wi-Fi adapter so the VM is on the same network |
+| **NetworkVM** | Nagios monitoring server | `192.168.1.99` | Ubuntu 26.04.1 LTS, Nagios Core 4.5.14, Apache web UI |
