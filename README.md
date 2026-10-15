@@ -5,3 +5,5 @@ Monitoring a small company network with **Nagios Core** running on an Ubuntu VM.
 ---
 
 ## Project Scenario
+
+The goal of this project is to plan and build network monitoring for a **small company with 12–20 devices**. 
