@@ -40,6 +40,7 @@ Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06
 - **Linux administration** – compiling software from source, users and groups, file permissions, systemd services
 - **Networking** – static IP and DHCP reservations, Hyper-V virtual switching, subnetting, firewall rules
 - **Monitoring** – Nagios host and service definitions, templates, hostgroups, thresholds, agent-based checks with NCPA
+- **Security** – secrets kept out of config files and out of this repo, firewall rules limited to the monitoring server, TLS 1.2 minimum on the agent
 
 ---
 
