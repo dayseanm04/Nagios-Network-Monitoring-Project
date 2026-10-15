@@ -34,6 +34,11 @@ The goal of this project is to plan and build network monitoring for a **small c
 
 Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06-Testing-and-Validation**](06-Testing-and-Validation).
 
+---
+
+## Skills Demonstrated
+
+---
 
 ## Roadmap
 - [x] Build Nagios Core server on Ubuntu VM
