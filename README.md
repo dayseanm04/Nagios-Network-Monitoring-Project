@@ -24,3 +24,4 @@ The goal of this project is to plan and build network monitoring for a **small c
 ---
 
 ## Roadmap
+- [x] Build Nagios Core server on Ubuntu VM
