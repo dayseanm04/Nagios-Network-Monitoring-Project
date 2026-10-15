@@ -32,6 +32,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | [**03-Templates**](03-Templates) | Reusable guides for recurring tasks, like adding a host and service |
 | [**04-Monitoring-Use-Cases**](04-Monitoring-Use-Cases) | Monitoring specific devices, starting with the Windows host: adding it to Nagios, installing NCPA, and creating service checks |
 | [**05-Troubleshooting**](05-Troubleshooting) | Real problems I ran into: what happened, how I found the cause, and how I fixed it |
+| [**06-Testing-and-Validation**](06-Testing-and-Validation) | Test cases and results proving each change works |
 
 
 
