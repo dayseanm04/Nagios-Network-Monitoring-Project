@@ -11,3 +11,5 @@ The goal of this project is to plan and build network monitoring for a **small c
 ---
 
 ## Project Network
+
+<img width="866" height="625" alt="Lab Network – Current" src="https://github.com/user-attachments/assets/2d3611b4-8d88-4524-82c2-59cec922a8d4" />
