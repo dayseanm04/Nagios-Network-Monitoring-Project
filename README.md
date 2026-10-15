@@ -91,6 +91,7 @@ No passwords, tokens, or other secrets are stored in this repository. Credential
 
 B.Tech in Computer Systems (Networking and Security) – New York City College of Technology
 
+CompTIA Network+ · Cisco CCNA
 
 
 
