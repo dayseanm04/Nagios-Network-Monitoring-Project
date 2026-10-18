@@ -51,6 +51,8 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 
 ---
 
+## Things to know
+
 
 
 
