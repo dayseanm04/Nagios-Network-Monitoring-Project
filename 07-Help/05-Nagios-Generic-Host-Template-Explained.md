@@ -62,6 +62,7 @@ Every template needs its own **`register 0`**. If you build your own template an
 **Don't edit this template directly.**
 Every host that uses it, directly or through another template, would change. Put overrides in your own host definitions instead.
 
+---
 
 
 
