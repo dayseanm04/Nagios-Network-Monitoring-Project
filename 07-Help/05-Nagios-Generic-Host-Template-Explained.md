@@ -54,6 +54,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 ## Things to know
 
 **`retain_nonstatus_information` can make config changes look like they didn't work.**
+If you change a setting in the web UI and later change the same setting in a config file, Nagios may keep using the saved web UI value. 
 
 
 
