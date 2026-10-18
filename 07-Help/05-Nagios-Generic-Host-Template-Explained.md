@@ -31,6 +31,9 @@ Nagios reads the chain from the bottom up. **`generic-host`** sets the base valu
 
 <img width="936" height="454" alt="generic host template" src="https://github.com/user-attachments/assets/e5f8a4d8-9a6f-4da6-8fab-b8deee9f29e1" />
 
+Most of these options are on/off switches[**binary**]:
+
+
 
 
 
