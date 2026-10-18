@@ -19,3 +19,5 @@ your host  →  windows-server / linux-server  →  generic-host
 ```
 
 Nagios reads the chain from the bottom up. **`generic-host`** sets the base values, the next template adds its own and overrides anything that overlaps, and your host definition overrides both.
+
+> **Rule:** An option set directly in a host definition always wins over the option inherited from a template.
