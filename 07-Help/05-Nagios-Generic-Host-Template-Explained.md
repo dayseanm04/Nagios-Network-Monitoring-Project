@@ -59,6 +59,7 @@ If you change a setting in the web UI and later change the same setting in a con
 **`register` is not inherited.**
 Every template needs its own **`register 0`**. If you build your own template and leave it out, Nagios treats it as a real host and the config check fails because there's no **`host_name`** or **`address`**.
 
+**Don't edit this template directly.**
 
 
 
