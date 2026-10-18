@@ -33,6 +33,7 @@ Nagios reads the chain from the bottom up. **`generic-host`** sets the base valu
 
 Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = off. 
 
+---
 
 
 
