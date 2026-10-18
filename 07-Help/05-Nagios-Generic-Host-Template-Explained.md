@@ -39,6 +39,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 
 | Option | Value | What it does |
 |---|---|---|
+| **`name`** | **`generic-host`** | The template's name. Other definitions refer to it with **`use generic-host`**. |
 
 
 
