@@ -40,6 +40,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 | Option | Value | What it does |
 |---|---|---|
 | **`name`** | **`generic-host`** | The template's name. Other definitions refer to it with **`use generic-host`**. |
+| **`notifications_enabled`** | **`1`** | Turns on alerts for any host using this template. The other notification settings only matter if this is on. |
 
 
 
