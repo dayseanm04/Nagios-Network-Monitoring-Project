@@ -68,6 +68,7 @@ Every host that uses it, directly or through another template, would change. Put
 
 The official list of every host option is the **Object Definitions** page in the Nagios Core 4 docs. It lists every directive for hosts, services, contacts, and more, and marks which ones are required.
 
+- [**Object Definitions**](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/objectdefinitions.html) – every option, with descriptions
 
 
 
