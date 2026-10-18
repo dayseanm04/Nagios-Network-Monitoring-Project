@@ -57,6 +57,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 If you change a setting in the web UI and later change the same setting in a config file, Nagios may keep using the saved web UI value. The official docs mark these options with an asterisk (*). If a config change isn't taking effect, this is one thing to check.
 
 **`register` is not inherited.**
+Every template needs its own **`register 0`**. If you build your own template and leave it out, Nagios treats it as a real host and the config check fails because there's no **`host_name`** or **`address`**.
 
 
 
