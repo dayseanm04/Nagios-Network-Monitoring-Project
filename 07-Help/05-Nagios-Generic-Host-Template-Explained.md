@@ -49,6 +49,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 | **`notification_period`** | **`24x7`** | When alerts can be sent. **`24x7`** means any time. Timeperiods are defined in **`timeperiods.cfg`**. |
 | **`register`** | **`0`** | Marks this as a template, not a real host. |
 
+---
 
 
 
