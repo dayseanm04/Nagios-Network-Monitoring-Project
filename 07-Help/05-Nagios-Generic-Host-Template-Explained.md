@@ -6,6 +6,9 @@ This guide explains the **`generic-host`** template that comes with Nagios Core 
 
 <img width="932" height="466" alt="1" src="https://github.com/user-attachments/assets/96ba8e3e-b71e-4b7f-95e4-f84ffaebf3c8" />
 
+<img width="924" height="496" alt="2" src="https://github.com/user-attachments/assets/bdc56670-379b-42e0-8805-a44e4fe3e8c1" />
+
+
 ---
 
 ## What is a template?
