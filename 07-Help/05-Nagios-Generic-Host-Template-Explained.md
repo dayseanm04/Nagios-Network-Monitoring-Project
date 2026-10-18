@@ -64,6 +64,7 @@ Every host that uses it, directly or through another template, would change. Put
 
 ---
 
+## Where to find all the options
 
 
 
