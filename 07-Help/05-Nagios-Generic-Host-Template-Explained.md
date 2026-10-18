@@ -9,3 +9,5 @@ This guide explains the **`generic-host`** template that comes with Nagios Core 
 ---
 
 ## What is a template?
+
+A template is an object definition that holds default settings.
