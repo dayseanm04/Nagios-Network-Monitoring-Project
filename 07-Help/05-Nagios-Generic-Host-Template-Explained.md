@@ -43,6 +43,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 | **`notifications_enabled`** | **`1`** | Turns on alerts for any host using this template. The other notification settings only matter if this is on. |
 | **`event_handler_enabled`** | **`1`** | Turns on event handlers. An event handler is a command Nagios runs automatically when a host changes state, like a script that tries to fix the problem. Nothing runs until you also set an **`event_handler`** command. |
 | **`flap_detection_enabled`** | **`1`** | Turns on flap detection. **"Flapping"** is when a host keeps switching between UP and DOWN in a short time. Nagios marks it as flapping and stops sending an alert for every change. |
+| **`process_perf_data`** | **`1`** | Tells Nagios to process performance data, the numbers a plugin returns after the **`\|`** symbol (response time, CPU %, etc.). Mainly used for graphing add-ons. Also needs **`process_performance_data=1`** in **`nagios.cfg`**, which is **`0`** by default. |
 
 
 
