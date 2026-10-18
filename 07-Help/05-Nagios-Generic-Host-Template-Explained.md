@@ -47,6 +47,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 | **`retain_status_information`** | **`1`** | Nagios remembers each host's current state (UP, DOWN, etc.) across restarts instead of starting everything as PENDING. Saved in **`/usr/local/nagios/var/retention.dat`**. |
 | **`retain_nonstatus_information`** | **`1`** | Nagios keeps changes made in the web UI across restarts, like disabling notifications for a host. |
 | **`notification_period`** | **`24x7`** | When alerts can be sent. **`24x7`** means any time. Timeperiods are defined in **`timeperiods.cfg`**. |
+| **`register`** | **`0`** | Marks this as a template, not a real host. |
 
 
 
