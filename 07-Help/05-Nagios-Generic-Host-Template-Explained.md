@@ -35,6 +35,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 
 ---
 
+## Options explained
 
 
 
