@@ -53,6 +53,10 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 
 ## Things to know
 
+**`retain_nonstatus_information` can make config changes look like they didn't work.**
+
+
+
 
 
 
