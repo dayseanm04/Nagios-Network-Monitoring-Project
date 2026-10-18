@@ -42,6 +42,7 @@ Most of these options are on/off switches[**binary**]:  **`1`** = on, **`0`** = 
 | **`name`** | **`generic-host`** | The template's name. Other definitions refer to it with **`use generic-host`**. |
 | **`notifications_enabled`** | **`1`** | Turns on alerts for any host using this template. The other notification settings only matter if this is on. |
 | **`event_handler_enabled`** | **`1`** | Turns on event handlers. An event handler is a command Nagios runs automatically when a host changes state, like a script that tries to fix the problem. Nothing runs until you also set an **`event_handler`** command. |
+| **`flap_detection_enabled`** | **`1`** | Turns on flap detection. **"Flapping"** is when a host keeps switching between UP and DOWN in a short time. Nagios marks it as flapping and stops sending an alert for every change. |
 
 
 
