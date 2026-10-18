@@ -12,4 +12,4 @@ This guide explains the **`generic-host`** template that comes with Nagios Core 
 
 A template is an object definition that holds default settings.  It is **not** a real host. Other hosts and templates pull in its settings with the **`use`** option. This saves you from typing the same options on every host.
 
-`generic-host` is the base template for hosts. 
+`generic-host` is the base template for hosts. The other host templates, like **`windows-server`** and **`linux-server`**, are built on top of it:
