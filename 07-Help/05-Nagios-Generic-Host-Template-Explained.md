@@ -26,3 +26,6 @@ Nagios reads the chain from the bottom up. **`generic-host`** sets the base valu
 > **Rule:** An option set directly in a host definition always wins over the option inherited from a template.
 
 ---
+
+## The template
+
