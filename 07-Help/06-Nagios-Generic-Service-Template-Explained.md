@@ -49,6 +49,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 **How these three work together**
 
 1. The service is checked every 10 minutes (**`check_interval`**).
+2. A check fails. The service is now in a **"soft"** problem state.
 
 
 
