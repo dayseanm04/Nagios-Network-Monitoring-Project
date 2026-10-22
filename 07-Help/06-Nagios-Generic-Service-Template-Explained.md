@@ -57,7 +57,8 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 
 ### Alerts
 
-
+| Option | Value | What it does |
+|---|---|---|
 
 
 
