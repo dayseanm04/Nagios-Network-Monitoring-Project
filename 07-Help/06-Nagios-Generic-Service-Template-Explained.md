@@ -14,6 +14,8 @@ This guide explains the **`generic-service`** template that comes with Nagios Co
 
 **`generic-service`** is the base template for services. A service is anything Nagios checks on a host, like uptime, CPU, disk space, or whether a website responds.
 
+When a service definition has **`use generic-service`**, it gets all of the settings below. Any option you set directly in the service definition overrides the template's value.
+
 <img width="937" height="595" alt="generic-service" src="https://github.com/user-attachments/assets/9aa4593d-70dd-4d60-bcd3-c401f5b84da8" />
 
 
