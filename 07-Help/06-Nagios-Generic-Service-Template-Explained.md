@@ -92,7 +92,7 @@ These work the same way as in **`generic-host`**, but apply to the service. See 
 | **`retain_nonstatus_information`** | **`1`** | Keeps web UI changes across restarts. |
 | **`register`** | **`0`** | Marks this as a template, not a real service. |
 
-
+---
 
 
 
