@@ -10,6 +10,8 @@ This guide explains the **`generic-service`** template that comes with Nagios Co
 
 ---
 
+## What it's for
+
 <img width="937" height="595" alt="generic-service" src="https://github.com/user-attachments/assets/9aa4593d-70dd-4d60-bcd3-c401f5b84da8" />
 
 
