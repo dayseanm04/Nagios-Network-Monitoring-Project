@@ -79,6 +79,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 
 > **Watch out:** `u` means **UNKNOWN** for services but **UNREACHABLE** for hosts. Services can be OK, WARNING, CRITICAL, or UNKNOWN. Hosts can be UP, DOWN, or UNREACHABLE.
 
+### Same as the host template
 
 
 
