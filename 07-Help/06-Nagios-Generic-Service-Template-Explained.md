@@ -44,6 +44,8 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 | **`retry_interval`** | **`2`** | Minutes between rechecks after the service leaves the OK state. |
 | **`max_check_attempts`** | **`3`** | How many times Nagios checks before it treats a problem as real (a **"hard"** state) and sends an alert. Setting it to **`1`** alerts right away with no retries. |
 
+> The time options are in minutes because **`interval_length=60`** in **`nagios.cfg`** by default. If that value were changed, the units would change too.
+
 
 
 
