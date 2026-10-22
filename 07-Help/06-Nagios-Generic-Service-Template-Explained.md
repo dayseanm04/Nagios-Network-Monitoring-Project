@@ -30,3 +30,4 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 |---|---|---|
 | **`active_checks_enabled`** | **`1`** | Nagios runs the check itself on a schedule. NCPA checks through **`check_ncpa`** are active checks. |
 | **`passive_checks_enabled`** | `1` | Nagios also accepts results sent to it from somewhere else, like NCPA passive checks through NRDP. Doesn't affect active checks. |
+| **`parallelize_check`** | **`1`** | Left over from older versions. It isn't in the Nagios 4 object definitions anymore, because Nagios 4 runs checks in parallel on its own. |
