@@ -71,6 +71,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 |---|---|
 | **`w`** | WARNING |
 | **`u`** | UNKNOWN |
+| **`c`** | CRITICAL |
 
 
 
