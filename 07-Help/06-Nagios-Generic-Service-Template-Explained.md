@@ -88,6 +88,7 @@ These work the same way as in **`generic-host`**, but apply to the service. See 
 | **`event_handler_enabled`** | **`1`** | Turns on event handlers. Needs an **`event_handler`** command to do anything. |
 | **`flap_detection_enabled`** | **`1`** | Detects a service bouncing between states and stops repeated alerts. |
 | **`process_perf_data`** | **`1`** | Processes performance data for graphing. Also needs **`process_performance_data=1`** in **`nagios.cfg`**. |
+| **`retain_status_information`** | **`1`** | Keeps the service's state across restarts. |
 
 
 
