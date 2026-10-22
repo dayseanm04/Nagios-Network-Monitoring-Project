@@ -81,6 +81,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 
 ### Same as the host template
 
+These work the same way as in **`generic-host`**, but apply to the service. See [**05-Nagios-Generic-Host-Template-Explained.md**](05-Nagios-Generic-Host-Template-Explained.md) for details.
 
 
 
