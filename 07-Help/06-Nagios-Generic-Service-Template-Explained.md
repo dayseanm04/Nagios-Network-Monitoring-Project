@@ -40,6 +40,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 
 | Option | Value | What it does |
 |---|---|---|
+| **`check_interval`** | **`10`** | Minutes between normal checks. |
 
 
 
