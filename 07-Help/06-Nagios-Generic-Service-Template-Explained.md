@@ -53,6 +53,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 3. Nagios rechecks every 2 minutes (**`retry_interval`**).
 4. If it's still failing after 3 total attempts (**`max_check_attempts`**), the problem becomes **"hard"** and an alert goes out.
 
+With these defaults, a problem can take up to about 14 minutes to reach you or an admin: up to 10 minutes before the first failed check, then two retries 2 minutes apart. That's fine for something like uptime, but probably too slow for a critical service. Choose these values per check based on how quickly you need to know.
 
 
 
