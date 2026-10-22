@@ -46,6 +46,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 
 > The time options are in minutes because **`interval_length=60`** in **`nagios.cfg`** by default. If that value were changed, the units would change too.
 
+**How these three work together**
 
 
 
