@@ -65,7 +65,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 | **`notification_interval`** | **`60`** | While a problem continues, send a repeat alert every 60 minutes. **`0`** means only alert once. |
 | **`notification_period`** | **`24x7`** | When alerts can be sent. |
 
-
+**`notification_options` letters for services**
 
 
 
