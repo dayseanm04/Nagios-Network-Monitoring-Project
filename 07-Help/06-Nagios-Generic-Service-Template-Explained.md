@@ -33,6 +33,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 | **`parallelize_check`** | **`1`** | Left over from older versions. It isn't in the Nagios 4 object definitions anymore, because Nagios 4 runs checks in parallel on its own. |
 | **`obsess_over_service`** | **`1`** | Used in distributed monitoring, where one Nagios server forwards results to a central one. Also needs **`obsess_over_services=1`** and an **`ocsp_command`** in **`nagios.cfg`**. Does nothing in a single-server setup. |
 | **`check_freshness`** | **`0`** | For passive checks. If on, Nagios notices when a passive result hasn't come in for a while (set with **`freshness_threshold`**) and runs an active check itself. |
+| **`is_volatile`** | **`0`** | A volatile service sends an alert on **every** non-OK result, not just when the state changes. Useful for event-type checks, like **"a failed login showed up in the log."** Leave at **`0`** for normal checks. |
 
 
 
