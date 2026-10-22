@@ -22,3 +22,4 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 
 ---
 
+## Options explained
