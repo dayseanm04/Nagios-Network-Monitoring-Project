@@ -55,6 +55,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 
 With these defaults, a problem can take up to about 14 minutes to reach you or an admin: up to 10 minutes before the first failed check, then two retries 2 minutes apart. That's fine for something like uptime, but probably too slow for a critical service. Choose these values per check based on how quickly you need to know.
 
+### Alerts
 
 
 
