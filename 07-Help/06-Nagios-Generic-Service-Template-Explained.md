@@ -51,6 +51,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 1. The service is checked every 10 minutes (**`check_interval`**).
 2. A check fails. The service is now in a **"soft"** problem state.
 3. Nagios rechecks every 2 minutes (**`retry_interval`**).
+4. If it's still failing after 3 total attempts (**`max_check_attempts`**), the problem becomes **"hard"** and an alert goes out.
 
 
 
