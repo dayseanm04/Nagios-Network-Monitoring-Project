@@ -36,6 +36,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 | **`is_volatile`** | **`0`** | A volatile service sends an alert on **every** non-OK result, not just when the state changes. Useful for event-type checks, like **"a failed login showed up in the log."** Leave at **`0`** for normal checks. |
 | **`check_period`** | **`24x7`** | When Nagios is allowed to run the check. |
 
+### Check timing
 
 
 
