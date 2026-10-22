@@ -60,6 +60,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 | Option | Value | What it does |
 |---|---|---|
 | **`notifications_enabled`** | **`1`** | Turns on alerts for services using this template. |
+| **`contact_groups`** | **`admins`** | Who gets alerted. **`admins`** is a contact group defined in **`contacts.cfg`**. You can also use **`contacts`** to list individual people. |
 
 
 
