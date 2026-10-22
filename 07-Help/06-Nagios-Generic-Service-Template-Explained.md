@@ -62,6 +62,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 | **`notifications_enabled`** | **`1`** | Turns on alerts for services using this template. |
 | **`contact_groups`** | **`admins`** | Who gets alerted. **`admins`** is a contact group defined in **`contacts.cfg`**. You can also use **`contacts`** to list individual people. |
 | **`notification_options`** | **`w,u,c,r`** | Which states send an alert (see below). |
+| **`notification_interval`** | **`60`** | While a problem continues, send a repeat alert every 60 minutes. **`0`** means only alert once. |
 
 
 
