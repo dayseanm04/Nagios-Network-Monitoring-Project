@@ -29,3 +29,4 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 | Option | Value | What it does |
 |---|---|---|
 | **`active_checks_enabled`** | **`1`** | Nagios runs the check itself on a schedule. NCPA checks through **`check_ncpa`** are active checks. |
+| **`passive_checks_enabled`** | `1` | Nagios also accepts results sent to it from somewhere else, like NCPA passive checks through NRDP. Doesn't affect active checks. |
