@@ -41,6 +41,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 | Option | Value | What it does |
 |---|---|---|
 | **`check_interval`** | **`10`** | Minutes between normal checks. |
+| **`retry_interval`** | **`2`** | Minutes between rechecks after the service leaves the OK state. |
 
 
 
