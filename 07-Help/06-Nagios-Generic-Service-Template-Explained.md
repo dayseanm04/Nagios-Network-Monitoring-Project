@@ -42,6 +42,7 @@ When a service definition has **`use generic-service`**, it gets all of the sett
 |---|---|---|
 | **`check_interval`** | **`10`** | Minutes between normal checks. |
 | **`retry_interval`** | **`2`** | Minutes between rechecks after the service leaves the OK state. |
+| **`max_check_attempts`** | **`3`** | How many times Nagios checks before it treats a problem as real (a **"hard"** state) and sends an alert. Setting it to **`1`** alerts right away with no retries. |
 
 
 
