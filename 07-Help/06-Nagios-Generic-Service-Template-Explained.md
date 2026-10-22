@@ -73,6 +73,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 | **`u`** | UNKNOWN |
 | **`c`** | CRITICAL |
 | **`r`** | Recovery (back to OK) |
+| **`f`** | Flapping started or stopped |
 
 
 
