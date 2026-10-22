@@ -85,6 +85,7 @@ These work the same way as in **`generic-host`**, but apply to the service. See 
 
 | Option | Value | Short version |
 |---|---|---|
+| **`event_handler_enabled`** | `1` | Turns on event handlers. Needs an `event_handler` command to do anything. |
 
 
 
