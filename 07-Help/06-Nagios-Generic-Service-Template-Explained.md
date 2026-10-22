@@ -75,7 +75,7 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 | **`r`** | Recovery (back to OK) |
 | **`f`** | Flapping started or stopped |
 | **`s`** | Scheduled downtime started or ended |
-
+| **`n`** | None, send no alerts |
 
 
 
