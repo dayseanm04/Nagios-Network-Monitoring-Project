@@ -69,6 +69,25 @@ With these defaults, a problem can take up to about 14 minutes to reach you or a
 
 | Letter | Meaning |
 |---|---|
+| **`w`** | WARNING |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
