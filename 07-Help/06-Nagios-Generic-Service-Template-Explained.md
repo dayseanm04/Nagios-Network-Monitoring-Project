@@ -89,6 +89,7 @@ These work the same way as in **`generic-host`**, but apply to the service. See 
 | **`flap_detection_enabled`** | **`1`** | Detects a service bouncing between states and stops repeated alerts. |
 | **`process_perf_data`** | **`1`** | Processes performance data for graphing. Also needs **`process_performance_data=1`** in **`nagios.cfg`**. |
 | **`retain_status_information`** | **`1`** | Keeps the service's state across restarts. |
+| **`retain_nonstatus_information`** | **`1`** | Keeps web UI changes across restarts. |
 
 
 
