@@ -22,3 +22,5 @@ Linux host    →  linux-server    →  generic-host
 For the options that come from **`generic-host`** (notifications on, flap detection, retention, etc.), see [**05-Nagios-Generic-Host-Template-Explained.md**](05-Nagios-Generic-Host-Template-Explained.md).
 
 ---
+
+## The templates
