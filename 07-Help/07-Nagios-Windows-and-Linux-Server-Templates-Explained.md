@@ -57,7 +57,8 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 
 ### How the host is checked
 
-
+| Option | What it does |
+|---|---|
 
 
 
