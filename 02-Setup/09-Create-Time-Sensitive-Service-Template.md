@@ -246,7 +246,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`max_check_attempts 5`** | Needs 5 failed checks in a row before the problem becomes HARD and an alert is sent |
 | **`notification_interval 15`** | Resends the alert every 15 minutes until the problem is fixed |
 
-
+### Compared to generic-service
 
 
 
