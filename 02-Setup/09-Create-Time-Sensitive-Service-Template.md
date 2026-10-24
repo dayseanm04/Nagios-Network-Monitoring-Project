@@ -307,17 +307,4 @@ Use **`time-sensitive`** for high-priority checks on **`comp-a-test`**, instead 
 
 ## Related Docs
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [**08-Help / 03 – Nagios Host and Service Definitions Explained**](../08-Help/03-Nagios-Host-and-Service-Definitions-Explained.md)
