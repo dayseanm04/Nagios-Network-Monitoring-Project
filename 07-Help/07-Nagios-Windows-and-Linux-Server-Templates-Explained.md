@@ -80,6 +80,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 | Option | What it does |
 |---|---|
+| **`notification_period`** | When alerts can be sent. **`24x7`** = any time. **`workhours`** = Monday to Friday, 9:00 to 17:00 by default. Both are defined in **`timeperiods.cfg`**. |
 
 
 
