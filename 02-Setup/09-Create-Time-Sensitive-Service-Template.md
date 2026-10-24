@@ -116,6 +116,7 @@ sudo nano /usr/local/nagios/etc/nagios.cfg
 
 <img width="839" height="195" alt="8" src="https://github.com/user-attachments/assets/9d358090-0776-4685-b409-bc6c8cf51711" />
 
+<img width="1020" height="848" alt="9" src="https://github.com/user-attachments/assets/d0c1242e-4ac5-4b8a-bff9-b017c197f576" />
 
 
 
