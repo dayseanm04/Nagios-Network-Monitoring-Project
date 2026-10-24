@@ -228,6 +228,7 @@ The default **`generic-service`** template checks every **10 minutes**. That's f
 sudo nano custom-templates.cfg
 ```
 
+## Step 2 – Add the Template
 
 
 
