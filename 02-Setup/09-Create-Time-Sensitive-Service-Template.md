@@ -219,6 +219,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Why
 
+The default **`generic-service`** template checks every **10 minutes**. That's fine for something like uptime, but for CPU, memory, and disk, I want to know about a problem faster. 
+
 
 
 
