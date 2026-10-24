@@ -68,8 +68,9 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 
 **How the check timing works for these templates**
 1. The host is checked every 5 minutes.
-2. A check fails. The host goes into a "soft" DOWN state.
+2. A check fails. The host goes into a **"soft"** DOWN state.
 3. Nagios rechecks every 1 minute.
+4. After 10 total failed attempts, the host goes into a **"hard"** DOWN state and an alert is sent.
 
 
 
