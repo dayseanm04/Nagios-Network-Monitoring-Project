@@ -72,6 +72,7 @@ Copying the default file turned out to cause a problem. See [**Issue 2**](#issue
 
 ## Step 3 – Rename the Folder
 
+I go back to **`etc`** and shorten the folder name from **`custom-templates`** to **`templates`**:
 
 
 
