@@ -201,6 +201,7 @@ To delete a large block of text in nano:
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+> **Lesson learned:** I didn't need to copy **`templates.cfg`** at all. The default templates were already loaded. Starting with an empty file would have avoided this error
 
 
 
