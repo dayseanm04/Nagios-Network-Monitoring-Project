@@ -97,7 +97,8 @@ ls -l
 
 <img width="968" height="412" alt="7" src="https://github.com/user-attachments/assets/105c8d2d-517c-4aae-a34d-cd0ac3d17ff6" />
 
-
+| Command | What it does |
+|---|---|
 
 
 
