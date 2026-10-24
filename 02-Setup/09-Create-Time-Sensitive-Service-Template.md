@@ -261,7 +261,13 @@ The big difference is how fast a problem gets **noticed**: within 2 minutes inst
 
 **Note:** **`notification_interval`** won't have any effect yet. Email notifications aren't working on this server (**`/bin/mail`** isn't installed, as shown in the Event Log) because I havent configured it yet. It will take effect once notifications are set up.
 
+## Step 3 – Run the Pre-Flight Check
 
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
+
+<img width="1028" height="689" alt="19" src="https://github.com/user-attachments/assets/b964fcd0-6dc9-4e78-8658-94763ce28dee" />
 
 
 
