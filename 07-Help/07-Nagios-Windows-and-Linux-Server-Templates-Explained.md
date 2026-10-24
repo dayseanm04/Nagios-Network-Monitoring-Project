@@ -29,6 +29,7 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 
 <img width="940" height="442" alt="windows-host-template" src="https://github.com/user-attachments/assets/2b2ee248-36b2-43c8-a1c5-7e35d3f74b1d" />
 
+**linux-server**
 
 
 
