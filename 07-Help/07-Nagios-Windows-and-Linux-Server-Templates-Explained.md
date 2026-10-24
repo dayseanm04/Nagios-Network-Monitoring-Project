@@ -64,7 +64,7 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 | **`check_period`** | When Nagios is allowed to check the host. **`24x7`** = all the time. |
 | **`check_interval`** | Minutes between normal checks. **`5`** = every 5 minutes. |
 | **`retry_interval`** | Minutes between rechecks after the host stops responding. **`1`** = every minute. |
-| **`max_check_attempts`** | How many times Nagios checks before treating the host as really DOWN and sending an alert. Setting it to `1` alerts right away. |
+| **`max_check_attempts`** | How many times Nagios checks before treating the host as really DOWN and sending an alert. Setting it to **`1`** alerts right away. |
 
 
 
