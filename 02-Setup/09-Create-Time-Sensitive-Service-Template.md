@@ -14,3 +14,6 @@ The default templates live in **`objects/templates.cfg`**. I could add mine to t
 - I can tell which templates are mine and which came with Nagios.
 - If I ever upgrade or reinstall Nagios, my templates aren't mixed into a file that might get replaced.
 - It follows the same idea as **`windows-hosts/`**: my own config is organized in its own place.
+
+---
+
