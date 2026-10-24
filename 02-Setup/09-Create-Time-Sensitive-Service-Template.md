@@ -59,7 +59,10 @@ Then I copied the default **`templates.cfg`** as a starting point:
 
 I rename it so it's clear that it holds my custom templates:
 
-
+```bash
+sudo mv templates.cfg custom-templates.cfg
+ls -l
+```
 
 
 
