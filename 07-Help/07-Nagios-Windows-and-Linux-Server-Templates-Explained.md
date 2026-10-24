@@ -67,6 +67,7 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 | **`max_check_attempts`** | How many times Nagios checks before treating the host as really DOWN and sending an alert. Setting it to **`1`** alerts right away. |
 
 **How the check timing works for these templates**
+1. The host is checked every 5 minutes.
 
 
 
