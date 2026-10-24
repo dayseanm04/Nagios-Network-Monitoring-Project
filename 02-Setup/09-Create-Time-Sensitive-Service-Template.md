@@ -105,6 +105,7 @@ ls -l
 
 ---
 
+## Step 5 – Load the File in nagios.cfg
 
 
 
