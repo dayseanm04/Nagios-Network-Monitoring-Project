@@ -184,6 +184,9 @@ cd templates
 sudo nano custom-templates.cfg
 ```
 
+<img width="966" height="699" alt="14" src="https://github.com/user-attachments/assets/be59276d-409e-4a53-a0e5-864195c8feb4" />
+
+
 To delete a large block of text in nano:
 
 
