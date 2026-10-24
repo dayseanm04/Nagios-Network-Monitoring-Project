@@ -100,6 +100,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 > **Note:** **`linux-server`** sets **`notification_period workhours`**, which overrides the **`24x7`** it inherits from **`generic-host`**. 
 
+### Grouping and naming
 
 
 
