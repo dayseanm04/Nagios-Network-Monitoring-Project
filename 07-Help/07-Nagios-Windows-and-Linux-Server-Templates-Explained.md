@@ -5,3 +5,5 @@ This guide explains the two OS-specific host templates that come with Nagios Cor
 **File location:** `/usr/local/nagios/etc/objects/templates.cfg`
 
 ---
+
+## How they fit in
