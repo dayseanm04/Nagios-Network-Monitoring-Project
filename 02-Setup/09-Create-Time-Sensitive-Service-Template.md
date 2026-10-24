@@ -211,19 +211,22 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1032" height="838" alt="17" src="https://github.com/user-attachments/assets/9d64b24b-27e0-4e28-9e7e-dae916a45dbf" />
 
-### Pre-Flight Check Passes
+Pre-Flight Check Passes
 
 ---
 
 # Part 2 – Create the time-sensitive Template
 
-## Why
+### Why
 
 The default **`generic-service`** template checks every **10 minutes**. That's fine for something like uptime, but for CPU, memory, and disk, I want to know about a problem faster. So I'll create a template that checks more often, while still retrying a few times so one brief spike doesn't trigger an alert.
 
 ## Step 1 – Open the File
 
+```bash
 
+sudo nano custom-templates.cfg
+```
 
 
 
