@@ -110,6 +110,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 > **Heads up:** The **`windows-servers`** hostgroup is defined in **`windows.cfg`**. If you stop loading **`windows.cfg`** in **`nagios.cfg`**, the hostgroup no longer exists and the config check will fail. Make sure it's defined somewhere Nagios still loads.
 
+---
 
 
 
