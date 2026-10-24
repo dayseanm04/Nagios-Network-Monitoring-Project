@@ -301,6 +301,7 @@ Use **`time-sensitive`** for high-priority checks on **`comp-a-test`**, instead 
 |---|---|---|
 | **`Cannot open config file ... No such file or directory`** | Wrong path in the **`cfg_file=`** line | Check the path and correct it in **`nagios.cfg`** |
 | **`Duplicate definition found for contact 'generic-contact'`** | Default templates copied into the custom file | Remove them from **`custom-templates.cfg`**. Only add your own templates |
+| **`Invalid service object directive`** | A misspelled directive | Check the spelling against the default templates in **`objects/templates.cfg`** |
 
 
 
