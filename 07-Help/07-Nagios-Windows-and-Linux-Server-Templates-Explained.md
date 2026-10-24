@@ -114,6 +114,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 ## Using these templates
 
+You don't need to make a new template to change one or two settings. Use the default template and put your overrides directly in the host definition:
 
 
 
