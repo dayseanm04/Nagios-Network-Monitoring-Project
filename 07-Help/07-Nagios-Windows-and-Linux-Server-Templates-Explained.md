@@ -133,20 +133,4 @@ Make your own template only when several hosts need the same overrides. That way
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [**Object Definitions**](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/objectdefinitions.html) – every service option, with descriptions (scroll to "Service Definition")
