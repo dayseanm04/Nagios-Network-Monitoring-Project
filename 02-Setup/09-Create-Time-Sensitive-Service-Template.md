@@ -64,6 +64,7 @@ sudo mv templates.cfg custom-templates.cfg
 ls -l
 ```
 
+<img width="1032" height="377" alt="5" src="https://github.com/user-attachments/assets/58a17425-75f2-4be4-872f-d09851a34010" />
 
 
 
