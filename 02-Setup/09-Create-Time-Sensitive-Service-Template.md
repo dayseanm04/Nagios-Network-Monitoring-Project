@@ -120,6 +120,14 @@ sudo nano /usr/local/nagios/etc/nagios.cfg
 
 I scroll to the **`cfg_file=`** lines and add my template file right after the default one, with comments so it's clear which is which:
 
+```
+# nagios default templates
+cfg_file=/usr/local/nagios/etc/objects/templates.cfg
+
+# my custom templates
+cfg_file=/usr/local/nagios/etc/templates/custom-templates.cfg
+```
+
 <img width="802" height="528" alt="10" src="https://github.com/user-attachments/assets/b1e3b9c6-9f12-4c8b-8011-5fb31a9d422a" />
 
 
