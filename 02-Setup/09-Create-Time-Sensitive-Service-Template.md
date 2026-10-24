@@ -70,6 +70,7 @@ Copying the default file turned out to cause a problem. See [**Issue 2**](#issue
 
 ---
 
+## Step 3 – Rename the Folder
 
 
 
