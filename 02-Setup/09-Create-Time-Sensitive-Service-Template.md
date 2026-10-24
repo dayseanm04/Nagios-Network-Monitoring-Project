@@ -297,7 +297,8 @@ Use **`time-sensitive`** for high-priority checks on **`comp-a-test`**, instead 
 
 ## Troubleshooting
 
-
+| Error | Cause | Fix |
+|---|---|---|
 
 
 
