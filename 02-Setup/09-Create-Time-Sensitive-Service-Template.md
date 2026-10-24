@@ -238,6 +238,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 | Line | What it does |
 |---|---|
+| **`name time-sensitive`** | The template's name. Services use it with **`use time-sensitive`** |
 
 
 
