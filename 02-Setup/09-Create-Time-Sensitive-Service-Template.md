@@ -170,6 +170,9 @@ Run the Pre-Flight Check again
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="1026" height="626" alt="13" src="https://github.com/user-attachments/assets/44979575-9f75-44d6-a0d8-6d38ad866339" />
+
+
 ### Issue 2 – Duplicate Definitions
 
 
