@@ -240,6 +240,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 |---|---|
 | **`name time-sensitive`** | The template's name. Services use it with **`use time-sensitive`** |
 | **`use generic-service`** | Inherits every other setting from **`generic-service`** (contacts, notification options, time periods, etc.) |
+| **`register 0`** | Marks this as a template only, not a real service |
 
 
 
