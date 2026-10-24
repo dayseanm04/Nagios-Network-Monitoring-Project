@@ -277,8 +277,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="858" height="507" alt="20" src="https://github.com/user-attachments/assets/a79abb26-d1d8-435e-a443-37917190fe29" />
 
+**Run the Pre-Flight Check again**
 
-
+<img width="923" height="744" alt="21" src="https://github.com/user-attachments/assets/5c91b869-c8ab-4eeb-bae4-c31e001a564d" />
 
 
 
