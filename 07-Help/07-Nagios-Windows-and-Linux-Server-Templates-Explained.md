@@ -63,6 +63,7 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 | **`check_command`** | How Nagios decides if the host is UP or DOWN. **`check-host-alive`** pings the host. |
 | **`check_period`** | When Nagios is allowed to check the host. **`24x7`** = all the time. |
 | **`check_interval`** | Minutes between normal checks. **`5`** = every 5 minutes. |
+| **`retry_interval`** | Minutes between rechecks after the host stops responding. **`1`** = every minute. |
 
 
 
