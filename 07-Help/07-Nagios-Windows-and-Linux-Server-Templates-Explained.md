@@ -87,7 +87,8 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 **`notification_options` letters for hosts**
 
-
+| Letter | Meaning |
+|---|---|
 
 
 
