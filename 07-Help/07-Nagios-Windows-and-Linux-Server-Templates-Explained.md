@@ -12,4 +12,4 @@ This guide explains the two OS-specific host templates that come with Nagios Cor
 
 <img width="924" height="496" alt="2" src="https://github.com/user-attachments/assets/bdc56670-379b-42e0-8805-a44e4fe3e8c1" />
 
-Both templates are built on top of **`generic-host`** with **`use generic-host`**. 
+Both templates are built on top of **`generic-host`** with **`use generic-host`**. They inherit everything from it and add settings for *how* a host is checked and *who* gets alerted.
