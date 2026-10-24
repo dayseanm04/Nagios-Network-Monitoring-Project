@@ -11,3 +11,4 @@ A template is a blueprint of settings that hosts and services can inherit with t
 ## Why a Separate File?
 
 The default templates live in **`objects/templates.cfg`**. I could add mine to that file, but keeping them separate means:
+- I can tell which templates are mine and which came with Nagios.
