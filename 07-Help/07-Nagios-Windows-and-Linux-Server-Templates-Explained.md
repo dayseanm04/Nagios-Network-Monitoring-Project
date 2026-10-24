@@ -106,6 +106,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 |---|---|
 | **`name`** | The template's name, used with **`use windows-server`** or **`use linux-server`**. |
 | **`hostgroups`** | Adds every host using **`windows-server`** to the **`windows-servers`** hostgroup. Hostgroups let you view hosts together in the web UI and apply one service to a whole group. |
+| **`register`** | **`0`** marks this as a template, not a real host. |
 
 
 
