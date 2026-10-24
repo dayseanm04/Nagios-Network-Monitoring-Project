@@ -18,3 +18,5 @@ Both templates are built on top of **`generic-host`** with **`use generic-host`*
 Windows host  →  windows-server  →  generic-host
 Linux host    →  linux-server    →  generic-host
 ```
+
+For the options that come from **`generic-host`** (notifications on, flap detection, retention, etc.), see [**05-Nagios-Generic-Host-Template-Explained.md**](05-Nagios-Generic-Host-Template-Explained.md).
