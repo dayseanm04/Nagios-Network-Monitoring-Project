@@ -98,6 +98,8 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 **`windows-server`** uses **`d,r`**, so it doesn't alert on UNREACHABLE. **`linux-server`** uses **`d,u,r`**, so it does.
 
+> **Note:** **`linux-server`** sets **`notification_period workhours`**, which overrides the **`24x7`** it inherits from **`generic-host`**. 
+
 
 
 
