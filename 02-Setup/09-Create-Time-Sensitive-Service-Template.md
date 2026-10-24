@@ -33,7 +33,10 @@ ls -l
 
 I create a folder for my templates:
 
-
+```bash
+sudo mkdir custom-templates
+ls -l
+```
 
 
 
