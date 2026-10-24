@@ -190,6 +190,7 @@ sudo nano custom-templates.cfg
 To delete a large block of text in nano:
 
 1. Move the cursor to the start of the text to delete.
+2. Press **Alt+A** to set a mark.
 
 
 
