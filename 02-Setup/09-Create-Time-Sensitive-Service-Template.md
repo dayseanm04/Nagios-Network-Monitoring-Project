@@ -215,6 +215,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ---
 
+# Part 2 – Create the time-sensitive Template
 
 
 
