@@ -35,6 +35,7 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 
 ---
 
+## Side-by-side comparison
 
 
 
