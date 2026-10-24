@@ -255,6 +255,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | Max check attempts | 3 | **5** |
 | Notification interval | 60 min | **15 min** |
 | Time to HARD alert after first failed check | ~4 min | ~4 min |
+| Longest time before a problem is first noticed | 10 min | **2 min** |
 
 
 
