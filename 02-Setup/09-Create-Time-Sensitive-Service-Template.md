@@ -148,6 +148,7 @@ This check failed twice before it passed.
 
 <img width="953" height="574" alt="11" src="https://github.com/user-attachments/assets/9fb28953-aff2-4d14-bdf3-8f14d3e4eb5b" />
 
+**Cause:** I copied the default **`cfg_file=`** line and edited it, but left **`objects/`** in the path. My folder is at **`etc/templates/`**, not **`etc/objects/templates/`**.
 
 
 
