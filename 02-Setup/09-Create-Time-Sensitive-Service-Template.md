@@ -68,6 +68,7 @@ ls -l
 
 Copying the default file turned out to cause a problem. See [**Issue 2**](#issue-2--duplicate-definitions).
 
+---
 
 
 
