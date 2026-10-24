@@ -230,6 +230,7 @@ sudo nano custom-templates.cfg
 
 ## Step 2 – Add the Template
 
+<img width="963" height="500" alt="18" src="https://github.com/user-attachments/assets/efadd29b-4d59-4ae3-a1da-77c83f160a7a" />
 
 
 
