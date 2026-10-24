@@ -49,6 +49,7 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 | **`contact_groups`** | **`admins`** | **`admins`** |
 | **`hostgroups`** | **`windows-servers`** | **(not set)** |
 
+They check hosts the same way. The difference is in **alerting**: **`windows-server`** alerts at any time and repeats more often, while **`linux-server`** only alerts during work hours and repeats less often.
 
 
 
