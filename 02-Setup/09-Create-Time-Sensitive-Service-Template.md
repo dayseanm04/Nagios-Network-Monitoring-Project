@@ -299,6 +299,7 @@ Use **`time-sensitive`** for high-priority checks on **`comp-a-test`**, instead 
 
 | Error | Cause | Fix |
 |---|---|---|
+| **`Cannot open config file ... No such file or directory`** | Wrong path in the **`cfg_file=`** line | Check the path and correct it in **`nagios.cfg`** |
 
 
 
