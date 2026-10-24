@@ -22,3 +22,9 @@ The default templates live in **`objects/templates.cfg`**. I could add mine to t
 ## Step 1 – Create the Folder
 
 I make sure I'm in my home directory, then go to the Nagios **`etc`** folder:
+
+```bash
+cd
+cd /usr/local/nagios/etc
+ls -l
+```
