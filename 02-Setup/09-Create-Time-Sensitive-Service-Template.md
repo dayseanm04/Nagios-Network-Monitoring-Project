@@ -175,7 +175,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ### Issue 2 – Duplicate Definitions
 
-**Cause:** Because I copied the default **`templates.cfg`**, my file contained every default template (**`generic-contact`**, **`generic-host`**, **`generic-service`**, **`windows-server`**, and so on). 
+**Cause:** Because I copied the default **`templates.cfg`**, my file contained every default template (**`generic-contact`**, **`generic-host`**, **`generic-service`**, **`windows-server`**, and so on). Nagios was now loading each of them twice: once from **`objects/templates.cfg`** and once from **`custom-templates.cfg`**. Every object can only be defined once.
 
 
 
