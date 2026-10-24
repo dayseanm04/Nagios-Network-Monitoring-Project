@@ -88,6 +88,7 @@ ls -l
 
 Since I created the folder and copied the file with **`sudo`**, they're owned by **`root`**. I change them to match the rest of the Nagios config:
 
+<img width="968" height="412" alt="7" src="https://github.com/user-attachments/assets/105c8d2d-517c-4aae-a34d-cd0ac3d17ff6" />
 
 
 
