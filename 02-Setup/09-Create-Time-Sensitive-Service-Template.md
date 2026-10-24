@@ -234,6 +234,7 @@ sudo nano custom-templates.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+### What each line does
 
 
 
