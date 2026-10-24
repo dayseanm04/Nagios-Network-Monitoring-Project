@@ -275,6 +275,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 **Fix:** I corrected the line:
 
+<img width="858" height="507" alt="20" src="https://github.com/user-attachments/assets/a79abb26-d1d8-435e-a443-37917190fe29" />
 
 
 
