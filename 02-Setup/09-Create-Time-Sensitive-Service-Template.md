@@ -136,6 +136,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ---
 
+## Step 6 – Run the Pre-Flight Check
 
 
 
