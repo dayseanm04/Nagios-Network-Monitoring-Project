@@ -179,7 +179,10 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 **Fix:** I cleared the copied templates out of **`custom-templates.cfg`**, keeping only a header:
 
-
+```bash
+cd templates
+sudo nano custom-templates.cfg
+```
 
 
 
