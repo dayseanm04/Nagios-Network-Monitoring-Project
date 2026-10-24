@@ -55,6 +55,7 @@ ls -l
 
 Then I copied the default **`templates.cfg`** as a starting point:
 
+<img width="1034" height="307" alt="4" src="https://github.com/user-attachments/assets/3e45f31a-281b-4445-94ba-a7f8abfd6683" />
 
 
 
