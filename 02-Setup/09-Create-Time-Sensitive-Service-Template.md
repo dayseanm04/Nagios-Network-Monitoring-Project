@@ -243,6 +243,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`register 0`** | Marks this as a template only, not a real service |
 | **`check_interval 2`** | Runs the check every 2 minutes while the service is OK |
 | **`retry_interval 1`** | Once a problem is found, rechecks every 1 minute |
+| **`max_check_attempts 5`** | Needs 5 failed checks in a row before the problem becomes HARD and an alert is sent |
 
 
 
