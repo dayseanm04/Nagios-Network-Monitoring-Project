@@ -59,7 +59,8 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 
 | Option | What it does |
 |---|---|
-| **`use`** | Which template to inherit from. Here, `generic-host`. |
+| **`use`** | Which template to inherit from. Here, **`generic-host`**. |
+| **`check_command`** | How Nagios decides if the host is UP or DOWN. **`check-host-alive`** pings the host. |
 
 
 
