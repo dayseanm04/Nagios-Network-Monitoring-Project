@@ -30,3 +30,44 @@ ls -l
 ```
 
 <img width="989" height="566" alt="1" src="https://github.com/user-attachments/assets/ce2e5a0c-602d-43b4-8459-52c794de63eb" />
+
+I create a folder for my templates:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
