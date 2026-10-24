@@ -53,7 +53,7 @@ ls -l
 
 <img width="849" height="289" alt="3" src="https://github.com/user-attachments/assets/bb938dec-03a7-440c-a85e-77cf076f4c3e" />
 
-and copy the default **`templates.cfg`** as a starting point:
+Then I copied the default **`templates.cfg`** as a starting point:
 
 
 
