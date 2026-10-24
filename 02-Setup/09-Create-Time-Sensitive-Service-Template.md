@@ -80,6 +80,7 @@ sudo mv custom-templates templates
 ls -l
 ```
 
+<img width="910" height="227" alt="6" src="https://github.com/user-attachments/assets/165dfc53-a8dd-428c-8c48-031b385be5b1" />
 
 
 
