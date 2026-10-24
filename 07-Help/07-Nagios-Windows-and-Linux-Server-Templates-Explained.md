@@ -47,6 +47,7 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 | **`notification_interval`** | **`30`** | **`120`** |
 | **`notification_options`** | **`d,r`** | **`d,u,r`** |
 | **`contact_groups`** | **`admins`** | **`admins`** |
+| **`hostgroups`** | **`windows-servers`** | **(not set)** |
 
 
 
