@@ -250,6 +250,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 | Setting | `generic-service` | `time-sensitive` |
 |---|---|---|
+| Check interval | 10 min | **2 min** |
 
 
 
