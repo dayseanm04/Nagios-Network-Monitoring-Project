@@ -103,6 +103,7 @@ ls -l
 | **`chmod 775`** (folder) | Owner and group can read, write, and open the folder. Everyone else can read and open it |
 | **`chmod 664`** (file) | Owner and group can read and write. Everyone else can only read |
 
+---
 
 
 
