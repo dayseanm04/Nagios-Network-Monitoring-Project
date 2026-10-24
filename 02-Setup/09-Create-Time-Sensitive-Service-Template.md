@@ -175,6 +175,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ### Issue 2 – Duplicate Definitions
 
+**Cause:** Because I copied the default **`templates.cfg`**, my file contained every default template (**`generic-contact`**, **`generic-host`**, **`generic-service`**, **`windows-server`**, and so on). 
+
 
 
 
