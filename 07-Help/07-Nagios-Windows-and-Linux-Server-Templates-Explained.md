@@ -78,7 +78,8 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 ### Who gets alerted and when
 
-
+| Option | What it does |
+|---|---|
 
 
 
