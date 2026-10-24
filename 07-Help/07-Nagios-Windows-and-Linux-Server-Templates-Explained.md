@@ -94,6 +94,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 | **`r`** | Recovery (back to UP) |
 | **`f`** | Flapping started or stopped |
 | **`s`** | Scheduled downtime started or ended |
+| **`n`** | None, send no alerts |
 
 
 
