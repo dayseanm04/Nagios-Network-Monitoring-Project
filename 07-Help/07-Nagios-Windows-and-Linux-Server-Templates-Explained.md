@@ -131,7 +131,7 @@ The host gets everything from **`windows-server`** and **`generic-host`**, excep
 
 Make your own template only when several hosts need the same overrides. That way you change them in one place instead of in every host definition.
 
-
+---
 
 
 
