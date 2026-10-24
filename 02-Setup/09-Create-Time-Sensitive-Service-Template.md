@@ -253,6 +253,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | Check interval | 10 min | **2 min** |
 | Retry interval | 2 min | **1 min** |
 | Max check attempts | 3 | **5** |
+| Notification interval | 60 min | **15 min** |
 
 
 
