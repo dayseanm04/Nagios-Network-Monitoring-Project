@@ -82,6 +82,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 |---|---|
 | **`notification_period`** | When alerts can be sent. **`24x7`** = any time. **`workhours`** = Monday to Friday, 9:00 to 17:00 by default. Both are defined in **`timeperiods.cfg`**. |
 | **`notification_interval`** | Minutes between repeat alerts while the host is still down. **`30`** = every 30 minutes, **`120`** = every 2 hours. **`0`** = alert only once. |
+| **`notification_options`** | Which host states send an alert (see below). |
 
 
 
