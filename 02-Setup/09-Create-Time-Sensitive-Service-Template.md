@@ -107,7 +107,9 @@ ls -l
 
 ## Step 5 – Load the File in nagios.cfg
 
-
+```bash
+sudo nano /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
