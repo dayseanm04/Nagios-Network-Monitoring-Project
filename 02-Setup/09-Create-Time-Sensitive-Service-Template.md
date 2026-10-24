@@ -164,6 +164,12 @@ cfg_file=/usr/local/nagios/etc/templates/custom-templates.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+Run the Pre-Flight Check again
+
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
+
 ### Issue 2 – Duplicate Definitions
 
 
