@@ -44,7 +44,11 @@ ls -l
 
 ## Step 2 – Copy and Rename the Template File
 
-I go into the new folder and copy the default **`templates.cfg`** as a starting point:
+I go into the new folder:
+
+<img width="849" height="289" alt="3" src="https://github.com/user-attachments/assets/bb938dec-03a7-440c-a85e-77cf076f4c3e" />
+
+and copy the default **`templates.cfg`** as a starting point:
 
 
 
