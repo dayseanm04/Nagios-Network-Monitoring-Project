@@ -144,6 +144,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="953" height="574" alt="11" src="https://github.com/user-attachments/assets/9fb28953-aff2-4d14-bdf3-8f14d3e4eb5b" />
 
+This check failed twice before it passed.
 
 
 
