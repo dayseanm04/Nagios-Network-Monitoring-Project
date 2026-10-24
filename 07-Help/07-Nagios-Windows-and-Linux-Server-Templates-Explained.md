@@ -24,3 +24,32 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 ---
 
 ## The templates
+
+**windows-server**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
