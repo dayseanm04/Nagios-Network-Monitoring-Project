@@ -129,6 +129,7 @@ define host {
 
 The host gets everything from **`windows-server`** and **`generic-host`**, except **`max_check_attempts`**, which is now 5.
 
+Make your own template only when several hosts need the same overrides. That way you change them in one place instead of in every host definition.
 
 
 
