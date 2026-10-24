@@ -221,6 +221,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 The default **`generic-service`** template checks every **10 minutes**. That's fine for something like uptime, but for CPU, memory, and disk, I want to know about a problem faster. So I'll create a template that checks more often, while still retrying a few times so one brief spike doesn't trigger an alert.
 
+## Step 1 – Open the File
 
 
 
