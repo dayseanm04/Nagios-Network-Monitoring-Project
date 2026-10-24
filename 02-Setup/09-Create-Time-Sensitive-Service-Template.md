@@ -93,6 +93,8 @@ sudo chown -R nagios:nagios /usr/local/nagios/etc/templates
 sudo chmod 775 /usr/local/nagios/etc/templates
 sudo chmod 664 /usr/local/nagios/etc/templates/*.cfg
 ls -l
+cd templates
+ls -l
 ```
 
 <img width="968" height="412" alt="7" src="https://github.com/user-attachments/assets/105c8d2d-517c-4aae-a34d-cd0ac3d17ff6" />
