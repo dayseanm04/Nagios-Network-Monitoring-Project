@@ -285,6 +285,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Result
 
+My custom templates now live in **`/usr/local/nagios/etc/templates/custom-templates.cfg`**, separate from the Nagios defaults, and the file is loaded right after the default templates in **`nagios.cfg`**. 
+
 
 
 
