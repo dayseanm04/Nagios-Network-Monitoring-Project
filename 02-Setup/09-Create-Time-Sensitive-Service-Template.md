@@ -162,6 +162,7 @@ cfg_file=/usr/local/nagios/etc/templates/custom-templates.cfg
 
 <img width="753" height="500" alt="12" src="https://github.com/user-attachments/assets/3587d80c-9291-46a2-b922-2ada197f7fa9" />
 
+### Issue 2 – Duplicate Definitions
 
 
 
