@@ -44,6 +44,7 @@ ls -l
 
 ## Step 2 – Copy and Rename the Template File
 
+I go into the new folder and copy the default **`templates.cfg`** as a starting point:
 
 
 
