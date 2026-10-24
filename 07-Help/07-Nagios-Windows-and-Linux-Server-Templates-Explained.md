@@ -39,6 +39,7 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 
 | Option | windows-server | linux-server |
 |---|---|---|
+| **`check_period`** | **`24x7`** | **`24x7`** |
 
 
 
