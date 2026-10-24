@@ -281,6 +281,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="923" height="744" alt="21" src="https://github.com/user-attachments/assets/5c91b869-c8ab-4eeb-bae4-c31e001a564d" />
 
+---
 
 
 
