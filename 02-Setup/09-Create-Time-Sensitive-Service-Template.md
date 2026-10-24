@@ -42,6 +42,7 @@ ls -l
 
 ---
 
+## Step 2 – Copy and Rename the Template File
 
 
 
