@@ -108,6 +108,8 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 | **`hostgroups`** | Adds every host using **`windows-server`** to the **`windows-servers`** hostgroup. Hostgroups let you view hosts together in the web UI and apply one service to a whole group. |
 | **`register`** | **`0`** marks this as a template, not a real host. |
 
+> **Heads up:** The **`windows-servers`** hostgroup is defined in **`windows.cfg`**. If you stop loading **`windows.cfg`** in **`nagios.cfg`**, the hostgroup no longer exists and the config check will fail. Make sure it's defined somewhere Nagios still loads.
+
 
 
 
