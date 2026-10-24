@@ -76,6 +76,9 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 > **Ping and Windows:** **`check-host-alive`** uses ping. Windows Firewall blocks ping by default, so a Windows host can show DOWN even though it's running fine. 
 
+### Who gets alerted and when
+
+
 
 
 
