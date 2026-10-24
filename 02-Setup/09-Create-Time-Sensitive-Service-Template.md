@@ -74,7 +74,11 @@ Copying the default file turned out to cause a problem. See [**Issue 2**](#issue
 
 I go back to **`etc`** and shorten the folder name from **`custom-templates`** to **`templates`**:
 
-
+```bash
+cd ..
+sudo mv custom-templates templates
+ls -l
+```
 
 
 
