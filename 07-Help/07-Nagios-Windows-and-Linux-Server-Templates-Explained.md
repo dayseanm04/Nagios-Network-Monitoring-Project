@@ -102,7 +102,8 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 
 ### Grouping and naming
 
-
+| Option | What it does |
+|---|---|
 
 
 
