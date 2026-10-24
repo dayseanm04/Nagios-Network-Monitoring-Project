@@ -254,6 +254,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | Retry interval | 2 min | **1 min** |
 | Max check attempts | 3 | **5** |
 | Notification interval | 60 min | **15 min** |
+| Time to HARD alert after first failed check | ~4 min | ~4 min |
 
 
 
