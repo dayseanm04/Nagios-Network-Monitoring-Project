@@ -74,6 +74,8 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 
 So a host has to be unreachable for roughly 10–15 minutes before anyone gets alerted. Lower **`max_check_attempts`** if you need to know faster.
 
+> **Ping and Windows:** **`check-host-alive`** uses ping. Windows Firewall blocks ping by default, so a Windows host can show DOWN even though it's running fine. 
+
 
 
 
