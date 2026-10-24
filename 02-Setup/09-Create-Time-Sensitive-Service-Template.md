@@ -150,6 +150,7 @@ This check failed twice before it passed.
 
 **Cause:** I copied the default **`cfg_file=`** line and edited it, but left **`objects/`** in the path. My folder is at **`etc/templates/`**, not **`etc/objects/templates/`**.
 
+**Fix:** I corrected the line in `nagios.cfg`:
 
 
 
