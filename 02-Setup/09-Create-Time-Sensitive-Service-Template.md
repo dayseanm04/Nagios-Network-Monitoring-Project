@@ -193,6 +193,7 @@ To delete a large block of text in nano:
 2. Press **Alt+A** to set a mark.
 3. Use the **down arrow** to highlight everything to delete.
 
+<img width="1030" height="645" alt="15" src="https://github.com/user-attachments/assets/99fb4f65-c03b-426c-86fc-fbbaf6e9ac94" />
 
 
 
