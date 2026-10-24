@@ -184,6 +184,7 @@ cd templates
 sudo nano custom-templates.cfg
 ```
 
+To delete a large block of text in nano:
 
 
 
