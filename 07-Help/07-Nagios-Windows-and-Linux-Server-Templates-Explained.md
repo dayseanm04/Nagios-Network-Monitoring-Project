@@ -44,6 +44,7 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 | **`retry_interval`** | **`1`** | **`1`** |
 | **`max_check_attempts`** | **`10`** | **`10`** |
 | **`notification_period`** | **`24x7`** | **`workhours`** |
+| **`notification_interval`** | **`30`** | **`120`** |
 
 
 
