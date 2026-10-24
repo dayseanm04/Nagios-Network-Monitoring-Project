@@ -93,6 +93,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 | **`u`** | UNREACHABLE (Nagios can't reach the host because a device between them, like a router, is down) |
 | **`r`** | Recovery (back to UP) |
 | **`f`** | Flapping started or stopped |
+| **`s`** | Scheduled downtime started or ended |
 
 
 
