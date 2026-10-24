@@ -199,6 +199,7 @@ To delete a large block of text in nano:
 
 <img width="1018" height="378" alt="16" src="https://github.com/user-attachments/assets/0e4612de-2b51-433b-b507-ea2047f4b2d5" />
 
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
