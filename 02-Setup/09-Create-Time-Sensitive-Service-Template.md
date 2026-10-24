@@ -118,6 +118,7 @@ sudo nano /usr/local/nagios/etc/nagios.cfg
 
 <img width="1020" height="848" alt="9" src="https://github.com/user-attachments/assets/d0c1242e-4ac5-4b8a-bff9-b017c197f576" />
 
+I scroll to the **`cfg_file=`** lines and add my template file right after the default one, with comments so it's clear which is which:
 
 
 
