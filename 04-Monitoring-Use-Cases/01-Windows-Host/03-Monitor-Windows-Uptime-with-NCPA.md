@@ -132,3 +132,6 @@ check_command           check_ncpa!-M system/uptime -w 3600: -c 600:
 | More than 1 hour | 🟩 OK |
 | Under 1 hour (3600 seconds) | 🟨 WARNING |
 | Under 10 minutes (600 seconds) | 🟥 CRITICAL |
+
+**Note:** In this doc, I created the uptime check in the default **`windows.cfg`** file that comes with Nagios (**`/usr/local/nagios/etc/objects/windows.cfg`**). I've since moved Windows hosts into their own folder, **`/usr/local/nagios/etc/windows-hosts/`**, with one file per host. The **`comp-a-test`** host and its uptime check now live in **`windows-hosts/comp-a-test.cfg`**, and the old **`windows.cfg`** is disabled.
+
