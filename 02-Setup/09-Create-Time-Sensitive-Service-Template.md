@@ -257,6 +257,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | Time to HARD alert after first failed check | ~4 min | ~4 min |
 | Longest time before a problem is first noticed | 10 min | **2 min** |
 
+The big difference is how fast a problem gets **noticed**: within 2 minutes instead of up to 10. The 5 attempts with 1-minute retries mean a problem has to last about 4 minutes before it becomes HARD, so a short CPU spike won't trigger a false alert.
 
 
 
