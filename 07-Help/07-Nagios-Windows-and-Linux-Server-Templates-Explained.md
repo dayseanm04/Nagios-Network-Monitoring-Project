@@ -127,6 +127,7 @@ define host {
 }
 ```
 
+The host gets everything from **`windows-server`** and **`generic-host`**, except **`max_check_attempts`**, which is now 5.
 
 
 
