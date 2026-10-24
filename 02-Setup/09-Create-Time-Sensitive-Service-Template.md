@@ -164,7 +164,7 @@ cfg_file=/usr/local/nagios/etc/templates/custom-templates.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
-Run the Pre-Flight Check again
+**Run the Pre-Flight Check again**
 
 ```bash
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
@@ -203,7 +203,11 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 > **Lesson learned:** I didn't need to copy **`templates.cfg`** at all. The default templates were already loaded. Starting with an empty file would have avoided this error
 
+**Run the Pre-Flight Check again**
 
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
