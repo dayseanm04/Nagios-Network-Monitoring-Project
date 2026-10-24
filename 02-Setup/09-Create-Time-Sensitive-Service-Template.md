@@ -273,6 +273,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 **Cause:** I typed **`max_checks_attempts`** instead of **`max_check_attempts`**. Nagios only accepts exact directive names.
 
+**Fix:** I corrected the line:
 
 
 
