@@ -271,6 +271,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ### Issue 3 – Typo in a Directive
 
+**Cause:** I typed **`max_checks_attempts`** instead of **`max_check_attempts`**. Nagios only accepts exact directive names.
 
 
 
