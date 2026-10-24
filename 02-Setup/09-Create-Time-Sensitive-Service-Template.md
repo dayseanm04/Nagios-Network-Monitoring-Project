@@ -84,6 +84,7 @@ ls -l
 
 ---
 
+## Step 4 – Set Ownership and Permissions
 
 
 
