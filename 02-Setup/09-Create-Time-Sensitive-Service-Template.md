@@ -18,3 +18,6 @@ The default templates live in **`objects/templates.cfg`**. I could add mine to t
 ---
 
 # Part 1 – Create the Templates Folder and File
+
+## Step 1 – Create the Folder
+
