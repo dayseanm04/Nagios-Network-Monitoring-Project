@@ -291,7 +291,7 @@ My custom templates now live in **`/usr/local/nagios/etc/templates/custom-templa
 
 ## Next Steps
 
-
+Use **`time-sensitive`** for high-priority checks on **`comp-a-test`**, instead of **`use generic-service`**
 
 
 
