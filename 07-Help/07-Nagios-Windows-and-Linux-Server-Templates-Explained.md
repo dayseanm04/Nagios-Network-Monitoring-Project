@@ -31,6 +31,7 @@ For the options that come from **`generic-host`** (notifications on, flap detect
 
 **linux-server**
 
+<img width="932" height="450" alt="linux-host-template" src="https://github.com/user-attachments/assets/e9af27a9-ed28-4d53-86c7-6cab904566e0" />
 
 
 
