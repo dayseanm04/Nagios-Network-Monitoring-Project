@@ -96,6 +96,7 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 | **`s`** | Scheduled downtime started or ended |
 | **`n`** | None, send no alerts |
 
+**`windows-server`** uses **`d,r`**, so it doesn't alert on UNREACHABLE. **`linux-server`** uses **`d,u,r`**, so it does.
 
 
 
