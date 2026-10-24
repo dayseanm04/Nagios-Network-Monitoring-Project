@@ -248,6 +248,36 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ### Compared to generic-service
 
+| Setting | `generic-service` | `time-sensitive` |
+|---|---|---|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
