@@ -242,6 +242,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`use generic-service`** | Inherits every other setting from **`generic-service`** (contacts, notification options, time periods, etc.) |
 | **`register 0`** | Marks this as a template only, not a real service |
 | **`check_interval 2`** | Runs the check every 2 minutes while the service is OK |
+| **`retry_interval 1`** | Once a problem is found, rechecks every 1 minute |
 
 
 
