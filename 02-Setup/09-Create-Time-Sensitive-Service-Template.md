@@ -211,6 +211,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1032" height="838" alt="17" src="https://github.com/user-attachments/assets/9d64b24b-27e0-4e28-9e7e-dae916a45dbf" />
 
+### Pre-Flight Check Passes
 
 
 
