@@ -269,6 +269,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1028" height="689" alt="19" src="https://github.com/user-attachments/assets/b964fcd0-6dc9-4e78-8658-94763ce28dee" />
 
+### Issue 3 – Typo in a Directive
 
 
 
