@@ -85,6 +85,32 @@ So a host has to be unreachable for roughly 10–15 minutes before anyone gets a
 | **`notification_options`** | Which host states send an alert (see below). |
 | **`contact_groups`** | Who gets alerted. **`admins`** is defined in **`contacts.cfg`**. |
 
+**`notification_options` letters for hosts**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
