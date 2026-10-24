@@ -110,8 +110,29 @@ ls -l
 ## Step 5 – Load the File in nagios.cfg
 
 ```bash
+cd ..
 sudo nano /usr/local/nagios/etc/nagios.cfg
 ```
+
+<img width="839" height="195" alt="8" src="https://github.com/user-attachments/assets/9d358090-0776-4685-b409-bc6c8cf51711" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
