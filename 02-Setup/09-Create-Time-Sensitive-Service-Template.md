@@ -259,6 +259,8 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 The big difference is how fast a problem gets **noticed**: within 2 minutes instead of up to 10. The 5 attempts with 1-minute retries mean a problem has to last about 4 minutes before it becomes HARD, so a short CPU spike won't trigger a false alert.
 
+**Note:** **`notification_interval`** won't have any effect yet. Email notifications aren't working on this server (**`/bin/mail`** isn't installed, as shown in the Event Log) because I havent configured it yet. It will take effect once notifications are set up.
+
 
 
 
