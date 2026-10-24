@@ -72,6 +72,7 @@ They check hosts the same way. The difference is in **alerting**: **`windows-ser
 3. Nagios rechecks every 1 minute.
 4. After 10 total failed attempts, the host goes into a **"hard"** DOWN state and an alert is sent.
 
+So a host has to be unreachable for roughly 10–15 minutes before anyone gets alerted. Lower **`max_check_attempts`** if you need to know faster.
 
 
 
