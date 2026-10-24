@@ -130,6 +130,7 @@ cfg_file=/usr/local/nagios/etc/templates/custom-templates.cfg
 
 <img width="802" height="528" alt="10" src="https://github.com/user-attachments/assets/b1e3b9c6-9f12-4c8b-8011-5fb31a9d422a" />
 
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
