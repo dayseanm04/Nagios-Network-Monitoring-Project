@@ -5,3 +5,7 @@ In this doc, I will create a separate folder and file for my own Nagios template
 ---
 
 ## What Is a Template?
+
+A template is a blueprint of settings that hosts and services can inherit with the **`use`** line, so I don't have to repeat the same settings in every definition. 
+
+
