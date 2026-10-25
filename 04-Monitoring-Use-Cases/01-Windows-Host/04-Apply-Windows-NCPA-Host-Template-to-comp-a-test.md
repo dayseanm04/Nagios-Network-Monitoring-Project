@@ -98,6 +98,7 @@ If I want to change how all Windows hosts are checked later, I only edit **`wind
 
 ## Related Docs
 
+- [**06-Testing-and-Validation / 03 – Validate Windows NCPA Host Template**](../../06-Testing-and-Validation/03-Validate-Windows-NCPA-Host-Template.md)
 
 
 
