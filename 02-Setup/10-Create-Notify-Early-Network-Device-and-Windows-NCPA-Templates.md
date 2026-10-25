@@ -50,6 +50,7 @@ The file already contains my **`time-sensitive`** template from doc 09.
 | **`check_interval 1`** | Runs the check every minute |
 | **`retry_interval 1`** | Rechecks every minute when not OK |
 | **`max_check_attempts 1`** | The **first** failed check goes straight to HARD and sends an alert. There's no SOFT state |
+| **`notification_interval 10`** | Resends the alert every 10 minutes until it's fixed |
 
 
 
