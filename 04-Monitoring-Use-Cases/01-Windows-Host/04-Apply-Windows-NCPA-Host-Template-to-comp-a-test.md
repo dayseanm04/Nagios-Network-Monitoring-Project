@@ -8,4 +8,5 @@ I created **`windows-ncpa-host`** template in [**02-Setup / 10 – Create Notify
 
 ---
 
+## Step 1 – Open the Host File
 
