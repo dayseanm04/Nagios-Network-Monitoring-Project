@@ -61,7 +61,7 @@ This one isn't meant to be used directly. It's a list of holiday **exceptions** 
 
 Same as **`24x7`**, except on the holidays in **`us-holidays`**. (**"Sans"** means **"without."**)
 
-
+**How it works**
 
 
 
