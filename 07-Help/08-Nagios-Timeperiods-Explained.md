@@ -57,6 +57,7 @@ This one isn't meant to be used directly. It's a list of holiday **exceptions** 
 
 ### `24x7_sans_holidays`
 
+<img width="940" height="655" alt="4" src="https://github.com/user-attachments/assets/94b4b245-b0c2-47d7-af94-8182bb7477f6" />
 
 
 
