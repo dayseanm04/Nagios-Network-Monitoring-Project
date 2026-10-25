@@ -81,6 +81,8 @@ sudo systemctl restart nagios
 
 ## Adding Future Windows Hosts
 
+Any new Windows host monitored by NCPA can now use the same template:
+
 
 
 
