@@ -26,3 +26,32 @@ sudo nano comp-a-test.cfg
 ```
 
 <img width="861" height="695" alt="2" src="https://github.com/user-attachments/assets/9966f3ef-bd76-4baf-ab70-898214b91799" />
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
