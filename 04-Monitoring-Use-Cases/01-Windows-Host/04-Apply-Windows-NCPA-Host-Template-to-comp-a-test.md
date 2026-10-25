@@ -75,6 +75,7 @@ sudo systemctl restart nagios
 
 **`comp-a-test`** now uses my custom **`windows-ncpa-host`** template, and its config file has a header for **`comp-a-test`** instead of the leftover sample comments. The pre-flight check passes with 0 warnings and 0 errors, and Nagios has been restarted.
 
+> **Verification steps and results:** [Click here to see the Windows NCPA host template validation](../../06-Testing-and-Validation/03-Validate-Windows-NCPA-Host-Template.md)
 
 
 
