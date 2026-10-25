@@ -162,6 +162,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ## Related Docs
 
 - [**09 – Create Time-Sensitive Service Template**](09-Create-Time-Sensitive-Service-Template.md)
+- [**08 – Restructure Nagios Config for Multiple Hosts**](08-Restructure-Nagios-Config-for-Multiple-Hosts.md)
 
 
 
