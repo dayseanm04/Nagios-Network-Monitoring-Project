@@ -7,3 +7,12 @@ The templates folder and file were set up in [**09 – Create Time-Sensitive Ser
 ---
 
 ### How they inherit
+
+```
+SERVICE TEMPLATES                          HOST TEMPLATES
+
+generic-service  (Nagios default)          generic-host  (Nagios default)
+   ├── time-sensitive   (doc 09)              ├── windows-server  (Nagios default)
+   └── notify-early                           │      └── windows-ncpa-host
+          └── network-device-service          └── network-device-host
+```
