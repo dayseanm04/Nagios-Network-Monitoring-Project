@@ -159,7 +159,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 **`custom-templates.cfg`** now has five templates: **`time-sensitive`** (doc 09), **`notify-early`**, **`network-device-service`**, **`windows-ncpa-host**`, and **`network-device-host`**. The config passes the pre-flight check with 0 warnings and 0 errors. None of the templates are in use yet.
 
+## Related Docs
 
+- [**09 – Create Time-Sensitive Service Template**](09-Create-Time-Sensitive-Service-Template.md)
 
 
 
