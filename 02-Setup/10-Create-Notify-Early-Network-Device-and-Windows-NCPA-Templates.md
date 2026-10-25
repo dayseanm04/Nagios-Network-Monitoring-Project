@@ -97,6 +97,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 # Host Templates
 
+I add a header to separate host templates from service templates in the file:
 
 
 
