@@ -112,6 +112,28 @@ I add a header to separate host templates from service templates in the file:
 
 **Why build on `windows-server` instead of replacing it?** `windows-server` already has the right check command, time periods, contacts, and hostgroup. I only need to change how often it checks and how fast it alerts. If I ever need NCPA-specific settings for all Windows hosts, I'll add them here.
 
+**Run a pre flight check**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
