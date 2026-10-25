@@ -48,6 +48,7 @@ This one isn't meant to be used directly. It's a list of holiday **exceptions** 
 
 | Format | Example | Meaning |
 |---|---|---|
+| **`month day`** | **`january 1`** | That date every year |
 
 
 
