@@ -137,6 +137,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 | **`notification_options d,r,u`** | Alerts on Down, Recovery, and Unreachable |
 | **`contact_groups admins`** | Sends alerts to the **`admins`** contact group (which includes **`nagiosadmin`**) |
 
+**Why check network devices faster than Windows hosts?** If the router or a switch goes down, every device behind it is affected. Finding out in 2 minutes instead of 9 matters more for network gear than for a single PC.
 
 
 
