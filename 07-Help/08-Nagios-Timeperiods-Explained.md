@@ -22,3 +22,10 @@ Hosts, services, and contacts don't list hours directly. They point to a timeper
 
 Every hour of every day is valid. This is the most-used timeperiod. **`generic-host`**, **`generic-service`**, and **`windows-server`** all use it.
 
+---
+
+### `workhours`
+
+
+
+
