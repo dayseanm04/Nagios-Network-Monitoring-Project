@@ -21,3 +21,4 @@ Each template only lists the settings it **changes**. Everything else comes from
 
 ---
 
+## Step 1 – Open the Templates File
