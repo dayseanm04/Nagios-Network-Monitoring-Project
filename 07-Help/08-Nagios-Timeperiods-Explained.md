@@ -63,6 +63,7 @@ Same as **`24x7`**, except on the holidays in **`us-holidays`**. (**"Sans"** mea
 
 **How it works**
 
+1. **`use us-holidays`** pulls in the holiday exceptions, the same way a host uses a template.
 
 
 
