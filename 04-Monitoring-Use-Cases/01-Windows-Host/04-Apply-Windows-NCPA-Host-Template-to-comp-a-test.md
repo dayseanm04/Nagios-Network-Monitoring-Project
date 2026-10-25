@@ -35,6 +35,7 @@ I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that com
 
 <img width="984" height="679" alt="3" src="https://github.com/user-attachments/assets/f31c7d09-5f6d-49dc-b560-6e553dc0fc5c" />
 
+> Comments don't change how Nagios works, but a header that says **`WINDOWS.CFG - SAMPLE`** in a file named **`comp-a-test.cfg`** is misleading to anyone reading it later.
 
 
 
