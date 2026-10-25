@@ -28,5 +28,27 @@ Every hour of every day is valid. This is the most-used timeperiod. **`generic-h
 
 <img width="926" height="600" alt="2" src="https://github.com/user-attachments/assets/0d23669c-c0a3-4268-8a0c-8356bf285f75" />
 
+Monday to Friday, 9 AM to 5 PM. No weekends. The **`linux-server`** template uses this as its **`notification_period`**, so Linux hosts only send alerts during business hours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
