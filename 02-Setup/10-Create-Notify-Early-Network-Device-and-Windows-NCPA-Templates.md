@@ -128,7 +128,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="889" height="622" alt="Screenshot 2026-10-24 165237" src="https://github.com/user-attachments/assets/11bd3f7e-04a1-4ecc-84e3-5aa37860f4b3" />
 
-
+| Setting | What it does |
+|---|---|
 
 
 
