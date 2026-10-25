@@ -134,6 +134,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 | **`check_interval 1`** | Pings the device every minute |
 | **`max_check_attempts 2`** | Marked DOWN after 2 failed checks in a row |
 | **`notification_interval 10`** | Resends the alert every 10 minutes until it's back up |
+| **`notification_options d,r,u`** | Alerts on Down, Recovery, and Unreachable |
 
 
 
