@@ -76,6 +76,7 @@ This template is built **on top of `notify-early`** instead of **`generic-servic
 
 | Setting | `notify-early` | `network-device-service` |
 |---|---|---|
+| Check interval | 1 min | 1 min (inherited) |
 
 
 
