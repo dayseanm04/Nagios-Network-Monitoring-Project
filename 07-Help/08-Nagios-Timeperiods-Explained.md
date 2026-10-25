@@ -67,6 +67,7 @@ Same as **`24x7`**, except on the holidays in **`us-holidays`**. (**"Sans"** mea
 2. The weekday lines make every day valid all day.
 3. Exceptions (specific dates) take priority over normal weekday lines. So on July 4th, the **`00:00-00:00`** from **`us-holidays`** wins over the **`00:00-24:00`** from the weekday line, and the day is removed.
 
+`use` points to the **`name`** of another timeperiod, not its `timeperiod_name`. In the default file they happen to be the same.
 
 
 
