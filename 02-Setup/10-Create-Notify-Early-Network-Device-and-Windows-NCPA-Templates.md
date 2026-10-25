@@ -139,7 +139,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 **Why check network devices faster than Windows hosts?** If the router or a switch goes down, every device behind it is affected. Finding out in 2 minutes instead of 9 matters more for network gear than for a single PC.
 
-
+| | `windows-ncpa-host` | `network-device-host` |
+|---|---|---|
 
 
 
