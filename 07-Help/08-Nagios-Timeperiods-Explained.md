@@ -40,6 +40,7 @@ No days and no time ranges, so it's **never** valid. Setting **`notification_per
 
 ### `us-holidays`
 
+<img width="935" height="420" alt="3" src="https://github.com/user-attachments/assets/e8aa6362-a1c6-42a0-8801-0462fd29947e" />
 
 
 
