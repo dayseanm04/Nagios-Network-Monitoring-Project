@@ -105,6 +105,7 @@ I add a header to separate host templates from service templates in the file:
 
 | Setting | What it does |
 |---|---|
+| **`use windows-server`** | Inherits the default Windows host settings, including **`hostgroups windows-servers`**, so every host using this template joins that group automatically |
 
 
 
