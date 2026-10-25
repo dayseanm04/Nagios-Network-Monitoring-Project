@@ -142,6 +142,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 | | `windows-ncpa-host` | `network-device-host` |
 |---|---|---|
 | Check interval | 3 min | **1 min** |
+| Max check attempts | 3 | **2** |
 
 
 
