@@ -68,6 +68,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Template 2 – network-device-service
 
+**Purpose:** Fast, frequent service checks for network devices like routers and switches.
 
 
 
