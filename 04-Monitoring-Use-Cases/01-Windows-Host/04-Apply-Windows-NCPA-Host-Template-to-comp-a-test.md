@@ -100,15 +100,4 @@ If I want to change how all Windows hosts are checked later, I only edit **`wind
 
 - [**06-Testing-and-Validation / 03 – Validate Windows NCPA Host Template**](../../06-Testing-and-Validation/03-Validate-Windows-NCPA-Host-Template.md)
 - [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
-
-
-
-
-
-
-
-
-
-
-
-
+- [**02-Setup / 08 – Restructure Nagios Config for Multiple Hosts**](../../02-Setup/08-Restructure-Nagios-Config-for-Multiple-Hosts.md)
