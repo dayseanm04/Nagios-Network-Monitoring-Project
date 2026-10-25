@@ -19,5 +19,6 @@ ls -l
 
 <img width="889" height="488" alt="1" src="https://github.com/user-attachments/assets/53c93fc8-30f7-498a-b4b3-dddbfd2a368d" />
 
+The folder has **`comp-a-test.cfg`** and **`windows-hostgroup.cfg`**. I open the host file:
 
 
