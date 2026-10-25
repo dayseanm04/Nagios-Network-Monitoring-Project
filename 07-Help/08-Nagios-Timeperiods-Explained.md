@@ -30,9 +30,11 @@ Every hour of every day is valid. This is the most-used timeperiod. **`generic-h
 
 Monday to Friday, 9 AM to 5 PM. No weekends. The **`linux-server`** template uses this as its **`notification_period`**, so Linux hosts only send alerts during business hours.
 
+---
 
+### `none`
 
-
+No days and no time ranges, so it's **never** valid. Setting **`notification_period none`** on a host or service is one way to make sure it never sends alerts.
 
 
 
