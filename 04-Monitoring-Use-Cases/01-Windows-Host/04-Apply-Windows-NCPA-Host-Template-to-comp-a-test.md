@@ -21,4 +21,7 @@ ls -l
 
 The folder has **`comp-a-test.cfg`** and **`windows-hostgroup.cfg`**. I open the host file:
 
+```bash
+sudo nano comp-a-test.cfg
+```
 
