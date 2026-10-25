@@ -83,7 +83,14 @@ sudo systemctl restart nagios
 
 Any new Windows host monitored by NCPA can now use the same template:
 
-
+```
+define host {
+    use             windows-ncpa-host
+    host_name       comp-b-test
+    alias           Computer B
+    address         192.168.1.x
+}
+```
 
 
 
