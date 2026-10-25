@@ -5,3 +5,5 @@ In this doc, I will add four more templates to my custom templates file: two **s
 The templates folder and file were set up in [**09 – Create Time-Sensitive Service Template**](09-Create-Time-Sensitive-Service-Template.md).
 
 ---
+
+### How they inherit
