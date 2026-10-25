@@ -108,6 +108,7 @@ I add a header to separate host templates from service templates in the file:
 | **`use windows-server`** | Inherits the default Windows host settings, including **`hostgroups windows-servers`**, so every host using this template joins that group automatically |
 | **`check_interval 3`** | Pings the host every 3 minutes |
 | **`max_check_attempts 3`** | The host has to fail 3 checks in a row before it's marked DOWN |
+| **`notification_options d,u,r`** | Sends alerts when the host goes **D**own, becomes **U**nreachable, or **R**ecovers |
 
 
 
