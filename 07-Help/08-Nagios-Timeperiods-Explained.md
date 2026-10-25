@@ -42,6 +42,7 @@ No days and no time ranges, so it's **never** valid. Setting **`notification_per
 
 <img width="935" height="420" alt="3" src="https://github.com/user-attachments/assets/e8aa6362-a1c6-42a0-8801-0462fd29947e" />
 
+This one isn't meant to be used directly. It's a list of holiday **exceptions** that other timeperiods pull in with **`use`**. Each holiday is set to **`00:00-00:00`**, so when another timeperiod inherits it, those days get removed.
 
 
 
