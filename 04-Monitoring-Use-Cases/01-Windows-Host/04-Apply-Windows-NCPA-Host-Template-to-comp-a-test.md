@@ -37,6 +37,7 @@ I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that com
 
 > Comments don't change how Nagios works, but a header that says **`WINDOWS.CFG - SAMPLE`** in a file named **`comp-a-test.cfg`** is misleading to anyone reading it later.
 
+---
 
 
 
