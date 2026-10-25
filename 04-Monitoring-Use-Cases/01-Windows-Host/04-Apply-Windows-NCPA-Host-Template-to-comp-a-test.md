@@ -31,6 +31,7 @@ sudo nano comp-a-test.cfg
 
 ## Step 2 – Clean Up the Sample Comments
 
+I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that comes with Nagios, so its header still describes the sample file
 
 
 
