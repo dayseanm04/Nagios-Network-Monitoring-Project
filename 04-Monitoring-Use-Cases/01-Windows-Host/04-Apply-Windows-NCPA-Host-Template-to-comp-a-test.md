@@ -43,6 +43,7 @@ I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that com
 
 In the host definition, I change **`use windows-server`** to **`use windows-ncpa-host`**:
 
+<img width="990" height="495" alt="4" src="https://github.com/user-attachments/assets/2facb7e8-e065-44e4-ad22-a39f8baebd8f" />
 
 
 
