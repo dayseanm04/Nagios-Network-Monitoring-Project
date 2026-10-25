@@ -36,6 +36,9 @@ Monday to Friday, 9 AM to 5 PM. No weekends. The **`linux-server`** template use
 
 No days and no time ranges, so it's **never** valid. Setting **`notification_period none`** on a host or service is one way to make sure it never sends alerts.
 
+---
+
+### `us-holidays`
 
 
 
