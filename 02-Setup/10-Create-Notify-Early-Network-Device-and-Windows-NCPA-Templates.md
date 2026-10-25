@@ -135,6 +135,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 | **`max_check_attempts 2`** | Marked DOWN after 2 failed checks in a row |
 | **`notification_interval 10`** | Resends the alert every 10 minutes until it's back up |
 | **`notification_options d,r,u`** | Alerts on Down, Recovery, and Unreachable |
+| **`contact_groups admins`** | Sends alerts to the **`admins`** contact group (which includes **`nagiosadmin`**) |
 
 
 
