@@ -18,3 +18,4 @@ Hosts, services, and contacts don't list hours directly. They point to a timeper
 
 ### `24x7`
 
+<img width="940" height="557" alt="Screenshot 2026-10-17 200844" src="https://github.com/user-attachments/assets/d59d94b1-4f8f-4c6b-8166-81452837b5d5" />
