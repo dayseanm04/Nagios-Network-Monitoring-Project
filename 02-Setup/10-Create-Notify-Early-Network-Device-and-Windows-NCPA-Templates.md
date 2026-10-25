@@ -78,6 +78,7 @@ This template is built **on top of `notify-early`** instead of **`generic-servic
 |---|---|---|
 | Check interval | 1 min | 1 min (inherited) |
 | Retry interval | 1 min | 1 min (inherited) |
+| Max check attempts | 1 | **2** |
 
 
 
