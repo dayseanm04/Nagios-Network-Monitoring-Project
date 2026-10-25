@@ -63,7 +63,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Step 5 – Restart Nagios
 
-
+```bash
+sudo systemctl restart nagios
+```
 
 
 
