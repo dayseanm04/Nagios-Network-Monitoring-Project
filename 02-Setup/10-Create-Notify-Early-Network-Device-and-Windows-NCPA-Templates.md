@@ -114,7 +114,9 @@ I add a header to separate host templates from service templates in the file:
 
 **Run a pre flight check**
 
-
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
