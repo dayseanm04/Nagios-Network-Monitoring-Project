@@ -151,6 +151,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="1032" height="836" alt="9" src="https://github.com/user-attachments/assets/cf2a6df7-af20-40c2-8328-79c084ed8b68" />
 
 
 
