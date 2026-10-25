@@ -77,6 +77,7 @@ sudo systemctl restart nagios
 
 > **Verification steps and results:** [Click here to see the Windows NCPA host template validation](../../06-Testing-and-Validation/03-Validate-Windows-NCPA-Host-Template.md)
 
+---
 
 
 
