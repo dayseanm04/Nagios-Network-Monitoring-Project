@@ -47,6 +47,7 @@ In the host definition, I change **`use windows-server`** to **`use windows-ncpa
 
 Only the **`use`** line changes. The host name, alias, and address stay the same.
 
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
