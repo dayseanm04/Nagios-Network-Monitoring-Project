@@ -132,6 +132,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 |---|---|
 | **`use generic-host`** | Starts from the basic host template instead of **`windows-server`**, since routers and switches aren't Windows machines |
 | **`check_interval 1`** | Pings the device every minute |
+| **`max_check_attempts 2`** | Marked DOWN after 2 failed checks in a row |
 
 
 
