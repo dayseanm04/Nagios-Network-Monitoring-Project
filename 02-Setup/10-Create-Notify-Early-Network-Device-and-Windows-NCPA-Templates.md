@@ -41,6 +41,7 @@ The file already contains my **`time-sensitive`** template from doc 09.
 
 ## Template 1 – notify-early
 
+**Purpose:** Alert on the **first** failure for critical services where any failure matters, like DNS or the gateway.
 
 
 
