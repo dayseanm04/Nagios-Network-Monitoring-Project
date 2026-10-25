@@ -51,6 +51,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ---
 
+## Step 4 – Run the Pre-Flight Check
 
 
 
