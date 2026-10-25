@@ -124,6 +124,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Template 4 – network-device-host
 
+**Purpose:** Fast host checks for network devices, since everything else depends on them.
 
 
 
