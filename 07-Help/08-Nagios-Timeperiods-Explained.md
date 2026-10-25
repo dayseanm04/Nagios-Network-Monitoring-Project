@@ -1,0 +1,1 @@
+# Nagios Timeperiods (`timeperiods.cfg`)
