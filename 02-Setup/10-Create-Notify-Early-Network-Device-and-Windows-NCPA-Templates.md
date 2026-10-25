@@ -52,6 +52,7 @@ The file already contains my **`time-sensitive`** template from doc 09.
 | **`max_check_attempts 1`** | The **first** failed check goes straight to HARD and sends an alert. There's no SOFT state |
 | **`notification_interval 10`** | Resends the alert every 10 minutes until it's fixed |
 
+> **Trade-off:** With only 1 attempt, a single dropped packet or slow response causes an alert. I'll only use this for checks that are reliable and where a false alarm is better than a missed outage.
 
 
 
