@@ -11,3 +11,7 @@ This guide explains the timeperiods that come with Nagios Core, how they're writ
 A timeperiod is a named block of time, like **"all day every day"** or **"Monday to Friday, 9 to 5."** Nagios uses timeperiods to decide **when** it's allowed to run checks and **when** it's allowed to send alerts.
 
 Hosts, services, and contacts don't list hours directly. They point to a timeperiod by name:
+
+---
+
+## The default timeperiods
