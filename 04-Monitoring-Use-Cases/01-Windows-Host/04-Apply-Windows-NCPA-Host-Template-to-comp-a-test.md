@@ -31,7 +31,9 @@ sudo nano comp-a-test.cfg
 
 ## Step 2 – Clean Up the Sample Comments
 
-I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that comes with Nagios, so its header still describes the sample file
+I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that comes with Nagios, so its header still describes the sample file. That's no longer accurate, so I replace it with a header that describes what this file actually is:
+
+<img width="984" height="679" alt="3" src="https://github.com/user-attachments/assets/f31c7d09-5f6d-49dc-b560-6e553dc0fc5c" />
 
 
 
