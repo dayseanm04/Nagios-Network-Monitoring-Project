@@ -4,6 +4,8 @@ In this doc, I will switch **`comp-a-test`** from the default **`windows-server`
 
 > **Testing and validation for this change:** [Click here to see the Windows NCPA host template validation](../../06-Testing-and-Validation/03-Validate-Windows-NCPA-Host-Template.md)
 
+I created **`windows-ncpa-host`** template in [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md).
+
 ---
 
 
