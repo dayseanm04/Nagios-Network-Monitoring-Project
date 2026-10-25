@@ -62,6 +62,7 @@ I save (**Ctrl+O**, **Enter**, **Ctrl+X**) and run the pre-flight check:
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="1022" height="839" alt="4" src="https://github.com/user-attachments/assets/cf2dcb17-b489-42d9-8160-4f5d204aeb5d" />
 
 
 
