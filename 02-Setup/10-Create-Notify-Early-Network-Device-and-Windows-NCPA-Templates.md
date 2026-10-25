@@ -81,6 +81,7 @@ This template is built **on top of `notify-early`** instead of **`generic-servic
 | Max check attempts | 1 | **2** |
 | Notification interval | 10 min | 10 min (inherited) |
 
+**Why 2 attempts instead of 1?** Network checks like ping can fail once from a single dropped packet. 
 
 
 
