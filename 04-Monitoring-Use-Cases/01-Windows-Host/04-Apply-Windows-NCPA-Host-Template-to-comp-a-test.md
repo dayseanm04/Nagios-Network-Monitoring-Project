@@ -59,7 +59,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="997" height="735" alt="5" src="https://github.com/user-attachments/assets/82850fbd-dd5d-4eda-a543-34936190f505" />
 
-
+---
 
 
 
