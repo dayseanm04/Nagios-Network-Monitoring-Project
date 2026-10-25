@@ -45,6 +45,25 @@ The file already contains my **`time-sensitive`** template from doc 09.
 
 <img width="944" height="661" alt="3" src="https://github.com/user-attachments/assets/e18a6645-82a9-4239-a21b-6a04312caf3c" />
 
+| Setting | What it does |
+|---|---|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
