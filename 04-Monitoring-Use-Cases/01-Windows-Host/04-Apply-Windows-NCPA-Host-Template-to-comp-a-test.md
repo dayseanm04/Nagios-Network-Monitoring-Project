@@ -41,6 +41,7 @@ I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that com
 
 ## Step 3 – Change the Template
 
+In the host definition, I change **`use windows-server`** to **`use windows-ncpa-host`**:
 
 
 
