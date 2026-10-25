@@ -58,7 +58,9 @@ I save (**Ctrl+O**, **Enter**, **Ctrl+X**) and run the pre-flight check:
 
 **Run a pre flight check**
 
-
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
