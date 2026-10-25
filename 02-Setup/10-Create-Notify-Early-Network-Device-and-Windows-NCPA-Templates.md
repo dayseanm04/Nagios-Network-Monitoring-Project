@@ -110,6 +110,7 @@ I add a header to separate host templates from service templates in the file:
 | **`max_check_attempts 3`** | The host has to fail 3 checks in a row before it's marked DOWN |
 | **`notification_options d,u,r`** | Sends alerts when the host goes **D**own, becomes **U**nreachable, or **R**ecovers |
 
+**Why build on `windows-server` instead of replacing it?** `windows-server` already has the right check command, time periods, contacts, and hostgroup. I only need to change how often it checks and how fast it alerts. If I ever need NCPA-specific settings for all Windows hosts, I'll add them here.
 
 
 
