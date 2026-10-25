@@ -74,7 +74,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 This template is built **on top of `notify-early`** instead of **`generic-service`**. It keeps the 1-minute checks and 10-minute re-alerts, and only changes one thing:
 
-
+| Setting | `notify-early` | `network-device-service` |
+|---|---|---|
 
 
 
