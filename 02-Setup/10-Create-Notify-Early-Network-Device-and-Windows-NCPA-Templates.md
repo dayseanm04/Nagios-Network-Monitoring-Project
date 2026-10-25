@@ -70,6 +70,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 **Purpose:** Fast, frequent service checks for network devices like routers and switches.
 
+<img width="982" height="719" alt="5" src="https://github.com/user-attachments/assets/01abb342-b43e-4af3-b14b-f1dd47c08a2b" />
 
 
 
