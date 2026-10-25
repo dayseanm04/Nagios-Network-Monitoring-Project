@@ -99,6 +99,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 I add a header to separate host templates from service templates in the file:
 
+## Template 3 – windows-ncpa-host
 
 
 
