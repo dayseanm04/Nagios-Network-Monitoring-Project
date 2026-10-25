@@ -103,6 +103,8 @@ I add a header to separate host templates from service templates in the file:
 
 <img width="861" height="666" alt="7" src="https://github.com/user-attachments/assets/c08c80d2-9a44-4157-a8f9-6b78c729a411" />
 
+| Setting | What it does |
+|---|---|
 
 
 
