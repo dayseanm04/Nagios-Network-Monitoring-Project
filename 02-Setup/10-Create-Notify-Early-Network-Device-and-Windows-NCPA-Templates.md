@@ -85,7 +85,9 @@ This template is built **on top of `notify-early`** instead of **`generic-servic
 
 **Run a pre flight check**
 
-
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
