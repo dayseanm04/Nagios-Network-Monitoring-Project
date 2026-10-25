@@ -67,6 +67,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 sudo systemctl restart nagios
 ```
 
+<img width="878" height="237" alt="6" src="https://github.com/user-attachments/assets/9a090a66-9ca1-4ad5-aa6a-d29c29f79639" />
 
 
 
