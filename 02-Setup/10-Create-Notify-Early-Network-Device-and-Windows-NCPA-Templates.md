@@ -81,7 +81,7 @@ This template is built **on top of `notify-early`** instead of **`generic-servic
 | Max check attempts | 1 | **2** |
 | Notification interval | 10 min | 10 min (inherited) |
 
-**Why 2 attempts instead of 1?** Network checks like ping can fail once from a single dropped packet. 
+**Why 2 attempts instead of 1?** Network checks like ping can fail once from a single dropped packet. Two attempts means the problem has to occur up twice in a row, about a minute apart, before it alerts. That's still fast, but it filters out one-off packet drop.
 
 
 
