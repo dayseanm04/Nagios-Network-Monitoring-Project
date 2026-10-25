@@ -16,3 +16,5 @@ generic-service  (Nagios default)          generic-host  (Nagios default)
    └── notify-early                           │      └── windows-ncpa-host
           └── network-device-service          └── network-device-host
 ```
+
+Each template only lists the settings it **changes**. Everything else comes from the template above it.
