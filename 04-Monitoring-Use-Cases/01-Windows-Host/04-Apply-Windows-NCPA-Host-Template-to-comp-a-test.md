@@ -39,6 +39,7 @@ I created **`comp-a-test.cfg`** by copying the sample **`windows.cfg`** that com
 
 ---
 
+## Step 3 – Change the Template
 
 
 
