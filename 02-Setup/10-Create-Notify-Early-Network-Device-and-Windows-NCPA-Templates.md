@@ -118,6 +118,7 @@ I add a header to separate host templates from service templates in the file:
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="955" height="736" alt="8" src="https://github.com/user-attachments/assets/649a5d95-e8b8-4a09-b259-ef06e2897a02" />
 
 
 
