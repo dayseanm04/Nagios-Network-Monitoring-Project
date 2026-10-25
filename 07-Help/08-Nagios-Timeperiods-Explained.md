@@ -49,6 +49,9 @@ This one isn't meant to be used directly. It's a list of holiday **exceptions** 
 | Format | Example | Meaning |
 |---|---|---|
 | **`month day`** | **`january 1`** | That date every year |
+| **`weekday N month`** | **`monday 1 september`** | The 1st Monday in September |
+| **`weekday N month`** | **`thursday 4 november`** | The 4th Thursday in November |
+| **`weekday -N month`** | **`monday -1 may`** | The **last** Monday in May (negative numbers count from the end) |
 
 
 
