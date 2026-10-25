@@ -93,6 +93,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1029" height="820" alt="6" src="https://github.com/user-attachments/assets/769caec4-188d-443e-b197-4dc6022386fb" />
 
+---
 
 
 
