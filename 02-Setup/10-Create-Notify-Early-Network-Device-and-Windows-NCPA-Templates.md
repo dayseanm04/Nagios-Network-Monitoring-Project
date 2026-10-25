@@ -130,6 +130,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 | Setting | What it does |
 |---|---|
+| **`use generic-host`** | Starts from the basic host template instead of **`windows-server`**, since routers and switches aren't Windows machines |
 
 
 
