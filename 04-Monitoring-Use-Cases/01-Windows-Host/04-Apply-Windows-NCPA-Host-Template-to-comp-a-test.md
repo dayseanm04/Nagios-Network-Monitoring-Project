@@ -29,6 +29,7 @@ sudo nano comp-a-test.cfg
 
 ---
 
+## Step 2 – Clean Up the Sample Comments
 
 
 
