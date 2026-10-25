@@ -15,3 +15,6 @@ Hosts, services, and contacts don't list hours directly. They point to a timeper
 ---
 
 ## The default timeperiods
+
+### `24x7`
+
