@@ -48,6 +48,7 @@ The file already contains my **`time-sensitive`** template from doc 09.
 | Setting | What it does |
 |---|---|
 | **`check_interval 1`** | Runs the check every minute |
+| **`retry_interval 1`** | Rechecks every minute when not OK |
 
 
 
