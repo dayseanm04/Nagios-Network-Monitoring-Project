@@ -54,6 +54,7 @@ The file already contains my **`time-sensitive`** template from doc 09.
 
 > **Trade-off:** With only 1 attempt, a single dropped packet or slow response causes an alert. I'll only use this for checks that are reliable and where a false alarm is better than a missed outage.
 
+I save (**Ctrl+O**, **Enter**, **Ctrl+X**) and run the pre-flight check:
 
 
 
