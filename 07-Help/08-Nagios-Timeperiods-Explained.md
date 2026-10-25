@@ -46,7 +46,8 @@ This one isn't meant to be used directly. It's a list of holiday **exceptions** 
 
 **How to read the exception formats**
 
-
+| Format | Example | Meaning |
+|---|---|---|
 
 
 
