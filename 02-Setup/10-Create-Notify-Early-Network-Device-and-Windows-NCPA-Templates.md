@@ -22,3 +22,9 @@ Each template only lists the settings it **changes**. Everything else comes from
 ---
 
 ## Step 1 – Open the Templates File
+
+```bash
+cd /usr/local/nagios/etc/templates
+ls -l
+sudo nano custom-templates.cfg
+```
