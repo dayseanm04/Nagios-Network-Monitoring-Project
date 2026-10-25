@@ -31,6 +31,7 @@ sudo nano custom-templates.cfg
 
 <img width="845" height="486" alt="1" src="https://github.com/user-attachments/assets/89b6fbd6-8a31-4cc2-a0cb-b04279d1ae88" />
 
+The file already contains my **`time-sensitive`** template from doc 09.
 
 
 
