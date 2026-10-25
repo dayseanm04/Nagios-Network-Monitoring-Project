@@ -53,6 +53,9 @@ This one isn't meant to be used directly. It's a list of holiday **exceptions** 
 | **`weekday N month`** | **`thursday 4 november`** | The 4th Thursday in November |
 | **`weekday -N month`** | **`monday -1 may`** | The **last** Monday in May (negative numbers count from the end) |
 
+---
+
+### `24x7_sans_holidays`
 
 
 
