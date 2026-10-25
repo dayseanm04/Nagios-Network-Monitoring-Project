@@ -72,6 +72,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="982" height="719" alt="5" src="https://github.com/user-attachments/assets/01abb342-b43e-4af3-b14b-f1dd47c08a2b" />
 
+This template is built **on top of `notify-early`** instead of **`generic-service`**. It keeps the 1-minute checks and 10-minute re-alerts, and only changes one thing:
 
 
 
