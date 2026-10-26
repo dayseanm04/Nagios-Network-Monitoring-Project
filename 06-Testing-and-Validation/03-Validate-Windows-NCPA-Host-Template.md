@@ -67,6 +67,7 @@ On the Hosts page, I click **`comp-a-test`** to open its details and compare **L
 
 **Result:** ✅ PASS. The checks are exactly **3 minutes** apart, matching `check_interval 3` in `windows-ncpa-host`. Under `windows-server`, they would be 5 minutes apart.
 
+---
 
 
 
