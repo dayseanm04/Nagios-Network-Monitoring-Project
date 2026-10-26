@@ -101,6 +101,7 @@ On the same details page, I look at **Member of**.
 | Time between host checks | 5 min | **3 min** |
 | Current Attempt shown as | x/10 | **x/3** |
 | Hostgroup | **`windows-servers`** | **`windows-servers`** |
+| Host status | UP | UP |
 
 
 
