@@ -60,7 +60,8 @@ On the Hosts page, I click **`comp-a-test`** to open its details and compare **L
 
 **Actual:**
 
-
+| Field | Value |
+|---|---|
 
 
 
