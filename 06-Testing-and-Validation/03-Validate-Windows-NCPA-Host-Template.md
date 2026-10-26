@@ -41,6 +41,7 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 
 **Steps:**
 
+1. I log in to `http://192.168.1.99/nagios`.
 
 
 
