@@ -159,6 +159,9 @@ After the third failed check, the host is **HARD DOWN** and Nagios triggers its 
 | 11:13:29 | Notification 1 triggered |
 | 11:16:29 | Next check scheduled (back to the normal 3-minute interval) |
 
+Each retry is about 1.5 minutes apart: the 1-minute retry interval plus the 30 seconds each ping check waits before timing out. After the host goes HARD, Nagios goes back to checking every 3 minutes (**`check_interval 3`**).
+
+**Result:** ✅ PASS. `comp-a-test` went from the first failed check to **HARD DOWN in about 3 minutes**, after exactly 3 attempts.
 
 ## Before and After
 
@@ -169,8 +172,6 @@ After the third failed check, the host is **HARD DOWN** and Nagios triggers its 
 | Current Attempt shown as | x/10 | **x/3** |
 | Hostgroup | **`windows-servers`** | **`windows-servers`** |
 | Host status | UP | UP |
-
-Each retry is about 1.5 minutes apart: the 1-minute retry interval plus the 30 seconds each ping check waits before timing out. After the host goes HARD, Nagios goes back to checking every 3 minutes (**`check_interval 3`**).
 
 ---
 
