@@ -79,6 +79,9 @@ On the same details page, I look at **Current Attempt**.
 
 **Result:** ✅ PASS. The number after the slash is the max check attempts, now **3**. Under `windows-server` it was 10. My earlier troubleshooting screenshots of `comp-a-test` show `10/10 (HARD state)`, so this confirms the change took effect.
 
+---
+
+## TC-04 – Still a Member of windows-servers
 
 
 
