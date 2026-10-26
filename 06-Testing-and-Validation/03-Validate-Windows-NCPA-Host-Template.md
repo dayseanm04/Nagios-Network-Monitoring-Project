@@ -102,6 +102,8 @@ TC-03 showed that max check attempts is set to 3. This test proves it actually w
 
 On `comp-a-test`, I open **Windows Defender Firewall with Advanced Security**, click **Inbound Rules**, and use **Filter by State → Filter by Enabled** to find active rules.
 
+<img width="1222" height="353" alt="4" src="https://github.com/user-attachments/assets/bdffbcec-4517-45b7-92fd-8f5754a1502c" />
+
 
 ## Before and After
 
