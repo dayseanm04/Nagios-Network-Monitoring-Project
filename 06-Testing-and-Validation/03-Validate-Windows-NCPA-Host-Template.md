@@ -46,6 +46,8 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 
 <img width="1028" height="537" alt="1" src="https://github.com/user-attachments/assets/72f96e34-41b8-4524-b408-731c7376e4b9" />
 
+**Result:** ✅ PASS. Changing the template didn't break the host check.
+
 
 
 
