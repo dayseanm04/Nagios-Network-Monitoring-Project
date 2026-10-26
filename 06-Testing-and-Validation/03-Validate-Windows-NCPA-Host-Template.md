@@ -120,7 +120,7 @@ On the same details page, I look at **Member of**.
 ## Related Docs
 
 - [**04-Monitoring-Use-Cases / 01-Windows-Host / 04 – Apply Windows NCPA Host Template to comp-a-tes**t](../04-Monitoring-Use-Cases/01-Windows-Host/04-Apply-Windows-NCPA-Host-Template-to-comp-a-test.md)
-
+- [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
 
 
 
