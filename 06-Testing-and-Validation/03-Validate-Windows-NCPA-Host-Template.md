@@ -87,7 +87,11 @@ On the same details page, I look at **Current Attempt**.
 
 On the same details page, I look at **Member of**.
 
+**Actual:** `windows-servers`
 
+**Result:** ✅ PASS. **`comp-a-test`** gets **`windows-servers`** through the chain **`windows-ncpa-host`** → **`windows-server`**, which proves the inheritance works.
+
+---
 
 
 
