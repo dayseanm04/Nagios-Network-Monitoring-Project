@@ -83,6 +83,7 @@ On the same details page, I look at **Current Attempt**.
 
 ## TC-04 – Still a Member of windows-servers
 
+**Steps:**
 
 
 
