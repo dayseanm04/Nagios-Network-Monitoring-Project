@@ -56,6 +56,7 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 
 On the Hosts page, I click **`comp-a-test`** to open its details and compare **Last Check Time** with **Next Scheduled Active Check**.
 
+<img width="969" height="641" alt="2" src="https://github.com/user-attachments/assets/506db206-958f-417e-a8dd-5d027ea07f39" />
 
 
 
