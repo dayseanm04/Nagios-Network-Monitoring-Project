@@ -193,7 +193,9 @@ Then I confirm in Nagios that `comp-a-test` returns to **UP**.
 
 ## Conclusion
 
-**`comp-a-test`** is using the **`windows-ncpa-host`** template. The host is still UP, it's checked every 3 minutes instead of 5, it's marked HARD DOWN after 3 failed checks instead of 10, and it still belongs to **`windows-servers`** through template inheritance. All four test cases passed.
+**`comp-a-test`** is using the **`windows-ncpa-host`** template. The host is still UP, it's checked every 3 minutes instead of 5, it's marked HARD DOWN after 3 failed checks instead of 10, and it still belongs to **`windows-servers`** through template inheritance. All four test cases passed. 
+
+TC-05 showed the host goes HARD DOWN about 3 minutes after the first failed check, compared to an estimated 13–14 minutes with the old template. All five test cases passed.
 
 ---
 
