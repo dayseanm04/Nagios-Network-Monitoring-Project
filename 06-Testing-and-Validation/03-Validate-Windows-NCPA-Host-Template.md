@@ -50,6 +50,8 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 
 ---
 
+## TC-02 – Check Interval Is 3 Minutes
+
 
 
 
