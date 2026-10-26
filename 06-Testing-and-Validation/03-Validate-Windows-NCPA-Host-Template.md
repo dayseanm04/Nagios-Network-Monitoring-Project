@@ -126,6 +126,8 @@ I click **New Rule…** and complete the wizard:
 | Name | **`IN-Nagios_VM-ICMP-Block`** |
 | Description | Blocks incoming ICMP (ping) traffic from the Ubuntu Nagios monitoring server to test faster DOWN detection |
 
+<img width="725" height="579" alt="6" src="https://github.com/user-attachments/assets/1a16ffeb-d0d2-4ac9-b3aa-5b2bb77c00bd" />
+
 
 ## Before and After
 
