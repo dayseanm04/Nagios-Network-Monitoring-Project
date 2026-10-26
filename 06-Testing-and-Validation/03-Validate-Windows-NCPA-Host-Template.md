@@ -128,6 +128,10 @@ I click **New Rule…** and complete the wizard:
 
 <img width="725" height="579" alt="6" src="https://github.com/user-attachments/assets/1a16ffeb-d0d2-4ac9-b3aa-5b2bb77c00bd" />
 
+I click **Finish**.
+
+### Step 3 – Watch the host in Nagios
+
 
 ## Before and After
 
