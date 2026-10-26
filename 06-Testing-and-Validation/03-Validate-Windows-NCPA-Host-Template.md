@@ -103,7 +103,9 @@ On the same details page, I look at **Member of**.
 | Hostgroup | **`windows-servers`** | **`windows-servers`** |
 | Host status | UP | UP |
 
+---
 
+## Conclusion
 
 
 
