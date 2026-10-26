@@ -34,6 +34,7 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 | TC-02 | Check interval | 3 minutes between checks | 15:02:38 → 15:05:38 (3 min) | ✅ PASS |
 | TC-03 | Max check attempts | Attempt shown out of **3** | 1/3 (HARD state) | ✅ PASS |
 | TC-04 | Hostgroup membership | Still in `windows-servers` | Member of `windows-servers` | ✅ PASS |
+| TC-05 | Host goes HARD DOWN after 3 failed checks | 1/3 → 2/3 → 3/3 HARD DOWN | 2/3 SOFT, then 3/3 HARD about 3 minutes after the first failure | ✅ PASS |
 
 ---
 
