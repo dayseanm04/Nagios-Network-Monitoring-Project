@@ -132,6 +132,10 @@ I click **Finish**.
 
 ### Step 3 – Watch the host in Nagios
 
+I log in to `http://192.168.1.99/nagios`, click **Hosts**, then `comp-a-test`, and refresh as the checks run.
+
+**First and second failures – SOFT state**
+
 
 ## Before and After
 
