@@ -73,7 +73,7 @@ On the Hosts page, I click **`comp-a-test`** to open its details and compare **L
 
 **Steps:**
 
-
+On the same details page, I look at **Current Attempt**.
 
 
 
