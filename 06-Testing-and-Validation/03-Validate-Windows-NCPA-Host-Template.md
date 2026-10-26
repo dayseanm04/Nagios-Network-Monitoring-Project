@@ -180,12 +180,14 @@ After the test, I disable the block nagios ICMP rule:
 1. Right-click **IN-Nagios_VM-ICMP-Block** → **Disable Rule**
 2. Right-click **IN-Nagios_VM-ICMP-Allow** → **Enable Rule**
 
+<img width="917" height="298" alt="9a" src="https://github.com/user-attachments/assets/53df112a-a427-412b-8220-f9fb0f1dc6da" />
+
+
 Then I confirm in Nagios that `comp-a-test` returns to **UP**.
 
 <img width="1034" height="545" alt="9" src="https://github.com/user-attachments/assets/80cff863-5f47-4d86-b371-04621bc60970" />
 
 <img width="1028" height="734" alt="10" src="https://github.com/user-attachments/assets/ac2fa2bf-261b-4093-9f17-8ba6e7852114" />
-
 
 > I keep the block rule disabled instead of deleting it, so I can reuse it for future DOWN tests.
 
