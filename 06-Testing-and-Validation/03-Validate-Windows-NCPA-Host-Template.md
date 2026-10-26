@@ -18,3 +18,5 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 
 ## Expected Settings
 
+| Setting | Before (`windows-server`) | Expected after (`windows-ncpa-host`) |
+|---|---|---|
