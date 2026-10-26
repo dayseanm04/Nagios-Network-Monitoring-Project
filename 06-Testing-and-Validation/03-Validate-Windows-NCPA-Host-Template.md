@@ -108,6 +108,7 @@ I right-click **IN-Nagios_VM-ICMP-Allow** and select **Disable Rule**.
 
 <img width="1060" height="451" alt="5" src="https://github.com/user-attachments/assets/8637947d-6d15-458d-a23e-7c770d62545b" />
 
+### Step 2 – Create an ICMP block rule
 
 ## Before and After
 
