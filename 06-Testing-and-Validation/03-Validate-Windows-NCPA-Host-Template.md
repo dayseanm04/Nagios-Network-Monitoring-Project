@@ -149,6 +149,16 @@ Nagios has seen the host fail, but it's still in a **SOFT** state and retrying. 
 
 After the third failed check, the host is **HARD DOWN** and Nagios triggers its first notification.
 
+### Timeline
+
+| Time | Event |
+|---|---|
+| 11:10:14 | First failed check – DOWN, attempt 1/3 (SOFT) |
+| 11:11:29 | Second failed check – attempt 2/3 (SOFT) |
+| 11:12:59 | Third failed check – attempt 3/3 (**HARD**) |
+| 11:13:29 | Notification 1 triggered |
+| 11:16:29 | Next check scheduled (back to the normal 3-minute interval) |
+
 
 ## Before and After
 
