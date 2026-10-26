@@ -143,6 +143,10 @@ I log in to `http://192.168.1.99/nagios`, click **Hosts**, then `comp-a-test`, a
 
 Nagios has seen the host fail, but it's still in a **SOFT** state and retrying. No alert has been sent yet.
 
+**Third failure – HARD state**
+
+<img width="1019" height="727" alt="9" src="https://github.com/user-attachments/assets/752e8c83-eb93-40dc-a173-80ee3cd77cf2" />
+
 
 ## Before and After
 
