@@ -100,6 +100,8 @@ TC-03 showed that max check attempts is set to 3. This test proves it actually w
 
 ### Step 1 – Disable the ICMP allow rule
 
+On `comp-a-test`, I open **Windows Defender Firewall with Advanced Security**, click **Inbound Rules**, and use **Filter by State → Filter by Enabled** to find active rules.
+
 
 ## Before and After
 
