@@ -104,6 +104,8 @@ On `comp-a-test`, I open **Windows Defender Firewall with Advanced Security**, c
 
 <img width="1222" height="353" alt="4" src="https://github.com/user-attachments/assets/bdffbcec-4517-45b7-92fd-8f5754a1502c" />
 
+I right-click **IN-Nagios_VM-ICMP-Allow** and select **Disable Rule**.
+
 
 ## Before and After
 
