@@ -134,7 +134,12 @@ I click **Finish**.
 
 I log in to `http://192.168.1.99/nagios`, click **Hosts**, then `comp-a-test`, and refresh as the checks run.
 
+<img width="1030" height="536" alt="7" src="https://github.com/user-attachments/assets/42457ed4-c4e7-40ad-a874-c94ef7c67709" />
+
+
 **First and second failures – SOFT state**
+
+<img width="1031" height="725" alt="8" src="https://github.com/user-attachments/assets/ee95f226-ffe9-4e82-ae5d-22363f5a0ac4" />
 
 
 ## Before and After
