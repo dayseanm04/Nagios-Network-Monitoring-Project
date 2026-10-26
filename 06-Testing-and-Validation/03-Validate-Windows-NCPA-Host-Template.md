@@ -98,6 +98,9 @@ On the same details page, I look at **Member of**.
 
 TC-03 showed that max check attempts is set to 3. This test proves it actually works: I block ping from the Nagios server and watch how fast `comp-a-test` goes from SOFT to HARD DOWN.
 
+### Step 1 – Disable the ICMP allow rule
+
+
 ## Before and After
 
 | | Before | After |
