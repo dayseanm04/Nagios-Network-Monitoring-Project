@@ -62,6 +62,7 @@ On the Hosts page, I click **`comp-a-test`** to open its details and compare **L
 
 | Field | Value |
 |---|---|
+| Last Check Time | **10-25-2026 15:02:38** |
 
 
 
