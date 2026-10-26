@@ -147,6 +147,8 @@ Nagios has seen the host fail, but it's still in a **SOFT** state and retrying. 
 
 <img width="1019" height="727" alt="9" src="https://github.com/user-attachments/assets/752e8c83-eb93-40dc-a173-80ee3cd77cf2" />
 
+After the third failed check, the host is **HARD DOWN** and Nagios triggers its first notification.
+
 
 ## Before and After
 
