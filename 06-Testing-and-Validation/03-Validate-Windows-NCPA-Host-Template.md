@@ -100,6 +100,7 @@ On the same details page, I look at **Member of**.
 | Template | **`windows-server`** | **`windows-ncpa-host`** |
 | Time between host checks | 5 min | **3 min** |
 | Current Attempt shown as | x/10 | **x/3** |
+| Hostgroup | **`windows-servers`** | **`windows-servers`** |
 
 
 
