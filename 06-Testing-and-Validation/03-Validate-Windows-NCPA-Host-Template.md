@@ -170,6 +170,8 @@ After the third failed check, the host is **HARD DOWN** and Nagios triggers its 
 | Hostgroup | **`windows-servers`** | **`windows-servers`** |
 | Host status | UP | UP |
 
+Each retry is about 1.5 minutes apart: the 1-minute retry interval plus the 30 seconds each ping check waits before timing out. After the host goes HARD, Nagios goes back to checking every 3 minutes (**`check_interval 3`**).
+
 ---
 
 ## Conclusion
