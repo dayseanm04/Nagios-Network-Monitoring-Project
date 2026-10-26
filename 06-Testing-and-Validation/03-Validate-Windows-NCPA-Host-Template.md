@@ -39,6 +39,7 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 
 ## TC-01 – Host Is Still UP
 
+**Steps:**
 
 
 
