@@ -70,7 +70,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 **Purpose:** Fast, frequent service checks for network devices like routers and switches.
 
-<img width="982" height="719" alt="5" src="https://github.com/user-attachments/assets/01abb342-b43e-4af3-b14b-f1dd47c08a2b" />
+<img width="941" height="562" alt="5" src="https://github.com/user-attachments/assets/d24658de-4982-440e-90db-5beb587fd91e" />
+
 
 This template is built **on top of `notify-early`** instead of **`generic-service`**. It keeps the 1-minute checks and 10-minute re-alerts, and only changes one thing:
 
