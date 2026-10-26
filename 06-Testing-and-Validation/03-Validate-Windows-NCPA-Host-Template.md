@@ -71,6 +71,7 @@ On the Hosts page, I click **`comp-a-test`** to open its details and compare **L
 
 ## TC-03 – Max Check Attempts Is 3
 
+**Steps:**
 
 
 
