@@ -182,6 +182,8 @@ After the test, I disable the block nagios ICMP rule:
 
 Then I confirm in Nagios that `comp-a-test` returns to **UP**.
 
+> I keep the block rule disabled instead of deleting it, so I can reuse it for future DOWN tests.
+
 ---
 
 ## Conclusion
