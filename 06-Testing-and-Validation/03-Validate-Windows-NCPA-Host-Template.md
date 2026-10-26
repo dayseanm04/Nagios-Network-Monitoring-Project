@@ -75,6 +75,9 @@ On the Hosts page, I click **`comp-a-test`** to open its details and compare **L
 
 On the same details page, I look at **Current Attempt**.
 
+<img width="969" height="641" alt="3" src="https://github.com/user-attachments/assets/506db206-958f-417e-a8dd-5d027ea07f39" />
+
+**Result:** ✅ PASS. The number after the slash is the max check attempts, now **3**. Under `windows-server` it was 10. My earlier troubleshooting screenshots of `comp-a-test` show `10/10 (HARD state)`, so this confirms the change took effect.
 
 
 
