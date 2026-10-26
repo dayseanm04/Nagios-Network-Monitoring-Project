@@ -35,7 +35,9 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 | TC-03 | Max check attempts | Attempt shown out of **3** | 1/3 (HARD state) | ✅ PASS |
 | TC-04 | Hostgroup membership | Still in `windows-servers` | Member of `windows-servers` | ✅ PASS |
 
+---
 
+## TC-01 – Host Is Still UP
 
 
 
