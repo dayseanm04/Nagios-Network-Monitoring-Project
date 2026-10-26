@@ -114,6 +114,19 @@ Windows may have other built-in rules that allow ping. To make sure the Nagios s
 
 I click **New Rule…** and complete the wizard:
 
+| Wizard page | Setting |
+|---|---|
+| Rule Type | **Custom** |
+| Program | **All programs** |
+| Protocol and Ports | Protocol type: **ICMPv4** |
+| Scope – local IP addresses | **Any IP address** |
+| Scope – remote IP addresses | **These IP addresses:** `192.168.1.99` |
+| Action | **Block the connection** |
+| Profile | **Domain**, **Private**, **Public** |
+| Name | **`IN-Nagios_VM-ICMP-Block`** |
+| Description | Blocks incoming ICMP (ping) traffic from the Ubuntu Nagios monitoring server to test faster DOWN detection |
+
+
 ## Before and After
 
 | | Before | After |
