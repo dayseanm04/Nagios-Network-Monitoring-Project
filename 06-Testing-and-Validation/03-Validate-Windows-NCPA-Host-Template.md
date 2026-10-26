@@ -85,6 +85,7 @@ On the same details page, I look at **Current Attempt**.
 
 **Steps:**
 
+On the same details page, I look at **Member of**.
 
 
 
