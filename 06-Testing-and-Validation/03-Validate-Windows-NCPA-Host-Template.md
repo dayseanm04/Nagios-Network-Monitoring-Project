@@ -54,6 +54,7 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 
 **Steps:**
 
+On the Hosts page, I click **`comp-a-test`** to open its details and compare **Last Check Time** with **Next Scheduled Active Check**.
 
 
 
