@@ -173,6 +173,15 @@ Each retry is about 1.5 minutes apart: the 1-minute retry interval plus the 30 s
 | Hostgroup | **`windows-servers`** | **`windows-servers`** |
 | Host status | UP | UP |
 
+### Step 4 – Restore the firewall rules
+
+After the test, I disable the block nagios ICMP rule:
+
+1. Right-click **IN-Nagios_VM-ICMP-Block** → **Disable Rule**
+2. Right-click **IN-Nagios_VM-ICMP-Allow** → **Enable Rule**
+
+Then I confirm in Nagios that `comp-a-test` returns to **UP**.
+
 ---
 
 ## Conclusion
