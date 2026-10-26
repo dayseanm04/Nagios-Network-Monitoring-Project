@@ -141,6 +141,8 @@ I log in to `http://192.168.1.99/nagios`, click **Hosts**, then `comp-a-test`, a
 
 <img width="1031" height="725" alt="8" src="https://github.com/user-attachments/assets/ee95f226-ffe9-4e82-ae5d-22363f5a0ac4" />
 
+Nagios has seen the host fail, but it's still in a **SOFT** state and retrying. No alert has been sent yet.
+
 
 ## Before and After
 
