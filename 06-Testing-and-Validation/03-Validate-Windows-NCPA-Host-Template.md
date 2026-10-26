@@ -21,3 +21,4 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 | Setting | Before (`windows-server`) | Expected after (`windows-ncpa-host`) |
 |---|---|---|
 | Check interval | 5 min | **3 min** |
+| Max check attempts | 10 | **3** |
