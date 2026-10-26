@@ -112,6 +112,7 @@ I right-click **IN-Nagios_VM-ICMP-Allow** and select **Disable Rule**.
 
 Windows may have other built-in rules that allow ping. To make sure the Nagios server is fully blocked, I create a rule that blocks it directly. In Windows Firewall, **block rules override allow rules**, so this guarantees the pings are dropped.
 
+I click **New Rule…** and complete the wizard:
 
 ## Before and After
 
