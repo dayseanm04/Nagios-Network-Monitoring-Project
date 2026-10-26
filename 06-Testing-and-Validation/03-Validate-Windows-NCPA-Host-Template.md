@@ -44,6 +44,7 @@ In this doc, I will verify that **`comp-a-test`** is using my custom **`windows-
 1. I log in to `http://192.168.1.99/nagios`.
 2. I click **Hosts**.
 
+<img width="1028" height="537" alt="1" src="https://github.com/user-attachments/assets/72f96e34-41b8-4524-b408-731c7376e4b9" />
 
 
 
