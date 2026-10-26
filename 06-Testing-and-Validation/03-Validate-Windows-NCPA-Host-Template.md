@@ -97,6 +97,7 @@ On the same details page, I look at **Member of**.
 
 | | Before | After |
 |---|---|---|
+| Template | **`windows-server`** | **`windows-ncpa-host`** |
 
 
 
