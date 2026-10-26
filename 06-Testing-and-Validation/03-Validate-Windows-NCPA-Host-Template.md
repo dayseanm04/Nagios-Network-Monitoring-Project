@@ -115,6 +115,9 @@ On the same details page, I look at **Member of**.
 
 - **Service totals** show 8 OK and 1 CRITICAL. The CRITICAL is the **`SSH`** check on `localhost`, which isn't related to this test.
 
+---
+
+
 
 
 
