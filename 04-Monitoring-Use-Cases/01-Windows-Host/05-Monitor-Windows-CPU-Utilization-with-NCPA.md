@@ -98,6 +98,36 @@ sudo nano comp-a-test.cfg
 
 ## Step 2 – Add a CPU Section
 
+<img width="889" height="596" alt="9" src="https://github.com/user-attachments/assets/5bb5dbff-7f4b-40c6-88bf-aa53f9ae20d0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
