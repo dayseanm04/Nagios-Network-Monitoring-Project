@@ -46,6 +46,7 @@ Under **Data Settings**, I set **Aggregate** to **average** and click **Reload**
 
 <img width="960" height="552" alt="4" src="https://github.com/user-attachments/assets/1b5f3236-e704-46e0-8cfb-8888c6f50fd6" />
 
+Now it returns a single number (**41.05%** at that moment), and the URL changes to **`cpu/percent?aggregate=avg`**.
 
 
 
