@@ -76,14 +76,11 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 ./check_ncpa.py -H localhost -t '<your token>' -M 'cpu/percent' -w 70 -c 85 -q 'aggregate=avg'
 ```
 
-
-I will only use:
+My **`check_ncpa`** command in Nagios already handles the host, token, and port, so I only need the part starting at **`-M`**:
 
 ```
 -M 'cpu/percent' -w 70 -c 85 -q 'aggregate=avg'
 ```
-
-
 
 
 
