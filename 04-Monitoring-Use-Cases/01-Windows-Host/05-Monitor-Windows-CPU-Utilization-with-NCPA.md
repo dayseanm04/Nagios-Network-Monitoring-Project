@@ -16,3 +16,4 @@ That's why this check uses the `time-sensitive` template from [**02-Setup / 09 â
 |---|---|---|
 | Check interval | 2 min | High CPU gets noticed within 2 minutes |
 | Retry interval | 1 min | Problems are rechecked quickly |
+| Max check attempts | 5 | CPU has to stay high for about 4 minutes before alerting, so a short spike won't trigger a false alarm |
