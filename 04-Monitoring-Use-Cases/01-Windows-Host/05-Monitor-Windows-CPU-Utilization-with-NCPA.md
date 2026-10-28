@@ -120,6 +120,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 > This is the first time I've used **`notes`**. It's one of the directives I left out of my templates on purpose, since the thresholds are different for every check.
 
+---
 
 
 
