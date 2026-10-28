@@ -5,3 +5,7 @@ In this doc, I will configure a CPU utilization check for **`comp-a-test`**. Fir
 > **Testing and validation for this check:** [**Click here to see the NCPA CPU utilization check validation**](../../06-Testing-and-Validation/04-Validate-NCPA-CPU-Utilization-Check.md)
 
 ---
+
+## Why Monitor CPU?
+
+
