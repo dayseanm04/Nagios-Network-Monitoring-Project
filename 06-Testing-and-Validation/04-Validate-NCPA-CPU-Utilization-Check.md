@@ -49,6 +49,7 @@ On the same details page, I compare **Last Check Time** and **Next Scheduled Che
 
 **Result:** ✅ PASS. The checks are **2 minutes** apart, matching `check_interval 2` in `time-sensitive`. With `generic-service`, they would be 10 minutes apart.
 
+---
 
 
 
