@@ -108,6 +108,9 @@ Below the existing **`system`** section (the uptime check), I add a new section 
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+### What each line does
+
+
 
 
 
