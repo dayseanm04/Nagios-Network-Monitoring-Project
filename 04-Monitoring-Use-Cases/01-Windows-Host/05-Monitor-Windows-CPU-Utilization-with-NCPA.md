@@ -26,4 +26,5 @@ I build and test the check in the NCPA web interface before adding it to Nagios.
 
 ## Step 1 – Log In to NCPA
 
+On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the NCPA token.
 
