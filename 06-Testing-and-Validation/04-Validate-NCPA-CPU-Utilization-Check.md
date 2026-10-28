@@ -69,6 +69,7 @@ On the same details page, I look at **Current Attempt**.
 
 **Steps:**
 
+On the same details page, I look under the host's IP address at the top of the page.
 
 
 
