@@ -80,6 +80,7 @@ On the same details page, I look under the host's IP address at the top of the p
 
 ## TC-06 – NCPA Receives the Checks from Nagios
 
+TC-01 through TC-05 confirm the check from the Nagios side. This test confirms it from the NCPA side: that the requests are actually reaching the agent on `comp-a-test` and coming from the Nagios server.
 
 ## Conclusion
 
