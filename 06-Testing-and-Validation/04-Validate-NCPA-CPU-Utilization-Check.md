@@ -12,6 +12,7 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 |---|---|---|---|---|
 | TC-01 | Service appears with a real result | **OK** with a CPU percentage | OK – Percent was 22.43 % | ✅ PASS |
 | TC-02 | Thresholds are applied | Performance data shows `70;85` | `'percent'=22.43%;70;85;` | ✅ PASS |
+| TC-03 | Check interval | 2 minutes between checks | 12:26:26 → 12:28:26 (2 min) | ✅ PASS |
 
 ---
 
