@@ -44,6 +44,7 @@ NCPA returns one value per CPU core. **`comp-a-test`** has 8 cores, so it shows 
 
 Under **Data Settings**, I set **Aggregate** to **average** and click **Reload**.
 
+<img width="960" height="552" alt="4" src="https://github.com/user-attachments/assets/1b5f3236-e704-46e0-8cfb-8888c6f50fd6" />
 
 
 
