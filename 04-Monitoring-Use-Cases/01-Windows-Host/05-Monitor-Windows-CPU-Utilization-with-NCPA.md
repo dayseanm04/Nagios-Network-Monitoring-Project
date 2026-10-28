@@ -50,6 +50,7 @@ Now it returns a single number (**41.05%** at that moment), and the URL changes 
 
 > **Why average?** Without it, Nagios would compare the thresholds against each core separately, so one busy core could trigger an alert even if the machine overall is fine. Averaging gives one number that represents the whole CPU.
 
+## Step 4 – Set Thresholds
 
 
 
