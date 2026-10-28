@@ -14,3 +14,4 @@ That's why this check uses the `time-sensitive` template from [**02-Setup / 09 â
 
 | Setting | Value | Why |
 |---|---|---|
+| Check interval | 2 min | High CPU gets noticed within 2 minutes |
