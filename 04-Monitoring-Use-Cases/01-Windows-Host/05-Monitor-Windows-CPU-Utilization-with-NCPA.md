@@ -11,3 +11,6 @@ In this doc, I will configure a CPU utilization check for **`comp-a-test`**. Fir
 High CPU usage slows down everything running on the machine and can point to a stuck process, malware, or a machine that's undersized for its workload. Short spikes are normal, so the goal is to catch CPU that **stays** high, not every spike.
 
 That's why this check uses the `time-sensitive` template from [**02-Setup / 09 – Create Time-Sensitive Service Template**](../../02-Setup/09-Create-Time-Sensitive-Service-Template.md):
+
+| Setting | Value | Why |
+|---|---|---|
