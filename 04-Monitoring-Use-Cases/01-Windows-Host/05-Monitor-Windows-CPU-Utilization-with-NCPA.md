@@ -154,6 +154,7 @@ sudo systemctl reload nagios
 
 ## Related Docs
 
+- [**04 – Apply Windows NCPA Host Template to comp-a-test**](04-Apply-Windows-NCPA-Host-Template-to-comp-a-test.md)
 
 
 
