@@ -98,6 +98,8 @@ sudo nano comp-a-test.cfg
 
 ## Step 2 – Add a CPU Section
 
+Below the existing **`system`** section (the uptime check), I add a new section header so each type of check is grouped:
+
 <img width="889" height="596" alt="9" src="https://github.com/user-attachments/assets/5bb5dbff-7f4b-40c6-88bf-aa53f9ae20d0" />
 
 
