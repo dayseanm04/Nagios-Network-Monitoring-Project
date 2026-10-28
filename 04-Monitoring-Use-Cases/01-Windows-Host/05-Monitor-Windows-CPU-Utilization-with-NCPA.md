@@ -142,6 +142,7 @@ sudo systemctl reload nagios
 
 <img width="1029" height="244" alt="12" src="https://github.com/user-attachments/assets/30dbf30a-3e22-424f-8cb1-4fa04f9d4622" />
 
+---
 
 
 
