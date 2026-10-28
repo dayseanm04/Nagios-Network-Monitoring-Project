@@ -22,3 +22,5 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 2. I click **Services**.
 
 <img width="1032" height="547" alt="1" src="https://github.com/user-attachments/assets/b112dc93-cc66-4abc-8bef-a6a5248e1500" />
+
+**Result:** ✅ PASS. The check is running and returning a real CPU value from NCPA.
