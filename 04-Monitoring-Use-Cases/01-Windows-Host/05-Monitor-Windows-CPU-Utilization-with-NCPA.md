@@ -38,6 +38,7 @@ I click **API**, then select **cpu** and **percent** under **API Endpoint**.
 
 <img width="961" height="553" alt="3" src="https://github.com/user-attachments/assets/78366be9-d769-432d-bf18-666e3b6a946a" />
 
+NCPA returns one value per CPU core. **`comp-a-test`** has 8 cores, so it shows 8 numbers ranging from 20.6% to 75.7%.
 
 
 
