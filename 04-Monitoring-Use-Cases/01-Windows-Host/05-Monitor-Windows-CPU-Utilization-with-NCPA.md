@@ -8,5 +8,5 @@ In this doc, I will configure a CPU utilization check for **`comp-a-test`**. Fir
 
 ## Why Monitor CPU?
 
-High CPU usage slows down everything running on the machine and can point to a stuck process, malware, or a machine that's undersized for its workload. 
+High CPU usage slows down everything running on the machine and can point to a stuck process, malware, or a machine that's undersized for its workload. Short spikes are normal, so the goal is to catch CPU that **stays** high, not every spike.
 
