@@ -14,6 +14,7 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 | TC-02 | Thresholds are applied | Performance data shows `70;85` | `'percent'=22.43%;70;85;` | ✅ PASS |
 | TC-03 | Check interval | 2 minutes between checks | 12:26:26 → 12:28:26 (2 min) | ✅ PASS |
 | TC-04 | Max check attempts | Attempt shown out of **5** | 1/5 (HARD state) | ✅ PASS |
+| TC-05 | Notes shown in Nagios | Threshold text on the service page | Threshold >70% Warn, >85% Crit. | ✅ PASS |
 
 ---
 
