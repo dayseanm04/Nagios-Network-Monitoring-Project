@@ -118,6 +118,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`check_command check_ncpa!...`** | Runs `check_ncpa` and passes the metric, thresholds, and average setting as `$ARG1$` |
 | **`notes`** | Text shown on the service's details page in Nagios, so anyone looking at it can see the thresholds without opening the config file |
 
+> This is the first time I've used **`notes`**. It's one of the directives I left out of my templates on purpose, since the thresholds are different for every check.
 
 
 
