@@ -10,3 +10,4 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
+| TC-01 | Service appears with a real result | **OK** with a CPU percentage | OK – Percent was 22.43 % | ✅ PASS |
