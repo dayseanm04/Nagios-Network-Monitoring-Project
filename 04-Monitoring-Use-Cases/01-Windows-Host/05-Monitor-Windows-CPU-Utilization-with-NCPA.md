@@ -106,7 +106,7 @@ Below the existing **`system`** section (the uptime check), I add a new section 
 
 <img width="960" height="667" alt="10" src="https://github.com/user-attachments/assets/f4835f59-3dd7-40e0-8757-83193b4c13de" />
 
-Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**
 
 ### What each line does
 
@@ -158,48 +158,3 @@ sudo systemctl reload nagios
 - [**06-Testing-and-Validation / 04 – Validate NCPA CPU Utilization Check**](../../06-Testing-and-Validation/04-Validate-NCPA-CPU-Utilization-Check.md)
 - [**02-Setup / 09 – Create Time-Sensitive Service Template**](../../02-Setup/09-Create-Time-Sensitive-Service-Template.md)
 - [**08-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../08-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
