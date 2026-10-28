@@ -86,6 +86,7 @@ TC-01 through TC-05 confirm the check from the Nagios side. This test confirms i
 
 1. On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the NCPA token.
 2. I click **Checks**.
+3. I set the filters:
 
 ## Conclusion
 
