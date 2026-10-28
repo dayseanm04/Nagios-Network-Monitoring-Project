@@ -156,6 +156,7 @@ sudo systemctl reload nagios
 
 - [**04 – Apply Windows NCPA Host Template to comp-a-test**](04-Apply-Windows-NCPA-Host-Template-to-comp-a-test.md)
 - [**06-Testing-and-Validation / 04 – Validate NCPA CPU Utilization Check**](../../06-Testing-and-Validation/04-Validate-NCPA-CPU-Utilization-Check.md)
+- [**02-Setup / 09 – Create Time-Sensitive Service Template**](../../02-Setup/09-Create-Time-Sensitive-Service-Template.md)
 
 
 
