@@ -71,6 +71,7 @@ On the same details page, I look at **Current Attempt**.
 
 On the same details page, I look under the host's IP address at the top of the page.
 
+<img width="1028" height="768" alt="2" src="https://github.com/user-attachments/assets/f34eed69-5a58-495d-8831-8c4e1c10e50b" />
 
 
 
