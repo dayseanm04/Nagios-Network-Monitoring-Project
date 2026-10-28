@@ -132,6 +132,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 > **Note:** The service count is still **9** because I removed the **`SSH`** check from **`localhost`** before adding the CPU check. It was always CRITICAL since no SSH server runs on **`NetworkVM`**. So the total is now 7 **`localhost`** services + **`system uptime`** + **`CPU Utilization`** = 9, with 0 CRITICAL.
 
+---
 
 
 
