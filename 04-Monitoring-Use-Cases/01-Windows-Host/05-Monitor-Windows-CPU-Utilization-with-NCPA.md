@@ -148,6 +148,7 @@ sudo systemctl reload nagios
 
 **`comp-a-test`** now has a **`CPU Utilization`** check using the **`time-sensitive`** template. It averages CPU usage across all 8 cores and goes WARNING above 70% and CRITICAL above 85%. The pre-flight check passes with 0 warnings and 0 errors, and Nagios has been reloaded.
 
+> **Verification steps and results:** [**Click here to see the NCPA CPU utilization check validation**](../../06-Testing-and-Validation/04-Validate-NCPA-CPU-Utilization-Check.md)
 
 
 
