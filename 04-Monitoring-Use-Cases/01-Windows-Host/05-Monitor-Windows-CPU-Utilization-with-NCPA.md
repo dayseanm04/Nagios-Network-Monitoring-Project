@@ -36,6 +36,7 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 
 I click **API**, then select **cpu** and **percent** under **API Endpoint**.
 
+<img width="961" height="553" alt="3" src="https://github.com/user-attachments/assets/78366be9-d769-432d-bf18-666e3b6a946a" />
 
 
 
