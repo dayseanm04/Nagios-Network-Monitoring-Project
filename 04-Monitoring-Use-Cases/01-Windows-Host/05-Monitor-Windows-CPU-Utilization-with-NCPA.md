@@ -82,6 +82,7 @@ My **`check_ncpa`** command in Nagios already handles the host, token, and port,
 -M 'cpu/percent' -w 70 -c 85 -q 'aggregate=avg'
 ```
 
+<img width="693" height="252" alt="8" src="https://github.com/user-attachments/assets/94dc4581-7088-4bd0-8f14-6d3e7ea64902" />
 
 
 
