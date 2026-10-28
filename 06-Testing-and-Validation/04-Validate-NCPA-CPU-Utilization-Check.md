@@ -15,6 +15,7 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 | TC-03 | Check interval | 2 minutes between checks | 12:26:26 → 12:28:26 (2 min) | ✅ PASS |
 | TC-04 | Max check attempts | Attempt shown out of **5** | 1/5 (HARD state) | ✅ PASS |
 | TC-05 | Notes shown in Nagios | Threshold text on the service page | Threshold >70% Warn, >85% Crit. | ✅ PASS |
+| TC-06 | NCPA receives the checks from Nagios | `cpu/percent` entries executed by `192.168.1.99` | `cpu/percent` checks, OK, Active, executed by `192.168.1.99` | ✅ PASS |
 
 ---
 
