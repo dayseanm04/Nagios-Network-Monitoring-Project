@@ -18,4 +18,5 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 
 **Steps:**
 
-1. I log in to **`http://192.168.1.99/nagios**`.
+1. I log in to **`http://192.168.1.99/nagios`**.
+2. I click **Services**.
