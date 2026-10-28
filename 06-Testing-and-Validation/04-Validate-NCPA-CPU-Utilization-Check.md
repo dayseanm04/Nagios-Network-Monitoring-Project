@@ -94,4 +94,4 @@ TC-01 through TC-05 confirm the check from the Nagios side. This test confirms i
 
 ## Conclusion
 
-The **`CPU Utilization`** check for **`comp-a-test`** is working. Nagios gets a real, averaged CPU value from NCPA, applies the 70% and 85% thresholds, checks every 2 minutes, and requires 5 failed attempts before alerting, all matching the **`time-sensitive`** template. The **`notes`** text shows the thresholds right on the service page. All five test cases passed.
+The **`CPU Utilization`** check for **`comp-a-test`** is working. Nagios gets a real, averaged CPU value from NCPA, applies the 70% and 85% thresholds, checks every 2 minutes, and requires 5 failed attempts before alerting, all matching the **`time-sensitive`** template. The **`notes`** text shows the thresholds right on the service page. All five test cases passed. NCPA's Checks log confirms the requests are coming from the Nagios server at **`192.168.1.99`**. All six test cases passed.
