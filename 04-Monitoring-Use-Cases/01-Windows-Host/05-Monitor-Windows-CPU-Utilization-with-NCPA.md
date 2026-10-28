@@ -86,6 +86,7 @@ My **`check_ncpa`** command in Nagios already handles the host, token, and port,
 
 ---
 
+# Part 2 – Add the Service in Nagios
 
 
 
