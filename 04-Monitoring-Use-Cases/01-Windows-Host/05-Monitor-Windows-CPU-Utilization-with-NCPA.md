@@ -57,6 +57,7 @@ Under **Check Settings**, I check **Run as a Nagios check** and set:
 | Threshold | Value | Meaning |
 |---|---|---|
 | Warning | 70 | Average CPU above 70% |
+| Critical | 85 | Average CPU above 85% |
 
 
 
