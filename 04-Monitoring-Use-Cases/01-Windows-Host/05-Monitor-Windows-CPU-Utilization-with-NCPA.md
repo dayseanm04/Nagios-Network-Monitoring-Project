@@ -96,3 +96,11 @@ ls -l
 sudo nano comp-a-test.cfg
 ```
 
+## Step 2 – Add a CPU Section
+
+
+
+
+
+
+
