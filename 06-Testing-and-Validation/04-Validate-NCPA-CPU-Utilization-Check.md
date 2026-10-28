@@ -84,6 +84,8 @@ TC-01 through TC-05 confirm the check from the Nagios side. This test confirms i
 
 **Steps:**
 
+1. On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the NCPA token.
+
 ## Conclusion
 
 The **`CPU Utilization`** check for **`comp-a-test`** is working. Nagios gets a real, averaged CPU value from NCPA, applies the 70% and 85% thresholds, checks every 2 minutes, and requires 5 failed attempts before alerting, all matching the **`time-sensitive`** template. The **`notes`** text shows the thresholds right on the service page. All five test cases passed.
