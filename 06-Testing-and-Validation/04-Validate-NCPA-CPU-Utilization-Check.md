@@ -75,5 +75,8 @@ On the same details page, I look under the host's IP address at the top of the p
 
 **Result:** ✅ PASS. The `notes` text is shown on the service page, so anyone checking this service in Nagios can see its thresholds without opening the config file.
 
+---
+
+## Conclusion
 
 
