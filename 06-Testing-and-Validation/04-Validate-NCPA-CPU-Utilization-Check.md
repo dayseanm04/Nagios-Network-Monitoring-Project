@@ -51,6 +51,7 @@ On the same details page, I compare **Last Check Time** and **Next Scheduled Che
 
 ---
 
+## TC-04 – Max Check Attempts Is 5
 
 
 
