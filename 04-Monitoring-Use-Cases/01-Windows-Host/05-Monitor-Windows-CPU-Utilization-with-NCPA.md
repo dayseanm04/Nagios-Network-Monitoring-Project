@@ -65,6 +65,7 @@ I chose **70%** as the warning point because sustained use at that level means t
 
 ## Step 5 – Get the Command
 
+I click **View in alternate format** → **As active check using check_ncpa.py**.
 
 
 
