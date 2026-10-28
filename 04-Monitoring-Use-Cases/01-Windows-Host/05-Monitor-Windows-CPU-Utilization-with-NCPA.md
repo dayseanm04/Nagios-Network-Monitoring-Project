@@ -48,6 +48,7 @@ Under **Data Settings**, I set **Aggregate** to **average** and click **Reload**
 
 Now it returns a single number (**41.05%** at that moment), and the URL changes to **`cpu/percent?aggregate=avg`**.
 
+> **Why average?** Without it, Nagios would compare the thresholds against each core separately, so one busy core could trigger an alert even if the machine overall is fine. 
 
 
 
