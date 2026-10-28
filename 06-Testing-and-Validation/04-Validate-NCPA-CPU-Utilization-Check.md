@@ -55,6 +55,7 @@ On the same details page, I compare **Last Check Time** and **Next Scheduled Che
 
 **Steps:**
 
+On the same details page, I look at **Current Attempt**.
 
 
 
