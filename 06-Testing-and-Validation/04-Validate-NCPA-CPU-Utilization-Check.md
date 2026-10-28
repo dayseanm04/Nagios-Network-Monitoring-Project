@@ -30,4 +30,7 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 
 ## TC-02 – Thresholds Are Applied
 
+**Steps:**
+
+
 <img width="1028" height="768" alt="2" src="https://github.com/user-attachments/assets/f34eed69-5a58-495d-8831-8c4e1c10e50b" />
