@@ -104,6 +104,7 @@ Below the existing **`system`** section (the uptime check), I add a new section 
 
 ## Step 3 – Add the Service
 
+<img width="960" height="667" alt="10" src="https://github.com/user-attachments/assets/f4835f59-3dd7-40e0-8757-83193b4c13de" />
 
 
 
