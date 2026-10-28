@@ -90,17 +90,8 @@ TC-01 through TC-05 confirm the check from the Nagios side. This test confirms i
 
 <img width="956" height="597" alt="3" src="https://github.com/user-attachments/assets/81dc5b75-5ba5-4e3e-ae67-47e2cacd9d46" />
 
+**Result:** ✅ PASS. The **`cpu/percent`** checks are logged in NCPA as active checks , which proves the Nagios server is reaching the agent and NCPA is answering. 
 
 ## Conclusion
 
 The **`CPU Utilization`** check for **`comp-a-test`** is working. Nagios gets a real, averaged CPU value from NCPA, applies the 70% and 85% thresholds, checks every 2 minutes, and requires 5 failed attempts before alerting, all matching the **`time-sensitive`** template. The **`notes`** text shows the thresholds right on the service page. All five test cases passed.
-
-
-
-
-
-
-
-
-
-
