@@ -40,6 +40,7 @@ I click **API**, then select **cpu** and **percent** under **API Endpoint**.
 
 NCPA returns one value per CPU core. **`comp-a-test`** has 8 cores, so it shows 8 numbers ranging from 20.6% to 75.7%.
 
+## Step 3 – Average the Cores
 
 
 
