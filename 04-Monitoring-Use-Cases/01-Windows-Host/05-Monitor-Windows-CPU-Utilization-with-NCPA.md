@@ -59,6 +59,8 @@ Under **Check Settings**, I check **Run as a Nagios check** and set:
 | Warning | 70 | Average CPU above 70% |
 | Critical | 85 | Average CPU above 85% |
 
+<img width="962" height="540" alt="5" src="https://github.com/user-attachments/assets/18198719-7416-47f1-ab9d-e89526d0bc6f" />
+
 
 
 
