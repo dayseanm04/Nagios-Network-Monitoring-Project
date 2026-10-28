@@ -73,6 +73,7 @@ On the same details page, I look under the host's IP address at the top of the p
 
 <img width="1028" height="768" alt="2" src="https://github.com/user-attachments/assets/f34eed69-5a58-495d-8831-8c4e1c10e50b" />
 
+**Result:** ✅ PASS. The `notes` text is shown on the service page, so anyone checking this service in Nagios can see its thresholds without opening the config file.
 
 
 
