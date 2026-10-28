@@ -61,6 +61,7 @@ Under **Check Settings**, I check **Run as a Nagios check** and set:
 
 <img width="962" height="540" alt="5" src="https://github.com/user-attachments/assets/18198719-7416-47f1-ab9d-e89526d0bc6f" />
 
+I chose **70%** as the warning point because sustained use at that level means the machine is working hard but still has room. **85%** leaves very little room, so that's when it becomes critical.
 
 
 
