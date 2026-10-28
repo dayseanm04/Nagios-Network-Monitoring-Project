@@ -45,6 +45,9 @@ I click **CPU Utilization** to open the service details and look at **Performanc
 
 On the same details page, I compare **Last Check Time** and **Next Scheduled Check**.
 
+<img width="1028" height="768" alt="2" src="https://github.com/user-attachments/assets/f34eed69-5a58-495d-8831-8c4e1c10e50b" />
+
+**Result:** ✅ PASS. The checks are **2 minutes** apart, matching `check_interval 2` in `time-sensitive`. With `generic-service`, they would be 10 minutes apart.
 
 
 
