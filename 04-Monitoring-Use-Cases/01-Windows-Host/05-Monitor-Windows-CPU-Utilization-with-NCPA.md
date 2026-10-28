@@ -116,6 +116,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`host_name comp-a-test`** | Attaches the check to the Windows host |
 | **`service_description CPU Utilization`** | The name shown on the Nagios **Services** page |
 | **`check_command check_ncpa!...`** | Runs `check_ncpa` and passes the metric, thresholds, and average setting as `$ARG1$` |
+| **`notes`** | Text shown on the service's details page in Nagios, so anyone looking at it can see the thresholds without opening the config file |
 
 
 
