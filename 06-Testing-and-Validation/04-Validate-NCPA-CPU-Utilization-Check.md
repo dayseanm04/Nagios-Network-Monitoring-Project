@@ -65,6 +65,7 @@ On the same details page, I look at **Current Attempt**.
 
 ---
 
+## TC-05 – Notes Are Shown in Nagios
 
 
 
