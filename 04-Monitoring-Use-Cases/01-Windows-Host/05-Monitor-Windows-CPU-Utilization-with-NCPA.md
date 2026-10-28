@@ -90,3 +90,9 @@ My **`check_ncpa`** command in Nagios already handles the host, token, and port,
 
 ## Step 1 – Open the Host File
 
+```bash
+cd /usr/local/nagios/etc/windows-hosts
+ls -l
+sudo nano comp-a-test.cfg
+```
+
