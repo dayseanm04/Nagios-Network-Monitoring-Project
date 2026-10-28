@@ -15,3 +15,5 @@ In this doc, I will verify that the new **`CPU Utilization`** check for **`comp-
 ---
 
 ## TC-01 – Service Appears with a Real Result
+
+**Steps:**
