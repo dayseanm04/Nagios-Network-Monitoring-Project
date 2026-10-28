@@ -43,3 +43,20 @@ I click **CPU Utilization** to open the service details and look at **Performanc
 
 **Steps:**
 
+On the same details page, I compare **Last Check Time** and **Next Scheduled Check**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
