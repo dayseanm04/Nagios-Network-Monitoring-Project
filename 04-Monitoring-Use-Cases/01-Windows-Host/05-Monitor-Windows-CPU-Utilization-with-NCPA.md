@@ -22,3 +22,4 @@ That's why this check uses the `time-sensitive` template from [**02-Setup / 09 �
 
 # Part 1 – Build the Check in NCPA
 
+I build and test the check in the NCPA web interface before adding it to Nagios. For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../08-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md).
