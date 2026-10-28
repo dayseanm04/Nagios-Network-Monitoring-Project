@@ -39,4 +39,6 @@ I click **CPU Utilization** to open the service details and look at **Performanc
 
 ---
 
+## TC-03 – Check Interval Is 2 Minutes
+
 
