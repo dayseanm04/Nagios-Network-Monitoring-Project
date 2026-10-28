@@ -136,7 +136,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Step 5 – Reload Nagios
 
-
+```bash
+sudo systemctl reload nagios
+```
 
 
 
