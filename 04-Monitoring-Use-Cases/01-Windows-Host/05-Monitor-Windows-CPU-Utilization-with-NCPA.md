@@ -71,12 +71,17 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 
 <img width="920" height="544" alt="7" src="https://github.com/user-attachments/assets/0773b2ae-0fa1-4016-b516-d63feff77690" />
 
+
 ```
 ./check_ncpa.py -H localhost -t '<your token>' -M 'cpu/percent' -w 70 -c 85 -q 'aggregate=avg'
 ```
 
 
+I will only use:
 
+```
+-M 'cpu/percent' -w 70 -c 85 -q 'aggregate=avg'
+```
 
 
 
