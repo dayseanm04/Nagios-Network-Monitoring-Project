@@ -54,7 +54,8 @@ Now it returns a single number (**41.05%** at that moment), and the URL changes 
 
 Under **Check Settings**, I check **Run as a Nagios check** and set:
 
-
+| Threshold | Value | Meaning |
+|---|---|---|
 
 
 
