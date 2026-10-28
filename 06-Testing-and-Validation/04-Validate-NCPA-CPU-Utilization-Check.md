@@ -63,6 +63,7 @@ On the same details page, I look at **Current Attempt**.
 
 **Result:** ✅ PASS. The number after the slash is the max check attempts, **5**, from `time-sensitive`. My uptime check uses `generic-service` and shows `1/3`, so the two templates are clearly being applied separately.
 
+---
 
 
 
