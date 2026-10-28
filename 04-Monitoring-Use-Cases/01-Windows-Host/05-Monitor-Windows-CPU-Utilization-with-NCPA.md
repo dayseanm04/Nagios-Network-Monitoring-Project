@@ -128,6 +128,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="1049" height="844" alt="11" src="https://github.com/user-attachments/assets/696c4ad4-7662-4c55-b6ef-b7ad622f19cc" />
 
 
 
