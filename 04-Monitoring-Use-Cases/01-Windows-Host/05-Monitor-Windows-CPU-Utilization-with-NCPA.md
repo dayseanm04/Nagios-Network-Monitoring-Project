@@ -34,6 +34,7 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 
 ## Step 2 – Select the CPU Metric
 
+I click **API**, then select **cpu** and **percent** under **API Endpoint**.
 
 
 
