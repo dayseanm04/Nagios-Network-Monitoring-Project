@@ -124,7 +124,9 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ## Step 4 – Run the Pre-Flight Check
 
-
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
