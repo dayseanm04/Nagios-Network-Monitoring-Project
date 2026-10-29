@@ -122,7 +122,11 @@ The part I need for Nagios:
 
 ## Step 1 – Open the Host File
 
-
+```bash
+cd /usr/local/nagios/etc/windows-hosts
+ls -l
+sudo nano comp-a-test.cfg
+```
 
 
 
