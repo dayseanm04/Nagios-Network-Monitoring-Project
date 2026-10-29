@@ -9,3 +9,5 @@ In this doc, I will configure two memory checks for **`comp-a-test`**: one for R
 ## Overview
 
 ### What These Metrics Mean
+
+NCPA's naming can be confusing, so here's what each one actually measures on Windows:
