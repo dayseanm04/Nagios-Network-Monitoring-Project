@@ -13,3 +13,4 @@ In this doc, I will verify that the **`Logical memory usage`** and **`Swap memor
 | TC-01 | Both services appear with real results | Values for RAM and swap | RAM 95.70%, swap 16.20% | ✅ PASS |
 | TC-02 | Thresholds are applied | Perf data shows `70;90` and `50;80` | `'percent'=95.30%;70;90;` and `'percent'=16.00%;50;80;` | ✅ PASS |
 | TC-03 | RAM above 90% goes CRITICAL | **CRITICAL** | CRITICAL – Percent was 95.30 % | ✅ PASS |
+| TC-04 | Swap below 50% stays OK | **OK** | OK – Percent was 16.00 % | ✅ PASS |
