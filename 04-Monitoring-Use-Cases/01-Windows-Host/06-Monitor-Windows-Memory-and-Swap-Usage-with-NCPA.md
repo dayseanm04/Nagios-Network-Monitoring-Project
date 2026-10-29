@@ -59,7 +59,8 @@ I check **Run as a Nagios check** and test the thresholds.
 
 I tested with a critical of 85% first, then settled on **90%** for the Nagios check. Here's what each one means on a 15.71 GiB machine (**Comp-a-test has 16GB**):
 
-
+| Threshold | Percent | Memory used | Memory left |
+|---|---|---|---|
 
 
 
