@@ -161,6 +161,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`use time-sensitive`** | Checks every 2 minutes, retries every minute, and needs 5 failed checks before alerting |
 | **`host_name comp-a-test`** | Attaches the check to the Windows host |
 | **`service_description`** | The name shown on the Nagios **Services** page |
+| **`check_command check_ncpa!...`** | Runs `check_ncpa` and passes the metric and thresholds as `$ARG1$` |
 
 
 
