@@ -179,7 +179,7 @@ Both memory checks are working. Nagios gets real RAM and swap values from NCPA, 
 ## Related Docs
 
 - [**04-Monitoring-Use-Cases / 01-Windows-Host / 06 – Monitor Windows Memory and Swap Usage with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/06-Monitor-Windows-Memory-and-Swap-Usage-with-NCPA.md)
-
+- [**06-Testing-and-Validation / 04 – Validate NCPA CPU Utilization Check**](04-Validate-NCPA-CPU-Utilization-Check.md)
 
 
 
