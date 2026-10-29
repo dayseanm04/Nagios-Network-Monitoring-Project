@@ -118,6 +118,10 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 <img width="948" height="596" alt="6" src="https://github.com/user-attachments/assets/0bee03d5-91ac-48a1-97a1-592baa09f528" />
 
+### Swap memory usage
+
+<img width="954" height="595" alt="7" src="https://github.com/user-attachments/assets/54f1974d-16a1-4efe-8d83-842a511f87cb" />
+
 
 | Service | Last Check | Next Scheduled Check | Current Attempt |
 |---|---|---|---|
