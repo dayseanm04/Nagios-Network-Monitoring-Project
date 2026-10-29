@@ -152,6 +152,7 @@ sudo nano comp-a-test.cfg
 
 <img width="971" height="630" alt="15" src="https://github.com/user-attachments/assets/5d33d71c-a21d-4d78-a5b3-284300f3385a" />
 
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
