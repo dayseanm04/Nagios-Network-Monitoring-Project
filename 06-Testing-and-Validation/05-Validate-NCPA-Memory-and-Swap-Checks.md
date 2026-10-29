@@ -133,6 +133,7 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 ## TC-06 – NMatches Task Manager
 
+On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
 
 
