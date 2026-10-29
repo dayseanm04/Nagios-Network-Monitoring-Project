@@ -87,6 +87,7 @@ The part I need for Nagios:
 
 ### Explore the metric
 
+I select **memory** → **swap**.
 
 
 
