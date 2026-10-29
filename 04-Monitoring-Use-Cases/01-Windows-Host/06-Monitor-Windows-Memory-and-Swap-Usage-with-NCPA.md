@@ -162,6 +162,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`host_name comp-a-test`** | Attaches the check to the Windows host |
 | **`service_description`** | The name shown on the Nagios **Services** page |
 | **`check_command check_ncpa!...`** | Runs `check_ncpa` and passes the metric and thresholds as `$ARG1$` |
+| **`notes`** | Shows the thresholds on the service's details page, so I don't have to open the config file to see them |
 
 
 
