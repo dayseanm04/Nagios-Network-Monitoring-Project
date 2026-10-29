@@ -37,3 +37,5 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 
 ## Check 1 – RAM (memory/virtual)
 
+### Explore the metric
+
