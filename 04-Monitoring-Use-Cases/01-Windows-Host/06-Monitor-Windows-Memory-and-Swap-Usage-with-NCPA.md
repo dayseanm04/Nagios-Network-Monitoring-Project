@@ -22,3 +22,5 @@ Watching both together (High RAM **and** rising swap) means the machine is reall
 ---
 
 # Part 1 – Build the Checks in NCPA
+
+For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../08-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md).
