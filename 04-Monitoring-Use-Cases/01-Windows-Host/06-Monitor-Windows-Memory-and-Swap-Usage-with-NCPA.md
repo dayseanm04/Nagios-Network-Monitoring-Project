@@ -77,6 +77,9 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 
 The part I need for Nagios:
 
+```
+-M 'memory/virtual/percent' -w 70 -c 90
+```
 
 
 
