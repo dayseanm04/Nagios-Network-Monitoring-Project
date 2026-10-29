@@ -65,7 +65,7 @@ I tested with a critical of 85% first, then settled on **90%** for the Nagios ch
 | Critical (tested) | 85% | ~13.4 GiB | ~2.4 GiB |
 | **Critical (used)** | **90%** | **~14.1 GiB** | **~1.6 GiB** |
 
-I went with **90%** because this machine also runs the Nagios VM and regularly sits in the 80s. 
+I went with **90%** because this machine also runs the Nagios VM and regularly sits in the 80s. At **85%**, the check would be CRITICAL almost all the time, and an alert that's always on gets ignored. **90%** leaves about 1.6 GiB, which is when Windows starts leaning hard on the page file.
 
 
 
