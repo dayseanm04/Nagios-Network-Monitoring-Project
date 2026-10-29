@@ -90,6 +90,7 @@ I click **Logical memory usage**.
 
 <img width="951" height="599" alt="6" src="https://github.com/user-attachments/assets/e1a0817a-632a-406a-82f3-c4d5d6f46294" />
 
+95.30% is above the 90% critical threshold, so **CRITICAL** is correct.
 
 
 
