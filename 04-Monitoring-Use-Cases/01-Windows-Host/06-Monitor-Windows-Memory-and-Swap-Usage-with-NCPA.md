@@ -42,3 +42,6 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 I click **API** and select **memory** → **virtual**.
 
 <img width="948" height="676" alt="3" src="https://github.com/user-attachments/assets/c3f5e1e7-432e-4eec-ad57-3fcc0d1ce2ae" />
+
+### Select percent
+
