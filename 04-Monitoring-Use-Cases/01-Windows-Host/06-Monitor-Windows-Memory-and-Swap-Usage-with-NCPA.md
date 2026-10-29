@@ -31,7 +31,7 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 
 <img width="969" height="527" alt="1" src="https://github.com/user-attachments/assets/520246ea-b61c-4bff-981d-eba2b20bb85d" />
 
-<img width="947" height="718" alt="Screenshot 2026-10-16 232105" src="https://github.com/user-attachments/assets/2953fe8a-4689-44cb-9d3c-58eae2ea6bee" />
+<img width="947" height="718" alt="2" src="https://github.com/user-attachments/assets/2953fe8a-4689-44cb-9d3c-58eae2ea6bee" />
 
 ---
 
@@ -41,3 +41,4 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 
 I click **API** and select **memory** → **virtual**.
 
+<img width="948" height="676" alt="3" src="https://github.com/user-attachments/assets/c3f5e1e7-432e-4eec-ad57-3fcc0d1ce2ae" />
