@@ -67,7 +67,16 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 **Steps:** I click each service and check **Performance Data**.
 
+### Logical memory check:
 
+<img width="951" height="599" alt="2" src="https://github.com/user-attachments/assets/e1a0817a-632a-406a-82f3-c4d5d6f46294" />
+
+### Swap memory check:
+
+<img width="956" height="598" alt="3" src="https://github.com/user-attachments/assets/d5a952dc-bd08-4fc6-aed8-a41d8fbd9bb6" />
+
+| Service | Performance Data | Thresholds |
+|---|---|---|
 
 
 
