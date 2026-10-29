@@ -110,6 +110,8 @@ I select **percent**, check **Run as a Nagios check**, and set:
 
 <img width="864" height="487" alt="11" src="https://github.com/user-attachments/assets/57348d54-22b3-4bf6-8441-6a6664fe2392" />
 
+The part I need for Nagios:
+
 
 
 
