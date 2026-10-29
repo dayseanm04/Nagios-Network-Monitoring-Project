@@ -151,6 +151,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
 **Steps:** On `comp-a-test`, I log in to **`https ://localhost:5693`**, click **Checks**, filter by **Type: Active** and **Executed By: 192.168.1.99**, and click **Filter**.
 
+<img width="947" height="512" alt="9" src="https://github.com/user-attachments/assets/622e4b97-033e-4a83-8cd6-6fee2f41b6d9" />
 
 
 
