@@ -102,7 +102,7 @@ The service has been CRITICAL since October 26 and has triggered 6 notifications
 
 I click **Swap memory usage**.
 
-
+<img width="956" height="598" alt="5" src="https://github.com/user-attachments/assets/d5a952dc-bd08-4fc6-aed8-a41d8fbd9bb6" />
 
 
 
