@@ -41,5 +41,6 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 ### Logical memory check:
 
+<img width="951" height="599" alt="2" src="https://github.com/user-attachments/assets/e1a0817a-632a-406a-82f3-c4d5d6f46294" />
 
 
