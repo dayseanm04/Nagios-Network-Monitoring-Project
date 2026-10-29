@@ -143,3 +143,5 @@ I run the pre-flight check:
 The service count goes from **9 to 10**, with 0 warnings and 0 errors.
 
 ## Step 3 – Add the RAM Check
+
+I open the file again and add the RAM service under the swap service, in the same Memory section:
