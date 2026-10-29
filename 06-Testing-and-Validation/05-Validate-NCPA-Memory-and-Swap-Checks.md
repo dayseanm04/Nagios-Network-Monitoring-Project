@@ -7,3 +7,6 @@ In this doc, I will verify that the **`Logical memory usage`** and **`Swap memor
 ---
 
 ## Test Cases
+
+| ID | Test | Expected | Actual | Status |
+|---|---|---|---|---|
