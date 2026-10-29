@@ -55,6 +55,7 @@ I left **Unit prefix** blank. Unit prefixes like `Gi` or `Mi` only matter for si
 
 I check **Run as a Nagios check** and test the thresholds.
 
+<img width="966" height="578" alt="5" src="https://github.com/user-attachments/assets/85c199c1-b2ce-46c7-ad6b-9d5919bb0415" />
 
 
 
