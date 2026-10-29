@@ -176,7 +176,9 @@ The service count goes from **10 to 11**, with 0 warnings and 0 errors.
 
 ## Step 5 – Reload Nagios
 
-
+```bash
+sudo systemctl reload nagios
+```
 
 
 
