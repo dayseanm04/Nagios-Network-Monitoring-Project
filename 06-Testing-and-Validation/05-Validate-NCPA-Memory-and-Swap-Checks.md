@@ -157,6 +157,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
 ---
 
+## Why RAM Was So High
 
 
 
