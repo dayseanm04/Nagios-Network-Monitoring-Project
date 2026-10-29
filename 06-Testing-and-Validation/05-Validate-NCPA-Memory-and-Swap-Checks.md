@@ -80,7 +80,9 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 | Logical memory usage | `'percent'=95.30%;70;90;` | Warning 70, Critical 90 |
 | Swap memory usage | `'percent'=16.00%;50;80;` | Warning 50, Critical 80 |
 
+**Result:** ✅ PASS. The thresholds in the performance data match each service's `check_command`.
 
+---
 
 
 
