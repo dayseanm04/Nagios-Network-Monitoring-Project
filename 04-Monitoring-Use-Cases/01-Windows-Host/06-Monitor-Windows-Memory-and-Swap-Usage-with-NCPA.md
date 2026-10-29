@@ -91,6 +91,7 @@ I select **memory** → **swap**.
 
 <img width="948" height="581" alt="8" src="https://github.com/user-attachments/assets/4e05638a-7d71-4bfe-8d14-d9e3f506a55d" />
 
+### Select percent and set thresholds
 
 
 
