@@ -166,7 +166,9 @@ The CRITICAL result wasn't set up for the test. RAM on **`comp-a-test`** was rea
 
 This is the check doing its job.
 
+---
 
+## Conclusion
 
 
 
