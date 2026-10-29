@@ -114,6 +114,11 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 ## TC-05 – time-sensitive Settings Are Applied
 
+### Logical memory usage:
+
+
+
+
 | Service | Last Check | Next Scheduled Check | Current Attempt |
 |---|---|---|---|
 | **Logical memory usage** | 19:33:01 | 19:35:01 | 5/5 |
