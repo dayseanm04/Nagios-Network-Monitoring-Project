@@ -136,6 +136,7 @@ sudo nano comp-a-test.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+I run the pre-flight check:
 
 
 
