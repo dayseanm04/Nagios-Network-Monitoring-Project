@@ -47,3 +47,28 @@ I click **API** and select **memory** → **virtual**.
 
 In the third dropdown, I select **percent**.
 
+<img width="962" height="580" alt="4" src="https://github.com/user-attachments/assets/f7b97940-7b63-40a5-8bab-2c7d61a35510" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
