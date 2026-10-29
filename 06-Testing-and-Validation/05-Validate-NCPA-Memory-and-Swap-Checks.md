@@ -77,6 +77,7 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 | Service | Performance Data | Thresholds |
 |---|---|---|
+| Logical memory usage | `'percent'=95.30%;70;90;` | Warning 70, Critical 90 |
 
 
 
