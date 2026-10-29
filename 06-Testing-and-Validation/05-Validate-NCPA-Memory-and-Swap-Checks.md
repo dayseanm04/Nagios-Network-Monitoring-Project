@@ -10,3 +10,4 @@ In this doc, I will verify that the **`Logical memory usage`** and **`Swap memor
 
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
+| TC-01 | Both services appear with real results | Values for RAM and swap | RAM 95.70%, swap 16.20% | ✅ PASS |
