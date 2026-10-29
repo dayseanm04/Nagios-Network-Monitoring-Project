@@ -140,6 +140,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 | Source | RAM usage |
 |---|---|
 | Task Manager | 14.7 / 15.7 GB (**94%**) |
+| Nagios (Logical memory usage) | **95.30%** |
 
 
 
