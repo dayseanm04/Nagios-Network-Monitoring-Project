@@ -142,6 +142,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 | Task Manager | 14.7 / 15.7 GB (**94%**) |
 | Nagios (Logical memory usage) | **95.30%** |
 
+**Result:** ✅ PASS. Both show RAM above 90%. The small difference comes from the readings being taken at different moments, and from Task Manager and NCPA calculating "in use" slightly differently.
 
 
 
