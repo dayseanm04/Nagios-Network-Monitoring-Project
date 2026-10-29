@@ -24,3 +24,5 @@ In this doc, I will verify that the **`Logical memory usage`** and **`Swap memor
 ## TC-01 – Both Services Appear with Real Results
 
 **Steps:** I log in to `http://192.168.1.99/nagios` and click **Services**.
+
+<img width="1038" height="600" alt="1" src="https://github.com/user-attachments/assets/053d0271-a66f-459d-9d95-de8b78a90b67" />
