@@ -107,3 +107,18 @@ I select **percent**, check **Run as a Nagios check**, and set:
 ### Get the command
 
 <img width="635" height="123" alt="10" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
+
+<img width="864" height="487" alt="11" src="https://github.com/user-attachments/assets/57348d54-22b3-4bf6-8441-6a6664fe2392" />
+
+
+
+
+
+
+
+
+
+
+
+
+
