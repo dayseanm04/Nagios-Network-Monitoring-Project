@@ -106,6 +106,8 @@ I click **Swap memory usage**.
 
 16% is below the 50% warning threshold, so **OK** is correct.
 
+**Result:** ✅ PASS
+
 
 
 
