@@ -45,3 +45,5 @@ I click **API** and select **memory** → **virtual**.
 
 ### Select percent
 
+In the third dropdown, I select **percent**.
+
