@@ -53,3 +53,31 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 | **CPU Utilization** | OK | 1/5 | OK: Percent was 12.03 % |
 | **Logical memory usage** | **CRITICAL** | 5/5 | CRITICAL: Percent was 95.70 % |
 | **Swap memory usage** | OK | 1/5 | OK: Percent was 16.20 % |
+| **system uptime** | OK | 1/3 | OK: Uptime was 3 hours 38 minutes 9 seconds |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
