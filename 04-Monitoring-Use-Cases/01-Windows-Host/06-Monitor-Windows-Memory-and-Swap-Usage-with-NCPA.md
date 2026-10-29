@@ -93,6 +93,7 @@ I select **memory** → **swap**.
 
 ### Select percent and set thresholds
 
+I select **percent**, check **Run as a Nagios check**, and set:
 
 
 
