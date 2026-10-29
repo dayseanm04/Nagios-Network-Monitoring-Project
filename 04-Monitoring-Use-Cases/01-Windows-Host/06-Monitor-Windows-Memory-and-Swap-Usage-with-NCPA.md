@@ -189,6 +189,7 @@ sudo systemctl reload nagios
 **`comp-a-test`** now has two memory checks using the **`time-sensitive`** template:
 
 - **`Logical memory usage`** (RAM): warning at 70%, critical at 90%
+- **`Swap memory usage`** (page file): warning at 50%, critical at 80%
 
 
 
