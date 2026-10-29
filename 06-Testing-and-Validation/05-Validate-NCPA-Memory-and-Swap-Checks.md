@@ -33,3 +33,6 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 **Note:** The total is 12, not 11, because I configured the **`C:\ Drive Space utilization`** check after this doc's config steps. That check is covered in its own doc.
 
+---
+
+## TC-02 – Thresholds Are Applied
