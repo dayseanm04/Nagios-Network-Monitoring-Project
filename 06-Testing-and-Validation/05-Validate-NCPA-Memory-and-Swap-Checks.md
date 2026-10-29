@@ -96,6 +96,7 @@ I click **Logical memory usage**.
 
 The service has been CRITICAL since October 26 and has triggered 6 notifications. With **`notification_interval 15`** in **`time-sensitive`**, Nagios keeps re-sending the alert until the problem is fixed.
 
+---
 
 
 
