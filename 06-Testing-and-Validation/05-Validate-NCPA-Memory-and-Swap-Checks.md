@@ -135,6 +135,7 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
+<img width="1030" height="572" alt="8" src="https://github.com/user-attachments/assets/c989bb24-d4c6-45f8-8167-fb131f3820ff" />
 
 
 
