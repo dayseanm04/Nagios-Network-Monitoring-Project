@@ -145,6 +145,9 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 **Result:** ✅ PASS. Both show RAM above 90%. The small difference comes from the readings being taken at different moments, and from Task Manager and NCPA calculating "in use" slightly differently.
 
 
+---
+
+## TC-08 – NCPA Receives the Checks from Nagios
 
 
 
