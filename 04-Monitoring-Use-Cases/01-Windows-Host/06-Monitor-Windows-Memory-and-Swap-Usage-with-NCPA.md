@@ -39,3 +39,5 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 
 ### Explore the metric
 
+I click **API** and select **memory** → **virtual**.
+
