@@ -180,6 +180,7 @@ The service count goes from **10 to 11**, with 0 warnings and 0 errors.
 sudo systemctl reload nagios
 ```
 
+<img width="915" height="236" alt="17" src="https://github.com/user-attachments/assets/b5903916-a937-440b-8fbd-993775f71741" />
 
 
 
