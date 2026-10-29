@@ -153,6 +153,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
 <img width="947" height="512" alt="9" src="https://github.com/user-attachments/assets/622e4b97-033e-4a83-8cd6-6fee2f41b6d9" />
 
+**Result:** ✅ PASS. The memory checks are logged in NCPA as active checks from **`192.168.1.99`**. The values and statuses match what Nagios shows, and the two swap entries are 2 minutes apart.
 
 
 
