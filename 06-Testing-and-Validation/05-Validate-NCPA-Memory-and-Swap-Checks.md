@@ -116,7 +116,7 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 ### Logical memory usage:
 
-
+<img width="948" height="596" alt="6" src="https://github.com/user-attachments/assets/0bee03d5-91ac-48a1-97a1-592baa09f528" />
 
 
 | Service | Last Check | Next Scheduled Check | Current Attempt |
