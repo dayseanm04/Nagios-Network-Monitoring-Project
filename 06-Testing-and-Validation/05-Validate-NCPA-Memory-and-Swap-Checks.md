@@ -161,6 +161,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
 The CRITICAL result wasn't set up for the test. RAM on **`comp-a-test`** was really that high:
 
+- **`NetworkVM` is assigned 8000 MB** in Hyper-V, which is about half of `comp-a-test`'s 15.7 GB of RAM.
 
 
 
