@@ -141,3 +141,5 @@ I run the pre-flight check:
 <img width="962" height="730" alt="14" src="https://github.com/user-attachments/assets/34df8ac6-0e4a-441f-8d99-45e8a91d3f12" />
 
 The service count goes from **9 to 10**, with 0 warnings and 0 errors.
+
+## Step 3 – Add the RAM Check
