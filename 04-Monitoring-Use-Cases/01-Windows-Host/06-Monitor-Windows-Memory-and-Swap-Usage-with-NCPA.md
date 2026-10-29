@@ -71,6 +71,7 @@ I went with **90%** because this machine also runs the Nagios VM and regularly s
 
 I click **View in alternate format** → **As active check using check_ncpa.py**.
 
+<img width="635" height="123" alt="6" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
 
 
 
