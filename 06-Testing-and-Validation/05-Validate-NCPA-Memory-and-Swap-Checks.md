@@ -108,6 +108,7 @@ I click **Swap memory usage**.
 
 **Result:** ✅ PASS
 
+This also shows why I raised the swap thresholds. Swap normally runs around **15–40%** on this machine. With my first thresholds **(10/30)**, this check would have been in **WARNING** most of the time, even though nothing was wrong.
 
 
 
