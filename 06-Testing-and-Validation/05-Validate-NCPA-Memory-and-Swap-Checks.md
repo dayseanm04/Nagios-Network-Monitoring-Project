@@ -5,3 +5,5 @@ In this doc, I will verify that the **`Logical memory usage`** and **`Swap memor
 >  **How these checks were created:** [**Click here to see Monitor Windows Memory and Swap Usage with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/06-Monitor-Windows-Memory-and-Swap-Usage-with-NCPA.md)
 
 ---
+
+## Test Cases
