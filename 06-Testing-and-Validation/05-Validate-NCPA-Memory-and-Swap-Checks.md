@@ -20,3 +20,5 @@ In this doc, I will verify that the **`Logical memory usage`** and **`Swap memor
 | TC-08 | NCPA receives the checks from Nagios | Entries executed by `192.168.1.99` | Memory checks logged from `192.168.1.99`, Active | ✅ PASS |
 
 ---
+
+## TC-01 – Both Services Appear with Real Results
