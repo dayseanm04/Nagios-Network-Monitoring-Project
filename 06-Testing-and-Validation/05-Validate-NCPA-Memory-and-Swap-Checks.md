@@ -128,4 +128,5 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 | **Logical memory usage** | 19:33:01 | 19:35:01 | 5/5 |
 | **Swap memory usage** | 19:33:29 | 19:35:29 | 1/5 |
 
+**Result:** ✅ PASS. Checks are **2 minutes** apart and the max attempts is **5**, both from `time-sensitive`.
 
