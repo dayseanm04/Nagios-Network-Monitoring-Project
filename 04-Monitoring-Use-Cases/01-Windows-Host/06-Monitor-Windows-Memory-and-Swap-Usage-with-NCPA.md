@@ -95,6 +95,9 @@ I select **memory** → **swap**.
 
 I select **percent**, check **Run as a Nagios check**, and set:
 
+<img width="955" height="533" alt="9" src="https://github.com/user-attachments/assets/cad1141e-beb2-4dc4-bfbe-e097e1571f42" />
+
+
 | Threshold | Percent | Swap used (of 7 GiB) |
 |---|---|---|
 | Warning | 50% | ~3.5 GiB |
