@@ -62,6 +62,7 @@ I tested with a critical of 85% first, then settled on **90%** for the Nagios ch
 | Threshold | Percent | Memory used | Memory left |
 |---|---|---|---|
 | Warning | 70% | ~11.0 GiB | ~4.7 GiB |
+| Critical (tested) | 85% | ~13.4 GiB | ~2.4 GiB |
 
 
 
