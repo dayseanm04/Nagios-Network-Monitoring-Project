@@ -120,6 +120,8 @@ The part I need for Nagios:
 
 # Part 2 – Add the Services in Nagios
 
+## Step 1 – Open the Host File
+
 
 
 
