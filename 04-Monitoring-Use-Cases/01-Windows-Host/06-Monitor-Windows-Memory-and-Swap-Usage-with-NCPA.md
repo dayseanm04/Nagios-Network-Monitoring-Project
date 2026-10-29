@@ -193,6 +193,7 @@ sudo systemctl reload nagios
 
 Both services show their thresholds in Nagios with **`notes`**. The pre-flight check passes with 11 services, 0 warnings, and 0 errors, and Nagios has been reloaded.
 
+> **Verification steps and results:** [**Click here to see the NCPA memory and swap validation**](../../06-Testing-and-Validation/05-Validate-NCPA-Memory-and-Swap-Checks.md)
 
 
 
