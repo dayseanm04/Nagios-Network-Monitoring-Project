@@ -154,5 +154,25 @@ sudo nano comp-a-test.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+### What each line does
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
