@@ -172,6 +172,7 @@ This is the check doing its job.
 
 Both memory checks are working. Nagios gets real RAM and swap values from NCPA, applies the right thresholds, checks every 2 minutes, and uses 5 attempts from **`time-sensitive`**. RAM went **CRITICAL** from real memory usage, which proves the threshold triggers. Swap stayed **OK** below its new 50% warning, which proves the adjusted thresholds don't cause false alarms. The values match Task Manager, and NCPA's Checks log confirms every request came from the Nagios server. All eight test cases passed.
 
+> **Note:** The RAM check has triggered 6 notifications, but none were delivered, since I havent configured email notifications, I will set it up later.
 
 
 
