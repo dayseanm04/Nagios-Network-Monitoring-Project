@@ -164,6 +164,7 @@ The CRITICAL result wasn't set up for the test. RAM on **`comp-a-test`** was rea
 - **`NetworkVM` is assigned 8000 MB** in Hyper-V, which is about half of `comp-a-test`'s 15.7 GB of RAM.
 - **Several Chrome windows and tabs** were open at the same time.
 
+This is the check doing its job.
 
 
 
