@@ -50,3 +50,4 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 | Service | Performance Data | Thresholds |
 |---|---|---|
 | **C:\ Drive Space utilization** | OK | 1/5 | OK: Used_percent was 67.00 % |
+| **CPU Utilization** | OK | 1/5 | OK: Percent was 12.03 % |
