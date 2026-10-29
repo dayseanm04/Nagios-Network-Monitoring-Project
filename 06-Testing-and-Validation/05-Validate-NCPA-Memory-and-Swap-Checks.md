@@ -116,5 +116,6 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 | Service | Last Check | Next Scheduled Check | Current Attempt |
 |---|---|---|---|
+| Logical memory usage | 19:33:01 | 19:35:01 | 5/5 |
 
 
