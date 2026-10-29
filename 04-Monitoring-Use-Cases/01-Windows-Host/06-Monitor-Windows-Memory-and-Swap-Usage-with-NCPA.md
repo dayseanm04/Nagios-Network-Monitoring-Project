@@ -130,6 +130,7 @@ sudo nano comp-a-test.cfg
 
 <img width="861" height="299" alt="Screenshot 2026-10-26 133058" src="https://github.com/user-attachments/assets/36b32d3f-e258-49f8-b597-e2a23890d71b" />
 
+## Step 2 – Add the Memory Section and Swap Check
 
 
 
