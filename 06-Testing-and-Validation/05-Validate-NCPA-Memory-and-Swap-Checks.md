@@ -174,7 +174,9 @@ Both memory checks are working. Nagios gets real RAM and swap values from NCPA, 
 
 > **Note:** The RAM check has triggered 6 notifications, but none were delivered, since I havent configured email notifications, I will set it up later.
 
+---
 
+## Related Docs
 
 
 
