@@ -14,3 +14,4 @@ NCPA's naming can be confusing, so here's what each one actually measures on Win
 
 | NCPA metric | What it really is | Why it matters |
 |---|---|---|
+| **`memory/virtual`** | **Physical RAM** usage. NCPA uses a Python library (`psutil`) that calls RAM "virtual memory" | When RAM runs out, programs slow down or crash |
