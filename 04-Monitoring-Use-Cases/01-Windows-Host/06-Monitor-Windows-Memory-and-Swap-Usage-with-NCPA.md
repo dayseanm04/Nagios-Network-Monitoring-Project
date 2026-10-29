@@ -11,3 +11,6 @@ In this doc, I will configure two memory checks for **`comp-a-test`**: one for R
 ### What These Metrics Mean
 
 NCPA's naming can be confusing, so here's what each one actually measures on Windows:
+
+| NCPA metric | What it really is | Why it matters |
+|---|---|---|
