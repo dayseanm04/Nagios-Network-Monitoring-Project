@@ -103,5 +103,5 @@ I select **percent**, check **Run as a Nagios check**, and set:
 | Warning | 50% | ~3.5 GiB |
 | Critical | 80% | ~5.6 GiB |
 
-**Why 50/80?** Windows uses the page file regularly even when things are normal. On **`comp-a-test`**, swap usually sits around **15–25%**. 
+**Why 50/80?** Windows uses the page file regularly even when things are normal. On **`comp-a-test`**, swap usually sits around **15–40%**. Lower thresholds would keep the check in WARNING most of the time. At **50%**, half the page file is in use, which means RAM has been short for a while.
 
