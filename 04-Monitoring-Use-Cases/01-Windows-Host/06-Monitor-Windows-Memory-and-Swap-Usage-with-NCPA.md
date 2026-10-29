@@ -51,6 +51,7 @@ In the third dropdown, I select **percent**.
 
 I left **Unit prefix** blank. Unit prefixes like `Gi` or `Mi` only matter for size values. Percent has no unit to convert.
 
+### Set thresholds
 
 
 
