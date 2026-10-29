@@ -65,6 +65,7 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 ## TC-02 – Thresholds Are Applied
 
+**Steps:** I click each service and check **Performance Data**.
 
 
 
