@@ -18,3 +18,7 @@ NCPA's naming can be confusing, so here's what each one actually measures on Win
 | **`memory/swap`** | The Windows **page file** on disk, used when RAM is full | Heavy page file use means RAM isn't enough. The machine slows down because disk is much slower than RAM |
 
 Watching both together (High RAM **and** rising swap) means the machine is really running out of memory.
+
+---
+
+# Part 1 – Build the Checks in NCPA
