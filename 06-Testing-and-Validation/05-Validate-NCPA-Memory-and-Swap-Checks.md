@@ -100,6 +100,7 @@ The service has been CRITICAL since October 26 and has triggered 6 notifications
 
 ## TC-04 – Swap Below 50% Stays OK
 
+I click **Swap memory usage**.
 
 
 
