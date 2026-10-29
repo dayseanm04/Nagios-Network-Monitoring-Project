@@ -95,6 +95,7 @@ I select **memory** → **swap**.
 
 I select **percent**, check **Run as a Nagios check**, and set:
 
-
+| Threshold | Percent | Swap used (of 7 GiB) |
+|---|---|---|
 
 
