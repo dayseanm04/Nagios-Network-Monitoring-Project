@@ -130,3 +130,6 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 **Result:** ✅ PASS. Checks are **2 minutes** apart and the max attempts is **5**, both from `time-sensitive`.
 
+---
+
+## TC-06 – Notes Are Shown in Nagios
