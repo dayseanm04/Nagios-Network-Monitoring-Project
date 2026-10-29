@@ -186,6 +186,7 @@ sudo systemctl reload nagios
 
 ## Result
 
+**`comp-a-test`** now has two memory checks using the **`time-sensitive`** template:
 
 
 
