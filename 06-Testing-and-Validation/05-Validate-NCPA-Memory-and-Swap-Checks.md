@@ -52,3 +52,4 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 | **C:\ Drive Space utilization** | OK | 1/5 | OK: Used_percent was 67.00 % |
 | **CPU Utilization** | OK | 1/5 | OK: Percent was 12.03 % |
 | **Logical memory usage** | **CRITICAL** | 5/5 | CRITICAL: Percent was 95.70 % |
+| **Swap memory usage** | OK | 1/5 | OK: Percent was 16.20 % |
