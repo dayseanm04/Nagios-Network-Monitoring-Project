@@ -159,6 +159,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
 ## Why RAM Was So High
 
+The CRITICAL result wasn't set up for the test. RAM on **`comp-a-test`** was really that high:
 
 
 
