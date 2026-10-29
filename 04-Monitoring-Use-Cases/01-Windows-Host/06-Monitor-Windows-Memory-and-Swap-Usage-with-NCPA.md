@@ -174,6 +174,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 The service count goes from **10 to 11**, with 0 warnings and 0 errors.
 
+## Step 5 – Reload Nagios
 
 
 
