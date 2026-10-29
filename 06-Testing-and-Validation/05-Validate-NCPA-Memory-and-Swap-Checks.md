@@ -114,5 +114,7 @@ This also shows why I raised the swap thresholds. Swap normally runs around **15
 
 ## TC-05 – time-sensitive Settings Are Applied
 
+| Service | Last Check | Next Scheduled Check | Current Attempt |
+|---|---|---|---|
 
 
