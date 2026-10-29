@@ -53,6 +53,7 @@ I left **Unit prefix** blank. Unit prefixes like `Gi` or `Mi` only matter for si
 
 ### Set thresholds
 
+I check **Run as a Nagios check** and test the thresholds.
 
 
 
