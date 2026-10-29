@@ -28,3 +28,5 @@ In this doc, I will verify that the **`Logical memory usage`** and **`Swap memor
 <img width="957" height="481" alt="1" src="https://github.com/user-attachments/assets/a0b8690a-8469-499c-9cf8-f267aa29cde3" />
 
 Service totals: **11 OK, 1 CRITICAL**, 12 total.
+
+**Result:** ✅ PASS. Both memory checks are running and returning real values from NCPA.
