@@ -57,6 +57,7 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
+**Result:** ✅ PASS. Both memory checks are running and returning real values from NCPA.
 
 
 
