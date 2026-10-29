@@ -83,6 +83,8 @@ The part I need for Nagios:
 
 ---
 
+## Check 2 – Swap (memory/swap)
+
 
 
 
