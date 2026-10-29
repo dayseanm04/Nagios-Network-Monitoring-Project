@@ -32,3 +32,5 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 <img width="969" height="527" alt="1" src="https://github.com/user-attachments/assets/520246ea-b61c-4bff-981d-eba2b20bb85d" />
 
 <img width="963" height="723" alt="2" src="https://github.com/user-attachments/assets/8124d543-4374-427e-bab0-ab1520f6530f" />
+
+---
