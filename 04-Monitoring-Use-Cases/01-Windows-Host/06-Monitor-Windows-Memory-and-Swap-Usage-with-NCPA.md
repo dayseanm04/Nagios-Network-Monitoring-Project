@@ -97,5 +97,6 @@ I select **percent**, check **Run as a Nagios check**, and set:
 
 | Threshold | Percent | Swap used (of 7 GiB) |
 |---|---|---|
+| Warning | 50% | ~3.5 GiB |
 
 
