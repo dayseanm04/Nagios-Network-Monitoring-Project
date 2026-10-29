@@ -149,6 +149,7 @@ On `comp-a-test`, I open **Task Manager → Performance → Memory**.
 
 ## TC-08 – NCPA Receives the Checks from Nagios
 
+**Steps:** On `comp-a-test`, I log in to **`https ://localhost:5693`**, click **Checks**, filter by **Type: Active** and **Executed By: 192.168.1.99**, and click **Filter**.
 
 
 
