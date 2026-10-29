@@ -166,6 +166,10 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ## Step 4 – Run the Pre-Flight Check
 
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
+
 <img width="983" height="777" alt="16" src="https://github.com/user-attachments/assets/669f5870-2534-4ed2-bab8-5e6491be74ad" />
 
 
