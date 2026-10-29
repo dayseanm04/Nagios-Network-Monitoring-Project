@@ -59,6 +59,7 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 **Result:** ✅ PASS. Both memory checks are running and returning real values from NCPA.
 
+**Note:** The total is 12, not 11, because I added the **`C:\ Drive Space utilization`** check after this doc's config steps. That check is covered in its own doc.
 
 
 
