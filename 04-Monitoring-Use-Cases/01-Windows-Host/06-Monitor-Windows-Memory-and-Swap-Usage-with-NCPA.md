@@ -191,6 +191,7 @@ sudo systemctl reload nagios
 - **`Logical memory usage`** (RAM): warning at 70%, critical at 90%
 - **`Swap memory usage`** (page file): warning at 50%, critical at 80%
 
+Both services show their thresholds in Nagios with **`notes`**. The pre-flight check passes with 11 services, 0 warnings, and 0 errors, and Nagios has been reloaded.
 
 
 
