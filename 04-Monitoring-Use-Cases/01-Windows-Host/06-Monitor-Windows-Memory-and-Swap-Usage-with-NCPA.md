@@ -200,6 +200,7 @@ Both services show their thresholds in Nagios with **`notes`**. The pre-flight c
 ## Related Docs
 
 - [**06-Testing-and-Validation / 05 – Validate NCPA Memory and Swap Checks**](../../06-Testing-and-Validation/05-Validate-NCPA-Memory-and-Swap-Checks.md)
+- [**02-Setup / 09 – Create Time-Sensitive Service Template**](../../02-Setup/09-Create-Time-Sensitive-Service-Template.md)
 
 
 
