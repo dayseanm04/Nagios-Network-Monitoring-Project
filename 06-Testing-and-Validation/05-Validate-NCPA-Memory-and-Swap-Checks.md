@@ -86,6 +86,7 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 ## TC-03 – RAM Above 90% Goes CRITICAL
 
+I click **Logical memory usage**.
 
 
 
