@@ -33,5 +33,7 @@ On **`comp-a-test`**, I go to **`https ://localhost:5693`** and log in with the 
 
 <img width="947" height="718" alt="Screenshot 2026-10-16 232105" src="https://github.com/user-attachments/assets/2953fe8a-4689-44cb-9d3c-58eae2ea6bee" />
 
-
 ---
+
+## Check 1 – RAM (memory/virtual)
+
