@@ -164,6 +164,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`check_command check_ncpa!...`** | Runs `check_ncpa` and passes the metric and thresholds as `$ARG1$` |
 | **`notes`** | Shows the thresholds on the service's details page, so I don't have to open the config file to see them |
 
+## Step 4 – Run the Pre-Flight Check
 
 
 
