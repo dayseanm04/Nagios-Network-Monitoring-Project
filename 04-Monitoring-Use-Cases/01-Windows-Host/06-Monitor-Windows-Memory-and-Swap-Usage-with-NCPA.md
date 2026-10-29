@@ -172,6 +172,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="983" height="777" alt="16" src="https://github.com/user-attachments/assets/669f5870-2534-4ed2-bab8-5e6491be74ad" />
 
+The service count goes from **10 to 11**, with 0 warnings and 0 errors.
 
 
 
