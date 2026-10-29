@@ -55,6 +55,7 @@ Service totals: **11 OK, 1 CRITICAL**, 12 total.
 | **Swap memory usage** | OK | 1/5 | OK: Percent was 16.20 % |
 | **system uptime** | OK | 1/3 | OK: Uptime was 3 hours 38 minutes 9 seconds |
 
+Service totals: **11 OK, 1 CRITICAL**, 12 total.
 
 
 
