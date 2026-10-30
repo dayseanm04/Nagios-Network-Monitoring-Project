@@ -19,3 +19,5 @@ C: is where Windows, its updates, and most programs live. When it fills up, Wind
 | **C:** (Windows) | System drive | Yes |
 | **D:** (Test-Drive) | Extra local drive for testing | Not yet |
 | **G:** (Google Drive) | Cloud drive synced from Google | No. Its space is managed by Google, not by this machine |
+
+---
