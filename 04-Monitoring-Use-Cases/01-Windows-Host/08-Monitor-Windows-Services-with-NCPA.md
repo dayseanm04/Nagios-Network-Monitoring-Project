@@ -85,6 +85,8 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 ./check_ncpa.py -H localhost -t '<your token>' -M 'services' -q 'service=NCPA,status=running'
 ```
 
+The part I need for Nagios:
+
 
 
 
