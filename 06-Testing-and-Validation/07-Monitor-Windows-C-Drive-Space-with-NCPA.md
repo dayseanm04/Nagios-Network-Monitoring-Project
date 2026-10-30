@@ -75,6 +75,7 @@ I check **Run as a Nagios check** and set:
 | Warning | 70% | ~338 GiB | ~145 GiB |
 | Critical | 90% | ~434 GiB | ~48 GiB |
 
+I chose **70%** as an early warning. It gives me time to clean up before the drive gets close to full. At **90%**, there's only about **48 GiB** left, which can go fast with Windows updates, VM files, and downloads.
 
 
 
