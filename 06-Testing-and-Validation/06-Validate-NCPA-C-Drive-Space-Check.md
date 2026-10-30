@@ -64,4 +64,6 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 
 **Steps:** Two days later, I go back to **Services** in Nagios.
 
+<img width="957" height="481" alt="4" src="https://github.com/user-attachments/assets/ff0b5e28-d425-4ee5-a597-bab16d10b0be" />
+
 
