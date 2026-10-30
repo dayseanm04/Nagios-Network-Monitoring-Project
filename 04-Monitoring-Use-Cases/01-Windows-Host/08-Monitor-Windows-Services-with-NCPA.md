@@ -154,6 +154,7 @@ sudo systemctl reload nagios
 ## Related Docs
 
 - [**06-Testing-and-Validation / 07 – Validate NCPA Windows Service Checks**](../../06-Testing-and-Validation/07-Validate-NCPA-Windows-Service-Checks.md)
+- [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
 
 
 
