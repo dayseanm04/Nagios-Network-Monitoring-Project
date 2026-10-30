@@ -87,6 +87,7 @@ To double-check NCPA's numbers, I open **File Explorer**, right-click **Windows 
 
 | Source | Capacity | Used | Free |
 |---|---|---|---|
+| NCPA | 482.63 GiB | 338.44 GiB (70.1%) | 144.18 GiB |
 
 
 
