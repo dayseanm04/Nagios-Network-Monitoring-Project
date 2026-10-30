@@ -108,6 +108,7 @@ ls -l
 sudo nano comp-a-test.cfg
 ```
 
+<img width="926" height="579" alt="1" src="https://github.com/user-attachments/assets/62095afc-1fe2-485f-bde3-6e7ca8761284" />
 
 
 
