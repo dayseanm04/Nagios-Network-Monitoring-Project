@@ -146,6 +146,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 The service count goes from **11 to 12**, which confirms Nagios picked up the new check.
 
+## Step 4 – Reload Nagios
+
 
 
 
