@@ -84,4 +84,8 @@ On a 482 GiB drive, that 5.2% drop is roughly **25 GiB** freed.
 
 ## TC-05 – NCPA Receives the Checks from Nagios
 
-**Steps:** On `comp-a-test`, I log in to `https://localhost:5693`, click **Checks**, filter by **Type: Active** and **Executed By: 192.168.1.99**, and click **Filter**.
+**Steps:** On **`comp-a-test`**, I log in to **`https://localhost:5693`**, click **Checks**, filter by **Type: Active** and **Executed By: 192.168.1.99**, and click **Filter**.
+
+<img width="947" height="512" alt="5" src="https://github.com/user-attachments/assets/170aeb6f-bb83-497f-8a46-3107d9d25df4" />
+
+
