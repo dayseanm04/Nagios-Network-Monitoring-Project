@@ -25,3 +25,5 @@ C: is where Windows, its updates, and most programs live. When it fills up, Wind
 # Part 1 – Build the Check in NCPA
 
 For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../08-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md).
+
+## Step 1 – Log In to NCPA
