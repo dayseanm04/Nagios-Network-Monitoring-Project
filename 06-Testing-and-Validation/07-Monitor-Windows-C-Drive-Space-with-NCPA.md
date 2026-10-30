@@ -43,6 +43,7 @@ I click **API**, then under **API Endpoint** select **disk**. The second dropdow
 | Option | What it shows |
 |---|---|
 | **`mount`** | Every mounted drive and its settings |
+| **`logical`** | Drives by letter (C:, D:, G:), with size, used, and free space |
 
 
 
