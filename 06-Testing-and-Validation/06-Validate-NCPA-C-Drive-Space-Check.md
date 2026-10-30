@@ -93,3 +93,5 @@ On a 482 GiB drive, that 5.2% drop is roughly **25 GiB** freed.
 ---
 
 ## Conclusion
+
+The **`C: Drive Space utilization`** check works. Nagios gets the real C: usage from NCPA and applies the 70% and 90% thresholds. It retries every minute while there's a problem and checks every 2 minutes when things are OK. When C: was at 72.20%, the check went **WARNING**. After I deleted files and brought it down to 67.00%, it went back to **OK**. NCPA's Checks log confirms the requests come from the Nagios server. All six test cases passed.
