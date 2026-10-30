@@ -21,3 +21,5 @@ C: is where Windows, its updates, and most programs live. When it fills up, Wind
 | **G:** (Google Drive) | Cloud drive synced from Google | No. Its space is managed by Google, not by this machine |
 
 ---
+
+# Part 1 – Build the Check in NCPA
