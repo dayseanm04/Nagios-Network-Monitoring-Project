@@ -29,3 +29,5 @@ For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in t
 ## Step 1 – Log In to NCPA
 
 On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the NCPA token.
+
+<img width="969" height="527" alt="1" src="https://github.com/user-attachments/assets/520246ea-b61c-4bff-981d-eba2b20bb85d" />
