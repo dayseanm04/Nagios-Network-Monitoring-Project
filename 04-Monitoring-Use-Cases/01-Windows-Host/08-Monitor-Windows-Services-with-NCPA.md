@@ -27,3 +27,15 @@ A stopped service doesn't fix itself, so there's no reason to wait for 5 attempt
 ### What happens if NCPA stops
 
 This check asks NCPA whether NCPA is running. While NCPA is up, the answer is always "running." If NCPA stops, nothing answers, so Nagios won't see **"NCPA is stopped."** It'll get a **connection error** instead, and every other NCPA check on this host will fail at the same time.
+
+So for this check, the alert is a connection failure, not a **"stopped"** message. 
+
+
+
+
+
+
+
+
+
+
