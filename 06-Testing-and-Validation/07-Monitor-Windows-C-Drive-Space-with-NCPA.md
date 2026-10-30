@@ -56,6 +56,7 @@ I select **logical**, then **C:|** in the third dropdown.
 
 In the last dropdown, I select **used_percent**.
 
+<img width="959" height="724" alt="5" src="https://github.com/user-attachments/assets/9f0df2a9-27b0-4265-a9d4-88de66372a51" />
 
 
 
