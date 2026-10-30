@@ -73,6 +73,7 @@ I check **Run as a Nagios check** and set:
 | Threshold | Percent | Space used (of 482 GiB) | Space left |
 |---|---|---|---|
 | Warning | 70% | ~338 GiB | ~145 GiB |
+| Critical | 90% | ~434 GiB | ~48 GiB |
 
 
 
