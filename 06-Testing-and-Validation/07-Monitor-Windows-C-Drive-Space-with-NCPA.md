@@ -77,6 +77,7 @@ I check **Run as a Nagios check** and set:
 
 I chose **70%** as an early warning. It gives me time to clean up before the drive gets close to full. At **90%**, there's only about **48 GiB** left, which can go fast with Windows updates, VM files, and downloads.
 
+> C: was already at **70.1%** when I set this up, so the check went into **WARNING** right away. That turned out to be useful: it pushed me to clean up the drive. See the [**validation doc**](../../06-Testing-and-Validation/06-Validate-NCPA-C-Drive-Space-Check.md).
 
 
 
