@@ -137,7 +137,9 @@ The service count goes from **12 to 13**.
 
 ## Step 4 – Reload Nagios
 
-
+```bash
+sudo systemctl reload nagios
+```
 
 
 
