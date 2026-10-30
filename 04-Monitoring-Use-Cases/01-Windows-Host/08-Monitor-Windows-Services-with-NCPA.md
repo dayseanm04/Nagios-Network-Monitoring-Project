@@ -79,6 +79,7 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 
 <img width="635" height="123" alt="7" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
 
+<img width="897" height="586" alt="7" src="https://github.com/user-attachments/assets/de250877-bac4-4194-a979-bf6a8f1d46f1" />
 
 
 
