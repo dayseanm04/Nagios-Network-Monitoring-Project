@@ -54,6 +54,7 @@ I select **logical**, then **C:|** in the third dropdown.
 
 ## Step 3 – Select used_percent
 
+In the last dropdown, I select **used_percent**.
 
 
 
