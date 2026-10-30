@@ -58,6 +58,7 @@ In the last dropdown, I select **used_percent**.
 
 <img width="959" height="724" alt="5" src="https://github.com/user-attachments/assets/9f0df2a9-27b0-4265-a9d4-88de66372a51" />
 
+<img width="949" height="593" alt="6" src="https://github.com/user-attachments/assets/fa00fdbb-de12-4b37-b5c8-f524346d2939" />
 
 
 
