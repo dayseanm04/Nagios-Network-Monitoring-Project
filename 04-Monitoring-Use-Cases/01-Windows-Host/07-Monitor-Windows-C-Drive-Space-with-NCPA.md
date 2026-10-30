@@ -136,6 +136,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`service_description C: Drive Space utilization`** | The name shown on the Nagios **Services** page |
 | **`check_command check_ncpa!...`** | Runs `check_ncpa` and passes the metric and thresholds as `$ARG1$` |
 
+## Step 3 – Run the Pre-Flight Check
 
 
 
