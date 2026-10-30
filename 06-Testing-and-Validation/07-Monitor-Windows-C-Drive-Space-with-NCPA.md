@@ -40,7 +40,8 @@ I click **API**, then under **API Endpoint** select **disk**. The second dropdow
 
 <img width="928" height="408" alt="3" src="https://github.com/user-attachments/assets/84600aaa-a0a3-4359-83f3-00eda73d3868" />
 
-
+| Option | What it shows |
+|---|---|
 
 
 
