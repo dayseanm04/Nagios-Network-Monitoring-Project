@@ -25,3 +25,5 @@ This check uses **`notify-early`** instead of **`time-sensitive`**:
 A stopped service doesn't fix itself, so there's no reason to wait for 5 attempts the way I do for a CPU spike. With 1 attempt, the first failed check goes straight to HARD and alerts.
 
 ### What happens if NCPA stops
+
+This check asks NCPA whether NCPA is running. While NCPA is up, the answer is always "running." If NCPA stops, nothing answers, so Nagios won't see **"NCPA is stopped."** It'll get a **connection error** instead, and every other NCPA check on this host will fail at the same time.
