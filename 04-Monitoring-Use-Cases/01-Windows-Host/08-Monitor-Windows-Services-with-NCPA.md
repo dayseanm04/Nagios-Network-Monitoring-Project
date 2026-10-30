@@ -56,6 +56,7 @@ I set:
 
 | Setting | Value | Why |
 |---|---|---|
+| Service Filter(s) | **`NCPA`** | The Windows service name for the agent |
 
 <img width="956" height="573" alt="4" src="https://github.com/user-attachments/assets/f624f299-ece4-4f4a-a01b-5ccf20d0ea54" />
 
