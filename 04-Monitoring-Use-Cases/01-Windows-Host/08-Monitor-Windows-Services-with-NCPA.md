@@ -94,6 +94,7 @@ The part I need for Nagios:
 | Part | What it does |
 |---|---|
 | **`-M 'services'`** | Asks NCPA for Windows service status |
+| **`-q 'service=NCPA,status=running'`** | Narrows it to the **`NCPA`** service and says `running` is the expected state |
 
 
 
