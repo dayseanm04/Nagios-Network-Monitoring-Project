@@ -93,7 +93,7 @@ The part I need for Nagios:
 
 | Part | What it does |
 |---|---|
-
+| **`-M 'services'`** | Asks NCPA for Windows service status |
 
 
 
