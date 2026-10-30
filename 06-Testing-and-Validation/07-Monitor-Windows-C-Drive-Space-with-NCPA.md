@@ -52,6 +52,7 @@ I select **logical**, then **C:|** in the third dropdown.
 
 > **Why `C:|` and not `C:\`?** NCPA uses **`|`** in place of **`\`** in drive paths, because **`\`** has a special meaning in URLs. In the Nagios command, the metric has to stay inside single quotes. In Linux, **`|`** is a pipe, so without the quotes the shell would cut the command in half.
 
+## Step 3 – Select used_percent
 
 
 
