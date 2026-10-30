@@ -19,3 +19,5 @@ In this doc, I will verify that the **`C: Drive Space utilization`** check for *
 **Steps:** I log in to **`http://192.168.1.99/nagios`** and click **Services**.
 
 <img width="1037" height="598" alt="1" src="https://github.com/user-attachments/assets/593c19f7-d286-44d6-9ba8-17c778674d7e" />
+
+Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
