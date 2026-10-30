@@ -81,6 +81,33 @@ I chose **70%** as an early warning. It gives me time to clean up before the dri
 
 ## Step 5 – Compare with Windows
 
+To double-check NCPA's numbers, I open **File Explorer**, right-click **Windows (C:)**, and click **Properties**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
