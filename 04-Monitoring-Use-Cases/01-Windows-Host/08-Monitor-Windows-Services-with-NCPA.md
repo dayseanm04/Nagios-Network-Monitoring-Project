@@ -44,6 +44,7 @@ On **`comp-a-test`**, I go to `https://localhost:5693` and log in with the NCPA 
 
 <img width="959" height="726" alt="2" src="https://github.com/user-attachments/assets/092c6260-d49d-4c1a-a06c-8e1906497418" />
 
+## Step 2 – Select the services Endpoint
 
 
 
