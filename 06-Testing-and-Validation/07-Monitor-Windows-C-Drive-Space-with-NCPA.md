@@ -17,3 +17,4 @@ C: is where Windows, its updates, and most programs live. When it fills up, Wind
 | Drive | What it is | Monitored? |
 |---|---|---|
 | **C:** (Windows) | System drive | Yes |
+| **D:** (Test-Drive) | Extra local drive for testing | Not yet |
