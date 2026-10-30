@@ -166,4 +166,7 @@ sudo systemctl reload nagios
 
 ## Related Docs
 
+- [**06 – Monitor Windows Memory and Swap Usage with NCPA**](06-Monitor-Windows-Memory-and-Swap-Usage-with-NCPA.md)
+
+
 
