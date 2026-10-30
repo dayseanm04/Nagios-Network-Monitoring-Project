@@ -31,3 +31,30 @@ For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in t
 On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the NCPA token.
 
 <img width="969" height="527" alt="1" src="https://github.com/user-attachments/assets/520246ea-b61c-4bff-981d-eba2b20bb85d" />
+
+<img width="957" height="726" alt="2" src="https://github.com/user-attachments/assets/bc1a1b5f-6711-45e6-b4b2-e0979170d1ad" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
