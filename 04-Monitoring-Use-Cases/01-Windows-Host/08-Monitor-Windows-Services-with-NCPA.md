@@ -15,3 +15,6 @@ NCPA is the agent that answers every NCPA check on **`comp-a-test`**. If it stop
 ### Why notify-early?
 
 This check uses **`notify-early`** instead of **`time-sensitive`**:
+
+| Setting | `time-sensitive` | `notify-early` |
+|---|---|---|
