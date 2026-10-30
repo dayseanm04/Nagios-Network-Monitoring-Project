@@ -9,3 +9,5 @@ In this doc, I will add a disk space check for the C: drive on **`comp-a-test`**
 ## Overview
 
 ## Why Monitor the C: Drive?
+
+C: is where Windows, its updates, and most programs live. When it fills up, Windows updates fail, programs can't save files, and the page file can't grow. That's why I'm watching C: first.
