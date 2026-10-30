@@ -36,6 +36,7 @@ On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the N
 
 ## Step 2 – Select the Disk Endpoint
 
+I click **API**, then under **API Endpoint** select **disk**. The second dropdown has three options:
 
 
 
