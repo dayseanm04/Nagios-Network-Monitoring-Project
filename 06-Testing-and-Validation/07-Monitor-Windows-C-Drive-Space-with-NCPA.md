@@ -70,7 +70,8 @@ I check **Run as a Nagios check** and set:
 
 <img width="948" height="572" alt="8" src="https://github.com/user-attachments/assets/536c3bd7-4aac-4909-88b3-1bb2716c403d" />
 
-
+| Threshold | Percent | Space used (of 482 GiB) | Space left |
+|---|---|---|---|
 
 
 
