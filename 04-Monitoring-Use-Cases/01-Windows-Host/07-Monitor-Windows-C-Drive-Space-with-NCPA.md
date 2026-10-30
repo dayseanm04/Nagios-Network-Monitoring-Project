@@ -144,6 +144,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1019" height="847" alt="12" src="https://github.com/user-attachments/assets/110ae452-0d00-4bd1-b225-8f17c7190058" />
 
+The service count goes from **11 to 12**, which confirms Nagios picked up the new check.
 
 
 
