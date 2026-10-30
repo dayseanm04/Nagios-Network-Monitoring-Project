@@ -21,3 +21,5 @@ In this doc, I will verify that the **`C: Drive Space utilization`** check for *
 <img width="1037" height="598" alt="1" src="https://github.com/user-attachments/assets/593c19f7-d286-44d6-9ba8-17c778674d7e" />
 
 Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
+
+**Result:** ✅ PASS. The check is running and returning a real value from NCPA.
