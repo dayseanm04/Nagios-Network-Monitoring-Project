@@ -58,6 +58,7 @@ I set:
 |---|---|---|
 | Service Filter(s) | **`NCPA`** | The Windows service name for the agent |
 | Filter match type | **`exact match`** | Matches only a service named exactly `NCPA`, not anything with "NCPA" in its name |
+| Status | **`running`** | The state I expect. The check is OK when the service matches this |
 
 <img width="956" height="573" alt="4" src="https://github.com/user-attachments/assets/f624f299-ece4-4f4a-a01b-5ccf20d0ea54" />
 
