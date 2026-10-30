@@ -148,6 +148,9 @@ The service count goes from **11 to 12**, which confirms Nagios picked up the ne
 
 ## Step 4 – Reload Nagios
 
+```bash
+sudo systemctl reload nagios
+```
 
 
 
