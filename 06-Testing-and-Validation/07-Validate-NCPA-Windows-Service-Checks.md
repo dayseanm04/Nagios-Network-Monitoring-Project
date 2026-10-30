@@ -11,3 +11,4 @@ In this doc, I will verify that the **`NCPA Service Status`** check for **`comp-
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
 | TC-01 | Service appears with a real result | **OK** – NCPA is running | OK: NCPA is running | ✅ PASS |
+| TC-02 | `notify-early` settings | 1-min interval, attempt 1/1 | 13:54:01 → 13:55:01, 1/1 (HARD) | ✅ PASS |
