@@ -79,6 +79,8 @@ I chose **70%** as an early warning. It gives me time to clean up before the dri
 
 > C: was already at **70.1%** when I set this up, so the check went into **WARNING** right away. That turned out to be useful: it pushed me to clean up the drive. See the [**validation doc**](../../06-Testing-and-Validation/06-Validate-NCPA-C-Drive-Space-Check.md).
 
+## Step 5 – Compare with Windows
+
 
 
 
