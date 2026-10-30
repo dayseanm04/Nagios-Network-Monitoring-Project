@@ -64,12 +64,6 @@ I leave **Unit prefix** blank, since a percentage has no unit to convert.
 
 <img width="949" height="593" alt="6" src="https://github.com/user-attachments/assets/fa00fdbb-de12-4b37-b5c8-f524346d2939" />
 
-I check **Run as a Nagios check** and set:
-
-<img width="635" height="123" alt="7" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
-
-<img width="948" height="572" alt="8" src="https://github.com/user-attachments/assets/536c3bd7-4aac-4909-88b3-1bb2716c403d" />
-
 | Threshold | Percent | Space used (of 482 GiB) | Space left |
 |---|---|---|---|
 | Warning | 70% | ~338 GiB | ~145 GiB |
@@ -94,7 +88,11 @@ The capacity matches. The used and free numbers are different because the two sc
 
 ## Step 6 – Get the Command
 
+I check **Run as a Nagios check** and set:
 
+<img width="635" height="123" alt="7" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
+
+<img width="948" height="572" alt="8" src="https://github.com/user-attachments/assets/536c3bd7-4aac-4909-88b3-1bb2716c403d" />
 
 
 
