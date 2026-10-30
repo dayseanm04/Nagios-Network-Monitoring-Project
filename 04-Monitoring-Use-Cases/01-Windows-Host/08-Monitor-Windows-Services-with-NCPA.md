@@ -50,6 +50,7 @@ I click **API**, then under **API Endpoint** select **services**. NCPA lists eve
 
 <img width="960" height="583" alt="3" src="https://github.com/user-attachments/assets/acf8cf71-e19e-4835-9db6-555c045836c2" />
 
+## Step 3 – Filter to the NCPA Service
 
 
 
