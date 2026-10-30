@@ -52,3 +52,7 @@ Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
 The state is **SOFT** at attempt 1/5, and no notification has been sent yet. That's the **`time-sensitive`** template working: Nagios rechecks before treating the problem as real. Disk usage doesn't drop on its own, so this would have reached 5/5 HARD a few minutes later.
 
 ## Fix – Free Up Space on C:
+
+C: was at **72.20%**, above my **70%** warning. To fix it, I deleted files and folders I no longer needed from **`comp-a-test`**.
+
+
