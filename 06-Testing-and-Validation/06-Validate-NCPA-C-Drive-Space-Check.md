@@ -10,3 +10,4 @@ In this doc, I will verify that the **`C: Drive Space utilization`** check for *
 
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
+| TC-01 | Service appears with a real result | Disk usage percentage | WARNING – Used_percent was 72.20 % | ✅ PASS |
