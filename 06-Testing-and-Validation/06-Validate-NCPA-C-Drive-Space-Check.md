@@ -68,4 +68,5 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 
 **Result:** ✅ PASS. After freeing space, **C: dropped from 72.20% to 67.00%**, below the **70%** warning, and the check went back to **OK**.
 
+### Before and After
 
