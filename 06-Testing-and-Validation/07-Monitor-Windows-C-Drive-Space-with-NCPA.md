@@ -90,6 +90,7 @@ To double-check NCPA's numbers, I open **File Explorer**, right-click **Windows 
 | NCPA | 482.63 GiB | 338.44 GiB (70.1%) | 144.18 GiB |
 | Windows Properties | 482 GB | 322 GB (~67%) | 160 GB |
 
+The capacity matches. The used and free numbers are different because the two screenshots were taken at different times, and I deleted files in between.
 
 
 
