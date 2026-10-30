@@ -116,6 +116,9 @@ sudo nano comp-a-test.cfg
 
 <img width="981" height="452" alt="9" src="https://github.com/user-attachments/assets/2d418423-5760-4147-9de5-5954db9a4228" />
 
+<img width="861" height="299" alt="10" src="https://github.com/user-attachments/assets/36b32d3f-e258-49f8-b597-e2a23890d71b" />
+
+
 ## Step 2 – Add a Disks Section and the Service
 
 Below the Memory section, I add a new section header and the C: drive service:
