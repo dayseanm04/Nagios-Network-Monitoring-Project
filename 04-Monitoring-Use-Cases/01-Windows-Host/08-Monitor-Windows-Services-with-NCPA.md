@@ -20,3 +20,4 @@ This check uses **`notify-early`** instead of **`time-sensitive`**:
 |---|---|---|
 | Check interval | 2 min | **1 min** |
 | Max check attempts | 5 | **1** |
+| Notification interval | 15 min | **10 min** |
