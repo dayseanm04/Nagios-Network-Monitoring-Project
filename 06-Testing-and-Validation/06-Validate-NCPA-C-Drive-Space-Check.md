@@ -102,5 +102,4 @@ The **`C: Drive Space utilization`** check works. Nagios gets the real C: usage 
 
 - [**04-Monitoring-Use-Cases / 01-Windows-Host / 07 – Monitor Windows C: Drive Space with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/07-Monitor-Windows-C-Drive-Space-with-NCPA.md)
 - [**06-Testing-and-Validation / 05 – Validate NCPA Memory and Swap Checks**](05-Validate-NCPA-Memory-and-Swap-Checks.md)
-
-
+- [**06-Testing-and-Validation / 04 – Validate NCPA CPU Utilization Check**](04-Validate-NCPA-CPU-Utilization-Check.md)
