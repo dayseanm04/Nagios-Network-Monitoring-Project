@@ -66,4 +66,6 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 
 <img width="957" height="481" alt="4" src="https://github.com/user-attachments/assets/ff0b5e28-d425-4ee5-a597-bab16d10b0be" />
 
+**Result:** ✅ PASS. After freeing space, **C: dropped from 72.20% to 67.00%**, below the **70%** warning, and the check went back to **OK**.
+
 
