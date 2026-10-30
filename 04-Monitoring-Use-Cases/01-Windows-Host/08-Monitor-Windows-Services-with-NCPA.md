@@ -9,3 +9,5 @@ In this doc, I will add a check that confirms a Windows service is running on **
 ## Overview
 
 ## Why Monitor NCPA?
+
+NCPA is the agent that answers every NCPA check on **`comp-a-test`**. If it stops, Nagios loses CPU, memory, disk, and uptime monitoring for this host all at once. A check named **`NCPA Service Status`** makes that failure easy to spot, instead of leaving me to figure out why five checks broke at the same time.
