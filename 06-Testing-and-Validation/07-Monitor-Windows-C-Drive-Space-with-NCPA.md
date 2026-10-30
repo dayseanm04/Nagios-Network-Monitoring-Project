@@ -46,6 +46,7 @@ I click **API**, then under **API Endpoint** select **disk**. The second dropdow
 | **`logical`** | Drives by letter (C:, D:, G:), with size, used, and free space |
 | **`physical`** | Raw read/write activity on the physical disks |
 
+I select **logical**, then **C:|** in the third dropdown.
 
 
 
