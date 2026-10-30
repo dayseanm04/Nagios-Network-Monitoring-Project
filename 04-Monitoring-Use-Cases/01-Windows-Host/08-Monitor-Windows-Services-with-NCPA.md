@@ -147,6 +147,7 @@ sudo systemctl reload nagios
 
 **`comp-a-test`** now has an **`NCPA Service Status`** check using the **`notify-early`** template. It returns OK while the NCPA Windows service is running, and alerts on the first failed check. The pre-flight check passes with 13 services, 0 warnings, and 0 errors, and Nagios has been reloaded.
 
+> **Verification steps and results:** [**Click here to see the NCPA Windows service check validation**](../../06-Testing-and-Validation/07-Validate-NCPA-Windows-Service-Checks.md)
 
 
 
