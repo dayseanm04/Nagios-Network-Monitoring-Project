@@ -85,7 +85,8 @@ To double-check NCPA's numbers, I open **File Explorer**, right-click **Windows 
 
 <img width="719" height="518" alt="9" src="https://github.com/user-attachments/assets/80228ab2-291e-43f3-ab8c-5452c0abb4f5" />
 
-
+| Source | Capacity | Used | Free |
+|---|---|---|---|
 
 
 
