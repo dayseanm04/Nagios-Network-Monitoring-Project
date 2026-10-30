@@ -30,3 +30,5 @@ Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
 ---
 
 ## TC-02 – Thresholds Are Applied
+
+**Steps:** I click **C: Drive Space utilization** and check **Performance Data**.
