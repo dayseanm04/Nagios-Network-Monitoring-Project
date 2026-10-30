@@ -50,6 +50,7 @@ I select **logical**, then **C:|** in the third dropdown.
 
 <img width="959" height="717" alt="4" src="https://github.com/user-attachments/assets/1efb16bd-654c-4a75-a5ac-072c2161e39a" />
 
+> **Why `C:|` and not `C:\`?** NCPA uses **`|`** in place of **`\`** in drive paths, because **`\`** has a special meaning in URLs. In the Nagios command, the metric has to stay inside single quotes. In Linux, **`|`** is a pipe, so without the quotes the shell would cut the command in half.
 
 
 
