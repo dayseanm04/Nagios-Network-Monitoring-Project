@@ -13,3 +13,4 @@ In this doc, I will verify that the **`NCPA Service Status`** check for **`comp-
 | TC-01 | Service appears with a real result | **OK** – NCPA is running | OK: NCPA is running | ✅ PASS |
 | TC-02 | `notify-early` settings | 1-min interval, attempt 1/1 | 13:54:01 → 13:55:01, 1/1 (HARD) | ✅ PASS |
 | TC-03 | Matches Windows Services | Nagios Cross-Platform Agent is Running | Running, Automatic (Delayed Start) | ✅ PASS |
+| TC-04 | NCPA receives the checks from Nagios | `services` entry from `192.168.1.99` | OK: NCPA is running, from `192.168.1.99`, Active | ✅ PASS |
