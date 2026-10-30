@@ -30,6 +30,9 @@ This check asks NCPA whether NCPA is running. While NCPA is up, the answer is al
 
 So for this check, the alert is a connection failure, not a **"stopped"** message. 
 
+---
+
+# Part 1 – Build the Check in NCPA
 
 
 
