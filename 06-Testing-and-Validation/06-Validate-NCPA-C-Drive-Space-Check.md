@@ -100,3 +100,6 @@ The **`C: Drive Space utilization`** check works. Nagios gets the real C: usage 
 
 ## Related Docs
 
+- [**04-Monitoring-Use-Cases / 01-Windows-Host / 07 – Monitor Windows C: Drive Space with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/07-Monitor-Windows-C-Drive-Space-with-NCPA.md)
+
+
