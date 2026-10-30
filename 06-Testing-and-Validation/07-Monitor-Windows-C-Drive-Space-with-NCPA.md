@@ -38,6 +38,7 @@ On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the N
 
 I click **API**, then under **API Endpoint** select **disk**. The second dropdown has three options:
 
+<img width="928" height="408" alt="3" src="https://github.com/user-attachments/assets/84600aaa-a0a3-4359-83f3-00eda73d3868" />
 
 
 
