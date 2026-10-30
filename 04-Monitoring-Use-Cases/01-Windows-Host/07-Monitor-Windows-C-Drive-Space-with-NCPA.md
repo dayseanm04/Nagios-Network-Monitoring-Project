@@ -108,6 +108,13 @@ The part I need for Nagios:
 
 ## Step 1 – Open the Host File
 
+```bash
+cd /usr/local/nagios/etc/windows-hosts
+ls -l
+sudo nano comp-a-test.cfg
+```
+
+<img width="981" height="452" alt="9" src="https://github.com/user-attachments/assets/2d418423-5760-4147-9de5-5954db9a4228" />
 
 
 
