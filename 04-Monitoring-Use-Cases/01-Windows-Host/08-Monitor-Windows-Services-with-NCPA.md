@@ -81,6 +81,10 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 
 <img width="897" height="586" alt="7" src="https://github.com/user-attachments/assets/de250877-bac4-4194-a979-bf6a8f1d46f1" />
 
+```
+./check_ncpa.py -H localhost -t '<your token>' -M 'services' -q 'service=NCPA,status=running'
+```
+
 
 
 
