@@ -167,6 +167,7 @@ sudo systemctl reload nagios
 ## Related Docs
 
 - [**06-Testing-and-Validation / 06 – Validate NCPA C: Drive Space Check**](../../06-Testing-and-Validation/06-Validate-NCPA-C-Drive-Space-Check.md)
+- [**02-Setup / 09 – Create Time-Sensitive Service Template**](../../02-Setup/09-Create-Time-Sensitive-Service-Template.md)
 
 
 
