@@ -96,6 +96,7 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 
 <img width="948" height="572" alt="8" src="https://github.com/user-attachments/assets/536c3bd7-4aac-4909-88b3-1bb2716c403d" />
 
+The part I need for Nagios:
 
 
 
