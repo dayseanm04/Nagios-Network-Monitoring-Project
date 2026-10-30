@@ -39,3 +39,5 @@ Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
 **Result:** ✅ PASS. The performance data shows the value, then the warning (**`70`**) and critical (**`90`**) thresholds from the `check_command`.
 
 ---
+
+## TC-03 – Usage Above 70% Goes WARNING
