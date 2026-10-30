@@ -91,6 +91,10 @@ The part I need for Nagios:
 -M 'services' -q 'service=NCPA,status=running'
 ```
 
+| Part | What it does |
+|---|---|
+
+
 
 
 
