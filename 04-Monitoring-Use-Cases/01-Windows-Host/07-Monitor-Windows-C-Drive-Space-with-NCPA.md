@@ -127,6 +127,7 @@ Below the Memory section, I add a new section header and the C: drive service:
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+### What each line does
 
 
 
