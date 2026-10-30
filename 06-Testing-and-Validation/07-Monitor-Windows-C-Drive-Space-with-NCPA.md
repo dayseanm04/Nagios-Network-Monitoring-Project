@@ -92,6 +92,7 @@ To double-check NCPA's numbers, I open **File Explorer**, right-click **Windows 
 
 The capacity matches. The used and free numbers are different because the two screenshots were taken at different times, and I deleted files in between.
 
+## Step 6 – Get the Command
 
 
 
