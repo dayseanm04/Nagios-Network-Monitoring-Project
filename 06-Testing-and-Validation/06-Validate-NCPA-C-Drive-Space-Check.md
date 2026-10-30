@@ -62,4 +62,6 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 
 ## TC-04 – Check Returns to OK After Freeing Space
 
+**Steps:** Two days later, I go back to **Services** in Nagios.
+
 
