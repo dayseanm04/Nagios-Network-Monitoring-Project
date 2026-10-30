@@ -48,3 +48,5 @@ Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
 72.20% is above the 70% warning and below the 90% critical, so **WARNING** is correct.
 
 **Result:** ✅ PASS
+
+The state is **SOFT** at attempt 1/5, and no notification has been sent yet. That's the **`time-sensitive`** template working: Nagios rechecks before treating the problem as real. Disk usage doesn't drop on its own, so this would have reached 5/5 HARD a few minutes later.
