@@ -64,6 +64,7 @@ I leave **Unit prefix** blank, since a percentage has no unit to convert.
 
 ## Step 4 – Set Thresholds
 
+I check **Run as a Nagios check** and set:
 
 
 
