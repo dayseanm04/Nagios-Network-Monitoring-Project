@@ -112,6 +112,7 @@ sudo nano comp-a-test.cfg
 
 ## Step 2 – Add a Services Section and the Check
 
+<img width="949" height="624" alt="2" src="https://github.com/user-attachments/assets/b500d74b-0bfb-4cd2-affc-26ce11901165" />
 
 
 
