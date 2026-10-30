@@ -72,6 +72,8 @@ I check **Run as a Nagios check** and click **Reload**.
 
 ## Step 5 – Get the Command
 
+I click **View in alternate format** → **As active check using check_ncpa.py**.
+
 
 
 
