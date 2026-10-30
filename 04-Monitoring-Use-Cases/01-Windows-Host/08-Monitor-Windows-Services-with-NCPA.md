@@ -57,6 +57,7 @@ I set:
 | Setting | Value | Why |
 |---|---|---|
 | Service Filter(s) | **`NCPA`** | The Windows service name for the agent |
+| Filter match type | **`exact match`** | Matches only a service named exactly `NCPA`, not anything with "NCPA" in its name |
 
 <img width="956" height="573" alt="4" src="https://github.com/user-attachments/assets/f624f299-ece4-4f4a-a01b-5ccf20d0ea54" />
 
