@@ -7,3 +7,6 @@ In this doc, I will verify that the **`NCPA Service Status`** check for **`comp-
 ---
 
 ## Test Cases
+
+| ID | Test | Expected | Actual | Status |
+|---|---|---|---|---|
