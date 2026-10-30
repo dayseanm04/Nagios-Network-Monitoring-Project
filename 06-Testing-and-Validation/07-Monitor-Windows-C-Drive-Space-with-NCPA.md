@@ -90,6 +90,8 @@ The capacity matches. The used and free numbers are different because the two sc
 
 I check **Run as a Nagios check** and set:
 
+I click **View in alternate format** → **As active check using check_ncpa.py**.
+
 <img width="635" height="123" alt="7" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
 
 <img width="948" height="572" alt="8" src="https://github.com/user-attachments/assets/536c3bd7-4aac-4909-88b3-1bb2716c403d" />
