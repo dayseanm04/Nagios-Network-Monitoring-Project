@@ -70,3 +70,5 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 
 ### Before and After
 
+| | Oct 26 (before cleanup) | Oct 28 (after cleanup) |
+|---|---|---|
