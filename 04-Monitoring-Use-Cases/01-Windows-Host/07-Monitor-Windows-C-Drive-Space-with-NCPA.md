@@ -166,7 +166,7 @@ sudo systemctl reload nagios
 
 ## Related Docs
 
-- [**06 – Monitor Windows Memory and Swap Usage with NCPA**](06-Monitor-Windows-Memory-and-Swap-Usage-with-NCPA.md)
+- [**06-Testing-and-Validation / 06 – Validate NCPA C: Drive Space Check**](../../06-Testing-and-Validation/06-Validate-NCPA-C-Drive-Space-Check.md)
 
 
 
