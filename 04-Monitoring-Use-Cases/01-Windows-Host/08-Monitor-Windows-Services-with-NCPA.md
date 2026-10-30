@@ -121,6 +121,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | Line | What it does |
 |---|---|
 | **`use notify-early`** | Checks every minute, and the first failure goes straight to HARD and alerts |
+| **`host_name comp-a-test`** | Attaches the check to the Windows host |
 
 
 
