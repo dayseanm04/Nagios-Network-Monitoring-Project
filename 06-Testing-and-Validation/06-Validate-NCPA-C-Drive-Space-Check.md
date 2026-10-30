@@ -35,3 +35,4 @@ Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
 
 <img width="1033" height="698" alt="2" src="https://github.com/user-attachments/assets/79ac2850-e5a0-418b-8d20-a157ffb556ed" />
 
+**Result:** ✅ PASS. The performance data shows the value, then the warning (**`70`**) and critical (**`90`**) thresholds from the `check_command`.
