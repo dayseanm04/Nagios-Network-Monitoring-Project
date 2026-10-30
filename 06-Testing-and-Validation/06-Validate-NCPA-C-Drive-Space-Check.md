@@ -75,3 +75,4 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 | Used | 72.20% | 67.00% |
 | Status | 🟨 WARNING | 🟩 OK |
 
+On a 482 GiB drive, that 5.2% drop is roughly **25 GiB** freed.
