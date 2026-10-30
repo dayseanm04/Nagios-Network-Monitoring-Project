@@ -21,3 +21,5 @@ This check uses **`notify-early`** instead of **`time-sensitive`**:
 | Check interval | 2 min | **1 min** |
 | Max check attempts | 5 | **1** |
 | Notification interval | 15 min | **10 min** |
+
+A stopped service doesn't fix itself, so there's no reason to wait for 5 attempts the way I do for a CPU spike. With 1 attempt, the first failed check goes straight to HARD and alerts.
