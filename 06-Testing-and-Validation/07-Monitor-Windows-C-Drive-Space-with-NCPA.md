@@ -60,6 +60,7 @@ In the last dropdown, I select **used_percent**.
 
 <img width="949" height="593" alt="6" src="https://github.com/user-attachments/assets/fa00fdbb-de12-4b37-b5c8-f524346d2939" />
 
+I leave **Unit prefix** blank, since a percentage has no unit to convert.
 
 
 
