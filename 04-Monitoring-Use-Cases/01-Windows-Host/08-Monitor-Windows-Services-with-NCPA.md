@@ -66,6 +66,7 @@ I set:
 
 <img width="413" height="477" alt="5" src="https://github.com/user-attachments/assets/da331f99-90b0-4d92-b249-15bb09cc2f2d" />
 
+## Step 4 – Run as a Nagios Check
 
 
 
