@@ -34,6 +34,26 @@ So for this check, the alert is a connection failure, not a **"stopped"** messag
 
 # Part 1 – Build the Check in NCPA
 
+For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../08-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
