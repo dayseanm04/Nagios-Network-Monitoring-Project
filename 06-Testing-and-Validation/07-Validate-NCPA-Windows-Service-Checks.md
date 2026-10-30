@@ -5,3 +5,5 @@ In this doc, I will verify that the **`NCPA Service Status`** check for **`comp-
 > **How this check was created:** [**Click here to see Monitor Windows Services with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/08-Monitor-Windows-Services-with-NCPA.md)
 
 ---
+
+## Test Cases
