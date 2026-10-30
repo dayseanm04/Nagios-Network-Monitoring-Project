@@ -19,3 +19,4 @@ This check uses **`notify-early`** instead of **`time-sensitive`**:
 | Setting | `time-sensitive` | `notify-early` |
 |---|---|---|
 | Check interval | 2 min | **1 min** |
+| Max check attempts | 5 | **1** |
