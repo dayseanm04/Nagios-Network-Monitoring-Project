@@ -16,3 +16,5 @@ In this doc, I will verify that the **`NCPA Service Status`** check for **`comp-
 | TC-04 | NCPA receives the checks from Nagios | `services` entry from `192.168.1.99` | OK: NCPA is running, from `192.168.1.99`, Active | ✅ PASS |
 
 ---
+
+## TC-01 – Service Appears with a Real Result
