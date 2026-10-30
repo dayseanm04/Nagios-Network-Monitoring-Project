@@ -68,6 +68,8 @@ I set:
 
 ## Step 4 – Run as a Nagios Check
 
+I check **Run as a Nagios check** and click **Reload**.
+
 
 
 
