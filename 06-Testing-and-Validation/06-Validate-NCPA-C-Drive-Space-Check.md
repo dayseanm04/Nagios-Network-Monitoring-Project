@@ -76,3 +76,5 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 | Status | 🟨 WARNING | 🟩 OK |
 
 On a 482 GiB drive, that 5.2% drop is roughly **25 GiB** freed.
+
+> 67% is still close to the 70% warning. If C: keeps filling up, this check will go WARNING again, which is what I want it to do.
