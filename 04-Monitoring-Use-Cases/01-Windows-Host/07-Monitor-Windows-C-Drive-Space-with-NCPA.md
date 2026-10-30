@@ -158,6 +158,8 @@ sudo systemctl reload nagios
 
 ## Result
 
+**`comp-a-test`** now has a **`C: Drive Space utilization`** check using the **`time-sensitive`** template. It goes WARNING above **70%** and CRITICAL above **90%**. The pre-flight check passes with 12 services, 0 warnings, and 0 errors, and Nagios has been reloaded.
+
 
 
 
