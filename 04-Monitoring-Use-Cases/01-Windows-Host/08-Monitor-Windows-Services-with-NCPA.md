@@ -52,6 +52,7 @@ I click **API**, then under **API Endpoint** select **services**. NCPA lists eve
 
 ## Step 3 – Filter to the NCPA Service
 
+<img width="956" height="573" alt="4" src="https://github.com/user-attachments/assets/f624f299-ece4-4f4a-a01b-5ccf20d0ea54" />
 
 
 
