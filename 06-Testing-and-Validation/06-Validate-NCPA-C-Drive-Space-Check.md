@@ -90,4 +90,6 @@ On a 482 GiB drive, that 5.2% drop is roughly **25 GiB** freed.
 
 **Result:** ✅ PASS. The disk check is logged in NCPA as an active check from **`192.168.1.99`**. The check time (19:33:22) is exactly 2 minutes after the Nagios check in TC-05 (19:31:22), so this is the next scheduled check arriving from Nagios.
 
+---
 
+## Conclusion
