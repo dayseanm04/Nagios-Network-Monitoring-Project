@@ -129,7 +129,8 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ### What each line does
 
-
+| Line | What it does |
+|---|---|
 
 
 
