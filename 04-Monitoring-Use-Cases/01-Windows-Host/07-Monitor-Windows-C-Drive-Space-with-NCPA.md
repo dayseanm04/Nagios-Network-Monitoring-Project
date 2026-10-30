@@ -123,6 +123,7 @@ sudo nano comp-a-test.cfg
 
 Below the Memory section, I add a new section header and the C: drive service:
 
+<img width="893" height="633" alt="11" src="https://github.com/user-attachments/assets/7110c779-2e1f-4cb1-9638-4b92635e09ec" />
 
 
 
