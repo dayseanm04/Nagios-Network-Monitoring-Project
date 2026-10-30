@@ -42,6 +42,7 @@ I click **API**, then under **API Endpoint** select **disk**. The second dropdow
 
 | Option | What it shows |
 |---|---|
+| **`mount`** | Every mounted drive and its settings |
 
 
 
