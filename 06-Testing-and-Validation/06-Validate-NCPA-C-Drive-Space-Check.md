@@ -72,3 +72,4 @@ This is how monitoring is supposed to work: the alert told me about a problem be
 
 | | Oct 26 (before cleanup) | Oct 28 (after cleanup) |
 |---|---|---|
+| Used | 72.20% | 67.00% |
