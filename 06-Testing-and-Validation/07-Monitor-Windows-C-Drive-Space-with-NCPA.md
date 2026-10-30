@@ -34,6 +34,7 @@ On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the N
 
 <img width="957" height="726" alt="2" src="https://github.com/user-attachments/assets/bc1a1b5f-6711-45e6-b4b2-e0979170d1ad" />
 
+## Step 2 – Select the Disk Endpoint
 
 
 
