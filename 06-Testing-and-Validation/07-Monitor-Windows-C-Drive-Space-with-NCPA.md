@@ -48,6 +48,7 @@ I click **API**, then under **API Endpoint** select **disk**. The second dropdow
 
 I select **logical**, then **C:|** in the third dropdown.
 
+<img width="959" height="717" alt="4" src="https://github.com/user-attachments/assets/1efb16bd-654c-4a75-a5ac-072c2161e39a" />
 
 
 
