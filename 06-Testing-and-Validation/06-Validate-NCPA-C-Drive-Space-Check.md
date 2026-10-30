@@ -7,3 +7,6 @@ In this doc, I will verify that the **`C: Drive Space utilization`** check for *
 ---
 
 ## Test Cases
+
+| ID | Test | Expected | Actual | Status |
+|---|---|---|---|---|
