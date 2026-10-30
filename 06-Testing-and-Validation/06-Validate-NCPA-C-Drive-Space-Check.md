@@ -55,4 +55,6 @@ The state is **SOFT** at attempt 1/5, and no notification has been sent yet. Tha
 
 C: was at **72.20%**, above my **70%** warning. To fix it, I deleted files and folders I no longer needed from **`comp-a-test`**.
 
+This is how monitoring is supposed to work: the alert told me about a problem before it got serious, and I fixed it.
+
 
