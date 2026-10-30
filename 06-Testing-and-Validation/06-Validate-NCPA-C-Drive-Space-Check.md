@@ -34,10 +34,14 @@ Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
 
 **Steps:** I click **C: Drive Space utilization** and check **Performance Data**.
 
-<img width="1033" height="698" alt="2" src="https://github.com/user-attachments/assets/79ac2850-e5a0-418b-8d20-a157ffb556ed" />
+<img width="1033" height="698" alt="2" src="https://github.com/user-attachments/assets/2151b3c0-eccd-4626-9e7f-9270a1c65d5b" />
+
 
 **Result:** ✅ PASS. The performance data shows the value, then the warning (**`70`**) and critical (**`90`**) thresholds from the `check_command`.
 
 ---
 
 ## TC-03 – Usage Above 70% Goes WARNING
+
+<img width="1033" height="698" alt="3" src="https://github.com/user-attachments/assets/79ac2850-e5a0-418b-8d20-a157ffb556ed" />
+
