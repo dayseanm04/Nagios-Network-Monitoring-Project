@@ -46,6 +46,7 @@ On **`comp-a-test`**, I go to `https://localhost:5693` and log in with the NCPA 
 
 ## Step 2 – Select the services Endpoint
 
+I click **API**, then under **API Endpoint** select **services**. NCPA lists every Windows service on the machine and whether it's **`running`** or **`stopped`**.
 
 
 
