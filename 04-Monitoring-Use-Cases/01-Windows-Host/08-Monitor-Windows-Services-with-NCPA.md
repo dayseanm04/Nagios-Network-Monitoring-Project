@@ -62,6 +62,7 @@ I set:
 
 <img width="956" height="573" alt="4" src="https://github.com/user-attachments/assets/f624f299-ece4-4f4a-a01b-5ccf20d0ea54" />
 
+> **Service name vs. display name:** In the Windows Services app, NCPA shows up as **Nagios Cross-Platform Agent**. That's the *display name*. NCPA's filter uses the *service name*, which is **`NCPA`**. To find a service name, open **Services**, double-click the service, and look at **Service name** at the top of the General tab.
 
 
 
