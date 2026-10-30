@@ -25,3 +25,5 @@ Service totals: **9 OK, 2 WARNING, 1 CRITICAL**, 12 total.
 **Result:** ✅ PASS. The check is running and returning a real value from NCPA.
 
 > The other WARNING and the CRITICAL on this screenshot are the **swap** and **RAM** checks, which are covered in [**05 – Validate NCPA Memory and Swap Checks**](05-Validate-NCPA-Memory-and-Swap-Checks.md).
+
+---
