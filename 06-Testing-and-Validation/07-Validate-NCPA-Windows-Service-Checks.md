@@ -18,3 +18,5 @@ In this doc, I will verify that the **`NCPA Service Status`** check for **`comp-
 ---
 
 ## TC-01 – Service Appears with a Real Result
+
+**Steps:** I log in to **`http://192.168.1.99/nagios`** and click **Services**.
