@@ -5,3 +5,5 @@ In this doc, I will verify that the **`C: Drive Space utilization`** check for *
 > **How this check was created:** [**Click here to see Monitor Windows C: Drive Space with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/07-Monitor-Windows-C-Drive-Space-with-NCPA.md)
 
 ---
+
+## Test Cases
