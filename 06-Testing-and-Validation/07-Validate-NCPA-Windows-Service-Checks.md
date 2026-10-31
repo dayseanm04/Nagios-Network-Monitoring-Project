@@ -57,6 +57,7 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 ## TC-04 – NCPA Receives the Checks from Nagios
 
+**Steps:** On **`comp-a-test`**, I log in to **`https://localhost:5693`**, click **Checks**, filter by **Status: OK**, **Type: Active**, and **Executed By: 192.168.1.99**, and click **Filter**.
 
 
 
