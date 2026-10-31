@@ -62,6 +62,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | `service_notification_period` | **`24x7`** | When this contact can get **service** alerts. Points to a timeperiod in `timeperiods.cfg`. |
 | `host_notification_period` | **`24x7`** | When this contact can get **host** alerts. |
 | `service_notification_options` | **`w,u,c,r,f,s`** | Which service states this contact wants to hear about (see the letter table below). |
+| `host_notification_options` | **`d,u,r,f,s`** | Which host states this contact wants to hear about. |
 
 
 
