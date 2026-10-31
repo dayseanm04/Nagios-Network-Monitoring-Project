@@ -37,7 +37,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 ## The default contact: `nagiosadmin`
 
-<img width="938" height="394" alt="3" src="https://github.com/user-attachments/assets/22184aa3-19e4-42df-bb5e-dd26ac11d3df" />
+<img width="942" height="389" alt="3" src="https://github.com/user-attachments/assets/ae3449db-c2e2-4162-a99d-bec7bbc9b94b" />
 
 | Option | Value | What it does |
 |---|---|---|
@@ -49,6 +49,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 
 
+<img width="938" height="394" alt="3" src="https://github.com/user-attachments/assets/22184aa3-19e4-42df-bb5e-dd26ac11d3df" />
 
 
 
