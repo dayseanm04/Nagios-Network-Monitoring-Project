@@ -103,3 +103,5 @@ The **`Failed System logs`** check works in its OK state. Nagios gets a real cou
 ---
 
 ## Related Docs
+
+- [**04-Monitoring-Use-Cases / 01-Windows-Host / 09 – Monitor Windows System Event Logs with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/09-Monitor-Windows-System-Event-Logs-with-NCPA.md)
