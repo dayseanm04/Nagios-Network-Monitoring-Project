@@ -60,3 +60,5 @@ I check **Run as a Nagios check** and set:
 |---|---|---|
 | Warning | 5 | More than 5 matching entries in the last 24 hours |
 | Critical | 10 | More than 10 matching entries in the last 24 hours |
+
+Unlike CPU or disk, these numbers are a **count of log entries**, not a percentage.
