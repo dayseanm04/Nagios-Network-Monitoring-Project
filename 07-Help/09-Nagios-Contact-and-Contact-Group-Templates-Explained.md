@@ -42,6 +42,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | Option | Value | What it does |
 |---|---|---|
 | `contact_name` | **`nagiosadmin`** | Short name for the contact. This is what contact groups, hosts, and services refer to. |
+| `use` | **`generic-contact`** | Inherits the rest of its settings from the `generic-contact` template in `templates.cfg`. |
 
 
 
