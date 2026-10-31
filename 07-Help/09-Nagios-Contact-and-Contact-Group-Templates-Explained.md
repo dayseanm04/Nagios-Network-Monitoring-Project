@@ -4,6 +4,8 @@ This guide explains the default contact and contact group that come with Nagios 
 
 **File location:** **`/usr/local/nagios/etc/objects/templates.cfg`**
 
+<img width="932" height="466" alt="1" src="https://github.com/user-attachments/assets/eaf9f53c-ec42-4814-b363-8db5d5cc46ec" />
+
 ---
 
 ## What are contacts and contact groups?
