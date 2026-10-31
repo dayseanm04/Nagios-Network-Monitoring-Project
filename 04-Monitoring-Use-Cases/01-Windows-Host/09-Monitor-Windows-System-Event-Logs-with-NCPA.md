@@ -120,4 +120,6 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="907" height="716" alt="8" src="https://github.com/user-attachments/assets/4c6dbc0b-6ed6-4083-a9d1-89713cc4d743" />
 
+The service count goes from **13 to 14**.
+
 
