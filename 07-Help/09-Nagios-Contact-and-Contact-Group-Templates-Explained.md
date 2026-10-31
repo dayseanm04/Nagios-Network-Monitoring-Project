@@ -71,5 +71,6 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 | Letter | Host meaning | Service meaning |
 |---|---|---|
+| `d` | DOWN | — |
 
 
