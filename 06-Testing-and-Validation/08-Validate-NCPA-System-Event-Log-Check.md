@@ -23,3 +23,5 @@ In this doc, I will verify that the **`Failed System logs`** check for **`comp-a
 **Steps:** I log in to **`http://192.168.1.99/nagios`** and click **Services**.
 
 <img width="1020" height="616" alt="1" src="https://github.com/user-attachments/assets/4e600768-160a-4771-95a3-f503ae36bda0" />
+
+Service totals: **13 OK, 1 CRITICAL**, 14 total.
