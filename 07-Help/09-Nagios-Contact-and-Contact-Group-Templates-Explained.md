@@ -92,4 +92,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 |---|---|---|
 | `contactgroup_name` | **`admins`** | Short name for the group. This is what `contact_groups admins` in the templates points to. |
 | `alias` | **`Nagios Administrators`** | Longer, readable name. |
+| `members` | **`nagiosadmin`** | The contacts in this group. Separate multiple contacts with commas: `nagiosadmin,jdoe`. |
 
