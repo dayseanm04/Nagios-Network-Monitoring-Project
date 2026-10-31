@@ -149,3 +149,5 @@ sudo systemctl reload nagios
 | **Message filter is a pattern** | `fail` alone would match all three words, plus others like "failover." Listing exact words keeps it specific |
 
 ---
+
+## Related Docs
