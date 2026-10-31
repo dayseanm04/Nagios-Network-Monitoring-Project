@@ -72,3 +72,5 @@ The **`NCPA Service Status`** check works while NCPA is running. Nagios shows **
 ---
 
 ## Related Docs
+
+- [**04-Monitoring-Use-Cases / 01-Windows-Host / 08 – Monitor Windows Services with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/08-Monitor-Windows-Services-with-NCPA.md)
