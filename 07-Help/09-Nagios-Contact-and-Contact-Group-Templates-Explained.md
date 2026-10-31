@@ -30,3 +30,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 ```
 
 ---
+
+## The default contact: `nagiosadmin`
