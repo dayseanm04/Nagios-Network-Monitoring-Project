@@ -69,5 +69,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 **Notification option letters**
 
+| Letter | Host meaning | Service meaning |
+|---|---|---|
 
 
