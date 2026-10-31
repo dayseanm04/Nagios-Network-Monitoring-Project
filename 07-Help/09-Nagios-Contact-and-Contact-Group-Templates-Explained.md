@@ -47,6 +47,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 > **Why the name `nagiosadmin` matters:** It matches the web UI login you made during install. The web UI uses the logged-in username to figure out which contact you are, and shows you the hosts and services you're a contact for. Full admin access comes from the **`authorized_for_*`** lines in **`cgi.cfg`**.
 
+---
 
 
 <img width="938" height="394" alt="3" src="https://github.com/user-attachments/assets/22184aa3-19e4-42df-bb5e-dd26ac11d3df" />
