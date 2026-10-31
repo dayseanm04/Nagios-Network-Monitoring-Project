@@ -56,4 +56,5 @@ I leave EventType, EventID, SourceName, ComputerName, and EventCategory blank so
 
 I check **Run as a Nagios check** and set:
 
-
+| Threshold | Value | Meaning |
+|---|---|---|
