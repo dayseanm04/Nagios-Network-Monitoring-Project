@@ -36,3 +36,5 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 
 **Steps:** I click **Failed System logs** and check **Performance Data**.
 
+<img width="937" height="758" alt="2" src="https://github.com/user-attachments/assets/ffda8b7d-529e-48f5-82ec-28117ad6cf5a" />
+
