@@ -53,3 +53,5 @@ The details page lists the 3 entries the check found:
 | 2026-10-30 11:08:04 | WARNING | 219 | Microsoft-Windows-Kernel-PnP | The driver \Driver\WUDFRd failed to load |
 | 2026-10-30 11:08:02 | WARNING | 219 | Microsoft-Windows-Kernel-PnP | The driver \Driver\WUDFRd failed to load |
 | 2026-10-30 11:08:01 | WARNING | 219 | Microsoft-Windows-Kernel-PnP | The driver \Driver\WUDFRd failed to load |
+
+**Result:** ✅ PASS. All three entries contain "failed," so the message filter is matching correctly.
