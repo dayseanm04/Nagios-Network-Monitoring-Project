@@ -64,3 +64,5 @@ Unlike CPU or disk, these numbers are a **count of log entries**, not a percenta
 I click **Reload**.
 
 <img width="963" height="749" alt="3" src="https://github.com/user-attachments/assets/af7b81c3-381c-4029-9ae5-dabed389dba9" />
+
+There are 3 matching entries, which is under the warning threshold of 5.
