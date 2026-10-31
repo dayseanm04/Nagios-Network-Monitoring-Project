@@ -111,3 +111,5 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 Below the Service section, I add:
 
 <img width="1024" height="714" alt="7" src="https://github.com/user-attachments/assets/aae07895-82b5-478e-bc9b-66f52b627ae3" />
+
+## Step 3 – Run the Pre-Flight Check
