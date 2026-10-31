@@ -11,3 +11,4 @@ In this doc, I will verify that the **`Failed System logs`** check for **`comp-a
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
 | TC-01 | Service appears with a real result | A count of matching log entries | OK – System has 3 logs | ✅ PASS |
+| TC-02 | Thresholds are applied | Perf data shows `5;10` | `'System'=3;5;10; 'Total Count'=3;5;10;` | ✅ PASS |
