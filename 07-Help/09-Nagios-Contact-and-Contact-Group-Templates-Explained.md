@@ -60,7 +60,8 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 |---|---|---|
 | `name` | **`generic-contact`** | The template's name, used with `use generic-contact`. |
 | `service_notification_period` | **`24x7`** | When this contact can get **service** alerts. Points to a timeperiod in `timeperiods.cfg`. |
-| **`host_notification_period`** | `24x7` | When this contact can get **host** alerts. |
+| `host_notification_period` | **`24x7`** | When this contact can get **host** alerts. |
+| `service_notification_options` | **`w,u,c,r,f,s`** | Which service states this contact wants to hear about (see the letter table below). |
 
 
 
