@@ -80,6 +80,7 @@ From the details page:
 | Last Notification | N/A (notification 0) |
 | Is This Service Flapping? | NO |
 
+**Result:** ✅ PASS. Checks are **10 minutes** apart and the attempt count is out of **3**, both from `generic-service`.
 
 
 
