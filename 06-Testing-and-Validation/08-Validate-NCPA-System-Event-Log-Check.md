@@ -29,3 +29,6 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 **Result:** ✅ PASS
 
 > The CRITICAL is `Logical memory usage` at 94.50%, covered in [**05 – Validate NCPA Memory and Swap Checks**](05-Validate-NCPA-Memory-and-Swap-Checks.md).
+
+---
+
