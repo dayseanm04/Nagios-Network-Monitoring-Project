@@ -74,3 +74,15 @@ From the details page:
 
 | Field | Value |
 |---|---|
+| Current Attempt | 1/3 (HARD state) |
+
+
+
+
+
+
+
+
+
+
+
