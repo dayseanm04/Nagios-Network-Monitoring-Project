@@ -7,3 +7,6 @@ In this doc, I will verify that the **`Failed System logs`** check for **`comp-a
 ---
 
 ## Test Cases
+
+| ID | Test | Expected | Actual | Status |
+|---|---|---|---|---|
