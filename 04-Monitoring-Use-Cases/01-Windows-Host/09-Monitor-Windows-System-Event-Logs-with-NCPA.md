@@ -68,3 +68,6 @@ I click **Reload**.
 There are 3 matching entries, which is under the warning threshold of 5.
 
 ## Step 4 – Get the Command
+
+I click **View in alternate format** → **As active check using check_ncpa.py**.
+
