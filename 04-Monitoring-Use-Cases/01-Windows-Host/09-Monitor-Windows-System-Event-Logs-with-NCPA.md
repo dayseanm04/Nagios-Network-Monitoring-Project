@@ -106,3 +106,4 @@ sudo nano comp-a-test.cfg
 
 ## Step 2 – Add a Logs Section and the Check
 
+Below the Service section, I add:
