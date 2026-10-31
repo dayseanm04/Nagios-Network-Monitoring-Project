@@ -33,3 +33,6 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 ---
 
 ## TC-02 – Thresholds Are Applied
+
+**Steps:** I click **Failed System logs** and check **Performance Data**.
+
