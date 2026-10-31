@@ -76,3 +76,7 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 <img width="966" height="710" alt="5" src="https://github.com/user-attachments/assets/e36cbd3c-c120-41d6-9c22-11a70436da79" />
 
 The part I need for Nagios:
+
+```
+-M 'logs' -w 5 -c 10 -q 'name=System,message=failure|failed|failing'
+```
