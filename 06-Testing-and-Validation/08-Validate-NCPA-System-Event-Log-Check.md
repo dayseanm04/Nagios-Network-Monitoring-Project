@@ -88,6 +88,7 @@ From the details page:
 
 **Steps:** On `comp-a-test`, I log in to **`https://localhost:5693`**, click **Checks**, filter by **Status: OK**, **Type: Active**, and **Executed By: 192.168.1.99**, and click **Filter**.
 
+<img width="944" height="336" alt="5" src="https://github.com/user-attachments/assets/7d88a24f-bf7b-4aa1-adb2-aa28db13d60e" />
 
 
 
