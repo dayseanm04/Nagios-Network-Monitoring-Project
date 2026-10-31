@@ -61,3 +61,10 @@ The details page lists the 3 entries the check found:
 **What these entries are:** All three were logged within 3 seconds of each other at 11:08. The `system uptime` check shows **`comp-a-test`** had been up about 3 hours 24 minutes at 14:31, so it started around 11:07. These are startup events: Windows tried to load a driver (**`WUDFRd**`) for a few devices while booting. Event ID 219 at startup is common on Windows and usually harmless when the devices work normally afterward.
 
 This is why the warning threshold is 5 instead of 1. A normal startup produces a few of these, and alerting on them would just be noise.
+
+---
+
+
+
+
+
