@@ -77,6 +77,7 @@ From the details page:
 | Current Attempt | 1/3 (HARD state) |
 | Last Check Time | 10-30-2026 14:30:38 |
 | Next Scheduled Check | 10-30-2026 14:40:38 |
+| Last Notification | N/A (notification 0) |
 
 
 
