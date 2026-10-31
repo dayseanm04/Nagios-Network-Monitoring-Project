@@ -64,6 +64,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | `service_notification_options` | **`w,u,c,r,f,s`** | Which service states this contact wants to hear about (see the letter table below). |
 | `host_notification_options` | **`d,u,r,f,s`** | Which host states this contact wants to hear about. |
 | `service_notification_commands` | **`notify-service-by-email`** | The command that sends service alerts. Defined in `commands.cfg`. |
+| `host_notification_commands` | **`notify-host-by-email`** | The command that sends host alerts. Defined in `commands.cfg`. |
 
 
 
