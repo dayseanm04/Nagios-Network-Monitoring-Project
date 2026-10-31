@@ -10,4 +10,5 @@ In this doc, I will add a check that watches the Windows **System** event log on
 
 ## Why Monitor the System Log?
 
-Windows keeps several event logs. The **System** log is where Windows records problems with drivers, services, hardware, and startup. 
+Windows keeps several event logs. The **System** log is where Windows records problems with drivers, services, hardware, and startup. A service crashing, a driver failing to load, or a disk error all show up there, often before a user notices anything.
+
