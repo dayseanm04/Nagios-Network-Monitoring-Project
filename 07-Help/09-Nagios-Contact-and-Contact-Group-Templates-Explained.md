@@ -6,6 +6,8 @@ This guide explains the default contact and contact group that come with Nagios 
 
 <img width="932" height="466" alt="1" src="https://github.com/user-attachments/assets/eaf9f53c-ec42-4814-b363-8db5d5cc46ec" />
 
+<img width="928" height="500" alt="2" src="https://github.com/user-attachments/assets/3785a43b-9bee-4e62-8645-007f7af6b3d6" />
+
 ---
 
 ## What are contacts and contact groups?
