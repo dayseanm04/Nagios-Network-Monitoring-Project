@@ -48,6 +48,7 @@ I click **API**, then under **API Endpoint** select **logs**. I fill in:
 
 > **What does `|` mean here?** The Message field is a pattern, and `|` means **OR**. So `failure|failed|failing` matches any entry with "failure" **or** "failed" **or** "failing" in its message.
 
+I leave EventType, EventID, SourceName, ComputerName, and EventCategory blank so the filter only looks at the message text.
 
 
 
