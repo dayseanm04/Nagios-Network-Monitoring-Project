@@ -23,3 +23,8 @@ The contact's own settings then decide **when** and **how** that person gets ale
 ---
 
 ## How it all connects
+
+```
+host / service  →  contact_groups admins  →  members nagiosadmin  →  use generic-contact
+   (what broke)       (which group)            (which people)          (when + how to alert)
+```
