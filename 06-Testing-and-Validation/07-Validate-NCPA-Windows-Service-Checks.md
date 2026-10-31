@@ -30,3 +30,5 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 > The CRITICAL is `Logical memory usage` at 95.30%, covered in [**05 – Validate NCPA Memory and Swap Checks**](05-Validate-NCPA-Memory-and-Swap-Checks.md).
 
 ---
+
+## TC-02 – notify-early Settings Are Applied
