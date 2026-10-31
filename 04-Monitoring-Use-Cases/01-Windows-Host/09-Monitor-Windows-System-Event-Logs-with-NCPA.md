@@ -1,3 +1,3 @@
 # 09 – Monitor Windows System Event Logs with NCPA
 
-In this doc, I will add a check that watches the Windows **System** event log on **`comp-a-test`** for failure messages. 
+In this doc, I will add a check that watches the Windows **System** event log on **`comp-a-test`** for failure messages. It counts how many System log entries in the last 24 hours mention **"failure," "failed," or "failing,"** and alerts if the count gets too high. 
