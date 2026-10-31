@@ -50,3 +50,4 @@ The details page lists the 3 entries the check found:
 
 | Time | Level | Event ID | Source | Message |
 |---|---|---|---|---|
+| 2026-10-30 11:08:04 | WARNING | 219 | Microsoft-Windows-Kernel-PnP | The driver \Driver\WUDFRd failed to load |
