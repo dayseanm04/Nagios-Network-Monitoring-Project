@@ -139,3 +139,10 @@ sudo systemctl reload nagios
 > ✅ **Verification steps and results:** [**Click here to see the NCPA System event log check validation**](../../06-Testing-and-Validation/08-Validate-NCPA-System-Event-Log-Check.md)
 
 ---
+
+## Things to Know About Log Checks
+
+| Behavior | What it means |
+|---|---|
+| **Alerts stay up for 24 hours** | The check counts entries from the last 24 hours. Even after I fix the problem, the old entries still count until they're more than 24 hours old, so the check won't go back to OK right away |
+
