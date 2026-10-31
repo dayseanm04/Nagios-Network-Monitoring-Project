@@ -62,3 +62,5 @@ I check **Run as a Nagios check** and set:
 | Critical | 10 | More than 10 matching entries in the last 24 hours |
 
 Unlike CPU or disk, these numbers are a **count of log entries**, not a percentage.
+
+I click **Reload**.
