@@ -55,6 +55,8 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 ---
 
+## TC-04 – NCPA Receives the Checks from Nagios
+
 
 
 
