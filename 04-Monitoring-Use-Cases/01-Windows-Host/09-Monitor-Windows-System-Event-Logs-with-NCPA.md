@@ -89,3 +89,6 @@ The part I need for Nagios:
 | **`message=failure\|failed\|failing`** | Only entries mentioning failure, failed, or failing |
 
 > The single quotes around the query matter. In Linux, **`|`** is a pipe, so without quotes the shell would split the command.
+
+---
+
