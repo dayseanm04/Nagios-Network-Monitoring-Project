@@ -86,6 +86,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 ## The default contact group: `admins`
 
+<img width="922" height="308" alt="4" src="https://github.com/user-attachments/assets/b42de0cb-eec1-4a20-960c-a65a7e368096" />
 
 
 
