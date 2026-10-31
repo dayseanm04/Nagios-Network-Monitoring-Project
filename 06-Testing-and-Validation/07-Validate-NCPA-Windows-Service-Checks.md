@@ -63,3 +63,5 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 **Result:** ✅ PASS. The `services` check is logged in NCPA as an active check from the Nagios server.
 
+---
+
