@@ -38,6 +38,6 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 
 <img width="937" height="758" alt="2" src="https://github.com/user-attachments/assets/ffda8b7d-529e-48f5-82ec-28117ad6cf5a" />
 
-**Actual:** `'System'=3;5;10; 'Total Count'=3;5;10;`
+**Actual:** **`'System'=3;5;10; 'Total Count'=3;5;10;`**
 
 **Result:** ✅ PASS. Each value shows the count (3), then the warning (5) and critical (10) thresholds. There are two values because NCPA reports a count for each log it searched (System) plus a total. With only one log in the query, they're the same.
