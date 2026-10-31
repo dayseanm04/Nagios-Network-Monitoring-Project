@@ -15,3 +15,6 @@ Windows keeps several event logs. The **System** log is where Windows records pr
 I'm not alerting on every entry, since a normal Windows machine logs a few failures every day. Instead, the check counts failures and alerts when there are **more than usual**.
 
 ### Why generic-service?
+
+| Setting | `generic-service` | Why it fits |
+|---|---|---|
