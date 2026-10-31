@@ -42,6 +42,7 @@ I click **API**, then under **API Endpoint** select **logs**. I fill in:
 
 | Setting | Value | What it does |
 |---|---|---|
+| Log Names – Name | **`System`** | Only reads the Windows System log |
 
 
 
