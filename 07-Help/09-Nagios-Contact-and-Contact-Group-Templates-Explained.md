@@ -75,4 +75,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | **`u`** | UNREACHABLE | UNKNOWN |
 | **`w`** | — | WARNING |
 | **`c`** | — | CRITICAL |
+| **`r`** | Recovery (back to UP) | Recovery (back to OK) |
 
