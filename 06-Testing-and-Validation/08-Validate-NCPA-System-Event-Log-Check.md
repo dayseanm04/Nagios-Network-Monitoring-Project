@@ -96,3 +96,4 @@ From the details page:
 
 ---
 
+## Conclusion
