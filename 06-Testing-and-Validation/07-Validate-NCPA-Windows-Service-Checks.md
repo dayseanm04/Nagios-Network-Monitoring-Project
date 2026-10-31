@@ -38,3 +38,5 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 <img width="1003" height="648" alt="2" src="https://github.com/user-attachments/assets/eef0bf66-98fe-4825-9dbe-172e194c2849" />
 
 **Result:** ✅ PASS. Checks are **1 minute** apart and the attempt count is out of **1**, both from `notify-early`. My other `comp-a-test` checks show x/5 (`time-sensitive`) or x/3 (`generic-service`), so the template is clearly applied.
+
+> **Why is Performance Data empty?** The CPU, memory, and disk checks return a number Nagios can graph. A service check only returns running or not running, so there's no number to report.
