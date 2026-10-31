@@ -5,3 +5,5 @@ In this doc, I will add a check that watches the Windows **System** event log on
 > ✅ **Testing and validation for this check:** [**Click here to see the NCPA System event log check validation**](../../06-Testing-and-Validation/08-Validate-NCPA-System-Event-Log-Check.md)
 
 ---
+
+## Overview
