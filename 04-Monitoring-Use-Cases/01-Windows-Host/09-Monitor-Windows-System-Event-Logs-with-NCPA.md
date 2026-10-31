@@ -107,3 +107,5 @@ sudo nano comp-a-test.cfg
 ## Step 2 – Add a Logs Section and the Check
 
 Below the Service section, I add:
+
+<img width="1024" height="714" alt="7" src="https://github.com/user-attachments/assets/aae07895-82b5-478e-bc9b-66f52b627ae3" />
