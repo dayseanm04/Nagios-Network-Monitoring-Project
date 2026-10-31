@@ -10,3 +10,4 @@ In this doc, I will verify that the **`Failed System logs`** check for **`comp-a
 
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
+| TC-01 | Service appears with a real result | A count of matching log entries | OK – System has 3 logs | ✅ PASS |
