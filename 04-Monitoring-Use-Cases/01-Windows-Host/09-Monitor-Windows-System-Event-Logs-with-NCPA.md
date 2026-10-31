@@ -18,3 +18,4 @@ I'm not alerting on every entry, since a normal Windows machine logs a few failu
 
 | Setting | `generic-service` | Why it fits |
 |---|---|---|
+| Check interval | 10 min | Log entries don't need checking every minute. The check looks back 24 hours each time, so nothing gets missed between checks |
