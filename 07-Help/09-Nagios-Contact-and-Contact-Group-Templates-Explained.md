@@ -94,3 +94,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | `alias` | **`Nagios Administrators`** | Longer, readable name. |
 | `members` | **`nagiosadmin`** | The contacts in this group. Separate multiple contacts with commas: `nagiosadmin,jdoe`. |
 
+**`generic-service`**, **`windows-server`**, and **`linux-server`** all use **`contact_groups admins`**, so by default every alert goes to **`nagiosadmin`**.
+
