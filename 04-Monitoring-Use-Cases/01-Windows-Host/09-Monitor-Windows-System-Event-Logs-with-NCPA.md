@@ -86,3 +86,4 @@ The part I need for Nagios:
 | `-M 'logs'` | Asks NCPA to search the Windows event logs |
 | `-w 5 -c 10` | WARNING above 5 matches, CRITICAL above 10 |
 | `-q 'name=System,...'` | Only the System log |
+| `message=failure\|failed\|failing` | Only entries mentioning failure, failed, or failing |
