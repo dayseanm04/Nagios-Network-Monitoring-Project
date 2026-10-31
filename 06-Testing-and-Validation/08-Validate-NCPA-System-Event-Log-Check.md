@@ -32,3 +32,4 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 
 ---
 
+## TC-02 – Thresholds Are Applied
