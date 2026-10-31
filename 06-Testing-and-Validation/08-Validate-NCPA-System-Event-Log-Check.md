@@ -48,3 +48,5 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 
 The details page lists the 3 entries the check found:
 
+| Time | Level | Event ID | Source | Message |
+|---|---|---|---|---|
