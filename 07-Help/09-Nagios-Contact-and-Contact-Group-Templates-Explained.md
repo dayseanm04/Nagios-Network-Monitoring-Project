@@ -77,4 +77,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | **`c`** | — | CRITICAL |
 | **`r`** | Recovery (back to UP) | Recovery (back to OK) |
 | **`f`** | Flapping started or stopped | Flapping started or stopped |
+| **`s`** | Scheduled downtime started or ended | Scheduled downtime started or ended |
 
