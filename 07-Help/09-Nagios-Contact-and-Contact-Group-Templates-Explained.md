@@ -51,6 +51,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 ## The template behind it: `generic-contact`
 
+**`nagiosadmin`** only sets four options. Everything else comes from **`generic-contact`** in **`/usr/local/nagios/etc/objects/templates.cfg`**. On a default install it looks like this:
 
 <img width="938" height="394" alt="3" src="https://github.com/user-attachments/assets/22184aa3-19e4-42df-bb5e-dd26ac11d3df" />
 
