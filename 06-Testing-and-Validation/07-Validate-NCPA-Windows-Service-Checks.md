@@ -32,3 +32,5 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 ---
 
 ## TC-02 – notify-early Settings Are Applied
+
+**Steps:** I click **NCPA Service Status**.
