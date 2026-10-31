@@ -151,3 +151,5 @@ sudo systemctl reload nagios
 ---
 
 ## Related Docs
+
+- [**08 – Monitor Windows Services with NCPA**](08-Monitor-Windows-Services-with-NCPA.md)
