@@ -83,7 +83,9 @@ The part I need for Nagios:
 
 | Part | What it does |
 |---|---|
-| `-M 'logs'` | Asks NCPA to search the Windows event logs |
-| `-w 5 -c 10` | WARNING above 5 matches, CRITICAL above 10 |
-| `-q 'name=System,...'` | Only the System log |
-| `message=failure\|failed\|failing` | Only entries mentioning failure, failed, or failing |
+| **`-M 'logs'`** | Asks NCPA to search the Windows event logs |
+| **`-w 5 -c 10`** | WARNING above 5 matches, CRITICAL above 10 |
+| **`-q 'name=System,...'`** | Only the System log |
+| **`message=failure\|failed\|failing`** | Only entries mentioning failure, failed, or failing |
+
+> The single quotes around the query matter. In Linux, **`|`** is a pipe, so without quotes the shell would split the command.
