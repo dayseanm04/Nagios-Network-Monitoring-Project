@@ -94,5 +94,5 @@ From the details page:
 
 **Result:** ✅ PASS. The log check is logged in NCPA as an active check from the Nagios server, 3 seconds after the Nagios check time in TC-04.
 
-
+---
 
