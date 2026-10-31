@@ -90,4 +90,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 | Option | Value | What it does |
 |---|---|---|
+| `contactgroup_name` | **`admins`** | Short name for the group. This is what `contact_groups admins` in the templates points to. |
 
