@@ -7,3 +7,5 @@ In this doc, I will add a check that watches the Windows **System** event log on
 ---
 
 ## Overview
+
+## Why Monitor the System Log?
