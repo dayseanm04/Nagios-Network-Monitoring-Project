@@ -68,5 +68,6 @@ This is why the warning threshold is 5 instead of 1. A normal startup produces a
 
 From the details page:
 
+<img width="937" height="758" alt="4" src="https://github.com/user-attachments/assets/b2f16886-347b-47d6-b7de-d8112e4f337c" />
 
 
