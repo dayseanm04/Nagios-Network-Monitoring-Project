@@ -75,7 +75,7 @@ From the details page:
 | Field | Value |
 |---|---|
 | Current Attempt | 1/3 (HARD state) |
-
+| Last Check Time | 10-30-2026 14:30:38 |
 
 
 
