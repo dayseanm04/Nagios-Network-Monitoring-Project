@@ -73,5 +73,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 |---|---|---|
 | **`d`** | DOWN | — |
 | **`u`** | UNREACHABLE | UNKNOWN |
-
+| **`w`** | — | WARNING |
 
