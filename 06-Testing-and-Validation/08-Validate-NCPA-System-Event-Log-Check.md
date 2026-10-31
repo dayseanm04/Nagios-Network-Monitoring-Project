@@ -92,6 +92,7 @@ From the details page:
 
 <img width="908" height="244" alt="6" src="https://github.com/user-attachments/assets/8660e05f-3573-4e3a-9dc0-353f4e6d8dcd" />
 
+**Result:** ✅ PASS. The log check is logged in NCPA as an active check from the Nagios server, 3 seconds after the Nagios check time in TC-04.
 
 
 
