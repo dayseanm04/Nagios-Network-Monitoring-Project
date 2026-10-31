@@ -58,6 +58,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 | Option | Value | What it does |
 |---|---|---|
+| `name` | **`generic-contact`** | The template's name, used with `use generic-contact`. |
 
 
 
