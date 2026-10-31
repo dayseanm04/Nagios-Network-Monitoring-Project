@@ -54,5 +54,6 @@ I leave EventType, EventID, SourceName, ComputerName, and EventCategory blank so
 
 ## Step 3 – Set Thresholds
 
+I check **Run as a Nagios check** and set:
 
 
