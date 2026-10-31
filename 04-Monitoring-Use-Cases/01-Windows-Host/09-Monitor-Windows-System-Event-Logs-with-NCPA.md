@@ -147,3 +147,5 @@ sudo systemctl reload nagios
 | **Alerts stay up for 24 hours** | The check counts entries from the last 24 hours. Even after I fix the problem, the old entries still count until they're more than 24 hours old, so the check won't go back to OK right away |
 | **Counts, not severity** | 3 warnings and 3 critical errors both count as 3. To only count serious entries, I could set EventType to Error |
 | **Message filter is a pattern** | `fail` alone would match all three words, plus others like "failover." Listing exact words keeps it specific |
+
+---
