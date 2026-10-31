@@ -80,3 +80,6 @@ The part I need for Nagios:
 ```
 -M 'logs' -w 5 -c 10 -q 'name=System,message=failure|failed|failing'
 ```
+
+| Part | What it does |
+|---|---|
