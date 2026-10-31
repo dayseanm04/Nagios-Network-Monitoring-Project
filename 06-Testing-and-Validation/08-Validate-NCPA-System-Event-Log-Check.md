@@ -46,6 +46,8 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 
 ## TC-03 – Matching Entries Are Real Failures
 
+<img width="937" height="758" alt="3" src="https://github.com/user-attachments/assets/6da1a8f2-cc22-48d8-a9c0-085cb5c7eb36" />
+
 The details page lists the 3 entries the check found:
 
 | Time | Level | Event ID | Source | Message |
