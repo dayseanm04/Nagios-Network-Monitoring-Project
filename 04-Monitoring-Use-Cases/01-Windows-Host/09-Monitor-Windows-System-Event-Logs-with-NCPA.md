@@ -38,6 +38,7 @@ On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the N
 
 ## Step 2 – Set Up the Log Filter
 
+I click **API**, then under **API Endpoint** select **logs**. I fill in:
 
 
 
