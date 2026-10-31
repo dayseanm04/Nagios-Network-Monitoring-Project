@@ -9,3 +9,4 @@ This guide explains the default contact and contact group that come with Nagios 
 ## What are contacts and contact groups?
 
 - A **contact** is a person (or account) Nagios can alert when something goes wrong.
+- A **contact group** is a list of contacts, so you can alert several people at once by naming the group.
