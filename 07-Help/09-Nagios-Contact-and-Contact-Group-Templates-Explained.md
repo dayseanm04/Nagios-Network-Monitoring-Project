@@ -19,3 +19,5 @@ contacts            nagiosadmin   ; alert one specific person
 ```
 
 The contact's own settings then decide **when** and **how** that person gets alerted.
+
+---
