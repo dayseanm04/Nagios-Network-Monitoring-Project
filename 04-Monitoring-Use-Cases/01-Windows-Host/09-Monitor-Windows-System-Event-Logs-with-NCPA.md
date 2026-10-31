@@ -73,3 +73,5 @@ I click **View in alternate format** → **As active check using check_ncpa.py**
 
 <img width="635" height="123" alt="4" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
 
+<img width="966" height="710" alt="5" src="https://github.com/user-attachments/assets/e36cbd3c-c120-41d6-9c22-11a70436da79" />
+
