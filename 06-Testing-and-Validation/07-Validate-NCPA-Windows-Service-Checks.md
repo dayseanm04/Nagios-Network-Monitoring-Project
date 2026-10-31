@@ -26,3 +26,5 @@ In this doc, I will verify that the **`NCPA Service Status`** check for **`comp-
 Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 **Result:** ✅ PASS
+
+> The CRITICAL is `Logical memory usage` at 95.30%, covered in [**05 – Validate NCPA Memory and Swap Checks**](05-Validate-NCPA-Memory-and-Swap-Checks.md).
