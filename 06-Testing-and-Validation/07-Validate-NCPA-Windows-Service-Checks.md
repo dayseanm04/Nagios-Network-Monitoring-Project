@@ -53,6 +53,7 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 **Result:** ✅ PASS. Windows shows the service running, which matches what Nagios reports.
 
+---
 
 
 
