@@ -80,3 +80,5 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | **`s`** | Scheduled downtime started or ended | Scheduled downtime started or ended |
 | **`n`** | None, no alerts | None, no alerts |
 
+> **Two filters, not one.** The host or service has its own **`notification_options`**, and the contact has theirs. An alert only goes out if the state is allowed by **both**. For example, **`windows-server`** uses **`d,r`**, so even though **`generic-contact`** allows **`u`**, you won't get UNREACHABLE alerts for a host using that template.
+
