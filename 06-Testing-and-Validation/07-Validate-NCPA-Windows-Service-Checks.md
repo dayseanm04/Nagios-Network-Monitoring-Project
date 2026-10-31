@@ -45,4 +45,5 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 ## TC-03 – Matches Windows Services
 
+**Steps:** On **`comp-a-test`**, I search for **Services** in the Start menu and open it, then scroll to **Nagios Cross-Platform Agent**.
 
