@@ -13,3 +13,5 @@ In this doc, I will add a check that watches the Windows **System** event log on
 Windows keeps several event logs. The **System** log is where Windows records problems with drivers, services, hardware, and startup. A service crashing, a driver failing to load, or a disk error all show up there, often before a user notices anything.
 
 I'm not alerting on every entry, since a normal Windows machine logs a few failures every day. Instead, the check counts failures and alerts when there are **more than usual**.
+
+### Why generic-service?
