@@ -92,3 +92,4 @@ The part I need for Nagios:
 
 ---
 
+# Part 2 – Add the Service in Nagios
