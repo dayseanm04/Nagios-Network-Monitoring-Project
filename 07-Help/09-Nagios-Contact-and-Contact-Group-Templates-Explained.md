@@ -45,6 +45,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | `use` | **`generic-contact`** | Inherits the rest of its settings from the `generic-contact` template in `templates.cfg`. |
 | `alias` | **`Nagios Admin`** | Longer, readable name shown in the web UI. |
 
+> **Why the name `nagiosadmin` matters:** It matches the web UI login you made during install. The web UI uses the logged-in username to figure out which contact you are, and shows you the hosts and services you're a contact for. Full admin access comes from the **`authorized_for_*`** lines in **`cgi.cfg`**.
 
 
 
