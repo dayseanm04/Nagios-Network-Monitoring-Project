@@ -40,7 +40,8 @@ On **`comp-a-test`**, I go to **`https://localhost:5693`** and log in with the N
 
 I click **API**, then under **API Endpoint** select **logs**. I fill in:
 
-
+| Setting | Value | What it does |
+|---|---|---|
 
 
 
