@@ -133,3 +133,5 @@ sudo systemctl reload nagios
 ---
 
 ## Result
+
+**`comp-a-test`** now has a **`Failed System logs`** check using **`generic-service`**. Every 10 minutes, it counts System log entries from the last 24 hours that mention failure, failed, or failing. It goes WARNING above 5 and CRITICAL above 10. The pre-flight check passes with 14 services, 0 warnings, and 0 errors, and Nagios has been reloaded.
