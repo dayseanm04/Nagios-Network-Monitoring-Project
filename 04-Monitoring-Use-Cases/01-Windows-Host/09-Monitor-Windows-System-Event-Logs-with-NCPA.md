@@ -127,3 +127,6 @@ The service count goes from **13 to 14**.
 ```bash
 sudo systemctl reload nagios
 ```
+
+<img width="1018" height="273" alt="9" src="https://github.com/user-attachments/assets/60c296ed-17dd-4e17-8474-2d0823184dd4" />
+
