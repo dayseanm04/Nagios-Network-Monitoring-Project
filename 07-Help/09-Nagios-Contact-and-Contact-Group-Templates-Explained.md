@@ -65,6 +65,7 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 | `host_notification_options` | **`d,u,r,f,s`** | Which host states this contact wants to hear about. |
 | `service_notification_commands` | **`notify-service-by-email`** | The command that sends service alerts. Defined in `commands.cfg`. |
 | `host_notification_commands` | **`notify-host-by-email`** | The command that sends host alerts. Defined in `commands.cfg`. |
+| `register` | **`0`** | Marks this as a template, not a real contact. |
 
 
 
