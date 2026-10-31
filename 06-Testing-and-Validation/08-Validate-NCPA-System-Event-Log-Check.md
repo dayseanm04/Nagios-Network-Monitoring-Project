@@ -90,6 +90,8 @@ From the details page:
 
 <img width="944" height="336" alt="5" src="https://github.com/user-attachments/assets/7d88a24f-bf7b-4aa1-adb2-aa28db13d60e" />
 
+<img width="908" height="244" alt="6" src="https://github.com/user-attachments/assets/8660e05f-3573-4e3a-9dc0-353f4e6d8dcd" />
+
 
 
 
