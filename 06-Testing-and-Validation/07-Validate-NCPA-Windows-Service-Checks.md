@@ -47,3 +47,4 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 **Steps:** On **`comp-a-test`**, I search for **Services** in the Start menu and open it, then scroll to **Nagios Cross-Platform Agent**.
 
+<img width="856" height="274" alt="3" src="https://github.com/user-attachments/assets/0f3505e8-37e5-4067-94c1-7eaad7c08aeb" />
