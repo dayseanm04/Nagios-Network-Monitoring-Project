@@ -17,3 +17,5 @@ Hosts and services decide **who** gets alerted by pointing to contacts or contac
 contact_groups      admins        ; alert everyone in the "admins" group
 contacts            nagiosadmin   ; alert one specific person
 ```
+
+The contact's own settings then decide **when** and **how** that person gets alerted.
