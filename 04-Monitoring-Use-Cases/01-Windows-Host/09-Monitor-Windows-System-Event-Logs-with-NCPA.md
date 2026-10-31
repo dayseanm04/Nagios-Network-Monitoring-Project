@@ -84,3 +84,4 @@ The part I need for Nagios:
 | Part | What it does |
 |---|---|
 | `-M 'logs'` | Asks NCPA to search the Windows event logs |
+| `-w 5 -c 10` | WARNING above 5 matches, CRITICAL above 10 |
