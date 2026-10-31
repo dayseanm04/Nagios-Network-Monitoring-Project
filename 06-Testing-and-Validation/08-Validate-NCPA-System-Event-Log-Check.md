@@ -66,6 +66,7 @@ This is why the warning threshold is 5 instead of 1. A normal startup produces a
 
 ## TC-04 – generic-service Settings Are Applied
 
+From the details page:
 
 
 
