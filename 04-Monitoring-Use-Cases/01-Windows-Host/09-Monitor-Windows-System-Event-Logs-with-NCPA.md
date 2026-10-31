@@ -44,6 +44,7 @@ I click **API**, then under **API Endpoint** select **logs**. I fill in:
 |---|---|---|
 | Log Names – Name | **`System`** | Only reads the Windows System log |
 | Log Timeframe – Logged After | **`24` Hours** | Only counts entries from the last 24 hours |
+| Message | **`failure\|failed\|failing`** | Only counts entries whose message contains one of these words |
 
 
 
