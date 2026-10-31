@@ -36,3 +36,5 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 **Steps:** I click **NCPA Service Status**.
 
 <img width="1003" height="648" alt="2" src="https://github.com/user-attachments/assets/eef0bf66-98fe-4825-9dbe-172e194c2849" />
+
+**Result:** ✅ PASS. Checks are **1 minute** apart and the attempt count is out of **1**, both from `notify-early`. My other `comp-a-test` checks show x/5 (`time-sensitive`) or x/3 (`generic-service`), so the template is clearly applied.
