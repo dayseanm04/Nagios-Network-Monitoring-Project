@@ -68,3 +68,5 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 ## Conclusion
 
 The **`NCPA Service Status`** check works while NCPA is running. Nagios shows **OK: NCPA is running**, checks every minute with 1 attempt from **`notify-early`**, matches the Windows Services app, and NCPA's Checks log confirms the requests come from the Nagios server.
+
+---
