@@ -82,7 +82,7 @@ From the details page:
 
 **Result:** ✅ PASS. Checks are **10 minutes** apart and the attempt count is out of **3**, both from `generic-service`.
 
-
+---
 
 
 
