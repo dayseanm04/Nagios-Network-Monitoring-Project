@@ -49,6 +49,8 @@ host / service  →  contact_groups admins  →  members nagiosadmin  →  use g
 
 ---
 
+## The template behind it: `generic-contact`
+
 
 <img width="938" height="394" alt="3" src="https://github.com/user-attachments/assets/22184aa3-19e4-42df-bb5e-dd26ac11d3df" />
 
