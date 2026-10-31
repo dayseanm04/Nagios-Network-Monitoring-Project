@@ -49,7 +49,7 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 <img width="856" height="274" alt="3" src="https://github.com/user-attachments/assets/0f3505e8-37e5-4067-94c1-7eaad7c08aeb" />
 
-<img width="950" height="297" alt="S4" src="https://github.com/user-attachments/assets/14b69287-dc0e-41b4-ac7e-896cc11b7097" />
+<img width="950" height="297" alt="4" src="https://github.com/user-attachments/assets/14b69287-dc0e-41b4-ac7e-896cc11b7097" />
 
 **Result:** ✅ PASS. Windows shows the service running, which matches what Nagios reports.
 
@@ -59,5 +59,6 @@ Service totals: **12 OK, 1 CRITICAL**, 13 total.
 
 **Steps:** On **`comp-a-test`**, I log in to **`https://localhost:5693`**, click **Checks**, filter by **Status: OK**, **Type: Active**, and **Executed By: 192.168.1.99**, and click **Filter**.
 
+<img width="946" height="482" alt="5" src="https://github.com/user-attachments/assets/7d8ddb6d-1c03-443d-b70b-42693064fd84" />
 
 
