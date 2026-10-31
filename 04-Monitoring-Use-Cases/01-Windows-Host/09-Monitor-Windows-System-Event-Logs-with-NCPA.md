@@ -46,6 +46,7 @@ I click **API**, then under **API Endpoint** select **logs**. I fill in:
 | Log Timeframe – Logged After | **`24` Hours** | Only counts entries from the last 24 hours |
 | Message | **`failure\|failed\|failing`** | Only counts entries whose message contains one of these words |
 
+> **What does `|` mean here?** The Message field is a pattern, and `|` means **OR**. So `failure|failed|failing` matches any entry with "failure" **or** "failed" **or** "failing" in its message.
 
 
 
