@@ -154,3 +154,4 @@ sudo systemctl reload nagios
 
 - [**08 – Monitor Windows Services with NCPA**](08-Monitor-Windows-Services-with-NCPA.md)
 - [**06-Testing-and-Validation / 08 – Validate NCPA System Event Log Check**](../../06-Testing-and-Validation/08-Validate-NCPA-System-Event-Log-Check.md)
+- [**08-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../08-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md)
