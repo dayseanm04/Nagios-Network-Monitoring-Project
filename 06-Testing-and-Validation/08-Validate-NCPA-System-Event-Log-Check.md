@@ -44,4 +44,5 @@ Service totals: **13 OK, 1 CRITICAL**, 14 total.
 
 ---
 
+## TC-03 – Matching Entries Are Real Failures
 
