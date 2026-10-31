@@ -71,3 +71,5 @@ There are 3 matching entries, which is under the warning threshold of 5.
 
 I click **View in alternate format** → **As active check using check_ncpa.py**.
 
+<img width="635" height="123" alt="4" src="https://github.com/user-attachments/assets/1ce88717-79b5-4362-91c1-e1f64ede6aa6" />
+
