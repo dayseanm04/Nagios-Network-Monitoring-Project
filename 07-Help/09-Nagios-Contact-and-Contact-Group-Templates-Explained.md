@@ -5,3 +5,5 @@ This guide explains the default contact and contact group that come with Nagios 
 **File location:** **`/usr/local/nagios/etc/objects/contacts.cfg`**
 
 ---
+
+## What are contacts and contact groups?
