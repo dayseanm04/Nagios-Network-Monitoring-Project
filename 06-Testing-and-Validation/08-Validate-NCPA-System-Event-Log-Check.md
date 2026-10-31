@@ -14,3 +14,4 @@ In this doc, I will verify that the **`Failed System logs`** check for **`comp-a
 | TC-02 | Thresholds are applied | Perf data shows `5;10` | `'System'=3;5;10; 'Total Count'=3;5;10;` | ✅ PASS |
 | TC-03 | Matching entries are real failures | Entries mention failure/failed/failing | 3 "driver failed to load" entries | ✅ PASS |
 | TC-04 | `generic-service` settings | 10-min interval, attempts out of 3 | 14:30:38 → 14:40:38, 1/3 | ✅ PASS |
+| TC-05 | NCPA receives the checks from Nagios | `logs` entry from `192.168.1.99` | OK, Active, from `192.168.1.99` | ✅ PASS |
