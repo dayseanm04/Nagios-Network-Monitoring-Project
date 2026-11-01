@@ -122,6 +122,7 @@ The **`Failed System logs`** check works in its OK state. Nagios gets a real cou
 |---|---|
 | The CRITICAL threshold works | More than 10 matching entries triggered CRITICAL, and it went HARD after 3 attempts |
 | The check counts a 24-hour window | The entries from earlier restarts were still counted, so the check stays CRITICAL until they're more than 24 hours old |
+| **This alert is caused by normal startup messages, not a real problem** | My thresholds assumed 1 restart a day. A machine that restarts more often goes CRITICAL even when nothing is wrong |
 
 ---
 
