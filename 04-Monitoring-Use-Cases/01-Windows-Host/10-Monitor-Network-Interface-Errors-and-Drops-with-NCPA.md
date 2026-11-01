@@ -13,3 +13,4 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 <img width="273" height="278" alt="1" src="https://github.com/user-attachments/assets/401afbd8-7302-4b35-b2bf-2b7bcb686cf2" />
 
 | Interface | What it is | Monitored? |
+|---|---|---|
