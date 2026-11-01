@@ -104,6 +104,7 @@ On October 30, the check was OK with 3 matching entries. Over the next two days,
 
 <img width="1027" height="707" alt="7" src="https://github.com/user-attachments/assets/cee8b1f7-2f47-46d9-bc9d-d217de92353a" />
 
+16 is above the critical threshold of 10, so **CRITICAL** is correct.
 
 ## Conclusion
 
