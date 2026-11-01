@@ -15,7 +15,7 @@ In this doc, I will verify that the **`Failed System logs`** check for **`comp-a
 | TC-03 | Matching entries are real failures | Entries mention failure/failed/failing | 3 "driver failed to load" entries | ✅ PASS |
 | TC-04 | `generic-service` settings | 10-min interval, attempts out of 3 | 14:30:38 → 14:40:38, 1/3 | ✅ PASS |
 | TC-05 | NCPA receives the checks from Nagios | `logs` entry from `192.168.1.99` | OK, Active, from `192.168.1.99` | ✅ PASS |
-
+| TC-06 | More than 10 matching entries goes CRITICAL | **CRITICAL** | CRITICAL – System has 16 logs, attempt 3/3 (HARD) | ✅ PASS |
 ---
 
 ## TC-01 – Service Appears with a Real Result
