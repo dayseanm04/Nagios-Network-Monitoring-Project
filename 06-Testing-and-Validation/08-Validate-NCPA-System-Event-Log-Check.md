@@ -106,6 +106,8 @@ On October 30, the check was OK with 3 matching entries. Over the next two days,
 
 16 is above the critical threshold of 10, so **CRITICAL** is correct.
 
+**Result:** ✅ PASS. The check reached 3/3 (HARD), so it went through all 3 attempts from `generic-service` before confirming the problem.
+
 ## Conclusion
 
 The **`Failed System logs`** check works in its OK state. Nagios gets a real count of System log failures from NCPA, applies the 5 and 10 thresholds, checks every 10 minutes with 3 attempts from **`generic-service`**, and NCPA's Checks log confirms the requests come from the Nagios server. The 3 entries it found were driver load warnings from startup, which shows the filter matches real failures and the thresholds leave room for normal startup noise.
