@@ -14,3 +14,4 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 
 | Interface | What it is | Monitored? |
 |---|---|---|
+| **vEthernet (Net-MGNT-SW)** | comp-a-test's virtual adapter on the Hyper-V external switch. All of comp-a-test's traffic and NetworkVM's traffic goes through it | ✅ Yes |
