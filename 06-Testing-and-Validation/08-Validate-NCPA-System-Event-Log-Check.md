@@ -118,9 +118,10 @@ The **`Failed System logs`** check works in its OK state. Nagios gets a real cou
 
 ### What this shows
 
-| The CRITICAL threshold works | More than 10 matching entries triggered CRITICAL, and it went HARD after 3 attempts |
 | What I learned | Why it matters |
 |---|---|
+| The CRITICAL threshold works | More than 10 matching entries triggered CRITICAL, and it went HARD after 3 attempts |
+| The check counts a 24-hour window | The entries from earlier restarts were still counted, so the check stays CRITICAL until they're more than 24 hours old |
 
 ---
 
