@@ -135,6 +135,7 @@ Below the Logs section, I add:
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+## Step 3 – Run the Pre-Flight Check
 
 
 
