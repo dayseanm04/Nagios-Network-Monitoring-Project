@@ -15,3 +15,5 @@ In this doc, I will prepare Nagios to monitor routers. I'll create a **`routers`
 ├── templates/
 └── windows-hosts/
 ```
+
+**After:**
