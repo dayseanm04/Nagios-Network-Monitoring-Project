@@ -262,3 +262,11 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | Setting | What it does |
 |---|---|
 | **`check_period 24x7`** | Checks the device at all hours, every day. Network devices affect everything behind them, so they shouldn't have gaps in monitoring |
+
+---
+
+## Where Things Stand
+
+**I haven't run the pre-flight check yet.** At this point, **`verizon-r1.cfg`** is still the unedited sample from **`switch.cfg`**. It defines the sample Linksys switch, points to the **`switches`** hostgroup I removed, and has SNMP and MRTG service. Running the pre-flight now would fail.
+
+In the next doc, I replace the sample with my router's host definition and service checks, then run the pre-flight check.
