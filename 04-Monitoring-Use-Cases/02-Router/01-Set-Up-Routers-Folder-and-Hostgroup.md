@@ -120,7 +120,18 @@ sudo rm windows-hostgroup.cfg
 ls -l
 ```
 
-<img width="906" height="357" alt="9" src="https://github.com/user-attachments/assets/c51d3520-14ee-4e45-ae59-853b7bcdcfbb" />
+<img width="853" height="314" alt="Screenshot 2026-11-01 145309" src="https://github.com/user-attachments/assets/a9e939cb-9253-4c86-8807-7ead49d9c764" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
