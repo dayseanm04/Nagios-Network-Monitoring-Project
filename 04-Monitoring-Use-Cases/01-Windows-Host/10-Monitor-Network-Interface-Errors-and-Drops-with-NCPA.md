@@ -65,5 +65,40 @@ I will use:
 
 ### Errors Out – `errout`
 
+<img width="963" height="511" alt="6" src="https://github.com/user-attachments/assets/ad3aea5f-f1f6-4ce8-a405-c60763dc64c0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
