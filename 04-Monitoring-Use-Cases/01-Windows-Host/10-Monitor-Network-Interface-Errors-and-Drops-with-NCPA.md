@@ -39,3 +39,4 @@ For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in t
 
 ## Step 1 – Log In and Select the Interface
 
+On **`comp-a-test`**, I go to **`https://localhost:5693`**, log in with the NCPA token, and click **API**.
