@@ -127,6 +127,7 @@ sudo nano comp-a-test.cfg
 
 ## Step 2 – Add the Network Interface Section
 
+Below the Logs section, I add:
 
 
 
