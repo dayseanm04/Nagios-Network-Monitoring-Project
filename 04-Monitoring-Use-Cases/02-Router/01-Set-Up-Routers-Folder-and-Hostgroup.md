@@ -122,8 +122,14 @@ ls -l
 
 <img width="853" height="314" alt="9" src="https://github.com/user-attachments/assets/a9e939cb-9253-4c86-8807-7ead49d9c764" />
 
+---
 
+## Step 4 – Copy switch.cfg into the Folder
 
+```bash
+sudo cp /usr/local/nagios/etc/objects/switch.cfg .
+ls -l
+```
 
 
 
