@@ -53,5 +53,6 @@ I exit without saving: **Ctrl+X**.
 
 ---
 
+## Step 2 – Review the Sample switch.cfg
 
 
