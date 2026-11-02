@@ -242,3 +242,6 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 Every **`.cfg`** file in **`routers/`** will now be loaded when Nagios starts.
 
 ---
+
+## Step 11 – Update the network-device-host Template
+
