@@ -137,6 +137,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ## Step 3 – Run the Pre-Flight Check
 
+<img width="1016" height="852" alt="15" src="https://github.com/user-attachments/assets/46476a61-596f-404e-bad0-148fdf9d9a29" />
 
 
 
