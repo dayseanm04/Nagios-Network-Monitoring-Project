@@ -133,6 +133,7 @@ ls -l
 
 <img width="998" height="510" alt="10" src="https://github.com/user-attachments/assets/893f5d15-c8c1-4441-b034-f7941073684b" />
 
+The **`.`** means "copy it here," into the current folder.
 
 
 
