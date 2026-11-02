@@ -107,6 +107,10 @@ I will use:
 | Drops | Above 1/s | Above 5/s | Some drops can be normal on Wi-Fi and a virtual switch, so these leave a little room. I'll adjust them if my normal level turns out higher |
 
 
+**Notes on the commands:**
+> - **`--delta`** turns on Delta, the same as the checkbox in NCPA.
+> - No unit prefix is needed. These are counts, not sizes.
+> - The interface name has a space and parentheses, so the metric path has to stay inside single quotes.
 
 
 
