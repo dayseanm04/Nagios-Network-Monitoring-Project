@@ -43,6 +43,7 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 <img width="1023" height="770" alt="5" src="https://github.com/user-attachments/assets/3cf509ee-5b13-43bf-a57c-315673064e5c" />
 
+<img width="1029" height="768" alt="6" src="https://github.com/user-attachments/assets/d1a68f2d-fa41-486a-9c7e-07da6f156719" />
 
 
 
