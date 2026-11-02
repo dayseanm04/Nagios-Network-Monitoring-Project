@@ -31,7 +31,9 @@ This follows the same rule I used for Windows hosts in [**02-Setup / 08 – Rest
 
 ---
 
+## Step 1 – Check the cfg_dir Examples in nagios.cfg
 
+## Step 1 – Check the cfg_dir Examples in nagios.cfg
 
 
 
