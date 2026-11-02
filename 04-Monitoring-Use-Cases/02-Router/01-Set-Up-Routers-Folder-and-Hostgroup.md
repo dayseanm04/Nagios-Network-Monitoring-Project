@@ -261,3 +261,4 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 | Setting | What it does |
 |---|---|
+| **`check_period 24x7`** | Checks the device at all hours, every day. Network devices affect everything behind them, so they shouldn't have gaps in monitoring |
