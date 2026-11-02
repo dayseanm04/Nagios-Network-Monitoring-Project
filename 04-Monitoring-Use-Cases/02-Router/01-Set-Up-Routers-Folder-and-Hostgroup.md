@@ -35,8 +35,13 @@ This follows the same rule I used for Windows hosts in [**02-Setup / 08 – Rest
 
 ## Step 1 – Check the cfg_dir Examples in nagios.cfg
 
+```bash
+cd /usr/local/nagios/etc
+ls -l
+sudo nano nagios.cfg
+```
 
-
+<img width="852" height="236" alt="1" src="https://github.com/user-attachments/assets/1d27a16c-9e00-496d-9f3f-291e34077ef5" />
 
 
 
