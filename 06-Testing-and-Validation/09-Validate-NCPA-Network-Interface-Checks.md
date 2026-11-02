@@ -52,5 +52,6 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 | Errors In | `'errin'=0.00;0;1;` | Warning 0, Critical 1 |
 | Errors Out | `'errout'=0.00;0;1;` | Warning 0, Critical 1 |
 | Drops In | `'dropin'=0.00;1;5;` | Warning 1, Critical 5 |
+| Drops Out | `'dropout'=0.00;1;5;` | Warning 1, Critical 5 |
 
 
