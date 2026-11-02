@@ -103,6 +103,7 @@ I will use:
 
 | Check | Warning | Critical | Reasoning |
 |---|---|---|---|
+| Errors | Above 0 | Above 1/s | A healthy interface has no errors, so any error is worth a warning. 1 error per second is about 60 damaged packets a minute, which points to a real problem |
 
 
 
