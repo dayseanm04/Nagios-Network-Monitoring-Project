@@ -154,4 +154,5 @@ To delete the whole section in nano:
 1. Move the cursor to the start of the section.
 2. Press **Alt+A** to set a mark. **Mark Set** appears at the bottom.
 
+<img width="841" height="475" alt="12" src="https://github.com/user-attachments/assets/92add1f8-89e8-44d9-91e8-437a1efbe168" />
 
