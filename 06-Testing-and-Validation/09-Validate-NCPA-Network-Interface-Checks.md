@@ -113,5 +113,4 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 ## Related Docs
 
 - [**04-Monitoring-Use-Cases / 01-Windows-Host / 10 – Monitor Network Interface Errors and Drops with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/10-Monitor-Network-Interface-Errors-and-Drops-with-NCPA.md)
-
-
+- [**06-Testing-and-Validation / 08 – Validate NCPA System Event Log Check**](08-Validate-NCPA-System-Event-Log-Check.md)
