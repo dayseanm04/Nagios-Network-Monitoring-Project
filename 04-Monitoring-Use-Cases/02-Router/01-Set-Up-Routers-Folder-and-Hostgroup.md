@@ -145,6 +145,7 @@ The **`.`** means "copy it here," into the current folder.
 sudo nano switch.cfg
 ```
 
+I scroll down to **HOST GROUP DEFINITIONS**.
 
 
 
