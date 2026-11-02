@@ -160,3 +160,6 @@ sudo systemctl reload nagios
 **`comp-a-test`** now has four network interface checks on **`vEthernet (Net-MGNT-SW)`**, all using **`notify-early`** and Delta. Errors go WARNING above 0 per second and CRITICAL above 1. Drops go WARNING above 1 per second and CRITICAL above 5. The pre-flight check passes with 18 services, 0 warnings, and 0 errors, and Nagios has been reloaded.
 
 > **Verification steps and results:** [**Click here to see the NCPA network interface check validation**](../../06-Testing-and-Validation/09-Validate-NCPA-Network-Interface-Checks.md)
+
+---
+
