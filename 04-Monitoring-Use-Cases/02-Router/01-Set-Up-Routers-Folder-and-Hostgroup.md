@@ -214,3 +214,8 @@ Because I created everything with **`sudo`**, the folder and files are owned by 
 | **`chown -R nagios:nagios`** | Makes the **`nagios`** user and group the owner of the folder and everything in it |
 | **`chmod 775` (folder)** | Owner and group can read, write, and open the folder. Everyone else can read and open it |
 | **`chmod 664` (files)** | Owner and group can read and write. Everyone else can only read |
+
+---
+
+
+
