@@ -131,6 +131,7 @@ Below the Logs section, I add:
 
 <img width="890" height="465" alt="13" src="https://github.com/user-attachments/assets/46c6361b-7232-4beb-9443-9951b2321d7d" />
 
+<img width="883" height="390" alt="14" src="https://github.com/user-attachments/assets/d1183922-d032-49eb-945e-f01f0c7cad0d" />
 
 
 
