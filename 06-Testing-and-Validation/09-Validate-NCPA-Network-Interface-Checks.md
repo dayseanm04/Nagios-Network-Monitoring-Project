@@ -98,6 +98,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 **Steps:** On `comp-a-test`, I log in to **`https://localhost:5693**`, click **Checks**, filter by **Status: OK**, **Type: Active**, and **Executed By: 192.168.1.99**, and click **Filter**.
 
+<img width="962" height="477" alt="7" src="https://github.com/user-attachments/assets/e3c1604c-878f-43b5-b340-e53668d098e1" />
 
 
 
