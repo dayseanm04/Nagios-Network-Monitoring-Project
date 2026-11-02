@@ -201,3 +201,7 @@ ls -l
 
 Because I created everything with **`sudo`**, the folder and files are owned by **`root`**. I change them to match the rest of the Nagios config:
 
+<img width="957" height="482" alt="17" src="https://github.com/user-attachments/assets/d1fc4b81-be3b-4ecb-a4f2-714818cb325b" />
+
+
+
