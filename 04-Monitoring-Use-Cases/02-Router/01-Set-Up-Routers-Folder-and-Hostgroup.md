@@ -78,10 +78,15 @@ sudo nano switch.cfg
 
 **What's SNMP?** Simple Network Management Protocol. It's how monitoring tools read stats like uptime, port status, and traffic from network devices. Enterprise routers and switches support it. Most ISP home routers don't, so I'll use ping and other checks that don't need it.
 
-I exit: **Ctrl+X**, then go back to the `etc` folder:
 
+| Service | How it checks | Useful for my router? |
+|---|---|---|
+| PING | **`check_ping`** |  Yes. Works on any device that answers ping |
+| Uptime | SNMP (`sysUpTime.0`) | Only if my router supports SNMP |
+| Port 1 Link Status | SNMP (`ifOperStatus.1`) | Only if my router supports SNMP |
+| Port 1 Bandwidth Usage | MRTG log files | Needs MRTG, which isn't installed |
 
-
+> I'll check whether my Verizon router supports SNMP before deciding on the Uptime and Port 1 Link Status checks.
 
 
 
