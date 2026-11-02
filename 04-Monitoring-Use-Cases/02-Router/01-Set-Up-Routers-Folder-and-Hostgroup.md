@@ -246,3 +246,11 @@ Every **`.cfg`** file in **`routers/`** will now be loaded when Nagios starts.
 ## Step 11 – Update the network-device-host Template
 
 My **`network-device-host`** template, created in [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md), will be used by the router. I add a **`check_period`** so network devices are checked around the clock:
+
+```bash
+cd templates
+ls -l
+sudo nano custom-templates.cfg
+```
+
+
