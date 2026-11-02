@@ -109,3 +109,11 @@ I created the folder by copying **`windows-hosts`** and then removing its files:
 sudo cp -r windows-hosts router
 ls -l
 ```
+
+<img width="941" height="531" alt="8" src="https://github.com/user-attachments/assets/2eb25760-6f1a-4801-861f-bc08b6305d48" />
+
+
+
+
+
+
