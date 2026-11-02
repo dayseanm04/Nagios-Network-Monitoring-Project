@@ -180,4 +180,6 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 Any router I add later joins this group with `hostgroups routers` in its host definition.
 
+## Step 7 – Rename switch.cfg to verizon-r1.cfg
+
 
