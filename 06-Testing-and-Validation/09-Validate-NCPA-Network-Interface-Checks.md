@@ -49,5 +49,6 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 | Service | Performance Data | Thresholds |
 |---|---|---|
+| Errors In | `'errin'=0.00;0;1;` | Warning 0, Critical 1 |
 
 
