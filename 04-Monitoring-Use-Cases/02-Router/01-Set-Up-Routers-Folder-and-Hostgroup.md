@@ -91,6 +91,7 @@ sudo nano switch.cfg
 
 > I'll check whether my Verizon router supports SNMP before deciding on the Uptime and Port 1 Link Status checks.
 
+I exit: **Ctrl+X**, then go back to the `**etc** folder:
 
 
 
