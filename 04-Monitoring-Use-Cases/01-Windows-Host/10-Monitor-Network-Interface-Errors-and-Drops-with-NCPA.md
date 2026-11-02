@@ -71,7 +71,9 @@ I will use:
 
 I will use:
 
-
+```
+-M 'interface/vEthernet (Net-MGNT-SW)/errout' -w 0 -c 1 --delta
+```
 
 
 
