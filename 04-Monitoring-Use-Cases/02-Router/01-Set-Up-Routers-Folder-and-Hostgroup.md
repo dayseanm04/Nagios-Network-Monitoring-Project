@@ -273,4 +273,6 @@ In the next doc, I replace the sample with my router's host definition and servi
 
 ---
 
+- [**02 – Add Verizon Router to Nagios**](02-Add-Verizon-Router-to-Nagios.md)
+
 ## Related Docs
