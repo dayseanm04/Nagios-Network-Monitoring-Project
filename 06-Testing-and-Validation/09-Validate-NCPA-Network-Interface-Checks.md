@@ -60,5 +60,6 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 ## TC-03 – Delta Is Working
 
+Without Delta, NCPA would return running totals since the adapter came up. Windows showed the adapter had already handled hundreds of thousands of packets, so a total would be a large and growing number.
 
 
