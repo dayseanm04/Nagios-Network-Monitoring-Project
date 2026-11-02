@@ -5,3 +5,5 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 > **How these checks were created:** [**Click here to see Monitor Network Interface Errors and Drops with NCPA**](../04-Monitoring-Use-Cases/01-Windows-Host/10-Monitor-Network-Interface-Errors-and-Drops-with-NCPA.md)
 
 ---
+
+## Test Cases
