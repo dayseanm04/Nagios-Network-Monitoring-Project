@@ -8,7 +8,7 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 
 ## Overview
 
-## Which Interface and Why
+### Which Interface and Why
 
 <img width="273" height="278" alt="1" src="https://github.com/user-attachments/assets/401afbd8-7302-4b35-b2bf-2b7bcb686cf2" />
 
