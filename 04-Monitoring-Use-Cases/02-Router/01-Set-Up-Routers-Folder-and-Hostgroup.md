@@ -71,7 +71,7 @@ sudo nano switch.cfg
 
 <img width="951" height="537" alt="5" src="https://github.com/user-attachments/assets/43b07d5e-0519-4e0c-8340-b28290dad28a" />
 
-**What's SNMP?** Simple Network Management Protocol. It's how monitoring tools read stats like uptime, port status, and traffic from network devices. 
+**What's SNMP?** Simple Network Management Protocol. It's how monitoring tools read stats like uptime, port status, and traffic from network devices. Enterprise routers and switches support it. Most ISP home routers don't, so I'll use ping and other checks that don't need it.
 
 
 
