@@ -147,5 +147,6 @@ sudo nano switch.cfg
 
 I scroll down to **HOST GROUP DEFINITIONS**.
 
+<img width="846" height="382" alt="11" src="https://github.com/user-attachments/assets/9ad9ccf7-d976-4c8b-aa09-7f34a702b132" />
 
 
