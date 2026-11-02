@@ -20,4 +20,4 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 | Local Area Connection\* 9 / 10 | Virtual Wi-Fi adapters for features like Mobile Hotspot | No |
 | Bluetooth, Loopback | Not part of this project network | No |
 
-**The Wi-Fi adapter isn't in the list.** When I bound `Net-MGNT-SW` to the Wi-Fi adapter (see [02-Setup / 02 – Configure the Hyper-V Virtual Switch](../../02-Setup/02-Configure-Hyper-V-Virtual-Switch.md)), Windows moved the host's network connection to `vEthernet (Net-MGNT-SW)`. That's why this is the adapter carrying the traffic.
+**The Wi-Fi adapter isn't in the list.** When I bound **`Net-MGNT-SW`** to the Wi-Fi adapter (see [**02-Setup / 02 – Configure the Hyper-V Virtual Switch**](../../02-Setup/02-Configure-Hyper-V-Virtual-Switch.md)), Windows moved the host's network connection to **`vEthernet (Net-MGNT-SW)`**. That's why this is the adapter carrying the traffic.
