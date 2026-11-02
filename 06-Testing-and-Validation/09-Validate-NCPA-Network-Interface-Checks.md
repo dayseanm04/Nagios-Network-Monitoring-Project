@@ -81,6 +81,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 ---
 
+## TC-05 – Notes Are Shown in Nagios
 
 
 
