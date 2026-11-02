@@ -18,3 +18,5 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 | TC-06 | NCPA receives the checks from Nagios | Entries from `192.168.1.99` | errin, errout, dropout logged from **`192.168.1.99`** | ✅ PASS |
 
 ---
+
+## TC-01 – All Four Services Appear with Real Results
