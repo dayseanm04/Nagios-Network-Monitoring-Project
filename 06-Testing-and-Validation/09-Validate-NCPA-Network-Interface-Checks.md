@@ -72,6 +72,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 | Service | Last Check | Next Check | Current Attempt |
 |---|---|---|---|
+| Drops In | 14:25:51 | 14:26:51 | 1/1 (HARD) |
 
 
 
