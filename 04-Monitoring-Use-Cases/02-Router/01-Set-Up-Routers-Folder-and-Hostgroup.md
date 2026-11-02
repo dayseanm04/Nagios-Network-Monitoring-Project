@@ -44,6 +44,7 @@ sudo nano nagios.cfg
 <img width="852" height="236" alt="1" src="https://github.com/user-attachments/assets/1d27a16c-9e00-496d-9f3f-291e34077ef5" />
 
 
+I scroll down to the section for monitoring a router/switch.
 
 
 
