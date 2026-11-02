@@ -193,4 +193,5 @@ ls -l
 
 <img width="845" height="109" alt="16" src="https://github.com/user-attachments/assets/82b53b37-f00a-42fd-837e-964757bea7ca" />
 
+**`verizon-r1`** matches the router's name on my [**network diagram**](../../README.md).
 
