@@ -47,6 +47,7 @@ I scroll down to the section for monitoring a router/switch.
 
 <img width="854" height="582" alt="2" src="https://github.com/user-attachments/assets/b3d0f810-838a-492c-a6c2-daf84f10a01b" />
 
+There's a line for a `routers` folder, so I'll name my folder **`routers`** to match it.
 
 
 
