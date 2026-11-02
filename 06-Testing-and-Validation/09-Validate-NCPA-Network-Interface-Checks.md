@@ -100,6 +100,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 <img width="962" height="477" alt="7" src="https://github.com/user-attachments/assets/e3c1604c-878f-43b5-b340-e53668d098e1" />
 
+<img width="962" height="727" alt="8" src="https://github.com/user-attachments/assets/1b606c53-a13e-46e1-8516-e872d69c1499" />
 
 
 
