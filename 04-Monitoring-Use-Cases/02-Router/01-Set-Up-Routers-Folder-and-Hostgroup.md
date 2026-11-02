@@ -270,3 +270,5 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 **I haven't run the pre-flight check yet.** At this point, **`verizon-r1.cfg`** is still the unedited sample from **`switch.cfg`**. It defines the sample Linksys switch, points to the **`switches`** hostgroup I removed, and has SNMP and MRTG service. Running the pre-flight now would fail.
 
 In the next doc, I replace the sample with my router's host definition and service checks, then run the pre-flight check.
+
+---
