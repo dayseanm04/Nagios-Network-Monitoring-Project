@@ -69,6 +69,7 @@ sudo nano switch.cfg
 
 ### Services
 
+<img width="951" height="537" alt="5" src="https://github.com/user-attachments/assets/43b07d5e-0519-4e0c-8340-b28290dad28a" />
 
 
 
