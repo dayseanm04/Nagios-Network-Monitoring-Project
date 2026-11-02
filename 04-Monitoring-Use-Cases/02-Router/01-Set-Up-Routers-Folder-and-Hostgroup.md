@@ -57,7 +57,11 @@ I exit without saving: **Ctrl+X**.
 
 Nagios comes with a sample config for monitoring a network device. I looked at it before using it:
 
-
+```bash
+cd objects
+ls -l
+sudo nano switch.cfg
+```
 
 
 
