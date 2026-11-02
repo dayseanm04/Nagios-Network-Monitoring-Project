@@ -77,6 +77,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 | Errors Out | 14:27:02 | 14:28:02 | 1/1 (HARD) |
 | Drops Out | 14:28:03 | 14:29:03 | 1/1 (HARD) |
 
+**Result:** ✅ PASS. All four check every **1 minute** with **1** attempt, from **`notify-early`**.
 
 
 
