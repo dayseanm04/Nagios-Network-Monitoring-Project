@@ -197,3 +197,5 @@ ls -l
 
 ---
 
+## Step 8 – Set Ownership and Permissions
+
