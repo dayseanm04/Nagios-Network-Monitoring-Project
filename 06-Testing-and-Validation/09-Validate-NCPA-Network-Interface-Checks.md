@@ -64,3 +64,5 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 **Actual:** Every check reports a **rate**: `errors/s` and `packets/s`, with a value of `0.00`.
 
+**Result:** ✅ PASS. The checks measure what's happening now, not since the last reboot.
+
