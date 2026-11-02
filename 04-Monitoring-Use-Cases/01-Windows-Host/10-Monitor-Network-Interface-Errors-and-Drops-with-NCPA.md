@@ -77,6 +77,7 @@ I will use:
 
 ### Drops In – `dropin`
 
+<img width="958" height="523" alt="8" src="https://github.com/user-attachments/assets/bc28df02-8f4a-4a10-b441-a1f43fdcb075" />
 
 
 
