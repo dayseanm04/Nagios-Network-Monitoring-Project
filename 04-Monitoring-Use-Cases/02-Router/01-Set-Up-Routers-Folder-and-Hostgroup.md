@@ -199,3 +199,5 @@ ls -l
 
 ## Step 8 – Set Ownership and Permissions
 
+Because I created everything with **`sudo`**, the folder and files are owned by **`root`**. I change them to match the rest of the Nagios config:
+
