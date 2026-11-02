@@ -89,6 +89,7 @@ I will use:
 
 ### Drops Out – `dropout`
 
+<img width="965" height="515" alt="10" src="https://github.com/user-attachments/assets/5ede31c2-a22b-40eb-ad04-2ce1bf2baaf3" />
 
 
 
