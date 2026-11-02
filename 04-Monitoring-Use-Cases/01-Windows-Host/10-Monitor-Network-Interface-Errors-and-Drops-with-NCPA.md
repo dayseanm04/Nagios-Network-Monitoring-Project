@@ -101,6 +101,8 @@ I will use:
 
 ### Why these thresholds
 
+| Check | Warning | Critical | Reasoning |
+|---|---|---|---|
 
 
 
