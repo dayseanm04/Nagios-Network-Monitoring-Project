@@ -79,6 +79,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 **Result:** ✅ PASS. All four check every **1 minute** with **1** attempt, from **`notify-early`**.
 
+---
 
 
 
