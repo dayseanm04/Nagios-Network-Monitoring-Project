@@ -29,3 +29,4 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 | **Net-MGNT-SW** | The Hyper-V virtual switch |
 | **vEthernet (Net-MGNT-SW)** | comp-a-test's own virtual adapter that connects Windows to that switch |
 
+These checks monitor **comp-a-test's adapter**, not the switch itself. The switch has no IP address and no agent, so Nagios can't monitor it directly. That's why these services belong in **`comp-a-test.cfg`** and not in a separate host file.
