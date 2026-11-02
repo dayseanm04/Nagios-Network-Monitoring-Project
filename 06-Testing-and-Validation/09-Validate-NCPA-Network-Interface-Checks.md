@@ -13,3 +13,4 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 | TC-01 | All four services appear with real results | Per-second values, OK | All OK, 0.00 per second | ✅ PASS |
 | TC-02 | Thresholds are applied | Perf data shows `0;1` and `1;5` | Matches on all four | ✅ PASS |
 | TC-03 | Delta is working | Values are rates (per second), not running totals | 0.00 errors/s and packets/s | ✅ PASS |
+| TC-04 | `notify-early` settings | 1-min interval, attempt 1/1 | 1 min apart, 1/1 (HARD) | ✅ PASS |
