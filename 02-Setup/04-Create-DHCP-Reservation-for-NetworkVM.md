@@ -52,9 +52,9 @@ The MAC address is on the `link/ether` line (format **`xx:xx:xx:xx:xx:xx`**).
 1. In the left menu, expand **Network Settings**.
 2. Click **IPv4 Address Distribution**.
 
-<img width="1070" height="543" alt="2" src="https://github.com/user-attachments/assets/45c3cc39-d54a-430f-b414-684dcc8eff5c" />
+<img width="1233" height="437" alt="2" src="https://github.com/user-attachments/assets/ce4fa720-5707-4cc9-9d8b-1067c8b78f4c" />
 
-This page shows the router's DHCP server settings. Note the **Dynamic IP Range** of `192.168.1.2 – 192.168.1.50` the reserved IP should be outside this range.
+This page shows the router's DHCP server settings. Note the **Dynamic IP Range** of **`192.168.1.10 – 192.168.1.50`** the reserved IP should be outside this range.
 
 3. Click **Connection List**. The **DHCP Connections** page opens.
 
