@@ -115,6 +115,7 @@ I will use:
 
 # Part 2 – Add the Services in Nagios
 
+## Step 1 – Open the Host File
 
 
 
