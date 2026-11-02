@@ -174,3 +174,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 sudo nano routers-hostgroup.cfg
 ```
 
+<img width="881" height="330" alt="14" src="https://github.com/user-attachments/assets/03a5d679-9b0b-4b57-80aa-328e89c4dccc" />
+
+
+
