@@ -55,4 +55,9 @@ I exit without saving: **Ctrl+X**.
 
 ## Step 2 – Review the Sample switch.cfg
 
+Nagios comes with a sample config for monitoring a network device. I looked at it before using it:
+
+
+
+
 
