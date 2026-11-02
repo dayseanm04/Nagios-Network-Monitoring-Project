@@ -90,6 +90,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 | Drops In | Inbound drops per sec. Warn >1, Crit >5 |
 | Drops Out | Outbound drops per sec. Warn >1, Crit >5 |
 
+**Result:** ✅ PASS
 
 
 
