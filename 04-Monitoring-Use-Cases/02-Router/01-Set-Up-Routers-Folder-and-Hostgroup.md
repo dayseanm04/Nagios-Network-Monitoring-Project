@@ -227,5 +227,6 @@ Ownership and permissions stay the same after renaming.
 
 ---
 
+## Step 10 – Load the Folder in nagios.cfg
 
 
