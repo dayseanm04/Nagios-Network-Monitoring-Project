@@ -54,4 +54,5 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 | Drops In | `'dropin'=0.00;1;5;` | Warning 1, Critical 5 |
 | Drops Out | `'dropout'=0.00;1;5;` | Warning 1, Critical 5 |
 
+**Result:** ✅ PASS
 
