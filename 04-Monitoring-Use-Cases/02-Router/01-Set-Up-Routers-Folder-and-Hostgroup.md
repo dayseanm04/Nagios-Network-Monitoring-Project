@@ -49,6 +49,7 @@ I scroll down to the section for monitoring a router/switch.
 
 There's a line for a `routers` folder, so I'll name my folder **`routers`** to match it.
 
+I exit without saving: **Ctrl+X**.
 
 
 
