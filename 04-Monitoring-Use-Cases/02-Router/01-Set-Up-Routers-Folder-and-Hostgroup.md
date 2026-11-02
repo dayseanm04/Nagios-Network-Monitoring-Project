@@ -26,3 +26,5 @@ In this doc, I will prepare Nagios to monitor routers. I'll create a **`routers`
 ├── templates/
 └── windows-hosts/
 ```
+
+This follows the same rule I used for Windows hosts in [**02-Setup / 08 – Restructure Nagios Config for Multiple Hosts**](../../02-Setup/08-Restructure-Nagios-Config-for-Multiple-Hosts.md): **one file per device, and shared definitions like hostgroups in their own file.** If I add another router later, I only add a new file to this folder.
