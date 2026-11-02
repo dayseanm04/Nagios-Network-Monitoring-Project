@@ -15,7 +15,7 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 | Interface | What it is | Monitored? |
 |---|---|---|
 | **vEthernet (Net-MGNT-SW)** | comp-a-test's virtual adapter on the Hyper-V external switch. All of comp-a-test's traffic and NetworkVM's traffic goes through it | ✅ Yes |
-| Ethernet, Ethernet 2, Ethernet 3 | Wired adapters. Not in use, since `comp-a-test` is on Wi-Fi | No |
+| Ethernet, Ethernet 2, Ethernet 3 | Wired adapters. Not in use, since **`comp-a-test`** is on Wi-Fi | No |
 | vEthernet (Default Switch) | Hyper-V's built-in NAT switch. NetworkVM doesn't use it | No |
 | Local Area Connection\* 9 / 10 | Virtual Wi-Fi adapters for features like Mobile Hotspot | No |
 | Bluetooth, Loopback | Not part of this project network | No |
