@@ -163,5 +163,7 @@ To delete the whole section in nano:
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+---
+
 
 
