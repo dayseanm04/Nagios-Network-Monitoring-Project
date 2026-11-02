@@ -112,7 +112,13 @@ ls -l
 
 <img width="941" height="531" alt="8" src="https://github.com/user-attachments/assets/2eb25760-6f1a-4801-861f-bc08b6305d48" />
 
-
+```bash
+cd router
+ls -l
+sudo rm comp-a-test.cfg
+sudo rm windows-hostgroup.cfg
+ls -l
+```
 
 
 
