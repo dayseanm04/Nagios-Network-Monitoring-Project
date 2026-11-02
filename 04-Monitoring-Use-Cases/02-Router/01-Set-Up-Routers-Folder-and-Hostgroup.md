@@ -93,7 +93,9 @@ sudo nano switch.cfg
 
 I exit: **Ctrl+X**, then go back to the `**etc** folder:
 
-
+```bash
+cd ..
+```
 
 
 
