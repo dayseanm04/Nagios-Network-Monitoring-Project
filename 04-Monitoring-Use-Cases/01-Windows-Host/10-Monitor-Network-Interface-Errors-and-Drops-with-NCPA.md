@@ -35,4 +35,5 @@ These checks monitor **comp-a-test's adapter**, not the switch itself. The switc
 
 # Part 1 – Build the Checks in NCPA
 
+For more on this process, see [**08-Help / 04 – Find and Test NCPA Checks in the Web UI**](../../08-Help/04-Find-and-Test-NCPA-Checks-in-the-Web-UI.md).
 
