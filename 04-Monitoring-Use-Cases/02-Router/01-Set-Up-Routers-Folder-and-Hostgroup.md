@@ -97,6 +97,9 @@ I exit: **Ctrl+X**, then go back to the `**etc** folder:
 cd ..
 ```
 
+<img width="847" height="192" alt="7" src="https://github.com/user-attachments/assets/f3ff162d-1cd0-410c-a095-7f994218d199" />
+
+
 ---
 
 
