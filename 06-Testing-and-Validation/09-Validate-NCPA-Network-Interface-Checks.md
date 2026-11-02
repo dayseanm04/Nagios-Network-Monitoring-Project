@@ -30,3 +30,7 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 **Result:** ✅ PASS
 
 > Two other services are CRITICAL on this screenshot: **`Logical memory usage`** (94.90%) and **`Failed System logs`** (16 logs). Neither is related to this test.
+
+---
+
+
