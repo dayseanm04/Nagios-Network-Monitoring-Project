@@ -125,6 +125,7 @@ sudo nano comp-a-test.cfg
 
 <img width="903" height="533" alt="12" src="https://github.com/user-attachments/assets/52a4a975-87b3-48b0-bb05-ef3df24b090b" />
 
+## Step 2 – Add the Network Interface Section
 
 
 
