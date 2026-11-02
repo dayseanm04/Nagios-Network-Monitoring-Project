@@ -141,7 +141,9 @@ The **`.`** means "copy it here," into the current folder.
 
 **`switch.cfg`** defines a **`switches`** hostgroup. I don't want that in my router's config file, for the same reason I moved **`windows-servers`** out of **`comp-a-test.cfg`**: a hostgroup is shared by every device in the group, so it belongs in its own file. If it stayed in the router file, adding a second router by copying this file would define the hostgroup twice.
 
-
+```bash
+sudo nano switch.cfg
+```
 
 
 
