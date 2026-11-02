@@ -233,3 +233,5 @@ Ownership and permissions stay the same after renaming.
 sudo nano nagios.cfg
 ```
 
+I scroll to the **`cfg_dir`** section and uncomment the **`routers`** line:
+
