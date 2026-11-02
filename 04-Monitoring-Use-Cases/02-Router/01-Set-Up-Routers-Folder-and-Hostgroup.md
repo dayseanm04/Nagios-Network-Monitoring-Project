@@ -63,5 +63,6 @@ ls -l
 sudo nano switch.cfg
 ```
 
+<img width="814" height="231" alt="3" src="https://github.com/user-attachments/assets/ebfb9103-d810-4a2d-89b6-5db0a1a2ae34" />
 
 
