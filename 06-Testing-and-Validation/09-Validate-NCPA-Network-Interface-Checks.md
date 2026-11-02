@@ -104,6 +104,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 <img width="945" height="532" alt="9" src="https://github.com/user-attachments/assets/57e915cb-e4ed-4e46-8203-ac6b392502a0" />
 
+**Result:** ✅ PASS. The interface checks are logged in NCPA as active checks from the Nagios server, with the interface name and parentheses passed through correctly.
 
 
 
