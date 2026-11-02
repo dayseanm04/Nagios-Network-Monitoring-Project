@@ -5,3 +5,5 @@ In this doc, I will prepare Nagios to monitor routers. I'll create a **`routers`
 ---
 
 ## Overview
+
+### Before and After
