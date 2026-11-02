@@ -59,7 +59,9 @@ For each metric, I select it in the third dropdown, check **Delta**, check **Run
 
 I will use:
 
-
+```
+-M 'interface/vEthernet (Net-MGNT-SW)/errin' -w 0 -c 1 --delta
+```
 
 
 
