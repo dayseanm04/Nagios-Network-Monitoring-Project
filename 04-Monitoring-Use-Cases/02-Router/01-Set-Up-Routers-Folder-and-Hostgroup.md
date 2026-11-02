@@ -122,6 +122,12 @@ ls -l
 
 <img width="853" height="314" alt="9" src="https://github.com/user-attachments/assets/a9e939cb-9253-4c86-8807-7ead49d9c764" />
 
+**Note:** Copying a folder and then deleting everything in it works (it helps me practice moving and copying files/folders), but creating an empty folder does the same thing in one step:
+
+```bash
+sudo mkdir routers
+```
+
 ---
 
 ## Step 4 – Copy switch.cfg into the Folder
