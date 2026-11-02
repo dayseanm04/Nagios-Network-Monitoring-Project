@@ -65,4 +65,19 @@ sudo nano switch.cfg
 
 <img width="814" height="231" alt="3" src="https://github.com/user-attachments/assets/ebfb9103-d810-4a2d-89b6-5db0a1a2ae34" />
 
+<img width="919" height="574" alt="4" src="https://github.com/user-attachments/assets/9366f7e2-2c7d-4f59-84e6-0e2c4e827414" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
