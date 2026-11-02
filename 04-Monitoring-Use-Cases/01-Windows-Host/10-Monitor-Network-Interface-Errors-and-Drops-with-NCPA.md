@@ -45,7 +45,7 @@ On **`comp-a-test`**, I go to **`https://localhost:5693`**, log in with the NCPA
 
 Under **API Endpoint**, I select **interface**, then **vEthernet (Net-MGNT-SW)**.
 
-<img width="924" height="582" alt="3" src="https://github.com/user-attachments/assets/9861b64a-0031-4ed9-89b3-68b3ed715cf9" />
+<img width="963" height="551" alt="Screenshot 2026-11-01 110432" src="https://github.com/user-attachments/assets/397f9dfa-0cc0-4861-a9d3-089c075b86d8" />
 
 
 
