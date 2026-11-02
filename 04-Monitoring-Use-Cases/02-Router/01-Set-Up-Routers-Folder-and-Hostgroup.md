@@ -105,4 +105,7 @@ cd ..
 
 I created the folder by copying **`windows-hosts`** and then removing its files:
 
-
+```bash
+sudo cp -r windows-hosts router
+ls -l
+```
