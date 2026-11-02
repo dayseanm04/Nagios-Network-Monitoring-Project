@@ -277,3 +277,4 @@ In the next doc, I replace the sample with my router's host definition and servi
 
 - [**02-Setup / 08 – Restructure Nagios Config for Multiple Hosts**](../../02-Setup/08-Restructure-Nagios-Config-for-Multiple-Hosts.md)
 - [**02 – Add Verizon Router to Nagios**](02-Add-Verizon-Router-to-Nagios.md)
+- [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
