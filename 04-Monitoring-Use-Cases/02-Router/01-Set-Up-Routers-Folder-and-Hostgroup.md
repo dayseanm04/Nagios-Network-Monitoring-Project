@@ -137,6 +137,7 @@ The **`.`** means "copy it here," into the current folder.
 
 ---
 
+## Step 5 – Remove the switches Hostgroup
 
 
 
