@@ -152,5 +152,6 @@ I scroll down to **HOST GROUP DEFINITIONS**.
 To delete the whole section in nano:
 
 1. Move the cursor to the start of the section.
+2. Press **Alt+A** to set a mark. **Mark Set** appears at the bottom.
 
 
