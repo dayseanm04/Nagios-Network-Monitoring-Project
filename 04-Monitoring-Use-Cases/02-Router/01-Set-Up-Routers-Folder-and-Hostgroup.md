@@ -103,4 +103,6 @@ cd ..
 
 ## Step 3 – Create the Router Folder
 
+I created the folder by copying **`windows-hosts`** and then removing its files:
+
 
