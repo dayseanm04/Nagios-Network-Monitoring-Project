@@ -62,7 +62,7 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 Without Delta, NCPA would return running totals since the adapter came up. Windows showed the adapter had sent and received hundreds of thousands of packets, so a total would be a large and growing number.
 
-**Actual:** Every check reports a **rate**: `errors/s` and `packets/s`, with a value of `0.00`.
+**Actual:** Every check reports a **rate**: **`errors/s`** and **`packets/s`**, with a value of `0.00`.
 
 **Result:** ✅ PASS. The checks measure what's happening now, not since the last reboot.
 
