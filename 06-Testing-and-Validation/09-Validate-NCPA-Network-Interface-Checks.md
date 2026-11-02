@@ -37,7 +37,7 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 **Steps:** I click each service and check **Performance Data**.
 
-<img width="1005" height="679" alt="3" src="https://github.com/user-attachments/assets/5fbd471e-4d93-4c0f-983f-919e3a42bffc" />
+<img width="1009" height="683" alt="3" src="https://github.com/user-attachments/assets/0756ee4b-f8e5-477f-803a-afe69e15eb7a" />
 
 
 | Service | Performance Data | Thresholds |
