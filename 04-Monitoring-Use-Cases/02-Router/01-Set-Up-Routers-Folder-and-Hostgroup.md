@@ -188,3 +188,8 @@ I name the file after the device it's for, the same way **`comp-a-test.cfg`** is
 sudo mv switch.cfg verizon-r1.cfg
 ls -l
 ```
+
+<img width="774" height="113" alt="15" src="https://github.com/user-attachments/assets/1913ea01-2bf5-48a6-b25d-f95f9cbc64e7" />
+
+
+
