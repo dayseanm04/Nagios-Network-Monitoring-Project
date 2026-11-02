@@ -143,6 +143,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1016" height="852" alt="15" src="https://github.com/user-attachments/assets/46476a61-596f-404e-bad0-148fdf9d9a29" />
 
+The service count goes from **14 to 18**.
 
 
 
