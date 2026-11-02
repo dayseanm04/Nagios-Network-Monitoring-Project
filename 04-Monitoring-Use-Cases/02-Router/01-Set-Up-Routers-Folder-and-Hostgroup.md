@@ -91,7 +91,7 @@ sudo nano switch.cfg
 
 > I'll check whether my Verizon router supports SNMP before deciding on the Uptime and Port 1 Link Status checks.
 
-I exit: **Ctrl+X**, then go back to the `**etc** folder:
+I exit: **Ctrl+X**, then go back to the **etc** folder:
 
 ```bash
 cd ..
@@ -99,8 +99,8 @@ cd ..
 
 <img width="847" height="192" alt="7" src="https://github.com/user-attachments/assets/f3ff162d-1cd0-410c-a095-7f994218d199" />
 
-
 ---
 
+## Step 3 – Create the Router Folder
 
 
