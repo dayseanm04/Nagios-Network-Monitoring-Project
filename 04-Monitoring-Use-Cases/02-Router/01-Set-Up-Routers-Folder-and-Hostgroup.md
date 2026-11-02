@@ -45,6 +45,8 @@ sudo nano nagios.cfg
 
 I scroll down to the section for monitoring a router/switch.
 
+**`nagios.cfg`** already has commented-out examples for organizing devices by type
+
 <img width="854" height="582" alt="2" src="https://github.com/user-attachments/assets/b3d0f810-838a-492c-a6c2-daf84f10a01b" />
 
 
