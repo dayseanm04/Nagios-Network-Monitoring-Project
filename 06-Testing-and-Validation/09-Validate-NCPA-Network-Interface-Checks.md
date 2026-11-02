@@ -39,6 +39,8 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 <img width="1009" height="683" alt="3" src="https://github.com/user-attachments/assets/0756ee4b-f8e5-477f-803a-afe69e15eb7a" />
 
+<img width="1033" height="767" alt="4" src="https://github.com/user-attachments/assets/0a4367dd-daf7-4a1f-911e-9c9df7d1ee0c" />
+
 
 | Service | Performance Data | Thresholds |
 |---|---|---|
