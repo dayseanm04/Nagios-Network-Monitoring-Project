@@ -133,6 +133,7 @@ Below the Logs section, I add:
 
 <img width="883" height="390" alt="14" src="https://github.com/user-attachments/assets/d1183922-d032-49eb-945e-f01f0c7cad0d" />
 
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
