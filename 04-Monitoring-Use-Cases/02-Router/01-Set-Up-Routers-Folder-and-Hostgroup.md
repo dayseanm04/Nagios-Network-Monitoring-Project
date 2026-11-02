@@ -235,3 +235,6 @@ sudo nano nagios.cfg
 
 I scroll to the **`cfg_dir`** section and uncomment the **`routers`** line:
 
+<img width="961" height="615" alt="19" src="https://github.com/user-attachments/assets/ec637ee2-7c9e-4cb6-841b-18edf0d68f0f" />
+
+
