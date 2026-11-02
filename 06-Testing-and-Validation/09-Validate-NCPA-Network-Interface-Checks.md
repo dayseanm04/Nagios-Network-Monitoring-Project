@@ -33,4 +33,7 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 ---
 
+## TC-02 – Thresholds Are Applied
+
+
 
