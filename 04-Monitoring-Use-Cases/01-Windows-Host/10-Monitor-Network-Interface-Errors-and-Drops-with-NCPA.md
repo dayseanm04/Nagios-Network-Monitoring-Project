@@ -165,4 +165,5 @@ sudo systemctl reload nagios
 
 ## Related Docs
 
+- [**06-Testing-and-Validation / 09 – Validate NCPA Network Interface Checks**](../../06-Testing-and-Validation/09-Validate-NCPA-Network-Interface-Checks.md)
 - [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
