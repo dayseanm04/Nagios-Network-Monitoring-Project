@@ -37,5 +37,6 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 **Steps:** I click each service and check **Performance Data**.
 
+| Service | Performance Data | Thresholds |
 
 
