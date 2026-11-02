@@ -108,9 +108,8 @@ I will use:
 
 
 **Notes on the commands:**
-> - **`--delta`** turns on Delta, the same as the checkbox in NCPA.
-> - No unit prefix is needed. These are counts, not sizes.
-> - The interface name has a space and parentheses, so the metric path has to stay inside single quotes.
+- **`--delta`** turns on Delta, the same as the checkbox in NCPA.
+- No unit prefix is needed. These are counts, not sizes.
 
 
 
