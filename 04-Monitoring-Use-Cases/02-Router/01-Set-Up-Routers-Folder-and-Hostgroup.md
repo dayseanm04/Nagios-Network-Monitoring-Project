@@ -184,3 +184,7 @@ Any router I add later joins this group with `hostgroups routers` in its host de
 
 I name the file after the device it's for, the same way **`comp-a-test.cfg`** is named after its host:
 
+```bash
+sudo mv switch.cfg verizon-r1.cfg
+ls -l
+```
