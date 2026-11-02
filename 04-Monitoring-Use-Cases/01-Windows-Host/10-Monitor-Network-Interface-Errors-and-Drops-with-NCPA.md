@@ -129,6 +129,7 @@ sudo nano comp-a-test.cfg
 
 Below the Logs section, I add:
 
+<img width="890" height="465" alt="13" src="https://github.com/user-attachments/assets/46c6361b-7232-4beb-9443-9951b2321d7d" />
 
 
 
