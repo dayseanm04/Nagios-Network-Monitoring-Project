@@ -75,6 +75,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 | Drops In | 14:25:51 | 14:26:51 | 1/1 (HARD) |
 | Errors In | 14:26:16 | 14:27:16 | 1/1 (HARD) |
 | Errors Out | 14:27:02 | 14:28:02 | 1/1 (HARD) |
+| Drops Out | 14:28:03 | 14:29:03 | 1/1 (HARD) |
 
 
 
