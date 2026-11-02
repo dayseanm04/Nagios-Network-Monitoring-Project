@@ -67,6 +67,8 @@ sudo nano switch.cfg
 
 <img width="919" height="574" alt="4" src="https://github.com/user-attachments/assets/9366f7e2-2c7d-4f59-84e6-0e2c4e827414" />
 
+### Host and hostgroup
+
 ### Services
 
 <img width="951" height="537" alt="5" src="https://github.com/user-attachments/assets/43b07d5e-0519-4e0c-8340-b28290dad28a" />
