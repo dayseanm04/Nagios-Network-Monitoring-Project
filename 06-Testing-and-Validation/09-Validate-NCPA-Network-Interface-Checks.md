@@ -11,3 +11,4 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
 | TC-01 | All four services appear with real results | Per-second values, OK | All OK, 0.00 per second | ✅ PASS |
+| TC-02 | Thresholds are applied | Perf data shows `0;1` and `1;5` | Matches on all four | ✅ PASS |
