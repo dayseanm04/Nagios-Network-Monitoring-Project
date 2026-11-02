@@ -35,5 +35,7 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 
 ## TC-02 – Thresholds Are Applied
 
+**Steps:** I click each service and check **Performance Data**.
+
 
 
