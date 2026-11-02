@@ -9,3 +9,9 @@ In this doc, I will prepare Nagios to monitor routers. I'll create a **`routers`
 ### Before and After
 
 **Before:**
+```
+/usr/local/nagios/etc/
+├── objects/
+├── templates/
+└── windows-hosts/
+```
