@@ -92,6 +92,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 **Result:** ✅ PASS
 
+---
 
 
 
