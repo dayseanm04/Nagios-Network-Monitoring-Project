@@ -22,3 +22,5 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 ## TC-01 – All Four Services Appear with Real Results
 
 **Steps:** I log in to **`http://192.168.1.99/nagios`** and click **Services**.
+
+<img width="1030" height="550" alt="1" src="https://github.com/user-attachments/assets/bdf18649-2ee0-4872-aede-6074a27d91aa" />
