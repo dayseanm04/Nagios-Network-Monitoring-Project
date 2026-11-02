@@ -23,3 +23,6 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 **The Wi-Fi adapter isn't in the list.** When I bound **`Net-MGNT-SW`** to the Wi-Fi adapter (see [**02-Setup / 02 – Configure the Hyper-V Virtual Switch**](../../02-Setup/02-Configure-Hyper-V-Virtual-Switch.md)), Windows moved the host's network connection to **`vEthernet (Net-MGNT-SW)`**. That's why this is the adapter carrying the traffic.
 
 ### The adapter, not the switch
+
+| Name | What it is |
+|---|---|
