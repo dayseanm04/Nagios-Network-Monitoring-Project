@@ -178,4 +178,6 @@ sudo nano routers-hostgroup.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+Any router I add later joins this group with `hostgroups routers` in its host definition.
+
 
