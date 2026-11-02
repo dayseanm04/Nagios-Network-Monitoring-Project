@@ -221,3 +221,9 @@ Because I created everything with **`sudo`**, the folder and files are owned by 
 
 I rename **`router`** to **`routers`** so it matches the example line in **`nagios.cfg`** and the **`routers`** hostgroup:
 
+<img width="918" height="237" alt="18" src="https://github.com/user-attachments/assets/1665cfee-7a6e-46fe-9472-8ccdccc508ce" />
+
+
+
+
+
