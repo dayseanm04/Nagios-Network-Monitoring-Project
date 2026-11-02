@@ -205,4 +205,4 @@ Because I created everything with **`sudo`**, the folder and files are owned by 
 
 | Command | What it does |
 |---|---|
-
+| **`chown -R nagios:nagios`** | Makes the **`nagios`** user and group the owner of the folder and everything in it |
