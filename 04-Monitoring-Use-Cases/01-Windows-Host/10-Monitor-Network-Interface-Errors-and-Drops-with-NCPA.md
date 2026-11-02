@@ -26,3 +26,4 @@ In this doc, I will add four checks that watch the health of **`comp-a-test`**'s
 
 | Name | What it is |
 |---|---|
+| **Net-MGNT-SW** | The Hyper-V virtual switch |
