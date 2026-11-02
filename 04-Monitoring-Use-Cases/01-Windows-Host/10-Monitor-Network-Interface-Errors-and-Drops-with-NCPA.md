@@ -43,6 +43,7 @@ On **`comp-a-test`**, I go to **`https://localhost:5693`**, log in with the NCPA
 
 <img width="965" height="697" alt="2" src="https://github.com/user-attachments/assets/340d81a6-d543-4268-a6c6-4b1c3150f6f8" />
 
+Under **API Endpoint**, I select **interface**, then **vEthernet (Net-MGNT-SW)**.
 
 
 
