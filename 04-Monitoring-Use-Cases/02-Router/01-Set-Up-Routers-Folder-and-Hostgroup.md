@@ -223,6 +223,7 @@ I rename **`router`** to **`routers`** so it matches the example line in **`nagi
 
 <img width="918" height="237" alt="18" src="https://github.com/user-attachments/assets/1665cfee-7a6e-46fe-9472-8ccdccc508ce" />
 
+Ownership and permissions stay the same after renaming.
 
 
 
