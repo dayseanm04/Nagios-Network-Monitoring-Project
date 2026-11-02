@@ -240,3 +240,5 @@ I scroll to the **`cfg_dir`** section and uncomment the **`routers`** line:
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 Every **`.cfg`** file in **`routers/`** will now be loaded when Nagios starts.
+
+---
