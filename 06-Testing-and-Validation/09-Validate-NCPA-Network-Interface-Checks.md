@@ -88,6 +88,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 | Errors In | Inbound errors per sec. Warn >0, Crit >1 |
 | Errors Out | Outbound errors per sec. Warn >0, Crit >1 |
 | Drops In | Inbound drops per sec. Warn >1, Crit >5 |
+| Drops Out | Outbound drops per sec. Warn >1, Crit >5 |
 
 
 
