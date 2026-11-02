@@ -157,3 +157,9 @@ To delete the whole section in nano:
 <img width="841" height="475" alt="12" src="https://github.com/user-attachments/assets/92add1f8-89e8-44d9-91e8-437a1efbe168" />
 
 3. Press the **down arrow** to highlight the section.
+
+<img width="887" height="276" alt="12" src="https://github.com/user-attachments/assets/9da06ef2-a0b6-4810-85c6-5b550bef140b" />
+
+
+
+
