@@ -15,3 +15,4 @@ In this doc, I will verify that the four network interface checks on **`comp-a-t
 | TC-03 | Delta is working | Values are rates (per second), not running totals | 0.00 errors/s and packets/s | ✅ PASS |
 | TC-04 | `notify-early` settings | 1-min interval, attempt 1/1 | 1 min apart, 1/1 (HARD) | ✅ PASS |
 | TC-05 | Notes shown in Nagios | Thresholds on each service page | Shown on all four | ✅ PASS |
+| TC-06 | NCPA receives the checks from Nagios | Entries from `192.168.1.99` | errin, errout, dropout logged from `192.168.1.99` | ✅ PASS |
