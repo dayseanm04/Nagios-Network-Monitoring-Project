@@ -66,3 +66,5 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 **Result:** ✅ PASS. The checks measure what's happening now, not since the last reboot.
 
+---
+
