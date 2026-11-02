@@ -53,6 +53,7 @@ For each metric, I select it in the third dropdown, check **Delta**, check **Run
 
 ### Errors In – `errin`
 
+<img width="963" height="510" alt="4" src="https://github.com/user-attachments/assets/62cbd6c0-ac74-4b9e-a334-7dff5a7e68eb" />
 
 
 
