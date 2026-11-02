@@ -164,3 +164,5 @@ sudo systemctl reload nagios
 ---
 
 ## Related Docs
+
+- [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
