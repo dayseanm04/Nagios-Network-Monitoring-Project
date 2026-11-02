@@ -94,6 +94,7 @@ Without Delta, NCPA would return running totals since the adapter came up. Windo
 
 ---
 
+## TC-06 – NCPA Receives the Checks from Nagios
 
 
 
