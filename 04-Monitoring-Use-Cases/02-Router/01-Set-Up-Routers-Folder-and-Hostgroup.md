@@ -219,4 +219,5 @@ Because I created everything with **`sudo`**, the folder and files are owned by 
 
 ## Step 9 – Rename the Folder to routers
 
+I rename **`router`** to **`routers`** so it matches the example line in **`nagios.cfg`** and the **`routers`** hostgroup:
 
