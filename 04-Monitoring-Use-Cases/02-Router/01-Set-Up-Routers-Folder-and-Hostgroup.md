@@ -165,5 +165,7 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ---
 
+## Step 6 – Create the routers Hostgroup
+
 
 
