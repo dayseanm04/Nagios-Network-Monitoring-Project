@@ -17,3 +17,12 @@ In this doc, I will prepare Nagios to monitor routers. I'll create a **`routers`
 ```
 
 **After:**
+```
+/usr/local/nagios/etc/
+├── objects/
+├── routers/                    ← new
+│   ├── routers-hostgroup.cfg   ← routers hostgroup (shared)
+│   └── verizon-r1.cfg          ← the router (configured in the next doc)
+├── templates/
+└── windows-hosts/
+```
