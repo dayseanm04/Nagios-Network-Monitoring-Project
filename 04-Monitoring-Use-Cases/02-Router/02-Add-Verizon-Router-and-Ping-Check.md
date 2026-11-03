@@ -59,6 +59,8 @@ The sample file has a PING service for the Linksys switch:
 I make three changes:
 
 | Change | Before | After | Why |
+|---|---|---|---|
+| Host | **`linksys-srw224p`** | **`verizon-r1`** | Points the check at my router |
 
 
 
