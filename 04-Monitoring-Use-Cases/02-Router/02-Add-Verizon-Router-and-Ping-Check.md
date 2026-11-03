@@ -127,6 +127,7 @@ sudo systemctl restart nagios
 
 I use **`restart`** instead of **`reload`** because Nagios is loading a new folder of config files for the first time.
 
+---
 
 
 
