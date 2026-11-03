@@ -23,6 +23,7 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 |---|---|---|---|---|
 | TC-01 | Service appears with a real result | **OK** with packet loss and response time | PING OK - Packet loss = 0%, RTA = 3.08 ms | PASS |
 | TC-02 | Thresholds are applied | Perf data shows `200` / `600` ms and `20` / `60`% | `rta=5.374000ms;200.000000;600.000000;0.000000 pl=0%;20;60;0` | ✅ PASS |
+| TC-03 | `network-device-service` settings | 1-min interval, attempt out of 2 | 16:52:02 → 16:53:02, 1/2 (HARD) | ✅ PASS |
 
 ---
 
