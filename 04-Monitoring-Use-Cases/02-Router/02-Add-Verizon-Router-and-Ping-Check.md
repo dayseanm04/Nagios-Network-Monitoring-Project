@@ -46,5 +46,6 @@ I replace the sample Linksys switch with my router:
 
 Save: **Ctrl+O**, **Enter**.
 
+---
 
 
