@@ -4,6 +4,9 @@ In this doc, I will replace the sample switch config in **`verizon-r1.cfg`** wit
 
 The **`routers`** folder, hostgroup, and **`verizon-r1.cfg`** file were set up in [**01 – Set Up Routers Folder and Hostgroup**](01-Set-Up-Routers-Folder-and-Hostgroup.md).
 
+> **Testing and validation for the PING check:** [**Click here to see the Verizon-R1 PING check validation**](../../06-Testing-and-Validation/11-Validate-Verizon-R1-Ping-Check.md)
+
+
 ---
 
 ## Overview
