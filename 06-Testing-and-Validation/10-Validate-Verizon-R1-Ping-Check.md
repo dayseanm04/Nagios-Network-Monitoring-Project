@@ -75,5 +75,5 @@ The PING service for **`verizon-r1`** works. The router answers with 0% packet l
 ## Related Docs
 
 - [**04-Monitoring-Use-Cases / 02-Router / 02 – Add Verizon Router and Ping Check**](../04-Monitoring-Use-Cases/02-Router/02-Add-Verizon-Router-and-Ping-Check.md)
+- [**05-Troubleshooting / 02-Router / 01 – Troubleshoot Verizon-R1 Stuck in Pending**](../05-Troubleshooting/02-Router/01-Troubleshoot-Verizon-R1-Stuck-in-Pending.md)
 - [**06-Testing-and-Validation / 11 – Test SNMP Support on verizon-r1**](11-Test-SNMP-Support-on-Verizon-CR1000B.md)
-
