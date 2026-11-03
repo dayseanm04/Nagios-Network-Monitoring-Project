@@ -62,6 +62,7 @@ I make three changes:
 |---|---|---|---|
 | Host | **`linksys-srw224p`** | **`verizon-r1`** | Points the check at my router |
 | Template | **`generic-service`** | **`network-device-service`** | My template for network devices: 1-minute checks and HARD after 2 failed checks |
+| `check_interval` and `retry_interval` | **`5`** and **`1`** | Removed | The template already sets them, so these lines would override it |
 
 
 
