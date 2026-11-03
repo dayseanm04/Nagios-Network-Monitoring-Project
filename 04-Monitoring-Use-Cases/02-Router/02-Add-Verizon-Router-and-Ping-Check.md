@@ -70,6 +70,7 @@ Save: **Ctrl+O**, **Enter**.
 
 **`check_ping!200.0,20%!600.0,60%`** passes two thresholds, each with a response time and a packet loss limit:
 
+| Threshold | Round-trip time | Packet loss | Meaning |
 
 
 
