@@ -115,6 +115,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 | Services | 18 | **19** | Added the router's PING check |
 | Host groups | 2 | **3** | Added `routers` |
 
+---
 
 
 
