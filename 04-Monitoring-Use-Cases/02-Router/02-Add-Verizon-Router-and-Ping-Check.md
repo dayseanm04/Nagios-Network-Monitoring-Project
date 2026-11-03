@@ -155,3 +155,4 @@ The SNMP and MRTG checks from the sample are commented out, since the CR1000B do
 
 - [**01 – Set Up Routers Folder and Hostgroup**](01-Set-Up-Routers-Folder-and-Hostgroup.md)
 - [**06-Testing-and-Validation / 11 – Validate Verizon-R1 Ping Check**](../../06-Testing-and-Validation/11-Validate-Verizon-R1-Ping-Check.md)
+- [**06-Testing-and-Validation / 10 – Test SNMP Support on Verizon CR1000B**](../../06-Testing-and-Validation/10-Test-SNMP-Support-on-Verizon-CR1000B.md)
