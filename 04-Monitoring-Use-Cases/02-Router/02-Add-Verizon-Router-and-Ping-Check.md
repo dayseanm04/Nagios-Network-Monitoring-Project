@@ -73,6 +73,7 @@ Save: **Ctrl+O**, **Enter**.
 | Threshold | Round-trip time | Packet loss | Meaning |
 |---|---|---|---|
 | Warning | 200 ms | 20% | WARNING if replies take over 200 ms **or** more than 20% of pings are lost |
+| Critical | 600 ms | 60% | CRITICAL if replies take over 600 ms **or** more than 60% of pings are lost |
 
 
 
