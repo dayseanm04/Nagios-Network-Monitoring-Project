@@ -60,6 +60,7 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 From the same details page:
 
+<img width="968" height="648" alt="4" src="https://github.com/user-attachments/assets/b01e3fc9-dc8c-45c1-9056-c0710aa1dc5d" />
 
 
 
