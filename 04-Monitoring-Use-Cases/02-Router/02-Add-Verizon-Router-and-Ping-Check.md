@@ -23,3 +23,5 @@ sudo nano verizon-r1.cfg
 ---
 
 ## Step 2 – Update the File Header
+
+I replace the sample header with one that says what this file is for:
