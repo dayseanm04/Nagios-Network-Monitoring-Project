@@ -42,6 +42,7 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 ## TC-02 – Thresholds Are Applied
 
+**Steps:** I click **PING** to open the service details.
 
 
 
