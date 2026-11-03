@@ -5,3 +5,5 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 > **How this check was created:** [**Click here to see Add Verizon Router and Ping Check**](../04-Monitoring-Use-Cases/02-Router/02-Add-Verizon-Router-and-Ping-Check.md)
 
 ---
+
+## Test Summary
