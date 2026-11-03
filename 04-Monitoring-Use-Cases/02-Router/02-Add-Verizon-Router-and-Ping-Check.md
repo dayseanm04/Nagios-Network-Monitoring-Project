@@ -62,7 +62,7 @@ I make three changes:
 | Template | **`generic-service`** | **`network-device-service`** | My template for network devices: 1-minute checks and HARD after 2 failed checks |
 | `check_interval` and `retry_interval` | **`5`** and **`1`** | Removed | The template already sets them, so these lines would override it |
 
-<img width="1032" height="674" alt="Screenshot 2026-11-01 164031" src="https://github.com/user-attachments/assets/e52ee753-6043-4ca3-a3c8-95c1fa52e824" />
+<img width="1032" height="674" alt="5" src="https://github.com/user-attachments/assets/e52ee753-6043-4ca3-a3c8-95c1fa52e824" />
 
 Save: **Ctrl+O**, **Enter**.
 
@@ -80,6 +80,9 @@ These are the sample values from **`switch.cfg`**. The router is on my local net
 ---
 
 ## Step 5 – Comment Out the SNMP and MRTG Checks
+
+<img width="927" height="679" alt="6" src="https://github.com/user-attachments/assets/2eee8ef0-7617-4230-b26a-3490d91072ab" />
+
 
 The other three services from the sample need SNMP or MRTG:
 
