@@ -74,6 +74,7 @@ The PING service for **`verizon-r1`** works. The router answers with 0% packet l
 
 ## Related Docs
 
+- [**04-Monitoring-Use-Cases / 02-Router / 02 – Add Verizon Router and Ping Check**](../04-Monitoring-Use-Cases/02-Router/02-Add-Verizon-Router-and-Ping-Check.md)
 
 
 
