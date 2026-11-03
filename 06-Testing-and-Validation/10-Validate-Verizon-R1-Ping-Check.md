@@ -27,3 +27,5 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 ---
 
 ## TC-01 – Service Appears with a Real Result
+
+**Steps:** I log in to **`http://192.168.1.99/nagios`**, click **Services**, and scroll down to **`verizon-r1`**.
