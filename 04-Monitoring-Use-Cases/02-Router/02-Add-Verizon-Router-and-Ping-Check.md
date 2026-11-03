@@ -132,6 +132,9 @@ I use **`restart`** instead of **`reload`** because Nagios is loading a new fold
 
 ---
 
+## Step 8 – Check the Web Interface
+
+
 ## Result
 
 **`verizon-r1`** is added to Nagios at **`192.168.1.1`** using the `network-device-host` template and the **`routers`** hostgroup. Its PING service uses `network-device-service` and is **OK** with 0% packet loss. The pre-flight check passes with 19 services, 3 hosts, 3 host groups, 0 warnings, and 0 errors.
@@ -147,7 +150,7 @@ The SNMP and MRTG checks from the sample are commented out, since the CR1000B do
 ## Next Steps
 
 1. **Troubleshoot `verizon-r1` stuck in PENDING.** See [**Troubleshoot Verizon-R1 Stuck in Pending**](../../05-Troubleshooting/02-Router/01-Troubleshoot-Verizon-R1-Stuck-in-Pending.md).
-2. **Add checks that don't need SNMP:** the router's web admin page (**`check_http`**), DNS through the router (**`check_dns`**), and internet connectivity to Google DNS (**`8.8.8.8`**) with `verizon-r1` as its parent.
+2. **Add checks that don't need SNMP:** the router's web admin page (**`check_http`**), DNS through the router (**`check_dns`**), and internet connectivity to Google DNS (**`8.8.8.8`**) with **`verizon-r1`** as its parent.
 
 ---
 
