@@ -68,6 +68,8 @@ Save: **Ctrl+O**, **Enter**.
 
 ### What the PING thresholds mean
 
+**`check_ping!200.0,20%!600.0,60%`** passes two thresholds, each with a response time and a packet loss limit:
+
 
 
 
