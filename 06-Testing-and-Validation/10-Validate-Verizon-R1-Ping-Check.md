@@ -53,6 +53,9 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 **Result:** ✅ PASS. Both thresholds from **`check_command`** are in use. At 5.37 ms and 0% loss, the router is far below both.
 
+---
+
+## TC-03 – network-device-service Settings Are Applied
 
 
 
