@@ -46,6 +46,11 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 <img width="968" height="648" alt="3" src="https://github.com/user-attachments/assets/f2c6935c-66ea-4768-9c7e-16c5a2fc0325" />
 
+| Part | Meaning |
+|---|---|
+| **`rta=5.374000ms;200.000000;600.000000`** | Round-trip time of 5.37 ms, with warning at 200 ms and critical at 600 ms |
+| **`pl=0%;20;60`** | Packet loss of 0%, with warning at 20% and critical at 60% |
+
 **Result:** ✅ PASS. Both thresholds from **`check_command`** are in use. At 5.37 ms and 0% loss, the router is far below both.
 
 
