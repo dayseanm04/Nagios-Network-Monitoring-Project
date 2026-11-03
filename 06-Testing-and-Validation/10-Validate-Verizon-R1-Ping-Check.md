@@ -64,7 +64,9 @@ From the same details page:
 
 **Result:** ✅ PASS. Checks are **1 minute** apart and the attempt count is out of **2**, both from **`network-device-service`**. The sample check used a 5-minute interval, so this also confirms removing **`check_interval`** and **`retry_interval`** from the service worked.
 
+---
 
+## Conclusion
 
 
 
