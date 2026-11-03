@@ -134,5 +134,6 @@ I use **`restart`** instead of **`reload`** because Nagios is loading a new fold
 
 ## Result
 
+**`verizon-r1`** is added to Nagios at **`192.168.1.1`** using the `network-device-host` template and the **`routers`** hostgroup. Its PING service uses `network-device-service` and is **OK** with 0% packet loss. The pre-flight check passes with 19 services, 3 hosts, 3 host groups, 0 warnings, and 0 errors.
 
 
