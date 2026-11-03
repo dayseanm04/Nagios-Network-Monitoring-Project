@@ -87,3 +87,5 @@ The other three services from the sample need SNMP or MRTG:
 |---|---|
 | Uptime | SNMP |
 | Port 1 Link Status | SNMP |
+| Port 1 Bandwidth Usage | MRTG |
+
