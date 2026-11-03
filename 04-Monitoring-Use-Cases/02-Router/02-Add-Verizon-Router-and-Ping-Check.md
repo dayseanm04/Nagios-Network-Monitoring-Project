@@ -140,4 +140,5 @@ The SNMP and MRTG checks from the sample are commented out, since the CR1000B do
 
 **Open issue:** The router's **host** status was stuck in **PENDING**, even though its PING **service** was OK. Since the router was answering pings, the router itself was fine, and the problem was with how the host check was set up.
 
+> **Troubleshooting:** [**Click here to see how I fixed verizon-r1 stuck in PENDING**](../../05-Troubleshooting/02-Router/01-Troubleshoot-Verizon-R1-Stuck-in-Pending.md)
 
