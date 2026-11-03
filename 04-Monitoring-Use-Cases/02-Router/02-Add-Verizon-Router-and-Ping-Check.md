@@ -134,6 +134,7 @@ I use **`restart`** instead of **`reload`** because Nagios is loading a new fold
 
 ## Step 8 – Check the Web Interface
 
+I log in to **`http://192.168.1.99/nagios`** and click **Services**. **`verizon-r1`** now has a **PING** service showing **OK** with 0% packet loss.
 
 ## Result
 
