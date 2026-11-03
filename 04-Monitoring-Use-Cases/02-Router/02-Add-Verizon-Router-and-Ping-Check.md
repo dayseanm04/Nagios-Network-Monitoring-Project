@@ -77,5 +77,8 @@ Save: **Ctrl+O**, **Enter**.
 
 These are the sample values from **`switch.cfg`**. The router is on my local network, so normal response times should be only a few milliseconds. These thresholds leave plenty of room and will only alert on a real problem.
 
+---
+
+## Step 5 – Comment Out the SNMP and MRTG Checks
 
 
