@@ -58,6 +58,7 @@ The sample file has a PING service for the Linksys switch:
 
 I make three changes:
 
+| Change | Before | After | Why |
 
 
 
