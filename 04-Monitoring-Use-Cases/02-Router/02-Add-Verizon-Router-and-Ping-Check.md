@@ -48,4 +48,5 @@ Save: **Ctrl+O**, **Enter**.
 
 ---
 
+## Step 4 – Update the PING Service
 
