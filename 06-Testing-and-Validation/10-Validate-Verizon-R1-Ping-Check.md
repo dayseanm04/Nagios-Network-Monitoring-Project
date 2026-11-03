@@ -38,7 +38,9 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 > For comparison, **`comp-a-test`** answers in about 0.7 ms and **`localhost`** in under 0.1 ms. The router is a few milliseconds slower because the traffic goes out over Wi-Fi, while the other two are on the same machine as Nagios.
 
+---
 
+## TC-02 – Thresholds Are Applied
 
 
 
