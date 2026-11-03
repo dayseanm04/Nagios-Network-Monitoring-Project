@@ -89,3 +89,6 @@ The other three services from the sample need SNMP or MRTG:
 | Port 1 Link Status | SNMP |
 | Port 1 Bandwidth Usage | MRTG |
 
+
+I'll check whether my router supports SNMP before deciding on these. For now, I comment them out by adding **`#`** to the start of every line in each block, including `define service {` and the closing `}`.
+
