@@ -96,3 +96,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 > I'm keeping them in the file instead of deleting them. If my router supports SNMP, I can update and uncomment them.
 
+---
+
+## Step 6 – Run the Pre-Flight Check
+
