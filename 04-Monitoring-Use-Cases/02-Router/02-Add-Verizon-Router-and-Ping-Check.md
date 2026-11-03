@@ -75,5 +75,7 @@ Save: **Ctrl+O**, **Enter**.
 | Warning | 200 ms | 20% | WARNING if replies take over 200 ms **or** more than 20% of pings are lost |
 | Critical | 600 ms | 60% | CRITICAL if replies take over 600 ms **or** more than 60% of pings are lost |
 
+These are the sample values from **`switch.cfg`**. The router is on my local network, so normal response times should be only a few milliseconds. These thresholds leave plenty of room and will only alert on a real problem.
+
 
 
