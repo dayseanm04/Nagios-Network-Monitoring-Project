@@ -36,7 +36,8 @@ I replace the sample Linksys switch with my router:
 
 <img width="952" height="660" alt="Screenshot 2026-11-01 162721 - Copy" src="https://github.com/user-attachments/assets/ff4c8a07-1cba-485c-a068-c42557278fec" />
 
-
+| Line | What it does |
+|---|---|
 
 
 
