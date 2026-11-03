@@ -93,3 +93,6 @@ The other three services from the sample need SNMP or MRTG:
 I'll check whether my router supports SNMP before deciding on these. For now, I comment them out by adding **`#`** to the start of every line in each block, including `define service {` and the closing `}`.
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
+
+> I'm keeping them in the file instead of deleting them. If my router supports SNMP, I can update and uncomment them.
+
