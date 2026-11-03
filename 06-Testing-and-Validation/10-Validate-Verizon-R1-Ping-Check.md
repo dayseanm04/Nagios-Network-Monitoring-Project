@@ -18,3 +18,6 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 ---
 
 ## Test Cases
+
+| ID | Test | Expected | Actual | Status |
+|---|---|---|---|---|
