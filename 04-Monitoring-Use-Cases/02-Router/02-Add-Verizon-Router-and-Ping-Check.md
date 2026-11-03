@@ -40,6 +40,7 @@ I replace the sample Linksys switch with my router:
 |---|---|
 | **`use network-device-host`** | Uses my custom template for network devices: checks every minute, HARD after 2 failed checks, and alerts on down, unreachable, and recovery |
 | **`host_name verizon-r1`** | Short name Nagios uses for the router. Matches the name on my network diagram |
+| **`alias Verizon-R1`** | Name shown in the web interface |
 
 
 
