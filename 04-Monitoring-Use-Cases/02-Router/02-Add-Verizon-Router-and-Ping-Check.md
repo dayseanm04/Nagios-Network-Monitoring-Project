@@ -38,7 +38,7 @@ I replace the sample Linksys switch with my router:
 
 | Line | What it does |
 |---|---|
-
+| **`use network-device-host`** | Uses my custom template for network devices: checks every minute, HARD after 2 failed checks, and alerts on down, unreachable, and recovery |
 
 
 
