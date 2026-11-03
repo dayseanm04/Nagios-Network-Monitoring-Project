@@ -138,4 +138,6 @@ I use **`restart`** instead of **`reload`** because Nagios is loading a new fold
 
 The SNMP and MRTG checks from the sample are commented out, since the CR1000B doesn't support SNMP.
 
+**Open issue:** The router's **host** status was stuck in **PENDING**, even though its PING **service** was OK. Since the router was answering pings, the router itself was fine, and the problem was with how the host check was set up.
+
 
