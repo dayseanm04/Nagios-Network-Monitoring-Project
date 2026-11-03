@@ -21,3 +21,4 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
+| TC-01 | Service appears with a real result | **OK** with packet loss and response time | PING OK - Packet loss = 0%, RTA = 3.08 ms | PASS |
