@@ -8,4 +8,4 @@ The **`routers`** folder, hostgroup, and **`verizon-r1.cfg`** file were set up i
 
 ## Overview
 
-The router is the device between my lab network and the internet, as shown on my [**network diagram**](../../01-Overview/). If it goes down, everything on the network loses internet access.
+The router is the device between my lab network and the internet, as shown on my [**network diagram**](../../README.md). If it goes down, everything on the network loses internet access.
