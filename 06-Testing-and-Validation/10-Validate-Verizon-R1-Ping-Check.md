@@ -70,6 +70,7 @@ From the same details page:
 
 The PING service for **`verizon-r1`** works. The router answers with 0% packet loss and a 3–5 ms response time. Nagios applies the 200 ms / 20% warning and 600 ms / 60% critical thresholds, checks every minute with 2 attempts from `network-device-service`, and the check is stable with no flapping.
 
+---
 
 
 
