@@ -25,3 +25,6 @@ sudo nano verizon-r1.cfg
 ## Step 2 – Update the File Header
 
 I replace the sample header with one that says what this file is for:
+
+
+<img width="903" height="296" alt="2" src="https://github.com/user-attachments/assets/4813379c-a388-4813-8061-3fd7e1d10d96" />
