@@ -66,6 +66,7 @@ I make three changes:
 
 Save: **Ctrl+O**, **Enter**.
 
+### What the PING thresholds mean
 
 
 
