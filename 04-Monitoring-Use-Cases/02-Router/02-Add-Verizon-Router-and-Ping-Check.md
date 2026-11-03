@@ -32,6 +32,7 @@ I replace the sample header with one that says what this file is for:
 
 ## Step 3 – Define the Router
 
+I replace the sample Linksys switch with my router:
 
 
 
