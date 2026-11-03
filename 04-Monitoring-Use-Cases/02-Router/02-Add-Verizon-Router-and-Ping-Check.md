@@ -83,4 +83,5 @@ These are the sample values from **`switch.cfg`**. The router is on my local net
 
 The other three services from the sample need SNMP or MRTG:
 
-
+| Service | Needs |
+|---|---|
