@@ -119,6 +119,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Step 7 – Restart Nagios
 
+<img width="1036" height="241" alt="8" src="https://github.com/user-attachments/assets/d7507ca6-bb12-4b11-b06e-9db5bde306fe" />
 
 
 
