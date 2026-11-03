@@ -32,6 +32,7 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 <img width="1036" height="566" alt="1" src="https://github.com/user-attachments/assets/9037918b-702b-4d34-8c1d-f719c7f9178e" />
 
+<img width="1035" height="798" alt="2" src="https://github.com/user-attachments/assets/1ae73af0-68cf-42a7-a288-df99e0e4a8a9" />
 
 
 
