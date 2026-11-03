@@ -61,6 +61,7 @@ I make three changes:
 | Change | Before | After | Why |
 |---|---|---|---|
 | Host | **`linksys-srw224p`** | **`verizon-r1`** | Points the check at my router |
+| Template | **`generic-service`** | **`network-device-service`** | My template for network devices: 1-minute checks and HARD after 2 failed checks |
 
 
 
