@@ -138,6 +138,7 @@ I log in to **`http://192.168.1.99/nagios`** and click **Services**. **`verizon-
 
 <img width="1035" height="798" alt="9" src="https://github.com/user-attachments/assets/c9b6cb8a-2d9a-40ec-90c4-d134b924e06f" />
 
+> **Full verification:** [**Click here to see the Verizon-R1 PING check validation**](../../06-Testing-and-Validation/10-Validate-Verizon-R1-Ping-Check.md)
 
 ## Result
 
