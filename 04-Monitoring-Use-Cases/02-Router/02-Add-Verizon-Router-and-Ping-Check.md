@@ -17,3 +17,5 @@ cd /usr/local/nagios/etc/routers
 ls -l
 sudo nano verizon-r1.cfg
 ```
+
+<img width="889" height="352" alt="1" src="https://github.com/user-attachments/assets/a8587a67-63d3-4ede-9f9b-12063695f05b" />
