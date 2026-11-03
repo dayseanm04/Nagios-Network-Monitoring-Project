@@ -34,7 +34,7 @@ I replace the sample header with one that says what this file is for:
 
 I replace the sample Linksys switch with my router:
 
-<img width="952" height="660" alt="Screenshot 2026-11-01 162721 - Copy" src="https://github.com/user-attachments/assets/ff4c8a07-1cba-485c-a068-c42557278fec" />
+<img width="952" height="660" alt="3" src="https://github.com/user-attachments/assets/ff4c8a07-1cba-485c-a068-c42557278fec" />
 
 | Line | What it does |
 |---|---|
@@ -51,3 +51,11 @@ Save: **Ctrl+O**, **Enter**.
 ## Step 4 – Update the PING Service
 
 The sample file has a PING service for the Linksys switch:
+
+<img width="898" height="724" alt="4" src="https://github.com/user-attachments/assets/09ee38b2-afa1-4a65-ab01-5f42dd5fa245" />
+
+
+
+
+
+
