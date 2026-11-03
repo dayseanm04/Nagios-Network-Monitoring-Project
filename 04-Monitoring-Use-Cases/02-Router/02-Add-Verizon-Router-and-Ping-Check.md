@@ -142,3 +142,6 @@ The SNMP and MRTG checks from the sample are commented out, since the CR1000B do
 
 > **Troubleshooting:** [**Click here to see how I fixed verizon-r1 stuck in PENDING**](../../05-Troubleshooting/02-Router/01-Troubleshoot-Verizon-R1-Stuck-in-Pending.md)
 
+---
+
+## Next Steps
