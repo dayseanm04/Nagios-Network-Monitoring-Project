@@ -42,6 +42,7 @@ I replace the sample Linksys switch with my router:
 | **`host_name verizon-r1`** | Short name Nagios uses for the router. Matches the name on my network diagram |
 | **`alias Verizon-R1`** | Name shown in the web interface |
 | **`address 192.168.1.1`** | The router's IP, which is also the default gateway for my project network |
+| **`hostgroups routers`** | Adds the router to the **`routers`** hostgroup defined in `routers-hostgroup.cfg` |
 
 
 
