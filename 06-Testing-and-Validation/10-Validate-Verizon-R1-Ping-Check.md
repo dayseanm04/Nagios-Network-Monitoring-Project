@@ -34,6 +34,7 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 <img width="1035" height="798" alt="2" src="https://github.com/user-attachments/assets/1ae73af0-68cf-42a7-a288-df99e0e4a8a9" />
 
+**Result:** ✅ PASS. The router answers pings with no loss and a response time of about 3 ms.
 
 
 
