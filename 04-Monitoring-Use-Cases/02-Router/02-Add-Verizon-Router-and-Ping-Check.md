@@ -111,6 +111,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 | Count | Before | After | What changed |
 |---|---|---|---|
+| Hosts | 2 | **3** | Added `verizon-r1` |
 
 
 
