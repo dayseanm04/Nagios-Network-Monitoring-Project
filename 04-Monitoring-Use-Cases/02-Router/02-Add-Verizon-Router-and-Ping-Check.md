@@ -11,3 +11,9 @@ The **`routers`** folder, hostgroup, and **`verizon-r1.cfg`** file were set up i
 The router is the device between my lab network and the internet, as shown on my [**network diagram**](../../README.md). If it goes down, everything on the network loses internet access.
 
 ## Step 1 – Open verizon-r1.cfg
+
+```bash
+cd /usr/local/nagios/etc/routers
+ls -l
+sudo nano verizon-r1.cfg
+```
