@@ -14,3 +14,7 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 | Host under test | **`verizon-r1`** (**`192.168.1.1`**) |
 | Router model | Verizon CR1000B |
 | Service under test | `PING` |
+
+---
+
+## Test Cases
