@@ -109,7 +109,8 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1028" height="856" alt="7" src="https://github.com/user-attachments/assets/ca2f4e52-0a35-43f5-9385-c60578e8393c" />
 
-
+| Count | Before | After | What changed |
+|---|---|---|---|
 
 
 
