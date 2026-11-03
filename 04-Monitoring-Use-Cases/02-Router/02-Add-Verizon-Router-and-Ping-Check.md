@@ -54,6 +54,7 @@ The sample file has a PING service for the Linksys switch:
 
 <img width="898" height="724" alt="4" src="https://github.com/user-attachments/assets/09ee38b2-afa1-4a65-ab01-5f42dd5fa245" />
 
+<img width="1032" height="674" alt="Screenshot 2026-11-01 164031" src="https://github.com/user-attachments/assets/e52ee753-6043-4ca3-a3c8-95c1fa52e824" />
 
 
 
