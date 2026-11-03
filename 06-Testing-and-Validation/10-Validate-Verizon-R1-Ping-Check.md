@@ -10,3 +10,5 @@ In this doc, I will verify that the PING service check for `verizon-r1` is worki
 
 | Item | Details |
 |---|---|
+| Date | November 1, 2026 |
+| Host under test | **`verizon-r1`** (**`192.168.1.1`**) |
