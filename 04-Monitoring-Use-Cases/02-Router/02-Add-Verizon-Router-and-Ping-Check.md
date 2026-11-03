@@ -147,4 +147,5 @@ The SNMP and MRTG checks from the sample are commented out, since the CR1000B do
 ## Next Steps
 
 1. **Troubleshoot `verizon-r1` stuck in PENDING.** See [**Troubleshoot Verizon-R1 Stuck in Pending**](../../05-Troubleshooting/02-Router/01-Troubleshoot-Verizon-R1-Stuck-in-Pending.md).
+2. **Add checks that don't need SNMP:** the router's web admin page (**`check_http`**), DNS through the router (**`check_dns`**), and internet connectivity to Google DNS (**`8.8.8.8`**) with `verizon-r1` as its parent.
 
