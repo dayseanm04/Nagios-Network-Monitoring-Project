@@ -39,3 +39,7 @@ The PING service being OK was the key clue. The router was clearly reachable, so
 - Nagios couldn't report whether the router was UP or DOWN.
 - If the router actually went down, there would be **no host alert**, only a service alert from PING.
 - Any host later set with **`parents verizon-r1`** (like an internet connectivity check) couldn't be marked UNREACHABLE correctly, because Nagios didn't know the router's state.
+
+---
+
+
