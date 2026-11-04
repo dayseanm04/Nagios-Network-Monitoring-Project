@@ -135,6 +135,7 @@ When I created **`network-device-host`**, I based it on **`generic-host`**, the 
 
 ## Root Cause
 
+The **`network-device-host`** template had **no `check_command`**, and neither did **`generic-host`**, the template it was built on. Without a check command, Nagios had no way to check whether **`verizon-r1`** was up, so the host never got a result and stayed in **PENDING**.
 
 
 
