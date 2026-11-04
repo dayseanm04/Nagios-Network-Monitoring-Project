@@ -107,7 +107,8 @@ A timeout on its own could mean a few things:
 |---|---|
 | The router is down or unreachable | ✅ Yes. The router answers ping, and Nagios shows `verizon-r1` UP (see [**10 – Validate Verizon-R1 Ping Check**](10-Validate-Verizon-R1-Ping-Check.md)) |
 | The community string is wrong | ✅ Yes. There's no setting to change the community string, so there's no other value to try |
-| SNMP is turned off but can be turned on | ✅ Yes. TC-01 found no setting to turn it on |
+| SNMP is turned off but can be turned on | ✅ Yes. TC-01 found no setting to turn it on or configure it |
+| The router doesn't have an SNMP agent | ❌ This is what's left |
 
 
 
