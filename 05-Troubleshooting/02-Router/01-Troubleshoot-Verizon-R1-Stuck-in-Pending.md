@@ -14,3 +14,5 @@ Troubleshooting record for the router host **`verizon-r1`** staying in **PENDING
 After adding **`verizon-r1`** to Nagios, its **PING service** showed **OK** with 0% packet loss, but the **host** itself stayed in **PENDING**. The other two hosts, **`comp-a-test`** and **`localhost`**, were **UP**.
 
 <img width="1036" height="566" alt="1" src="https://github.com/user-attachments/assets/8263d0bf-b460-483c-a90d-0f4dca5c263f" />
+
+<img width="1030" height="622" alt="2" src="https://github.com/user-attachments/assets/e1968b61-2ccc-470b-91e3-345a498789e5" />
