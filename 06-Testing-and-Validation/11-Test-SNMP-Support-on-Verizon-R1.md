@@ -121,3 +121,5 @@ With the router reachable and no SNMP settings anywhere in its admin interface, 
 ---
 
 ## Related Docs
+
+- [**04-Monitoring-Use-Cases / 02-Router / 02 – Add Verizon Router and Ping Check**](../04-Monitoring-Use-Cases/02-Router/02-Add-Verizon-Router-and-Ping-Check.md)
