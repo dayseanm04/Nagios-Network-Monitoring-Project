@@ -107,6 +107,7 @@ sudo nano comp-a-test.cfg
 
 **`comp-a-test`** uses **`windows-ncpa-host`**:
 
+<img width="836" height="439" alt="8" src="https://github.com/user-attachments/assets/b5b278a2-d252-49dd-8564-6e0e99c93f35" />
 
 
 
