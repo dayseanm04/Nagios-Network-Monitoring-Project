@@ -37,3 +37,4 @@ The PING service being OK was the key clue. The router was clearly reachable, so
 ## Impact
 
 - Nagios couldn't report whether the router was UP or DOWN.
+- If the router actually went down, there would be **no host alert**, only a service alert from PING.
