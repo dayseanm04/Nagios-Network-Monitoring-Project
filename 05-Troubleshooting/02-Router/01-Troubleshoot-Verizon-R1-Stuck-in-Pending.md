@@ -119,6 +119,34 @@ The **`linux-server`** template, used by **`localhost`**, has the same **`check_
 
 **Finding:** Both working hosts get **`check_command check-host-alive`** from their templates. **`verizon-r1`** doesn't.
 
+---
+
+## Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
