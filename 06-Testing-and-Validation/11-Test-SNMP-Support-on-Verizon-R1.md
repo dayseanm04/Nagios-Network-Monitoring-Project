@@ -36,10 +36,11 @@ This test checks both.
 
 I check every section where SNMP settings would normally be:
 
-### I clicked security and firewall
+### I clicked security and firewall and looked for SNMP
 
 <img width="1063" height="730" alt="2" src="https://github.com/user-attachments/assets/28a89b36-0c0b-4801-8c2b-8216ea922921" />
 
+### I clicked Network Settings there's also no section for snmp
 
 
 
