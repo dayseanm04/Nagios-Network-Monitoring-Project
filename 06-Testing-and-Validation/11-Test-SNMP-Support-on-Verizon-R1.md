@@ -117,3 +117,7 @@ With the router reachable and no SNMP settings anywhere in its admin interface, 
 ## Conclusion
 
 **`verizon-r1`** (Verizon CR1000B) **does not support SNMP**. Its admin interface has no SNMP settings, and an **`snmpget`** request for system uptime timed out even though the router is reachable. This is common for ISP-provided home routers, which usually aren't built to be managed by monitoring tools.
+
+---
+
+## Related Docs
