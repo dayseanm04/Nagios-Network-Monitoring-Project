@@ -126,6 +126,7 @@ The **`linux-server`** template, used by **`localhost`**, has the same **`check_
 | Host | Template chain | `check_command` | Status |
 |---|---|---|---|
 | comp-a-test | **`windows-ncpa-host`** → **`windows-server`** → **`generic-host`** | ✅ **`check-host-alive`** from **`windows-server`** | UP |
+| localhost | **`linux-server`** → **`generic-host`** | ✅ **`check-host-alive`** from **`linux-server`** | UP |
 
 
 
