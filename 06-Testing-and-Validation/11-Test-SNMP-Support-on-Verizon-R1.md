@@ -81,7 +81,9 @@ This installs **`snmpget`** and other Net-SNMP command-line tools.
 
 ### Step 2 – Ask the router for its uptime
 
-
+```bash
+snmpget -v2c -c public 192.168.1.1 1.3.6.1.2.1.1.3.0
+```
 
 
 
