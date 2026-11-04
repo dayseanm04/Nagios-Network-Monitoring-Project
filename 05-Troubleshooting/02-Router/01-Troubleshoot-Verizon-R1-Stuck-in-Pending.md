@@ -52,6 +52,7 @@ ls -l
 sudo nano verizon-r1.cfg
 ```
 
+<img width="999" height="552" alt="4" src="https://github.com/user-attachments/assets/643684c6-db5b-433b-9f14-017c63b13ff4" />
 
 
 
