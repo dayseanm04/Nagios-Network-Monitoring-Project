@@ -137,7 +137,7 @@ When I created **`network-device-host`**, I based it on **`generic-host`**, the 
 
 The **`network-device-host`** template had **no `check_command`**, and neither did **`generic-host`**, the template it was built on. Without a check command, Nagios had no way to check whether **`verizon-r1`** was up, so the host never got a result and stayed in **PENDING**.
 
-
+The pre-flight check passed with **0 warnings and 0 errors**, so it didn't catch this. A missing host check command is valid config. The host just never gets checked.
 
 
 
