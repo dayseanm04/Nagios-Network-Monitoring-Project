@@ -35,3 +35,5 @@ The PING service being OK was the key clue. The router was clearly reachable, so
 ---
 
 ## Impact
+
+- Nagios couldn't report whether the router was UP or DOWN.
