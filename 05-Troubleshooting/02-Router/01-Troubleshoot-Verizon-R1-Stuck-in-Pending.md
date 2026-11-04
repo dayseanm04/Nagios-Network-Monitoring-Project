@@ -171,6 +171,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 Restart Nagios:
 
+```bash
+sudo systemctl restart nagios
+```
 
 
 
