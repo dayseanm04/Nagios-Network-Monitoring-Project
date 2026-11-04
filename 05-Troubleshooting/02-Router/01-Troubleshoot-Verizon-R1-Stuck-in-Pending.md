@@ -46,7 +46,11 @@ The PING service being OK was the key clue. The router was clearly reachable, so
 
 ### Step 1 – Check the host definition
 
-
+```bash
+cd /usr/local/nagios/etc/routers
+ls -l
+sudo nano verizon-r1.cfg
+```
 
 
 
