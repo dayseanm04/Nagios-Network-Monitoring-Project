@@ -28,6 +28,7 @@ This test checks both.
 
 ---
 
+## TC-01 – Look for SNMP Settings in the Router
 
 
 
