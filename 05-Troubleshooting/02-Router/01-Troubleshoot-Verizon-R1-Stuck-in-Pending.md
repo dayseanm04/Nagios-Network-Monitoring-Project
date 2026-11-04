@@ -131,6 +131,9 @@ The **`linux-server`** template, used by **`localhost`**, has the same **`check_
 
 When I created **`network-device-host`**, I based it on **`generic-host`**, the most basic template. **`generic-host`** is meant to be a starting point that other templates build on, so it doesn't include a check command. The ready-made templates like **`windows-server`** and **`linux-server`** add one, but mine didn't.
 
+---
+
+## Root Cause
 
 
 
