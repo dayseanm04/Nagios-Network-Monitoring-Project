@@ -205,4 +205,8 @@ I click **`verizon-r1`** for the full details.
 
 | Lesson | Action |
 |---|---|
+| **`generic-host`** is a base template, not a complete one. It has no **`check_command`** | Any custom host template built on **`generic-host`** must add its own **`check_command`** |
+
+
+
 
