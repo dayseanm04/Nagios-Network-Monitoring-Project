@@ -93,6 +93,7 @@ snmpget -v2c -c public 192.168.1.1 1.3.6.1.2.1.1.3.0
 | `-v2c` | Uses SNMP version 2c, the most common version |
 | `-c public` | The community string, which works like a password. `public` is the usual default |
 | `192.168.1.1` | The router |
+| `1.3.6.1.2.1.1.3.0` | The OID (object ID) for **system uptime**. Every SNMP device that supports the standard system info should answer this |
 
 
 
