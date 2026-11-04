@@ -13,3 +13,4 @@ SNMP (Simple Network Management Protocol) is how monitoring tools read informati
 For Nagios to monitor **`verizon-r1`** with SNMP, two things would need to be true:
 
 1. The router has an SNMP agent that can be turned on.
+2. The router answers SNMP requests from the Nagios server.
