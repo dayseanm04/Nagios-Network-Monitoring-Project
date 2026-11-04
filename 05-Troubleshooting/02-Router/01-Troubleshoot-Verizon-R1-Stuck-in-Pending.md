@@ -109,6 +109,7 @@ sudo nano comp-a-test.cfg
 
 <img width="836" height="439" alt="8" src="https://github.com/user-attachments/assets/b5b278a2-d252-49dd-8564-6e0e99c93f35" />
 
+**`windows-ncpa-host`** doesn't have a **`check_command`** either, but it uses **`windows-server`**. I checked that template in **`objects/templates.cfg`**:
 
 
 
