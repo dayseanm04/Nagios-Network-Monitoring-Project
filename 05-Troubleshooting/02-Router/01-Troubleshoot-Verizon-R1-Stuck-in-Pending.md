@@ -203,5 +203,6 @@ I click **`verizon-r1`** for the full details.
 
 ## Lessons Learned and Prevention
 
-
+| Lesson | Action |
+|---|---|
 
