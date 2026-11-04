@@ -110,5 +110,7 @@ A timeout on its own could mean a few things:
 | SNMP is turned off but can be turned on | ✅ Yes. TC-01 found no setting to turn it on or configure it |
 | The router doesn't have an SNMP agent | ❌ This is what's left |
 
+With the router reachable and no SNMP settings anywhere in its admin interface, the timeout means the router isn't running an SNMP agent.
 
+---
 
