@@ -103,6 +103,7 @@ cd ../windows-hosts
 sudo nano comp-a-test.cfg
 ```
 
+<img width="886" height="385" alt="7" src="https://github.com/user-attachments/assets/564e331f-3bfd-4da5-aa8a-156e9388def8" />
 
 
 
