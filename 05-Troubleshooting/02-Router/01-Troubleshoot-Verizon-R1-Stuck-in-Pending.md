@@ -58,6 +58,7 @@ sudo nano verizon-r1.cfg
 
 ---
 
+### Step 2 – Check the network-device-host template
 
 
 
