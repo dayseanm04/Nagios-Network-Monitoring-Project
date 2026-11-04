@@ -123,6 +123,8 @@ To make sure the result wasn't caused by one machine or one tool, I tested again
 nping --udp -p 161 -c 3 192.168.1.1
 ```
 
+<img width="1104" height="365" alt="9" src="https://github.com/user-attachments/assets/ef4f266c-551c-4559-9f74-d89a90f62e4e" />
+
 
 ## Conclusion
 
