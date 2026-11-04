@@ -195,5 +195,7 @@ I click **`verizon-r1`** for the full details.
 
 <img width="1028" height="848" alt="16 src="https://github.com/user-attachments/assets/9f25eaaa-761a-4dac-a9b3-c2561f79a97c" />
 
+**Result:** **`verizon-r1`** is **UP**, checked every minute with 2 attempts from **`network-device-host`**, and has stayed stable for almost 3 days.
 
+> **Host check vs. PING service:** Both ping the router, but they answer different questions. The **host check** (**`check-host-alive`**) asks "is the router up at all?" and uses loose thresholds, only failing if the router is nearly unreachable. The **PING service** (**`check_ping!200.0,20%!600.0,60%`**) asks "is the connection healthy?" and alerts sooner on slow replies or packet loss.
 
