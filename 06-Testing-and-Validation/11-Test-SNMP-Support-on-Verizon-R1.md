@@ -101,6 +101,7 @@ snmpget -v2c -c public 192.168.1.1 1.3.6.1.2.1.1.3.0
 
 ## Analysis
 
+A timeout on its own could mean a few things:
 
 
 
