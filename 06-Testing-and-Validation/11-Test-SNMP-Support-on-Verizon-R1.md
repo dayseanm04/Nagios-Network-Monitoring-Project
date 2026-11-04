@@ -20,3 +20,6 @@ This test checks both.
 ---
 
 ## Test Cases
+
+| ID | Test | Expected if supported | Actual | Status |
+|---|---|---|---|---|
