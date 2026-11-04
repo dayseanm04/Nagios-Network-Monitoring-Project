@@ -132,7 +132,7 @@ nping --udp -p 161 -c 3 192.168.1.1
 
 ## Conclusion
 
-**`verizon-r1`** (Verizon CR1000B) **does not support SNMP**. Its admin interface has no SNMP settings, and an **`snmpget`** request for system uptime timed out even though the router is reachable. This is common for ISP-provided home routers, which usually aren't built to be managed by monitoring tools.
+**`verizon-r1`** (Verizon CR1000B) **does not support SNMP**. Its admin interface has no SNMP settings, an **`snmpget`** request from NetworkVM timed out, and UDP probes from **comp-a-test** confirmed that port 161 is closed. The router answered every probe with ICMP "Port unreachable." Its admin interface has no SNMP settings, and an **`snmpget`** request for system uptime timed out even though the router is reachable. This is common for ISP-provided home routers, which usually aren't built to be managed by monitoring tools.
 
 ---
 
