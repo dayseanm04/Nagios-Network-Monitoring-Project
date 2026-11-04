@@ -91,6 +91,7 @@ snmpget -v2c -c public 192.168.1.1 1.3.6.1.2.1.1.3.0
 |---|---|
 | `snmpget` | Asks a device for one value |
 | `-v2c` | Uses SNMP version 2c, the most common version |
+| `-c public` | The community string, which works like a password. `public` is the usual default |
 
 
 
