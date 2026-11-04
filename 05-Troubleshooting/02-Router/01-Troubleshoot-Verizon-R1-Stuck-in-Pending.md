@@ -54,13 +54,14 @@ sudo nano verizon-r1.cfg
 
 <img width="999" height="552" alt="4" src="https://github.com/user-attachments/assets/643684c6-db5b-433b-9f14-017c63b13ff4" />
 
+<img width="941" height="663" alt="2" src="https://github.com/user-attachments/assets/6a1c65f6-69bb-4c0e-a77d-f8c4835b9cf3" />
+
 **Finding:** The host definition looked correct: right name, right IP, using **`network-device-host`**. The host block doesn't set a check command itself, so it depends on the template for one.
 
 ---
 
 ### Step 2 – Check the network-device-host template
 
-<img width="941" height="663" alt="2" src="https://github.com/user-attachments/assets/6a1c65f6-69bb-4c0e-a77d-f8c4835b9cf3" />
 
 ```bash
 cd ../templates
