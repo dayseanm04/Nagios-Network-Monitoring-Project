@@ -199,3 +199,9 @@ I click **`verizon-r1`** for the full details.
 
 > **Host check vs. PING service:** Both ping the router, but they answer different questions. The **host check** (**`check-host-alive`**) asks "is the router up at all?" and uses loose thresholds, only failing if the router is nearly unreachable. The **PING service** (**`check_ping!200.0,20%!600.0,60%`**) asks "is the connection healthy?" and alerts sooner on slow replies or packet loss.
 
+---
+
+## Lessons Learned and Prevention
+
+
+
