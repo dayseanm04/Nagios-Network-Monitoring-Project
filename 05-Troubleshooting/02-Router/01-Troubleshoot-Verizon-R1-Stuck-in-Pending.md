@@ -79,7 +79,11 @@ sudo nano custom-templates.cfg
 
 ### Step 3 – Check the generic-host template
 
-
+```bash
+cd ../objects
+ls -l
+sudo nano templates.cfg
+```
 
 
 
