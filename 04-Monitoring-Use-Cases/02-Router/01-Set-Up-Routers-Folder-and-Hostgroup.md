@@ -2,7 +2,7 @@
 
 In this doc, I will prepare Nagios to monitor routers. I'll create a **`routers`** folder with its own hostgroup, the same way I organized Windows hosts, and use the sample **`switch.cfg`** that comes with Nagios as the starting point for my router's config file.  I'll also update my **`network-device-host`** template so it's ready for network devices.
 
-This doc only sets up the structure. The router's host definition and service checks are configured in [**02 – Add Verizon Router to Nagios**](02-Add-Verizon-Router-to-Nagios.md).
+This doc only sets up the structure. The router's host definition and service checks are configured in [**02 – Add Verizon Router to Nagios**](02-Add-Verizon-Router-and-Ping-Check.md).
 
 
 ---
