@@ -75,6 +75,9 @@ sudo nano custom-templates.cfg
 
 **Finding:** The template sets **when** and how **often** to check, but there's no **`check_command`**, so nothing says **how** to check. It inherits everything else from **`generic-host`**.
 
+---
+
+### Step 3 – Check the generic-host template
 
 
 
