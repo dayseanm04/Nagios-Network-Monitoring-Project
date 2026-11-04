@@ -216,4 +216,5 @@ I click **`verizon-r1`** for the full details.
 ## Related Docs
 
 - [**04-Monitoring-Use-Cases / 02-Router / 02 – Add Verizon Router and Ping Check**](../../04-Monitoring-Use-Cases/02-Router/02-Add-Verizon-Router-and-Ping-Check.md)
+- [**04-Monitoring-Use-Cases / 02-Router / 01 – Set Up Routers Folder and Hostgroup**](../../04-Monitoring-Use-Cases/02-Router/01-Set-Up-Routers-Folder-and-Hostgroup.md)
 
