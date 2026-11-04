@@ -79,6 +79,8 @@ sudo apt install snmp
 
 This installs **`snmpget`** and other Net-SNMP command-line tools.
 
+### Step 2 – Ask the router for its uptime
+
 
 
 
