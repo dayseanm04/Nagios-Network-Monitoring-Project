@@ -98,7 +98,10 @@ sudo nano templates.cfg
 
 **`comp-a-test`** is UP, so I traced its templates the same way.
 
-
+```bash
+cd ../windows-hosts
+sudo nano comp-a-test.cfg
+```
 
 
 
