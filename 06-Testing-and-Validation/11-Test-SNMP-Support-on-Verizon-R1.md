@@ -34,6 +34,7 @@ This test checks both.
 
 <img width="1069" height="684" alt="1" src="https://github.com/user-attachments/assets/41d995b6-ff5c-46b9-81b4-462adb774487" />
 
+I check every section where SNMP settings would normally be:
 
 
 
