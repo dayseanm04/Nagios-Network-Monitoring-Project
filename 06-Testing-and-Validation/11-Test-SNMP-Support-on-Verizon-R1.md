@@ -63,4 +63,7 @@ I check every section where SNMP settings would normally be:
 
 **About Bandwidth Monitoring:** The router does track its own upload and download usage (for example, 1.27 TB downloaded in the last month). But it only shows this on its own web page. Without SNMP, Nagios has no way to read it.
 
+---
+
+## TC-02 – Send an SNMP Request from NetworkVM
 
