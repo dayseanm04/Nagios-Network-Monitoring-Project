@@ -44,7 +44,7 @@ The PING service being OK was the key clue. The router was clearly reachable, so
 
 ## Troubleshooting Steps Taken
 
-
+### Step 1 – Check the host definition
 
 
 
