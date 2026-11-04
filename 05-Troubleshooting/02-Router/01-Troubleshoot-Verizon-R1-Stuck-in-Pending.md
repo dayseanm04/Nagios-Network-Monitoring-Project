@@ -141,8 +141,9 @@ The pre-flight check passed with **0 warnings and 0 errors**, so it didn't catch
 
 **Why the PING service still worked:** Services have their own **`check_command`**. The PING service used `check_ping` directly, so it ran fine even though the host check didn't exist.
 
+---
 
-
+## Resolution
 
 
 
