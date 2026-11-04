@@ -25,3 +25,18 @@ This test checks both.
 |---|---|---|---|---|
 | TC-01 | Look for SNMP settings in the router's admin interface | An SNMP page with an on/off switch and community string | No SNMP settings in any section | Not supported |
 | TC-01 | Look for SNMP settings in the router's admin interface | An SNMP page with an on/off switch and community string | No SNMP settings in any section | Not supported |
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
