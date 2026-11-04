@@ -50,5 +50,6 @@ I check every section where SNMP settings would normally be:
 
 | Section | What's in it | SNMP? |
 |---|---|---|
+| **Security & Firewall** | General, Access Control, DMZ Host, IPv6 Pinholes, Port Forwarding, Port Forwarding Rules, Port Triggering, Scheduler Rules, SIP ALG | ❌ |
 
 
