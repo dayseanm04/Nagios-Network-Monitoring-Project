@@ -127,6 +127,7 @@ The **`linux-server`** template, used by **`localhost`**, has the same **`check_
 |---|---|---|---|
 | comp-a-test | **`windows-ncpa-host`** → **`windows-server`** → **`generic-host`** | ✅ **`check-host-alive`** from **`windows-server`** | UP |
 | localhost | **`linux-server`** → **`generic-host`** | ✅ **`check-host-alive`** from **`linux-server`** | UP |
+| verizon-r1 | **`network-device-host`** → **`generic-host`** | ❌ None | PENDING |
 
 
 
