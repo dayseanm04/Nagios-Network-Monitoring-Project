@@ -25,3 +25,4 @@ After adding **`verizon-r1`** to Nagios, its **PING service** showed **OK** with
 |---|---|
 | Hosts page | `verizon-r1` – **PENDING** for 30 minutes |
 | Last Check | **N/A**. The host had never been checked |
+| PING service on `verizon-r1` | **OK** – Packet loss = 0%, RTA = 3.08 ms |
