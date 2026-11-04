@@ -98,10 +98,6 @@ snmpget -v2c -c public 192.168.1.1 1.3.6.1.2.1.1.3.0
 | `192.168.1.1` | The router |
 | `1.3.6.1.2.1.1.3.0` | The OID (object ID) for **system uptime**. Every SNMP device that supports the standard system info should answer this |
 
----
-
-## TC-03 – Probe Port 161 from a Second Machine
-
 ## Analysis
 
 A timeout on its own could mean a few things:
@@ -116,6 +112,11 @@ A timeout on its own could mean a few things:
 With the router reachable and no SNMP settings anywhere in its admin interface, the timeout means the router isn't running an SNMP agent.
 
 ---
+
+## TC-03 – Probe Port 161 from a Second Machine
+
+To make sure the result wasn't caused by one machine or one tool, I tested again from **`comp-a-test`** using **`nping`**, a packet tool from the Nmap project.
+
 
 ## Conclusion
 
