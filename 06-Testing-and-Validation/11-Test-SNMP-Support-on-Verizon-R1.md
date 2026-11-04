@@ -68,3 +68,10 @@ I check every section where SNMP settings would normally be:
 ## TC-02 – Send an SNMP Request from NetworkVM
 
 ### Step 1 – Install the SNMP tools
+
+On `NetworkVM`:
+
+```bash
+sudo apt install snmp
+```
+
