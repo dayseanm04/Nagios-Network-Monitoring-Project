@@ -14,3 +14,7 @@ For Nagios to monitor **`verizon-r1`** with SNMP, two things would need to be tr
 
 1. The router has an SNMP agent that can be turned on.
 2. The router answers SNMP requests from the Nagios server.
+
+This test checks both.
+
+---
