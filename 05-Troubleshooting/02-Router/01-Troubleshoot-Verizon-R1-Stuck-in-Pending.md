@@ -87,6 +87,9 @@ sudo nano templates.cfg
 
 <img width="808" height="430" alt="5" src="https://github.com/user-attachments/assets/2ee69292-f519-409c-a052-765e9c2d836c" />
 
+<img width="953" height="485" alt="6" src="https://github.com/user-attachments/assets/1541661a-8f19-45d7-aab3-b4cace85c95d" />
+
+
 **Finding:** **`generic-host`** doesn't have a **`check_command`** either. It only sets general options like notifications and flap detection. So neither template in the gives **`verizon-r1`** a way to be checked.
 
 ---
