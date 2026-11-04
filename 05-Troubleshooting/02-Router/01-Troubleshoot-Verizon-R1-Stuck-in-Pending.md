@@ -189,4 +189,8 @@ I log in to `http://192.168.1.99/nagios` and click **Hosts**.
 
 Host Status Totals: **3 Up, 0 Down, 0 Pending**. **`verizon-r1`** had a real Last Check time for the first time.
 
+### Three days later (Nov 4, 12:00)
+
+
+
 
