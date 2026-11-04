@@ -25,7 +25,7 @@ This test checks both.
 |---|---|---|---|---|
 | TC-01 | Look for SNMP settings in the router's admin interface | An SNMP page with an on/off switch and community string | No SNMP settings in any section | Not supported |
 | TC-02 | Send an SNMP request from NetworkVM | The router's uptime | `Timeout: No Response from 192.168.1.1.` | ❌ No response |
-| TC-03 | Send UDP packets to port 161 from comp-a-test | No reply, or an SNMP reply if supported | 3/3 answered with ICMP **Port unreachable** | ❌ Port closed |
+| TC-03 | Send UDP packets to port 161 from **comp-a-test** | No reply, or an SNMP reply if supported | 3/3 answered with ICMP **Port unreachable** | ❌ Port closed |
 
 ---
 
@@ -99,6 +99,8 @@ snmpget -v2c -c public 192.168.1.1 1.3.6.1.2.1.1.3.0
 | `1.3.6.1.2.1.1.3.0` | The OID (object ID) for **system uptime**. Every SNMP device that supports the standard system info should answer this |
 
 ---
+
+## TC-03 – Probe Port 161 from a Second Machine
 
 ## Analysis
 
