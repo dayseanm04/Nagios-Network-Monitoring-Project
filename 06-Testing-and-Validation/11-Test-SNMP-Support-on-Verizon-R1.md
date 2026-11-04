@@ -5,3 +5,5 @@ In this doc, I will test whether my router, **`verizon-r1`** [CR1000B], supports
 > **Where this came up:** [**04-Monitoring-Use-Cases / 02-Router / 02 – Add Verizon Router and Ping Check**](../04-Monitoring-Use-Cases/02-Router/02-Add-Verizon-Router-and-Ping-Check.md)
 
 ---
+
+## What Is SNMP?
