@@ -218,4 +218,4 @@ I click **`verizon-r1`** for the full details.
 - [**04-Monitoring-Use-Cases / 02-Router / 02 – Add Verizon Router and Ping Check**](../../04-Monitoring-Use-Cases/02-Router/02-Add-Verizon-Router-and-Ping-Check.md)
 - [**04-Monitoring-Use-Cases / 02-Router / 01 – Set Up Routers Folder and Hostgroup**](../../04-Monitoring-Use-Cases/02-Router/01-Set-Up-Routers-Folder-and-Hostgroup.md)
 - [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
-
+- [**06-Testing-and-Validation / 10 – Validate Verizon-R1 Ping Check**](../../06-Testing-and-Validation/10-Validate-Verizon-R1-Ping-Check.md)
