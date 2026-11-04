@@ -44,6 +44,7 @@ I check every section where SNMP settings would normally be:
 
 <img width="1082" height="959" alt="3" src="https://github.com/user-attachments/assets/93c43102-6552-4405-8754-3247ca091203" />
 
+### 3. I clicked Diagnostics and Monitoring and there's also no section for snmp
 
 
 
