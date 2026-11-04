@@ -181,6 +181,7 @@ sudo systemctl restart nagios
 
 ### Right after the fix (Nov 1, 17:52)
 
+I log in to `http://192.168.1.99/nagios` and click **Hosts**.
 
 
 
