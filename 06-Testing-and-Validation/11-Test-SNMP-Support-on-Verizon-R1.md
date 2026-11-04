@@ -36,6 +36,7 @@ This test checks both.
 
 I check every section where SNMP settings would normally be:
 
+### I clicked security and firewall
 
 
 
