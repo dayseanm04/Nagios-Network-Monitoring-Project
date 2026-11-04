@@ -177,6 +177,7 @@ sudo systemctl restart nagios
 
 <img width="1020" height="256" alt="13" src="https://github.com/user-attachments/assets/913e85e6-a873-47e4-beea-cc6ae93ac4b2" />
 
+## Verification
 
 
 
