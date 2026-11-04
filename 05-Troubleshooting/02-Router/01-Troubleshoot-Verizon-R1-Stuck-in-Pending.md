@@ -211,6 +211,8 @@ I click **`verizon-r1`** for the full details.
 | Comparing with a working host finds the difference fast | Tracing **`comp-a-test`**'s template chain showed exactly what **`verizon-r1`** was missing |
 | Fix the template, not just the host | Every future network device now gets a host check automatically |
 
+---
 
+## Related Docs
 
 
