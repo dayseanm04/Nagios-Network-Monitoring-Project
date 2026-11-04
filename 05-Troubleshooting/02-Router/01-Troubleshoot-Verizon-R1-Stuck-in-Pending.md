@@ -93,6 +93,7 @@ sudo nano templates.cfg
 
 ### Step 4 – Compare with a host that works
 
+**`comp-a-test`** is UP, so I traced its templates the same way.
 
 
 
