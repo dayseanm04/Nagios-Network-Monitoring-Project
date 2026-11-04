@@ -51,5 +51,6 @@ I check every section where SNMP settings would normally be:
 | Section | What's in it | SNMP? |
 |---|---|---|
 | **Security & Firewall** | General, Access Control, DMZ Host, IPv6 Pinholes, Port Forwarding, Port Forwarding Rules, Port Triggering, Scheduler Rules, SIP ALG | ❌ |
+| **Network Settings** | ARP Table, DNS Server, Dynamic DNS, IPv4 Address Distribution, IPv6, MAC Cloning, NDP Table, Network Connections, Port Configuration, Routing, Static NAT, and more | ❌ |
 
 
