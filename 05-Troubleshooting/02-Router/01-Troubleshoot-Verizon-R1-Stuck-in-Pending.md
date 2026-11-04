@@ -193,5 +193,7 @@ Host Status Totals: **3 Up, 0 Down, 0 Pending**. **`verizon-r1`** had a real Las
 
 I click **`verizon-r1`** for the full details.
 
+<img width="1028" height="848" alt="16 src="https://github.com/user-attachments/assets/9f25eaaa-761a-4dac-a9b3-c2561f79a97c" />
+
 
 
