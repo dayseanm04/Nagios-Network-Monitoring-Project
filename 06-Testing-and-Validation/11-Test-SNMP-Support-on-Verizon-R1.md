@@ -106,6 +106,7 @@ A timeout on its own could mean a few things:
 | Possible cause | Ruled out? |
 |---|---|
 | The router is down or unreachable | ✅ Yes. The router answers ping, and Nagios shows `verizon-r1` UP (see [**10 – Validate Verizon-R1 Ping Check**](10-Validate-Verizon-R1-Ping-Check.md)) |
+| The community string is wrong | ✅ Yes. There's no setting to change the community string, so there's no other value to try |
 
 
 
