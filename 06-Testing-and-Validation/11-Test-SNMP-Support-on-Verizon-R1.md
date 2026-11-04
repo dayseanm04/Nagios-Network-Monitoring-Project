@@ -77,6 +77,7 @@ sudo apt install snmp
 
 <img width="1026" height="597" alt="7" src="https://github.com/user-attachments/assets/caa558ad-2560-421e-abc8-fc2962b1fec0" />
 
+This installs **`snmpget`** and other Net-SNMP command-line tools.
 
 
 
