@@ -117,6 +117,7 @@ The **`linux-server`** template, used by **`localhost`**, has the same **`check_
 
 <img width="1007" height="585" alt="9" src="https://github.com/user-attachments/assets/ef7a2034-b50c-4f2e-ba44-35159c7a913a" />
 
+**Finding:** Both working hosts get **`check_command check-host-alive`** from their templates. **`verizon-r1`** doesn't.
 
 
 
