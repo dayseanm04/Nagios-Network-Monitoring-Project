@@ -56,6 +56,7 @@ sudo nano verizon-r1.cfg
 
 **Finding:** The host definition looked correct: right name, right IP, using **`network-device-host`**. The host block doesn't set a check command itself, so it depends on the template for one.
 
+---
 
 
 
