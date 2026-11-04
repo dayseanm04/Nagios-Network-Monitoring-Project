@@ -85,6 +85,7 @@ ls -l
 sudo nano templates.cfg
 ```
 
+<img width="808" height="430" alt="5" src="https://github.com/user-attachments/assets/2ee69292-f519-409c-a052-765e9c2d836c" />
 
 
 
