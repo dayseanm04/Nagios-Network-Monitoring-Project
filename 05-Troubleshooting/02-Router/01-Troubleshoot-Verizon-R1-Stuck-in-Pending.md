@@ -159,6 +159,8 @@ sudo nano custom-templates.cfg
 
 Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+> **Why fix the template instead of the host?** Adding **`check_command`** to **`verizon-r1.cfg`** would only fix this one router. Fixing the template means every network device I add later, eg: another router, gets the host check automatically.
+
 
 
 
