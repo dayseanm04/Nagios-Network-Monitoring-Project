@@ -183,6 +183,8 @@ sudo systemctl restart nagios
 
 I log in to `http://192.168.1.99/nagios` and click **Hosts**.
 
+<img width="939" height="545" alt="14" src="https://github.com/user-attachments/assets/018e5d4f-1fe7-430d-a6dd-b8e6c4871124" />
+
 
 
 
