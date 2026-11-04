@@ -19,3 +19,4 @@ After adding **`verizon-r1`** to Nagios, its **PING service** showed **OK** with
 
 ---
 
+## Symptoms
