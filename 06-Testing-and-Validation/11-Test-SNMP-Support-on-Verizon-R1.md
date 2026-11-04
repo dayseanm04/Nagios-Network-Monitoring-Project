@@ -55,4 +55,9 @@ I check every section where SNMP settings would normally be:
 | **Diagnostics & Monitoring** | Bandwidth Monitoring, Diagnostics, System Logging, System-wide Connections, Backhaul Logging | ❌ |
 | **System** | System Status, Date & Time, Factory Reset, LED Brightness, Open Source Software, Reboot Router, Remote Administration, System Settings | ❌ |
 
+**Result:** ❌ There's no option anywhere to turn on SNMP or set a community string.
+
+
+
+
 
