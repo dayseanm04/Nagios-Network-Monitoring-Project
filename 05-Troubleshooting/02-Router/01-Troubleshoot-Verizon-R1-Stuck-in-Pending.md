@@ -17,6 +17,9 @@ After adding **`verizon-r1`** to Nagios, its **PING service** showed **OK** with
 
 <img width="1030" height="622" alt="2" src="https://github.com/user-attachments/assets/e1968b61-2ccc-470b-91e3-345a498789e5" />
 
+<img width="1035" height="798" alt="3" src="https://github.com/user-attachments/assets/a771df10-7e96-4a86-bc7e-71169d2d7a2b" />
+
+
 ---
 
 ## Observation
