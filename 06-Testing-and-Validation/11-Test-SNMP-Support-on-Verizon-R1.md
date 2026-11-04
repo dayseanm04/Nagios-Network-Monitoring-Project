@@ -30,6 +30,7 @@ This test checks both.
 
 ## TC-01 – Look for SNMP Settings in the Router
 
+**Steps:** I log in to the router's admin page at **`https://192.168.1.1`** and click the **Advanced** tab.
 
 
 
