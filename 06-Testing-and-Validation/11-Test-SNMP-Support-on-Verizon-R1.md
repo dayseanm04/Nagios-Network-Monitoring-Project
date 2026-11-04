@@ -119,6 +119,11 @@ To make sure the result wasn't caused by one machine or one tool, I tested again
 
 **Steps:** On **`comp-a-test`**, in Command Prompt as Administrator:
 
+```cmd
+nping --udp -p 161 -c 3 192.168.1.1
+```
+
+
 ## Conclusion
 
 **`verizon-r1`** (Verizon CR1000B) **does not support SNMP**. Its admin interface has no SNMP settings, and an **`snmpget`** request for system uptime timed out even though the router is reachable. This is common for ISP-provided home routers, which usually aren't built to be managed by monitoring tools.
