@@ -157,6 +157,7 @@ sudo nano custom-templates.cfg
 
 <img width="860" height="352" alt="11" src="https://github.com/user-attachments/assets/86358852-aaf1-4eab-9968-561e0df940d2" />
 
+Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
