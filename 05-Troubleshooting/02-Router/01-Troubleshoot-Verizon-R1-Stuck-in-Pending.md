@@ -179,6 +179,7 @@ sudo systemctl restart nagios
 
 ## Verification
 
+### Right after the fix (Nov 1, 17:52)
 
 
 
