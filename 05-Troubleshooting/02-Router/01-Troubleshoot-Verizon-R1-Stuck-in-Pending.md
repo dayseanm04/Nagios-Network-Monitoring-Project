@@ -31,3 +31,7 @@ After adding **`verizon-r1`** to Nagios, its **PING service** showed **OK** with
 | PING service on `verizon-r1` | **OK** – Packet loss = 0%, RTA = 3.08 ms |
 
 The PING service being OK was the key clue. The router was clearly reachable, so the problem wasn't the router or the network. It was something about how Nagios was set up to check the **host**.
+
+---
+
+## Impact
