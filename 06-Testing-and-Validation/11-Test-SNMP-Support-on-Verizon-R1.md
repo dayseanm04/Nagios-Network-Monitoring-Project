@@ -57,7 +57,9 @@ I check every section where SNMP settings would normally be:
 
 **Result:** ❌ There's no option anywhere to turn on SNMP or set a community string.
 
+**About Access Control:** The **Access Control** page under Security & Firewall can create a firewall rule that allows SNMP traffic. But a firewall rule only lets traffic **in/out**. It doesn't make the router **answer**. If no SNMP agent is running, opening the port does nothing, so I didn't add that rule.
 
+<img width="1152" height="774" alt="6" src="https://github.com/user-attachments/assets/fe363588-36da-4549-a9b1-fe4f77795d44" />
 
 
 
