@@ -115,4 +115,9 @@ sudo nano comp-a-test.cfg
 
 The **`linux-server`** template, used by **`localhost`**, has the same **`check_command`**:
 
+<img width="1007" height="585" alt="9" src="https://github.com/user-attachments/assets/ef7a2034-b50c-4f2e-ba44-35159c7a913a" />
+
+
+
+
 
