@@ -123,7 +123,8 @@ The **`linux-server`** template, used by **`localhost`**, has the same **`check_
 
 ## Analysis
 
-
+| Host | Template chain | `check_command` | Status |
+|---|---|---|---|
 
 
 
