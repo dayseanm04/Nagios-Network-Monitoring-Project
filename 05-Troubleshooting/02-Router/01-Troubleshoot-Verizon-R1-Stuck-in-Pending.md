@@ -129,6 +129,7 @@ The **`linux-server`** template, used by **`localhost`**, has the same **`check_
 | localhost | **`linux-server`** → **`generic-host`** | ✅ **`check-host-alive`** from **`linux-server`** | UP |
 | verizon-r1 | **`network-device-host`** → **`generic-host`** | ❌ None | PENDING |
 
+When I created **`network-device-host`**, I based it on **`generic-host`**, the most basic template. **`generic-host`** is meant to be a starting point that other templates build on, so it doesn't include a check command. The ready-made templates like **`windows-server`** and **`linux-server`** add one, but mine didn't.
 
 
 
