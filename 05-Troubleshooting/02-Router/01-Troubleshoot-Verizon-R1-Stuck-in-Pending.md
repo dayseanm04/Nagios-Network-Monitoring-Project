@@ -69,7 +69,7 @@ ls -l
 sudo nano custom-templates.cfg
 ```
 
-<img width="883" height="105" alt="Screenshot 2026-11-01 172513" src="https://github.com/user-attachments/assets/0939c162-17b7-4982-8080-bdbb136e2f7c" />
+<img width="883" height="105" alt="3" src="https://github.com/user-attachments/assets/0939c162-17b7-4982-8080-bdbb136e2f7c" />
 
 
 
