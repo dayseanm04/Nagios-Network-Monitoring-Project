@@ -191,6 +191,7 @@ Host Status Totals: **3 Up, 0 Down, 0 Pending**. **`verizon-r1`** had a real Las
 
 ### Three days later (Nov 4, 12:00)
 
+I click **`verizon-r1`** for the full details.
 
 
 
