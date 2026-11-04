@@ -87,6 +87,8 @@ snmpget -v2c -c public 192.168.1.1 1.3.6.1.2.1.1.3.0
 
 <img width="762" height="124" alt="8" src="https://github.com/user-attachments/assets/404b751b-bcfc-4752-bce5-502bd3968553" />
 
+**Result:** ❌ The router didn't answer.
+
 | Part | What it does |
 |---|---|
 | `snmpget` | Asks a device for one value |
