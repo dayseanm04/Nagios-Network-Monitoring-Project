@@ -161,6 +161,8 @@ Save: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 > **Why fix the template instead of the host?** Adding **`check_command`** to **`verizon-r1.cfg`** would only fix this one router. Fixing the template means every network device I add later, eg: another router, gets the host check automatically.
 
+Run the pre-flight check:
+
 <img width="998" height="789" alt="12" src="https://github.com/user-attachments/assets/25ca073e-94a6-41ad-adac-e82184fbafd6" />
 
 
