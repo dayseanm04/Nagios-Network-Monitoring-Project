@@ -117,6 +117,7 @@ With the router reachable and no SNMP settings anywhere in its admin interface, 
 
 To make sure the result wasn't caused by one machine or one tool, I tested again from **`comp-a-test`** using **`nping`**, a packet tool from the Nmap project.
 
+**Steps:** On **`comp-a-test`**, in Command Prompt as Administrator:
 
 ## Conclusion
 
