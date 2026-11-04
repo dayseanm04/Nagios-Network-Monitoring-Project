@@ -71,6 +71,7 @@ sudo nano custom-templates.cfg
 
 <img width="883" height="105" alt="3" src="https://github.com/user-attachments/assets/0939c162-17b7-4982-8080-bdbb136e2f7c" />
 
+<img width="1026" height="396" alt="4" src="https://github.com/user-attachments/assets/2c82d87b-19f2-4945-90c9-f68581f2266e" />
 
 
 
