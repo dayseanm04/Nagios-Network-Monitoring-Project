@@ -145,6 +145,7 @@ The pre-flight check passed with **0 warnings and 0 errors**, so it didn't catch
 
 ## Resolution
 
+I added **`check_command check-host-alive`** to the **`network-device-host`** template, the same command **`windows-server`** and **`linux-server`** use.
 
 
 
