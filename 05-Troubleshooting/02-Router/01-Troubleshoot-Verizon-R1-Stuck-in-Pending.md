@@ -208,6 +208,7 @@ I click **`verizon-r1`** for the full details.
 | **`generic-host`** is a base template, not a complete one. It has no **`check_command`** | Any custom host template built on **`generic-host`** must add its own **`check_command`** |
 | The pre-flight check doesn't catch a missing host check command | When a new host stays PENDING with Last Check **N/A**, check its template chain for a **`check_command`** first |
 | A working service doesn't prove the host check works | Services and hosts have separate check commands. Check the **Hosts** page, not just **Services** |
+| Comparing with a working host finds the difference fast | Tracing **`comp-a-test`**'s template chain showed exactly what **`verizon-r1`** was missing |
 
 
 
