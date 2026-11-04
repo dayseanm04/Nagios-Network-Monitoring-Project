@@ -127,6 +127,8 @@ nping --udp -p 161 -c 3 192.168.1.1
 
 **Result:** ❌ All 3 packets got an **ICMP Port unreachable** reply.
 
+**What "Port unreachable" means:** ICMP type 3, code 3 is how a device says **"your packet arrived, but no program is listening on that port."** So the router received the packets on UDP 161 and told me nothing was there to answer them. If an SNMP agent were running, the port would be open and the router wouldn't send this message.
+
 ## Conclusion
 
 **`verizon-r1`** (Verizon CR1000B) **does not support SNMP**. Its admin interface has no SNMP settings, and an **`snmpget`** request for system uptime timed out even though the router is reachable. This is common for ISP-provided home routers, which usually aren't built to be managed by monitoring tools.
