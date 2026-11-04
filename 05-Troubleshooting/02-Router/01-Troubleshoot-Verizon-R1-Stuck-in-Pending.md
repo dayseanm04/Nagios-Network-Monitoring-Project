@@ -153,6 +153,7 @@ ls -l
 sudo nano custom-templates.cfg
 ```
 
+<img width="897" height="309" alt="10" src="https://github.com/user-attachments/assets/b1b92aa9-2a22-45fe-aa81-5456a1d5e485" />
 
 
 
