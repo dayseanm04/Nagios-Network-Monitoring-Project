@@ -9,3 +9,5 @@ In this doc, I will test whether my router, **`verizon-r1`** [CR1000B], supports
 ## What Is SNMP?
 
 SNMP (Simple Network Management Protocol) is how monitoring tools read information from network devices, like uptime, interface status, and traffic. The device runs an **SNMP agent** that listens on **UDP port 161** and answers requests. Most enterpise routers and switches support it.
+
+For Nagios to monitor **`verizon-r1`** with SNMP, two things would need to be true:
