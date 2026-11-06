@@ -8,6 +8,7 @@ Troubleshooting record for the Windows host **`comp-a-test`** going **DOWN** in 
 
 ## Problem Description
 
+When I logged in to Nagios, **`comp-a-test`** was **DOWN** and had been for almost 8 hours. Every service on it was **UNKNOWN**. The other two hosts, **`localhost`** and **`verizon-r1`**, were **UP**.
 
 
 
