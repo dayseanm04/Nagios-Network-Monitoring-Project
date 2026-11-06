@@ -154,4 +154,41 @@ The list now shows one **`comp-a-test`** entry:
 
 <img width="1000" height="746" alt="15" src="https://github.com/user-attachments/assets/d87d2bcc-62b1-41de-9834-9cfbb9add95e" />
 
+### Part 2 – Set a static IP in Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
