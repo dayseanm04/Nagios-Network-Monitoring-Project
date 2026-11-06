@@ -32,7 +32,9 @@ Host Status Totals: **2 Up, 1 Down**. Service Status Totals: **8 OK, 11 Unknown*
 
 All 11 services on **`comp-a-test`** showed the same error:
 
-
+```
+UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No route to host')
+```
 
 
 
