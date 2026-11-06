@@ -130,6 +130,8 @@ nping --udp -p 161 -c 3 192.168.1.1
 
 **What "Port unreachable" means:** ICMP type 3, code 3 is how a device says **"your packet arrived, but no program is listening on that port."** So the router received the packets on UDP 161 and told me nothing was there to answer them. If an SNMP agent were running, the port would be open and the router wouldn't send this message.
 
+> The source address is **`192.168.1.18`** because, at the time of this test, **`comp-a-test`** had picked up a temporary IP after its MAC address changed. See [**05-Troubleshooting / 01-Windows-Host / 02 – Troubleshoot Windows Host Down and NCPA Services Unknown**](../05-Troubleshooting/01-Windows-Host/02-Troubleshoot-Windows-Host-Down-and-NCPA-Services-Unknown.md).
+
 ## Conclusion
 
 **`verizon-r1`** (Verizon CR1000B) **does not support SNMP**. Its admin interface has no SNMP settings, an **`snmpget`** request from NetworkVM timed out, and UDP probes from **comp-a-test** confirmed that port 161 is closed. The router answered every probe with ICMP "Port unreachable." Its admin interface has no SNMP settings, and an **`snmpget`** request for system uptime timed out even though the router is reachable. This is common for ISP-provided home routers, which usually aren't built to be managed by monitoring tools.
