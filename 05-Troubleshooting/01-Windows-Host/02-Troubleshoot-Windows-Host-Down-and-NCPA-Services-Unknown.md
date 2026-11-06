@@ -28,6 +28,7 @@ Host Status Totals: **2 Up, 1 Down**. Service Status Totals: **8 OK, 11 Unknown*
 
 ### Services
 
+<img width="1029" height="788" alt="5" src="https://github.com/user-attachments/assets/9cf5ba4c-d3f7-4737-9b0f-0c19fcf275ed" />
 
 
 
