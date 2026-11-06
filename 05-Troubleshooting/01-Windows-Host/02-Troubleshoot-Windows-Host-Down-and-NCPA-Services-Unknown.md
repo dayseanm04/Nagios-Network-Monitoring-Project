@@ -159,9 +159,12 @@ The list now shows one **`comp-a-test`** entry:
 A reservation only works if the MAC stays the same. To make sure **`comp-a-test`** keeps `192.168.1.9` even if the MAC changes again, I also set the IP directly on the adapter.
 
 1. **Control Panel → Network and Internet → Network and Sharing Center**
-2. Clicked **vEthernet (Net-MGNT-SW)** → **Properties**
-3. Selected **Internet Protocol Version 4 (TCP/IPv4)** → **Properties**
-4. Selected **Use the following IP address**:
+
+<img width="845" height="396" alt="16" src="https://github.com/user-attachments/assets/4705ac8d-2a70-4f7d-9cdf-1c97b2aaef42" />
+
+3. Clicked **vEthernet (Net-MGNT-SW)** → **Properties**
+4. Selected **Internet Protocol Version 4 (TCP/IPv4)** → **Properties**
+5. Selected **Use the following IP address**:
 
 
 
