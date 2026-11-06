@@ -83,6 +83,7 @@ I also noticed the **Microsoft Wi-Fi Direct Virtual Adapter** (**`Local Area Con
 
 ---
 
+### Step 3 – Check the router's DHCP list
 
 
 
