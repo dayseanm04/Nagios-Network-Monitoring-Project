@@ -214,6 +214,7 @@ The three non-OK results are real readings, not connection problems:
 - **Logical memory usage CRITICAL** is the same high memory use covered in [**06-Testing-and-Validation / 05 – Validate NCPA Memory and Swap Checks**](../../06-Testing-and-Validation/05-Validate-NCPA-Memory-and-Swap-Checks.md).
 - **Failed System logs CRITICAL** is covered in the follow-up below.
 
+---
 
 
 
