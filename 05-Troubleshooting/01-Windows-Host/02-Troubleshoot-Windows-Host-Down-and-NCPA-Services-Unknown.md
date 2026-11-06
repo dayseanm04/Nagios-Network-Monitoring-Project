@@ -222,6 +222,7 @@ After the restart, **`Failed System logs`** was CRITICAL with **23** matching en
 
 I raised the thresholds in **`comp-a-test.cfg`** from **`-w 5 -c 10`** to **`-w 50 -c 100`**:
 
+<img width="1026" height="598" alt="22" src="https://github.com/user-attachments/assets/bc911a4e-c170-413d-9e4a-31e725253c36" />
 
 
 
