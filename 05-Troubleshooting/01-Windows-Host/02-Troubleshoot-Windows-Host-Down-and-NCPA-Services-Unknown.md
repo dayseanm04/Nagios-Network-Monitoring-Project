@@ -218,6 +218,7 @@ The three non-OK results are real readings, not connection problems:
 
 ## Follow-Up – Tune the Failed System Logs Check
 
+After the restart, **`Failed System logs`** was CRITICAL with **23** matching entries. These are the same "driver failed to load" warnings Windows logs about 3 of every time it starts (see [**06-Testing-and-Validation / 08 – Validate NCPA System Event Log Check**](../../06-Testing-and-Validation/08-Validate-NCPA-System-Event-Log-Check.md)). With several restarts in the last 24 hours, normal startup messages pushed the count over the critical threshold of 10.
 
 
 
