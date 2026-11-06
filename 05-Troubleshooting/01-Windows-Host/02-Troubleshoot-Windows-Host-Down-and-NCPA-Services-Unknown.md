@@ -50,7 +50,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 - If a real problem had happened on **`comp-a-test`** during that time, Nagios wouldn't have caught it.
 - Nagios sent 3 host DOWN notifications (not delivered, since email isn't set up yet).
 
-
+---
 
 
 
