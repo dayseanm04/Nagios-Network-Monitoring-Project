@@ -244,3 +244,9 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 ---
 
 ## Lessons Learned and Prevention
+
+| Lesson | Action |
+|---|---|
+
+
+
