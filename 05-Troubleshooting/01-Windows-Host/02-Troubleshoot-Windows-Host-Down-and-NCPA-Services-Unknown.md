@@ -185,6 +185,7 @@ I verified with **`ipconfig /all`**:
 
 ### Part 3 – Restart
 
+**`NetworkVM`** runs on **`comp-a-test`**, so I shut down **`NetworkVM`** first, then restarted **`comp-a-test`** so both came back up with the new network settings.
 
 
 
