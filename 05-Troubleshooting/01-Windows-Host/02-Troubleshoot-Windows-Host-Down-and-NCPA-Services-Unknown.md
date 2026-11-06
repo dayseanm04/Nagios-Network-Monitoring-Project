@@ -99,6 +99,7 @@ The router's DHCP pool hands out `192.168.1.10` – `192.168.1.50`.
 
 | Host Name | IP Address | MAC | Lease Type | Status |
 |---|---|---|---|---|
+| comp-a-test | 192.168.1.18 | **`10:…:5A`** | Dynamic | **Active** |
 
 
 
