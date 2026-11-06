@@ -181,6 +181,7 @@ I verified with **`ipconfig /all`**:
 | Static IP in Windows | **`comp-a-test`** keeps **`192.168.1.9`** even if its MAC changes again |
 | Static lease on the router | The router never gives **`192.168.1.9`** to another device |
 
+**`192.168.1.9`** is outside the router's DHCP pool (`.10` – **`.50`**), so the static IP doesn't conflict with addresses the router hands out.
 
 
 
