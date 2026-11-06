@@ -62,7 +62,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 > **Compare with the first time `comp-a-test` went DOWN:** In [**01 – Troubleshoot Windows Host Down**](01-Troubleshoot-Windows-Host-Down.md), the ping just **timed out**. That meant a device was at the address, but its firewall was dropping the pings. This time, there was **no device at the address at all**.
 
-
+---
 
 
 
