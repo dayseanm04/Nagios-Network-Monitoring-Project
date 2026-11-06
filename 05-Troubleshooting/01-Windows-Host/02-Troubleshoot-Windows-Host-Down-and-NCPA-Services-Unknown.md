@@ -235,6 +235,7 @@ A few minutes later:
 
 <img width="1029" height="782" alt="23" src="https://github.com/user-attachments/assets/15b3e574-a7bd-4c86-9150-307402fd7a32" />
 
+<img width="1017" height="667" alt="24" src="https://github.com/user-attachments/assets/35971128-493d-4b1d-949b-8f2e9fe9530f" />
 
 
 
