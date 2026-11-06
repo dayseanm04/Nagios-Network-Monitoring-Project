@@ -124,4 +124,6 @@ NCPA itself was fine. It was running on `comp-a-test` the whole time, just at a 
 
 The MAC address of **`comp-a-test`**'s **`vEthernet (Net-MGNT-SW)`** adapter changed from **`10-…-5D`** to **`10-…-5A`**. My DHCP reservation for **`192.168.1.9`** was tied to the old MAC, so when the adapter renewed its IP, the router didn't match it to the reservation and gave it **`192.168.1.18`** from the regular pool. Nagios kept checking **`192.168.1.9`**, where no device was answering.
 
+**Why the MAC changed:** I didn't change it. The Hyper-V external switch is bound to the Wi-Fi adapter, and on this setup the vEthernet adapter's MAC is based on the Wi-Fi hardware. Possible causes include Windows' **random hardware addresses** setting for Wi-Fi, a Wi-Fi driver update, or Windows recreating the virtual adapter. Whatever the cause, the lesson is the same: a DHCP reservation alone isn't reliable for this adapter.
+
 
