@@ -156,6 +156,7 @@ The list now shows one **`comp-a-test`** entry:
 
 ### Part 2 – Set a static IP in Windows
 
+A reservation only works if the MAC stays the same. To make sure **`comp-a-test`** keeps `192.168.1.9` even if the MAC changes again, I also set the IP directly on the adapter.
 
 
 
