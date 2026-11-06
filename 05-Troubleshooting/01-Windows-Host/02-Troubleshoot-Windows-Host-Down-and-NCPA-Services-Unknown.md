@@ -87,6 +87,7 @@ I also noticed the **Microsoft Wi-Fi Direct Virtual Adapter** (**`Local Area Con
 
 I logged in to the router at `https://192.168.1.1`, clicked **Advanced → Network Settings → IPv4 Address Distribution**, then **Connection List**.
 
+<img width="956" height="727" alt="10" src="https://github.com/user-attachments/assets/75149e59-5cde-48ca-8d3f-40ca7ba16251" />
 
 
 
