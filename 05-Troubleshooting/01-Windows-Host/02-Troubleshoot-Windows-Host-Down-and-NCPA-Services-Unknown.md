@@ -40,6 +40,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 **Why UNKNOWN and not CRITICAL?** UNKNOWN means the check couldn't run at all, so Nagios has no idea what the real value is. **`check_ncpa.py`** couldn't reach NCPA, so it couldn't get a CPU, memory, or disk reading to compare against the thresholds.
 
+**`Errno 113 – No route to host`** is a network-level error. It means the Nagios server couldn't find any device at **`192.168.1.9`**. That pointed at the network, not at NCPA itself.
 
 
 
