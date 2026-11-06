@@ -140,6 +140,7 @@ In the router's **DHCP Connections** list:
 
 <img width="1321" height="1043" alt="13" src="https://github.com/user-attachments/assets/a8c44279-eeb2-41c9-bfd2-1a851ac4bd26" />
 
+<img width="1073" height="939" alt="14" src="https://github.com/user-attachments/assets/cda22828-bfaf-41be-abfd-b3d1f07e96b8" />
 
 
 
