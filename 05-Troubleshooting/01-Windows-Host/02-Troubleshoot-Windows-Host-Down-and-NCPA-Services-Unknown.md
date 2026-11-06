@@ -126,4 +126,6 @@ The MAC address of **`comp-a-test`**'s **`vEthernet (Net-MGNT-SW)`** adapter cha
 
 **Why the MAC changed:** I didn't change it. The Hyper-V external switch is bound to the Wi-Fi adapter, and on this setup the vEthernet adapter's MAC is based on the Wi-Fi hardware. Possible causes include Windows' **random hardware addresses** setting for Wi-Fi, a Wi-Fi driver update, or Windows recreating the virtual adapter. Whatever the cause, the lesson is the same: a DHCP reservation alone isn't reliable for this adapter.
 
+---
 
+## Resolution
