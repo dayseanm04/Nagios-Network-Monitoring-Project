@@ -48,6 +48,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 - **`comp-a-test`** had **no monitoring for about 8 hours**: no CPU, memory, disk, log, or interface checks.
 - If a real problem had happened on **`comp-a-test`** during that time, Nagios wouldn't have caught it.
+- Nagios sent 3 host DOWN notifications (not delivered, since email isn't set up yet).
 
 
 
