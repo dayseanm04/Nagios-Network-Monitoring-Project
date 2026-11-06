@@ -249,6 +249,7 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 |---|---|
 | **A DHCP reservation is only as reliable as the MAC address it's tied to** | For devices Nagios monitors, set a static IP on the device too, not just a reservation on the router |
 | **`Destination Host Unreachable`** from your own IP means **no device** is at that address | Check whether the target's IP changed before looking at firewalls or services |
+| A timeout means a device **is** there but not answering | That points to a firewall, like the first time **`comp-a-test`** went DOWN |
 
 
 
