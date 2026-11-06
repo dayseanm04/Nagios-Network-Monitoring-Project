@@ -247,6 +247,7 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 
 | Lesson | Action |
 |---|---|
+| **A DHCP reservation is only as reliable as the MAC address it's tied to** | For devices Nagios monitors, set a static IP on the device too, not just a reservation on the router |
 
 
 
