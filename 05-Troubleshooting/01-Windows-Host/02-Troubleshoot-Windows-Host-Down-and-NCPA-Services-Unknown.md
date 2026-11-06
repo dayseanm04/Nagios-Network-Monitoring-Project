@@ -166,6 +166,7 @@ A reservation only works if the MAC stays the same. To make sure **`comp-a-test`
 4. Selected **Internet Protocol Version 4 (TCP/IPv4)** → **Properties**
 5. Selected **Use the following IP address**:
 
+<img width="394" height="454" alt="17" src="https://github.com/user-attachments/assets/07245d83-a301-4a7b-afc8-a8f2e41ded8f" />
 
 
 
