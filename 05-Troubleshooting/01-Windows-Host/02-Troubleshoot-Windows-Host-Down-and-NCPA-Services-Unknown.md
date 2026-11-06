@@ -97,7 +97,8 @@ The router's DHCP pool hands out `192.168.1.10` – `192.168.1.50`.
 
 **`comp-a-test`** appeared **twice**:
 
-
+| Host Name | IP Address | MAC | Lease Type | Status |
+|---|---|---|---|---|
 
 
 
