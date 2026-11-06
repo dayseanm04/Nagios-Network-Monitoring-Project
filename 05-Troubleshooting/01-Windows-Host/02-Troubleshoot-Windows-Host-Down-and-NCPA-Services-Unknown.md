@@ -36,6 +36,8 @@ All 11 services on **`comp-a-test`** showed the same error:
 UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No route to host')
 ```
 
+<img width="1048" height="735" alt="6" src="https://github.com/user-attachments/assets/46cebdac-ad7a-409f-a1aa-8c26a61f449a" />
+
 
 
 
