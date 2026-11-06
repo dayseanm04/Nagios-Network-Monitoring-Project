@@ -210,6 +210,7 @@ Host Status Totals: **3 Up, 0 Down**.
 
 The three non-OK results are real readings, not connection problems:
 
+- **system uptime WARNING** is expected right after a restart. It clears once uptime passes 1 hour.
 
 
 
