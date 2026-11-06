@@ -132,6 +132,7 @@ The MAC address of **`comp-a-test`**'s **`vEthernet (Net-MGNT-SW)`** adapter cha
 
 I fixed this in two places: on the router and on **`comp-a-test`**.
 
+### Part 1 – Move the reservation to the new MAC
 
 
 
