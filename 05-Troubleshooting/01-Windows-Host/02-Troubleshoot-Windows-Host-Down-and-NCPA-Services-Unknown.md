@@ -60,6 +60,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 **Finding:** The "Destination Host Unreachable" replies come **from `192.168.1.99`**, the Nagios server itself. That means `NetworkVM` tried to find **`192.168.1.9`** on the local network (using ARP) and **no device answered**. Nothing on the network had that IP.
 
+> **Compare with the first time `comp-a-test` went DOWN:** In [**01 – Troubleshoot Windows Host Down**](01-Troubleshoot-Windows-Host-Down.md), the ping just **timed out**. That meant a device was at the address, but its firewall was dropping the pings. This time, there was **no device at the address at all**.
 
 
 
