@@ -70,6 +70,7 @@ On **`comp-a-test`**, in PowerShell:
 
 <img width="847" height="292" alt="8" src="https://github.com/user-attachments/assets/3b996d93-cc6a-4c51-bf49-4529605da629" />
 
+<img width="984" height="824" alt="9" src="https://github.com/user-attachments/assets/9f86d4ea-d4bb-4c39-ac4c-cc6af8a0ff29" />
 
 
 
