@@ -195,15 +195,14 @@ I verified with **`ipconfig /all`**:
 
 After the restart, I logged back in to Nagios and clicked **Hosts**.
 
-<img width="1032" height="647" alt="19" src="https://github.com/user-attachments/assets/d0bafb4a-6a03-4319-aa0c-f2f9b9215898" />
+Right after the restart, one service was still UNKNOWN while Nagios worked through its check schedule. A couple of minutes later, every service was returning real values again.
+
+<img width="1028" height="642" alt="Screenshot 2026-11-04 212100" src="https://github.com/user-attachments/assets/15f630db-8cea-4098-8eef-0ec022ba4490" />
 
 Host Status Totals: **3 Up, 0 Down**.
 
-<img width="1033" height="801" alt="20" src="https://github.com/user-attachments/assets/4514fb9f-e33d-4eeb-b516-25970c67acd7" />
-
 ### Services are back
 
-Right after the restart, one service was still UNKNOWN while Nagios worked through its check schedule. A couple of minutes later, every service was returning real values again.
 
 
 
