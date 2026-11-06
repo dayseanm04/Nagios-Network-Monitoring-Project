@@ -161,6 +161,7 @@ A reservation only works if the MAC stays the same. To make sure **`comp-a-test`
 1. **Control Panel → Network and Internet → Network and Sharing Center**
 2. Clicked **vEthernet (Net-MGNT-SW)** → **Properties**
 3. Selected **Internet Protocol Version 4 (TCP/IPv4)** → **Properties**
+4. Selected **Use the following IP address**:
 
 
 
