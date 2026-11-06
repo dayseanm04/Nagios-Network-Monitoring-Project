@@ -89,6 +89,7 @@ I logged in to the router at `https://192.168.1.1`, clicked **Advanced → Netwo
 
 <img width="956" height="727" alt="10" src="https://github.com/user-attachments/assets/75149e59-5cde-48ca-8d3f-40ca7ba16251" />
 
+<img width="1233" height="437" alt="11" src="https://github.com/user-attachments/assets/16065c6e-5d50-4409-b790-cbe4f24e0eb9" />
 
 
 
