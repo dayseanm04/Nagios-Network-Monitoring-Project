@@ -16,6 +16,7 @@ When I logged in to Nagios, **`comp-a-test`** was **DOWN** and had been for almo
 
 <img width="1026" height="577" alt="3" src="https://github.com/user-attachments/assets/25c570ff-cc2a-47d5-9855-a46c1d374671" />
 
+Host Status Totals: **2 Up, 1 Down**. Service Status Totals: **8 OK, 11 Unknown**.
 
 
 
