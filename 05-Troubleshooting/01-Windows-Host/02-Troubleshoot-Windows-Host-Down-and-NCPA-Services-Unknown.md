@@ -197,6 +197,7 @@ After the restart, I logged back in to Nagios and clicked **Hosts**.
 
 <img width="1032" height="647" alt="19" src="https://github.com/user-attachments/assets/d0bafb4a-6a03-4319-aa0c-f2f9b9215898" />
 
+Host Status Totals: **3 Up, 0 Down**.
 
 
 
