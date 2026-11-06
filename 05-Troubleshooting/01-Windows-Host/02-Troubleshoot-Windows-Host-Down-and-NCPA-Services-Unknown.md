@@ -150,6 +150,7 @@ In the router's **DHCP Connections** list:
 
 <img width="853" height="446" alt="14" src="https://github.com/user-attachments/assets/e5e71006-4d3c-41d4-a84f-4880fea1cc12" />
 
+The list now shows one `comp-a-test` entry:
 
 
 
