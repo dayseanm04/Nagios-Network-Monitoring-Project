@@ -170,6 +170,7 @@ A reservation only works if the MAC stays the same. To make sure **`comp-a-test`
 
 5. Clicked **OK**, then **Close**.
 
+I verified with **`ipconfig /all`**:
 
 
 
