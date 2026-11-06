@@ -146,6 +146,7 @@ In the router's **DHCP Connections** list:
 
 <img width="1347" height="619" alt="15" src="https://github.com/user-attachments/assets/7b6af857-3319-4b53-85b5-a4c27cf1ee9d" />
 
+3. I checked **Static Lease Type**, changed the IP to **`192.168.1.9`**, and clicked **Apply**.
 
 
 
