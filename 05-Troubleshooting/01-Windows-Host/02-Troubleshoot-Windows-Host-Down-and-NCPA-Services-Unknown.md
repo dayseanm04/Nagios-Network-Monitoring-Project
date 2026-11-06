@@ -197,12 +197,16 @@ After the restart, I logged back in to Nagios and clicked **Hosts**.
 
 Right after the restart, one service was still UNKNOWN while Nagios worked through its check schedule. A couple of minutes later, every service was returning real values again.
 
-<img width="1028" height="642" alt="Screenshot 2026-11-04 212100" src="https://github.com/user-attachments/assets/15f630db-8cea-4098-8eef-0ec022ba4490" />
+<img width="1028" height="642" alt="19" src="https://github.com/user-attachments/assets/15f630db-8cea-4098-8eef-0ec022ba4490" />
+
+<img width="1032" height="573" alt="20" src="https://github.com/user-attachments/assets/5329ad62-8188-459e-b051-e58ceb2053d4" />
+
 
 Host Status Totals: **3 Up, 0 Down**.
 
 ### Services are back
 
+<img width="1032" height="827" alt="21" src="https://github.com/user-attachments/assets/06cd3259-e1a5-4d9b-9388-a03417b28db2" />
 
 
 
