@@ -237,5 +237,7 @@ A few minutes later:
 
 <img width="1017" height="667" alt="24" src="https://github.com/user-attachments/assets/35971128-493d-4b1d-949b-8f2e9fe9530f" />
 
+The check is OK with the new thresholds. It shows **flapping** because it changed state several times in a short period while I was restarting and changing thresholds. That should settle on its own.
 
+> **Trade-off:** 50 and 100 leave a lot of room. Normal startup noise won't trip them, but a real problem would need many more failure messages before it alerts. 
 
