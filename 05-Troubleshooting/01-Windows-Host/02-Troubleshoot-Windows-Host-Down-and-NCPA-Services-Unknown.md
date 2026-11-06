@@ -104,7 +104,7 @@ The router's DHCP pool hands out `192.168.1.10` – `192.168.1.50`.
 
 **Finding:** The reservation for **`192.168.1.9`** was still there, but it was tied to the old MAC (**`5D`**), which no longer exists, so it showed **Inactive**. When **`comp-a-test`** asked for an IP with its new MAC (**`5A`**), the router didn't recognize it as the reserved device and gave it the next free address from the pool, **`192.168.1.18`**.
 
-
+---
 
 
 
