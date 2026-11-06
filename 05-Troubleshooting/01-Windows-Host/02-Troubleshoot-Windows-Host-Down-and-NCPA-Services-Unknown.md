@@ -252,6 +252,7 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 | A timeout means a device **is** there but not answering | That points to a firewall, like the first time **`comp-a-test`** went DOWN |
 | When every service on a host goes **UNKNOWN** at once, the problem is shared | Look at the network path or agent first, not each service one by one |
 | The Wi-Fi-bound vEthernet adapter's MAC can change | Check **Settings → Network & internet → Wi-Fi → Random hardware addresses** and make sure it's off for this network |
+| Nagios kept alerting for 8 hours without me seeing it | Set up working notifications (email or webhook) so a DOWN host gets noticed right away |
 
 
 
