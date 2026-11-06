@@ -66,6 +66,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 ### Step 2 – Check comp-a-test's IP address
 
+On **`comp-a-test`**, in PowerShell:
 
 
 
