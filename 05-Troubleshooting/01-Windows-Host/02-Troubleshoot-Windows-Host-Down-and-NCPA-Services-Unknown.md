@@ -68,6 +68,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 On **`comp-a-test`**, in PowerShell:
 
+<img width="847" height="292" alt="8" src="https://github.com/user-attachments/assets/3b996d93-cc6a-4c51-bf49-4529605da629" />
 
 
 
