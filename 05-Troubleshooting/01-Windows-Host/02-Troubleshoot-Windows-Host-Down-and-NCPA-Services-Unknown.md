@@ -211,7 +211,7 @@ Host Status Totals: **3 Up, 0 Down**.
 The three non-OK results are real readings, not connection problems:
 
 - **system uptime WARNING** is expected right after a restart. It clears once uptime passes 1 hour.
-
+- **Logical memory usage CRITICAL** is the same high memory use covered in [**06-Testing-and-Validation / 05 – Validate NCPA Memory and Swap Checks**](../../06-Testing-and-Validation/05-Validate-NCPA-Memory-and-Swap-Checks.md).
 
 
 
