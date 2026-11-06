@@ -183,6 +183,7 @@ I verified with **`ipconfig /all`**:
 
 **`192.168.1.9`** is outside the router's DHCP pool (`.10` – **`.50`**), so the static IP doesn't conflict with addresses the router hands out.
 
+### Part 3 – Restart
 
 
 
