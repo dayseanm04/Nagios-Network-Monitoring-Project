@@ -12,6 +12,7 @@ When I logged in to Nagios, **`comp-a-test`** was **DOWN** and had been for almo
 
 <img width="864" height="507" alt="1" src="https://github.com/user-attachments/assets/e9be25a7-bbc0-4686-b53b-9a0f350d71b9" />
 
+<img width="934" height="573" alt="2" src="https://github.com/user-attachments/assets/d9cb0587-448a-4c4e-b2fd-1694cceabcbc" />
 
 
 
