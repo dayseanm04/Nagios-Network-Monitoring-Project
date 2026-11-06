@@ -254,5 +254,7 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 | The Wi-Fi-bound vEthernet adapter's MAC can change | Check **Settings → Network & internet → Wi-Fi → Random hardware addresses** and make sure it's off for this network |
 | Nagios kept alerting for 8 hours without me seeing it | Set up working notifications (email or webhook) so a DOWN host gets noticed right away |
 
+---
 
+## Related Docs
 
