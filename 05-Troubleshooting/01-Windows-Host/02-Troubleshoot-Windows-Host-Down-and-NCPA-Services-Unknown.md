@@ -178,6 +178,8 @@ I verified with **`ipconfig /all`**:
 
 | Setting | What it protects against |
 |---|---|
+| Static IP in Windows | **`comp-a-test`** keeps **`192.168.1.9`** even if its MAC changes again |
+| Static lease on the router | The router never gives **`192.168.1.9`** to another device |
 
 
 
