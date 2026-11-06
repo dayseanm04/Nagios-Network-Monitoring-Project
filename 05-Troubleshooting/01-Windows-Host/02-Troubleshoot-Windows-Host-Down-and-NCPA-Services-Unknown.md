@@ -56,6 +56,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 ### Step 1 – Ping comp-a-test from the Nagios server
 
+<img width="959" height="372" alt="7" src="https://github.com/user-attachments/assets/6e0758d1-322b-46e1-b30c-080f52b15a22" />
 
 
 
