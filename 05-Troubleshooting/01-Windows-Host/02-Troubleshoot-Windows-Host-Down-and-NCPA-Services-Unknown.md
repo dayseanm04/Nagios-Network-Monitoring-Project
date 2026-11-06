@@ -46,6 +46,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 ## Impact
 
+- **`comp-a-test`** had **no monitoring for about 8 hours**: no CPU, memory, disk, log, or interface checks.
 
 
 
