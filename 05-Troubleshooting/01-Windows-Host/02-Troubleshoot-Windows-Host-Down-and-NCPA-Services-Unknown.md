@@ -58,6 +58,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 <img width="959" height="372" alt="7" src="https://github.com/user-attachments/assets/6e0758d1-322b-46e1-b30c-080f52b15a22" />
 
+**Finding:** The "Destination Host Unreachable" replies come **from `192.168.1.99`**, the Nagios server itself. That means `NetworkVM` tried to find **`192.168.1.9`** on the local network (using ARP) and **no device answered**. Nothing on the network had that IP.
 
 
 
