@@ -91,6 +91,7 @@ I logged in to the router at `https://192.168.1.1`, clicked **Advanced → Netwo
 
 <img width="1233" height="437" alt="11" src="https://github.com/user-attachments/assets/16065c6e-5d50-4409-b790-cbe4f24e0eb9" />
 
+The router's DHCP pool hands out `192.168.1.10` – `192.168.1.50`.
 
 
 
