@@ -74,6 +74,7 @@ I scrolled to the adapter NetworkVM shares, **`vEthernet (Net-MGNT-SW)`**:
 
 <img width="984" height="824" alt="9" src="https://github.com/user-attachments/assets/9f86d4ea-d4bb-4c39-ac4c-cc6af8a0ff29" />
 
+**Findings:**
 
 
 
