@@ -251,6 +251,7 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 | **`Destination Host Unreachable`** from your own IP means **no device** is at that address | Check whether the target's IP changed before looking at firewalls or services |
 | A timeout means a device **is** there but not answering | That points to a firewall, like the first time **`comp-a-test`** went DOWN |
 | When every service on a host goes **UNKNOWN** at once, the problem is shared | Look at the network path or agent first, not each service one by one |
+| The Wi-Fi-bound vEthernet adapter's MAC can change | Check **Settings → Network & internet → Wi-Fi → Random hardware addresses** and make sure it's off for this network |
 
 
 
