@@ -148,6 +148,7 @@ In the router's **DHCP Connections** list:
 
 3. I checked **Static Lease Type**, changed the IP to **`192.168.1.9`**, and clicked **Apply**.
 
+<img width="853" height="446" alt="14" src="https://github.com/user-attachments/assets/e5e71006-4d3c-41d4-a84f-4880fea1cc12" />
 
 
 
