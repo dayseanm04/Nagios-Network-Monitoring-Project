@@ -258,3 +258,4 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 
 ## Related Docs
 
+- [**01 – Troubleshoot Windows Host Down**](01-Troubleshoot-Windows-Host-Down.md)
