@@ -79,6 +79,7 @@ I scrolled to the adapter NetworkVM shares, **`vEthernet (Net-MGNT-SW)`**:
 1. **`comp-a-test`** had **`192.168.1.18`**, not **`192.168.1.9`**. Nagios was checking an address nothing was using.
 2. The adapter's MAC address ended in **`5A`**. The DHCP reservation I created on the router for **`192.168.1.9`** used a MAC ending in **`5D`**. I hadn't changed the MAC.
 
+I also noticed the **Microsoft Wi-Fi Direct Virtual Adapter** (**`Local Area Connection* 9`**) has a MAC ending in **`5B`**, very close to the new **`5A`**. Windows creates these related MACs from the same Wi-Fi hardware.
 
 
 
