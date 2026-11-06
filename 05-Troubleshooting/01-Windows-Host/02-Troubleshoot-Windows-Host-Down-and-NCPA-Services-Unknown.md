@@ -20,6 +20,8 @@ Host Status Totals: **2 Up, 1 Down**. Service Status Totals: **8 OK, 11 Unknown*
 
 ---
 
+## Symptoms
+
 
 
 
