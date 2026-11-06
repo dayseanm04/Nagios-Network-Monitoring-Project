@@ -260,3 +260,4 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 
 - [**01 – Troubleshoot Windows Host Down**](01-Troubleshoot-Windows-Host-Down.md)
 - [**02-Setup / 04 – Create a DHCP Reservation for NetworkVM**](../../02-Setup/04-Create-DHCP-Reservation-for-NetworkVM.md)
+- [**06-Testing-and-Validation / 08 – Validate NCPA System Event Log Check**](../../06-Testing-and-Validation/08-Validate-NCPA-System-Event-Log-Check.md)
