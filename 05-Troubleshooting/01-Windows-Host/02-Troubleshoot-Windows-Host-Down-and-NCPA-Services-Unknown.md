@@ -168,6 +168,7 @@ A reservation only works if the MAC stays the same. To make sure **`comp-a-test`
 
 <img width="394" height="454" alt="17" src="https://github.com/user-attachments/assets/07245d83-a301-4a7b-afc8-a8f2e41ded8f" />
 
+5. Clicked **OK**, then **Close**.
 
 
 
