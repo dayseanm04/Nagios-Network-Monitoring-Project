@@ -224,9 +224,12 @@ I raised the thresholds in **`comp-a-test.cfg`** from **`-w 5 -c 10`** to **`-w 
 
 <img width="1026" height="598" alt="22" src="https://github.com/user-attachments/assets/bc911a4e-c170-413d-9e4a-31e725253c36" />
 
+**Ran a pre flight check**
 
-
-
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+sudo systemctl reload nagios
+```
 
 
 
