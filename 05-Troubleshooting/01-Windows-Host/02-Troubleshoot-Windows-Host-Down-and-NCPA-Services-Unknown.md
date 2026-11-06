@@ -174,7 +174,10 @@ I verified with **`ipconfig /all`**:
 
 <img width="887" height="427" alt="18" src="https://github.com/user-attachments/assets/ac44fdad-7864-4f00-b232-b46361b53aeb" />
 
+**Why both?**
 
+| Setting | What it protects against |
+|---|---|
 
 
 
