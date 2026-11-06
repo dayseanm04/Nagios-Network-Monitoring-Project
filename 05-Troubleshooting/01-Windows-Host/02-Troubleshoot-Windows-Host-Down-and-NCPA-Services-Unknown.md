@@ -191,6 +191,7 @@ I verified with **`ipconfig /all`**:
 
 ## Verification
 
+### Host is UP
 
 
 
