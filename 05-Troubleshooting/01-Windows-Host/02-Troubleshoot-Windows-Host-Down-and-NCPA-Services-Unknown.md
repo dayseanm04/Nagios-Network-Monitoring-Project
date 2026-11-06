@@ -111,8 +111,8 @@ Before:  vEthernet MAC 10-…-5D  →  router reservation matches  →  192.168.
 After:   vEthernet MAC 10-…-5A  →  no reservation matches      →  192.168.1.18     Nagios checks .9  ❌
 ```
 
-
-
+| What Nagios was doing | What was actually happening |
+|---|---|
 
 
 
