@@ -203,6 +203,8 @@ Host Status Totals: **3 Up, 0 Down**.
 
 ### Services are back
 
+Right after the restart, one service was still UNKNOWN while Nagios worked through its check schedule. A couple of minutes later, every service was returning real values again.
+
 
 
 
