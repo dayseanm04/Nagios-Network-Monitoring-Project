@@ -193,6 +193,7 @@ I verified with **`ipconfig /all`**:
 
 ### Host is UP
 
+After the restart, I logged back in to Nagios and clicked **Hosts**.
 
 
 
