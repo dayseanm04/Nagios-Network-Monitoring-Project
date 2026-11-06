@@ -142,6 +142,7 @@ In the router's **DHCP Connections** list:
 
 <img width="1073" height="939" alt="14" src="https://github.com/user-attachments/assets/cda22828-bfaf-41be-abfd-b3d1f07e96b8" />
 
+2. I clicked **Edit** on the active `comp-a-test` entry (`192.168.1.18`, MAC `5A`).
 
 
 
