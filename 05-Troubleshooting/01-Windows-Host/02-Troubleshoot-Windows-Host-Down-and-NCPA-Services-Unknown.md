@@ -113,6 +113,7 @@ After:   vEthernet MAC 10-…-5A  →  no reservation matches      →  192.168.
 
 | What Nagios was doing | What was actually happening |
 |---|---|
+| Pinging `192.168.1.9` for the host check | Nothing was at `.9`, so every ping failed → **DOWN** |
 
 
 
