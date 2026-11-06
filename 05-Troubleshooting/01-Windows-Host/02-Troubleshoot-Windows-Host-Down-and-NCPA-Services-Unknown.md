@@ -208,6 +208,7 @@ Host Status Totals: **3 Up, 0 Down**.
 
 <img width="1032" height="827" alt="21" src="https://github.com/user-attachments/assets/06cd3259-e1a5-4d9b-9388-a03417b28db2" />
 
+The three non-OK results are real readings, not connection problems:
 
 
 
