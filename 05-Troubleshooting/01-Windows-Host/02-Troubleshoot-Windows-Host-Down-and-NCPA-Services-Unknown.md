@@ -136,7 +136,9 @@ I fixed this in two places: on the router and on **`comp-a-test`**.
 
 In the router's **DHCP Connections** list:
 
+1. I clicked **Remove** on the old, inactive **`comp-a-test`** entry (**`192.168.1.9`**, MAC **`5D`**).
 
+<img width="1321" height="1043" alt="13" src="https://github.com/user-attachments/assets/a8c44279-eeb2-41c9-bfd2-1a851ac4bd26" />
 
 
 
