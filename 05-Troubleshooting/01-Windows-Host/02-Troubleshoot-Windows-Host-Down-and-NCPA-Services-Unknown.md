@@ -24,7 +24,7 @@ Host Status Totals: **2 Up, 1 Down**. Service Status Totals: **8 OK, 11 Unknown*
 
 ### Host details
 
-<img width="1022" height="728" alt="Screenshot 2026-11-04 190904" src="https://github.com/user-attachments/assets/50cd4f0a-26b9-40cb-a670-afb34c1a659d" />
+<img width="1022" height="728" alt="4" src="https://github.com/user-attachments/assets/50cd4f0a-26b9-40cb-a670-afb34c1a659d" />
 
 ### Services
 
