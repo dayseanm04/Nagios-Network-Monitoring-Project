@@ -116,6 +116,9 @@ After:   vEthernet MAC 10-…-5A  →  no reservation matches      →  192.168.
 | Pinging `192.168.1.9` for the host check | Nothing was at `.9`, so every ping failed → **DOWN** |
 | Connecting to NCPA at `192.168.1.9:5693` | No route to that address → every service **UNKNOWN** |
 
+NCPA itself was fine. It was running on `comp-a-test` the whole time, just at a different address.
+
+---
 
 
 
