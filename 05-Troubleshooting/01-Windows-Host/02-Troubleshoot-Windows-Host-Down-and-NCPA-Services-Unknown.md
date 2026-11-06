@@ -134,6 +134,7 @@ I fixed this in two places: on the router and on **`comp-a-test`**.
 
 ### Part 1 – Move the reservation to the new MAC
 
+In the router's **DHCP Connections** list:
 
 
 
