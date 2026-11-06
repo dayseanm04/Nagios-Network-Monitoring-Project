@@ -42,6 +42,28 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 **`Errno 113 – No route to host`** is a network-level error. It means the Nagios server couldn't find any device at **`192.168.1.9`**. That pointed at the network, not at NCPA itself.
 
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
