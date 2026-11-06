@@ -38,6 +38,7 @@ UNKNOWN: An error occurred connecting to API. (Connection error: '[Errno 113] No
 
 <img width="1048" height="735" alt="6" src="https://github.com/user-attachments/assets/46cebdac-ad7a-409f-a1aa-8c26a61f449a" />
 
+**Why UNKNOWN and not CRITICAL?** UNKNOWN means the check couldn't run at all, so Nagios has no idea what the real value is. **`check_ncpa.py`** couldn't reach NCPA, so it couldn't get a CPU, memory, or disk reading to compare against the thresholds.
 
 
 
