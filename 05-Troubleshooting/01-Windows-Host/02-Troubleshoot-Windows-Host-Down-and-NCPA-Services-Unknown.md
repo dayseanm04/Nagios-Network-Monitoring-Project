@@ -241,3 +241,6 @@ The check is OK with the new thresholds. It shows **flapping** because it change
 
 > **Trade-off:** 50 and 100 leave a lot of room. Normal startup noise won't trip them, but a real problem would need many more failure messages before it alerts. 
 
+---
+
+## Lessons Learned and Prevention
