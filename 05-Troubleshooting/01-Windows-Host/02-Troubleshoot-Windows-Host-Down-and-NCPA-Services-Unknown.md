@@ -129,3 +129,18 @@ The MAC address of **`comp-a-test`**'s **`vEthernet (Net-MGNT-SW)`** adapter cha
 ---
 
 ## Resolution
+
+I fixed this in two places: on the router and on **`comp-a-test`**.
+
+
+
+
+
+
+
+
+
+
+
+
+
