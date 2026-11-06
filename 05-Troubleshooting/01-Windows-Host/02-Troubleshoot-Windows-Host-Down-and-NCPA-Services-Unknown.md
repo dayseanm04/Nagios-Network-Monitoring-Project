@@ -106,7 +106,10 @@ The router's DHCP pool hands out `192.168.1.10` – `192.168.1.50`.
 
 ---
 
-
+```
+Before:  vEthernet MAC 10-…-5D  →  router reservation matches  →  192.168.1.9  ✅  Nagios checks .9
+After:   vEthernet MAC 10-…-5A  →  no reservation matches      →  192.168.1.18     Nagios checks .9  ❌
+```
 
 
 
