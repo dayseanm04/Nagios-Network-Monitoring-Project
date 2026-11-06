@@ -122,5 +122,6 @@ NCPA itself was fine. It was running on `comp-a-test` the whole time, just at a 
 
 ## Root Cause
 
+The MAC address of **`comp-a-test`**'s **`vEthernet (Net-MGNT-SW)`** adapter changed from **`10-…-5D`** to **`10-…-5A`**. My DHCP reservation for **`192.168.1.9`** was tied to the old MAC, so when the adapter renewed its IP, the router didn't match it to the reservation and gave it **`192.168.1.18`** from the regular pool. Nagios kept checking **`192.168.1.9`**, where no device was answering.
 
 
