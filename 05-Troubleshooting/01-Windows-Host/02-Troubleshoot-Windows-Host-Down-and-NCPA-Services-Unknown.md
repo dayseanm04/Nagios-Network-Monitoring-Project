@@ -81,6 +81,7 @@ I scrolled to the adapter NetworkVM shares, **`vEthernet (Net-MGNT-SW)`**:
 
 I also noticed the **Microsoft Wi-Fi Direct Virtual Adapter** (**`Local Area Connection* 9`**) has a MAC ending in **`5B`**, very close to the new **`5A`**. Windows creates these related MACs from the same Wi-Fi hardware.
 
+---
 
 
 
