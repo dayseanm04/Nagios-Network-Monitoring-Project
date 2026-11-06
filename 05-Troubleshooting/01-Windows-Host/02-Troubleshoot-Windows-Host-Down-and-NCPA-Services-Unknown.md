@@ -76,6 +76,7 @@ I scrolled to the adapter NetworkVM shares, **`vEthernet (Net-MGNT-SW)`**:
 
 **Findings:**
 
+1. **`comp-a-test`** had **`192.168.1.18`**, not **`192.168.1.9`**. Nagios was checking an address nothing was using.
 
 
 
