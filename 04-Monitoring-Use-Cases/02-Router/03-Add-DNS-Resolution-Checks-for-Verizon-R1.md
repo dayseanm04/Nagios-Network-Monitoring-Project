@@ -15,3 +15,4 @@ Every device on my network uses the router (**`192.168.1.1`**) as its DNS server
 | Check | What it tells me |
 |---|---|
 | **`google.com`** | The router can resolve internet names. This needs the router's DNS service **and** its upstream connection to Verizon's DNS servers to work |
+| **`comp-a-test`** | The router can resolve names of devices on my own network, and gives back the right IP |
