@@ -31,6 +31,13 @@ The goal of this project is to plan and build network monitoring for a **small c
 | comp-a-test | System uptime (alerts after a reboot) | NCPA – **`check_ncpa`** | ✅ Active |
 | NetworkVM | Load, users, disk, swap, processes, HTTP, ping | Local Nagios plugins | ✅ Active |
 | comp-a-test | CPU utilization (average across cores) | NCPA – **`check_ncpa`** | ✅ Active |
+| comp-a-test | Memory and swap usage | NCPA – **`check_ncpa`** | ✅ Active |
+| comp-a-test | C: drive space | NCPA – **`check_ncpa`** | ✅ Active |
+| comp-a-test | NCPA service status | NCPA – **`check_ncpa`** | ✅ Active |
+| comp-a-test | System event log failures | NCPA – **`check_ncpa`** | ✅ Active |
+| comp-a-test | Network interface errors and drops (in and out) | NCPA – **`check_ncpa`** | ✅ Active |
+| verizon-r1 | Host availability | Ping (ICMP) – **`check-host-alive`** | ✅ Active |
+| verizon-r1 | Response time and packet loss | **`check_ping`** | ✅ Active |
 
 ---
 
