@@ -19,3 +19,4 @@ Every device on my network uses the router (**`192.168.1.1`**) as its DNS server
 
 ---
 
+## Step 1 – Check That the Plugins Are Installed
