@@ -82,7 +82,11 @@ Pre-flight check after adding the **comp-a-test** service
 
 On a later check (21:30), it returned a different IP, **`142.251.41.174`**, in **0.026 seconds**. That's normal for Google, which answers from many addresses, and it's why this check doesn't use **`-a`** to expect a specific IP. see **TC-06**
 
+---
 
+## TC-04 – Thresholds Are Applied
+
+From the same details page:
 
 
 
