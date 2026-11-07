@@ -84,6 +84,40 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 The new command passes with **0 warnings** and **0 errors**. Nothing uses it yet, so the service count is still **19**.
 
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
