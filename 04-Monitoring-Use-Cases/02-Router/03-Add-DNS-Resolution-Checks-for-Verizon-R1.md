@@ -58,6 +58,7 @@ I add the new command below my **`check_ncpa`** command:
 
 | Part | What it does |
 |---|---|
+| **`command_name check_dns_server`** | The name services use in **`check_command`** |
 
 
 
