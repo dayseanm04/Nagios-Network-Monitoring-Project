@@ -37,6 +37,7 @@ Having the plugin isn't enough. Nagios can only run a plugin through a **command
 
 | Plugin | Command in `commands.cfg`? |
 |---|---|
+| **`check_dns`** | No. I need to create one |
 
 
 
