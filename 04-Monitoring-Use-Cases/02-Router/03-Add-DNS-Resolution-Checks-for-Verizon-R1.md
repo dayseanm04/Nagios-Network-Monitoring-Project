@@ -118,6 +118,7 @@ This runs:
 
 | Response time | State |
 |---|---|
+| 0.5 seconds or less | OK |
 
 
 
