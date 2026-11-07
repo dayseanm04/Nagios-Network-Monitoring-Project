@@ -20,3 +20,5 @@ Every device on my network uses the router (**`192.168.1.1`**) as its DNS server
 ---
 
 ## Step 1 – Check That the Plugins Are Installed
+
+Plugins are stored in **`/usr/local/nagios/libexec`**. I check for **`check_dns`**, and also **`check_http`** since I plan to use it for the router's web admin page later.
