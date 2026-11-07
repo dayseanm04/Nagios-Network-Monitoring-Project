@@ -144,11 +144,11 @@ I log in to **`http://192.168.1.99/nagios`** and click **Services**. **`verizon-
 
 **`verizon-r1`** is added to Nagios at **`192.168.1.1`** using the `network-device-host` template and the **`routers`** hostgroup. Its PING service uses `network-device-service` and is **OK** with 0% packet loss. The pre-flight check passes with 19 services, 3 hosts, 3 host groups, 0 warnings, and 0 errors.
 
-The SNMP and MRTG checks from the sample are commented out, since the CR1000B doesn't support SNMP.
+The SNMP and MRTG checks from the sample are commented out, since the CR1000B doesn't support SNMP. See [**11 – Test SNMP Support on Verizon-R1**](../../06-Testing-and-Validation/11-Test-SNMP-Support-on-Verizon-R1.md).
 
 **Open issue:** The router's **host** status was stuck in **PENDING**, even though its PING **service** was OK. Since the router was answering pings, the router itself was fine, and the problem was with how the host check was set up.
 
-**Resolved issue:** The router’s host status was stuck in PENDING because the network-device-host template had no check_command. After the fix, the host is UP
+**Resolved issue:** At first, the router's **host** status was stuck in **PENDING**, even though its PING **service** was OK. The cause was that the **`network-device-host`** template had no **`check_command`**. After the fix, the host is **UP**.
 
 > **Troubleshooting:** [**Click here to see how I fixed verizon-r1 stuck in PENDING**](../../05-Troubleshooting/02-Router/01-Troubleshoot-Verizon-R1-Stuck-in-Pending.md)
 
