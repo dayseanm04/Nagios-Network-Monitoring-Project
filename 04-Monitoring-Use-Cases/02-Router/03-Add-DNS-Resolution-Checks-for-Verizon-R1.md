@@ -226,5 +226,8 @@ After adding both services, I found typos in **`verizon-r1.cfg`**. I fixed them 
 
 ## Result
 
+I created a **`check_dns_server`** command that asks a host's own DNS service to resolve a name, and added two DNS checks to **`verizon-r1`** using the **`network-device-service`** template. The pre-flight check passes with 21 services, 0 warnings, and 0 errors.
+
+In testing, **`DNS Resolution google.com`** is **OK**, and **`DNS Resolution - comp-a-test`** is **CRITICAL** with **`DNS 192.168.1.1 has no records`**. See the [**test doc**](../../06-Testing-and-Validation/12-Validate-Verizon-R1-DNS-Resolution-Checks.md) for details.
 
 
