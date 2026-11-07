@@ -70,6 +70,7 @@ Without **`-s`**, **`check_dns`** uses whatever DNS server NetworkVM is set to. 
 
 I named it **`check_dns_server`** instead of **`check_dns`** so it's clear this command tests a DNS **server**, not just whether a name resolves.
 
+Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
