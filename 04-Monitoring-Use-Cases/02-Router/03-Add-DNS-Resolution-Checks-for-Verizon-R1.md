@@ -11,3 +11,6 @@ My router doesn't support SNMP (see [**11 – Test SNMP Support on Verizon-R1**]
 ## Why Monitor DNS on the Router?
 
 Every device on my network uses the router (**`192.168.1.1`**) as its DNS server. If the router's DNS stops working, the internet looks "down" to users even though the router still answers ping, so the PING check would stay OK and miss it.
+
+| Check | What it tells me |
+|---|---|
