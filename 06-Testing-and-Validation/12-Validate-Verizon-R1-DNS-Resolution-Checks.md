@@ -38,7 +38,9 @@ ls -l | grep dns
 
 **Steps:** I run the pre-flight check after each change:
 
-
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
