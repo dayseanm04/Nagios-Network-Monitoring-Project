@@ -68,6 +68,7 @@ Pre-flight check after adding the **comp-a-test** service
 
 ## TC-03 – Router Resolves google.com
 
+**Steps:** I log in to **`http://192.168.1.99/nagios`**, click **Services**, scroll down to **`verizon-r1`**, and click **DNS Resolution google.com**.
 
 
 
