@@ -86,7 +86,7 @@ Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06
 - [x] Add Windows host and resolve host DOWN issue
 - [x] Install NCPA and create first agent-based check (uptime)
 - [x] Restructure config into per-host files
-- [ ] Add CPU, memory, disk, and Windows service checks for comp-a-test
+- [x] Add CPU, memory, disk, Windows service, event log, and network interface checks for comp-a-test
 
 ---
 
