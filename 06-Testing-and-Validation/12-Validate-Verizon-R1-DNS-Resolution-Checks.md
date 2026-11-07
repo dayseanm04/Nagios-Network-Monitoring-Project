@@ -42,7 +42,9 @@ ls -l | grep dns
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+Pre-flight check after adding the **`check_dns_server`** command
 
+<img width="1028" height="790" alt="2" src="https://github.com/user-attachments/assets/83249235-aa6c-48a5-92b2-0e3cece2967d" />
 
 
 
