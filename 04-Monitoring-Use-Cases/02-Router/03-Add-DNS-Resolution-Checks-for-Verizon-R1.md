@@ -7,3 +7,5 @@ My router doesn't support SNMP (see [**11 – Test SNMP Support on Verizon-R1**]
 > **Testing and validation for these checks:** [**Click here to see the Verizon-R1 DNS resolution check validation**](../../06-Testing-and-Validation/12-Validate-Verizon-R1-DNS-Resolution-Checks.md)
 
 ---
+
+## Why Monitor DNS on the Router?
