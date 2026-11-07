@@ -80,6 +80,7 @@ Pre-flight check after adding the **comp-a-test** service
 
 <img width="1030" height="766" alt="7" src="https://github.com/user-attachments/assets/9365e9b4-3281-4903-b854-f8c774263777" />
 
+On a later check (21:30), it returned a different IP, **`142.251.41.174`**, in **0.026 seconds**. That's normal for Google, which answers from many addresses, and it's why this check doesn't use **`-a`** to expect a specific IP. see **TC-06**
 
 
 
