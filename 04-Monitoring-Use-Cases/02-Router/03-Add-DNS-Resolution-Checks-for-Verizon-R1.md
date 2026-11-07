@@ -234,3 +234,6 @@ In testing, **`DNS Resolution google.com`** is **OK**, and **`DNS Resolution - c
 
 ---
 
+## Next Steps
+
+1. **Fix the `comp-a-test` DNS check.**
