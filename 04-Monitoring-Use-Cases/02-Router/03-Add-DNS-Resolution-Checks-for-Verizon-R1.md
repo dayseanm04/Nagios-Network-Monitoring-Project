@@ -102,7 +102,7 @@ I add the service below the PING service:
 
 | Line | What it does |
 |---|---|
-
+| **`use network-device-service`** | My template for network devices: checks every minute, HARD after 2 failed checks |
 
 
 
