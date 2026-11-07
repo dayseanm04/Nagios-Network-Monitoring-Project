@@ -30,4 +30,4 @@ The plan is to start simple (get Nagios installed, get the Web UI working, start
 
 ## Status
 
-This project just started. This overview will be updated as the setup evolves and as new devices, checks, or configurations are added.
+Nagios Core is running and monitoring all three devices: the Ubuntu VM, the Windows host (ping plus 11 NCPA checks), and the router (host and PING checks). The router doesn't support SNMP, so its monitoring is ping-based for now.
