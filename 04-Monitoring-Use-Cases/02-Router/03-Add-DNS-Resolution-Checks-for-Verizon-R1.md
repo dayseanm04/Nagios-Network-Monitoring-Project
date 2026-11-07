@@ -189,8 +189,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 |---|---|---|---|
 | Services | 20 | **21** | Added **`DNS Resolution - comp-a-test`** |
 
+**Reload nagios**
 
-
+<img width="1024" height="237" alt="13" src="https://github.com/user-attachments/assets/94c20f93-fe86-4906-82b6-3b887cf8dbef" />
 
 
 
