@@ -64,6 +64,9 @@ I add the new command below my **`check_ncpa`** command:
 | **`-s $HOSTADDRESS$`** | The DNS server to ask. **`$HOSTADDRESS$`** is the address of the host the service belongs to, so for **`verizon-r1`** it's **`192.168.1.1`** |
 | **`$ARG2$`** | Extra options from the service, like **`-w`** / **`-c`** thresholds (in seconds) and **`-a`** (the IP the name should resolve to) |
 
+**Why `-s $HOSTADDRESS$`?**
+
+Without **`-s`**, **`check_dns`** uses whatever DNS server NetworkVM is set to. With it, the check asks the host itself. That turns this into a test of **that host's** DNS service, so the check belongs on **`verizon-r1`**. If the router goes down, I'll see the DNS problem on the router where it belongs.
 
 
 
