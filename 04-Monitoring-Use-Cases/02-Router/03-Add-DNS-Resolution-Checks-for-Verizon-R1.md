@@ -33,6 +33,7 @@ Both plugins are there and executable (**`-rwxr-xr-x`**). They were installed wi
 
 Having the plugin isn't enough. Nagios can only run a plugin through a **command** defined in **`commands.cfg`**.
 
+<img width="1031" height="179" alt="2" src="https://github.com/user-attachments/assets/82519356-e4da-4a93-8408-bb2a0ceb4136" />
 
 
 
