@@ -108,7 +108,11 @@ I add the service below the PING service:
 | **`check_command check_dns_server!google.com!-w 0.5 -c 1`** | **`$ARG1$`** = **`google.com`**, **`$ARG2$`** = **`-w 0.5 -c 1`** |
 | **`notes`** | A short description shown on the service's details page |
 
+This runs:
 
+```bash
+/usr/local/nagios/libexec/check_dns -H google.com -s 192.168.1.1 -w 0.5 -c 1
+```
 
 
 
