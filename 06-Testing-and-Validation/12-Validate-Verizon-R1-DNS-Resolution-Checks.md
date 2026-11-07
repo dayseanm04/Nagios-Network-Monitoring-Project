@@ -100,7 +100,13 @@ From the same details page:
 
 ## TC-05 – network-device-service Settings Are Applied
 
+From the same details page:
 
+| Field | Value |
+|---|---|
+| Last Check Time | 11-06-2026 21:16:00 |
+| Next Scheduled Check | 11-06-2026 21:17:00 |
+| Current Attempt | 1/2 (HARD state) |
 
 
 
