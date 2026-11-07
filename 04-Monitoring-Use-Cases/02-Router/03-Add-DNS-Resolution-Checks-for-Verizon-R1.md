@@ -149,6 +149,10 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 I use **`reload`** because I only added a service to a file Nagios already loads.
 
+**`DNS Resolution google.com`** showing OK
+
+<img width="1030" height="766" alt="10.1" src="https://github.com/user-attachments/assets/40ab9308-7f97-4cc4-a780-9ae2fb710ccb" />
+
 ---
 
 ## Step 7 – Add the comp-a-test DNS Check
@@ -175,6 +179,10 @@ Checking the expected IP matters here, because I've had **`comp-a-test`**'s IP c
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+**`DNS Resolution - comp-a-test`** service in **`verizon-r1.cfg`**
+
+<img width="940" height="679" alt="11.1" src="https://github.com/user-attachments/assets/ba908b37-d388-4dc0-bbd7-0d63c839798c" />
+
 ---
 
 ## Step 8 – Pre-Flight Check and Reload
@@ -200,6 +208,13 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ## Typo Fixes
 
 After adding both services, I found typos in **`verizon-r1.cfg`**. I fixed them and reloaded Nagios.
+
+| Where | Before | After |
+|---|---|---|
+| google.com service **`notes`** | **`Crti >1s`** | **`Crit >1s`** |
+| google.com service comment | **`verizon verizon-r1`** | **`verizon-r1`** |
+| comp-a-test **`service_description`** | **`DNS Resolutioon - comp-a-test`** | **`DNS Resolution - comp-a-test`** |
+| comp-a-test **`notes`** | **`comp-a-tes must resolve to...`** | **`comp-a-test must resolve to...`** |
 
 
 
