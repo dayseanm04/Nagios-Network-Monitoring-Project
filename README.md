@@ -64,6 +64,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | Config wouldn't scale past one Windows host | Everything was in one **`windows.cfg`** file | Moved to one file per host with **`cfg_dir`**, and moved the shared hostgroup to its own file |
 | Windows host went DOWN again and all 11 NCPA services showed UNKNOWN (**`No route to host`**) | The adapter's MAC address changed, so the DHCP reservation no longer matched and the host got a different IP | Moved the reservation to the new MAC and set a static IP on the adapter |
 | Router host status stuck in PENDING while its PING service was OK | My **`network-device-host`** template (and **`generic-host`** under it) had no **`check_command`** | Added **`check-host-alive`** to the template |
+| SNMP checks for the router never answered | The Verizon CR1000B has no SNMP agent. UDP 161 replies with ICMP Port unreachable | Confirmed with three tests and commented out the SNMP checks |
 
 Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06-Testing-and-Validation**](06-Testing-and-Validation).
 
