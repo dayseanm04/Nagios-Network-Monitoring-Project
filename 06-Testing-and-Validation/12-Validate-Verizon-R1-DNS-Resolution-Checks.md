@@ -114,6 +114,7 @@ From the same details page:
 
 ## TC-06 – Router Resolves comp-a-test to 192.168.1.9
 
+**Steps:** On the **Services** page, I scroll down to **`verizon-r1`** and click **DNS Resolution - comp-a-test**.
 
 
 
