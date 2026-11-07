@@ -193,6 +193,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1024" height="237" alt="13" src="https://github.com/user-attachments/assets/94c20f93-fe86-4906-82b6-3b887cf8dbef" />
 
+> **Testing and validation:** [**Click here to see the Verizon-R1 DNS resolution check validation**](../../06-Testing-and-Validation/12-Validate-Verizon-R1-DNS-Resolution-Checks.md)
 
 
 
