@@ -242,6 +242,7 @@ In testing, **`DNS Resolution google.com`** is **OK**, and **`DNS Resolution - c
 
 ## Related Docs
 
+- [**06-Testing-and-Validation / 12 – Validate Verizon-R1 DNS Resolution Checks**](../../06-Testing-and-Validation/12-Validate-Verizon-R1-DNS-Resolution-Checks.md)
 
 
 
