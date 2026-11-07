@@ -100,7 +100,8 @@ I add the service below the PING service:
 
 <img width="960" height="588" alt="8" src="https://github.com/user-attachments/assets/17a021ff-13f5-4b98-abeb-efd0d9486cd6" />
 
-
+| Line | What it does |
+|---|---|
 
 
 
