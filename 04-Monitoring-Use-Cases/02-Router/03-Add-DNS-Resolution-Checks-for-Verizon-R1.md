@@ -82,6 +82,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1028" height="790" alt="6" src="https://github.com/user-attachments/assets/1653f63f-7509-4dd7-9a72-54553a31e368" />
 
+The new command passes with **0 warnings** and **0 errors**. Nothing uses it yet, so the service count is still **19**.
 
 
 
