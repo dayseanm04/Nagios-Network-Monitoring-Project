@@ -105,6 +105,7 @@ I add the service below the PING service:
 | **`use network-device-service`** | My template for network devices: checks every minute, HARD after 2 failed checks |
 | **`host_name verizon-r1`** | Attaches the check to the router, which also makes **`$HOSTADDRESS$`** = **`192.168.1.1`** |
 | **`service_description DNS Resolution google.com`** | Name shown in the web interface |
+| **`check_command check_dns_server!google.com!-w 0.5 -c 1`** | **`$ARG1$`** = **`google.com`**, **`$ARG2$`** = **`-w 0.5 -c 1`** |
 
 
 
