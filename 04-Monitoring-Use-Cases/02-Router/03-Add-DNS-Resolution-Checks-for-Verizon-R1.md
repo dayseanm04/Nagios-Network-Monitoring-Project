@@ -60,6 +60,7 @@ I add the new command below my **`check_ncpa`** command:
 |---|---|
 | **`command_name check_dns_server`** | The name services use in **`check_command`** |
 | **`$USER1$/check_dns`** | Runs the plugin. **`$USER1$`** is **`/usr/local/nagios/libexec`**, set in **`resource.cfg`** |
+| **`-H $ARG1$`** | The name to look up. **`$ARG1$`** is the first value after **`!`** in the service |
 
 
 
