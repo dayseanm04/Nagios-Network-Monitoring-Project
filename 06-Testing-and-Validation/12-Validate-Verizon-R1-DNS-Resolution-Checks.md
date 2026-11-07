@@ -124,7 +124,13 @@ Service details page
 
 <img width="940" height="679" alt="Screenshot 2026-11-06 213201" src="https://github.com/user-attachments/assets/1bc7c4f9-63de-4fd3-8d15-5341e9153879" />
 
-
+| Field | Value |
+|---|---|
+| Current Status | **CRITICAL** |
+| Status Information | **`DNS 192.168.1.1 has no records`** |
+| Performance Data | (empty) |
+| Current Attempt | 2/2 (HARD state) |
+| Last State Change | 11-06-2026 21:27:38 |
 
 
 
