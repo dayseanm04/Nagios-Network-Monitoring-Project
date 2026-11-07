@@ -44,6 +44,7 @@ Having the plugin isn't enough. Nagios can only run a plugin through a **command
 
 ## Step 3 – Add the check_dns_server Command
 
+<img width="913" height="240" alt="3" src="https://github.com/user-attachments/assets/2992b775-3c23-48e5-92d7-541ddf7650f8" />
 
 
 
