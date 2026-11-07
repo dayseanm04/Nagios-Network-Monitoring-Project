@@ -72,7 +72,7 @@ I named it **`check_dns_server`** instead of **`check_dns`** so it's clear this 
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
-
+---
 
 
 
