@@ -63,6 +63,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | Uptime check went CRITICAL on a healthy machine | Thresholds alerted on values **above** the limit instead of **below** | Used Nagios range syntax (**`-w 3600: -c 600:`**) |
 | Config wouldn't scale past one Windows host | Everything was in one **`windows.cfg`** file | Moved to one file per host with **`cfg_dir`**, and moved the shared hostgroup to its own file |
 | Windows host went DOWN again and all 11 NCPA services showed UNKNOWN (**`No route to host`**) | The adapter's MAC address changed, so the DHCP reservation no longer matched and the host got a different IP | Moved the reservation to the new MAC and set a static IP on the adapter |
+| Router host status stuck in PENDING while its PING service was OK | My **`network-device-host`** template (and **`generic-host`** under it) had no **`check_command`** | Added **`check-host-alive`** to the template |
 
 Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06-Testing-and-Validation**](06-Testing-and-Validation).
 
