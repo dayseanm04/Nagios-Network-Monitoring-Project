@@ -94,7 +94,11 @@ From the same details page:
 | **`0.500000`** | Warning threshold: 0.5 seconds (from **`-w 0.5`**) |
 | **`1.000000`** | Critical threshold: 1 second (from **`-c 1`**) |
 
+**Result:** ✅ PASS. Both thresholds from **`check_command`** are in use. At 0.066 seconds, the lookup is far under the warning line.
 
+---
+
+## TC-05 – network-device-service Settings Are Applied
 
 
 
