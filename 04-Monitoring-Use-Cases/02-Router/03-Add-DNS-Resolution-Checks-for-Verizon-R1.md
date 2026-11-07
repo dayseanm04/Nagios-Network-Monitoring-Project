@@ -96,6 +96,7 @@ sudo nano verizon-r1.cfg
 
 <img width="943" height="340" alt="7" src="https://github.com/user-attachments/assets/5f84ee48-a2be-4c2f-9b67-123564fbb233" />
 
+I add the service below the PING service:
 
 
 
