@@ -7,3 +7,6 @@ In this doc, I will verify the two DNS checks on **`verizon-r1`**. I'll confirm 
 ---
 
 ## Test Cases
+
+| ID | Test | Expected | Actual | Status |
+|---|---|---|---|---|
