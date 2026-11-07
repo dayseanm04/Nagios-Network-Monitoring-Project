@@ -120,6 +120,7 @@ This runs:
 |---|---|
 | 0.5 seconds or less | OK |
 | Over 0.5 seconds | WARNING |
+| Over 1 second | CRITICAL |
 
 
 
