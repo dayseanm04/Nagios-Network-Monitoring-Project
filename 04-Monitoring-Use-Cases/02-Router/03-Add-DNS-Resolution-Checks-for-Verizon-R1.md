@@ -125,6 +125,7 @@ This runs:
 
 A normal lookup through the router takes well under a 0.5, so these leave room for a slow lookup without alerting.
 
+**Why no `-a` (expected address) for google.com?** Google answers from many IP addresses and they change. In my testing, **`google.com`** returned a different IP 14 minutes later. If I locked it to one IP, the check would go CRITICAL even though DNS was working fine. For an internet name, getting **any** answer quickly is the right test.
 
 
 
