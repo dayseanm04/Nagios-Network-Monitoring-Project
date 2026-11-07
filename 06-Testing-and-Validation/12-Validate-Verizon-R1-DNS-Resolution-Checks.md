@@ -136,6 +136,9 @@ Service details page
 
 The google.com check on the same router was **OK** at the same time, so the router's DNS service is working. The problem is specific to the **`comp-a-test`** lookup.
 
+> **Troubleshooting:** [**Click here to see how I fixed the comp-a-test DNS check**](../05-Troubleshooting/02-Router/02-Troubleshoot-comp-a-test-DNS-Check-No-Records.md)
+
+---
 
 
 
