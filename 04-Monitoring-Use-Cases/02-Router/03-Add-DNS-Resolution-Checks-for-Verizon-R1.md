@@ -183,6 +183,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="973" height="738" alt="12" src="https://github.com/user-attachments/assets/da4e9658-4deb-499a-930a-6213b90afe6f" />
 
 
 
