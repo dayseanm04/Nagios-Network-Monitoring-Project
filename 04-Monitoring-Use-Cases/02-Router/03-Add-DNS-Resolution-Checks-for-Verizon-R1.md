@@ -114,6 +114,7 @@ This runs:
 /usr/local/nagios/libexec/check_dns -H google.com -s 192.168.1.1 -w 0.5 -c 1
 ```
 
+### What the thresholds mean
 
 
 
