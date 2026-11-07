@@ -56,7 +56,8 @@ I add the new command below my **`check_ncpa`** command:
 
 <img width="936" height="334" alt="5" src="https://github.com/user-attachments/assets/b5072ce1-886b-4ec6-9aac-97d4656fe95c" />
 
-
+| Part | What it does |
+|---|---|
 
 
 
