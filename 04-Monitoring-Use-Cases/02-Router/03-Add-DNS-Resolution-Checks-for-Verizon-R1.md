@@ -157,6 +157,7 @@ I use **`reload`** because I only added a service to a file Nagios already loads
 sudo nano verizon-r1.cfg
 ```
 
+I add a second DNS service below the first:
 
 
 
