@@ -139,7 +139,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1017" height="852" alt="9" src="https://github.com/user-attachments/assets/514907e0-31fe-40f3-bb92-fadc7a2762c0" />
 
-
+| Count | Before | After | What changed |
+|---|---|---|---|
+| Services | 19 | **20** | Added **`DNS Resolution google.com`** |
 
 
 
