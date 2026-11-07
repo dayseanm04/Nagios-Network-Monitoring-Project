@@ -108,7 +108,7 @@ A timeout on its own could mean a few things:
 | The community string is wrong | ✅ Yes. There's no setting to change the community string, so there's no other value to try |
 | SNMP is turned off but can be turned on | ✅ Yes. TC-01 found no setting to turn it on or configure it |
 | A firewall is dropping SNMP traffic | ✅ Yes. A firewall dropping the packets would give no reply at all. The router sent a reply |
-| **The router doesn't have an SNMP agent** | ❌ **Confirmed.** Port 161 is closed |
+| **The router doesn't have an SNMP agent** | ❌ **Confirmed.** Port 161 is closed (TC-03) |
 
 With the router reachable and no SNMP settings anywhere in its admin interface, the timeout means the router isn't running an SNMP agent.
 
