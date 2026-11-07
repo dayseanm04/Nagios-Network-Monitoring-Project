@@ -147,7 +147,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="816" height="91" alt="10" src="https://github.com/user-attachments/assets/97cbe6d0-0a37-40ee-aa87-98c8edb06fbb" />
 
-
+I use **`reload`** because I only added a service to a file Nagios already loads.
 
 
 
