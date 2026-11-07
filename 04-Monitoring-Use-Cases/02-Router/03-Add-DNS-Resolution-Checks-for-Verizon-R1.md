@@ -24,3 +24,5 @@ Every device on my network uses the router (**`192.168.1.1`**) as its DNS server
 Plugins are stored in **`/usr/local/nagios/libexec`**. I check for **`check_dns`**, and also **`check_http`** since I plan to use it for the router's web admin page later.
 
 <img width="1031" height="376" alt="1" src="https://github.com/user-attachments/assets/aaac48c9-d00a-47b6-b44b-08117aba930d" />
+
+Both plugins are there and executable (**`-rwxr-xr-x`**). They were installed with the Nagios Plugins package.
