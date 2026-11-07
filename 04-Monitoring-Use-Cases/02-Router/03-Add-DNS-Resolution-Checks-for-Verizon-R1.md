@@ -62,6 +62,7 @@ I add the new command below my **`check_ncpa`** command:
 | **`$USER1$/check_dns`** | Runs the plugin. **`$USER1$`** is **`/usr/local/nagios/libexec`**, set in **`resource.cfg`** |
 | **`-H $ARG1$`** | The name to look up. **`$ARG1$`** is the first value after **`!`** in the service |
 | **`-s $HOSTADDRESS$`** | The DNS server to ask. **`$HOSTADDRESS$`** is the address of the host the service belongs to, so for **`verizon-r1`** it's **`192.168.1.1`** |
+| **`$ARG2$`** | Extra options from the service, like **`-w`** / **`-c`** thresholds (in seconds) and **`-a`** (the IP the name should resolve to) |
 
 
 
