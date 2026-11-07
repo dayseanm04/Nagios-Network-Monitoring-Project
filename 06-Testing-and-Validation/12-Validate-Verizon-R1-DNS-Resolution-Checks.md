@@ -1,1 +1,3 @@
 # 12 – Validate Verizon-R1 DNS Resolution Checks
+
+In this doc, I will verify the two DNS checks on **`verizon-r1`**. I'll confirm the plugin and command are in place, that the router resolves **`google.com`** within my thresholds, and that it resolves **`comp-a-test`** to the right IP.
