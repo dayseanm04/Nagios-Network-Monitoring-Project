@@ -88,7 +88,11 @@ On a later check (21:30), it returned a different IP, **`142.251.41.174`**, in *
 
 From the same details page:
 
-
+| Part | Meaning |
+|---|---|
+| **`time=0.065836s`** | The lookup took about 0.066 seconds |
+| **`0.500000`** | Warning threshold: 0.5 seconds (from **`-w 0.5`**) |
+| **`1.000000`** | Critical threshold: 1 second (from **`-c 1`**) |
 
 
 
