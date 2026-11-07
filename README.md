@@ -51,8 +51,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | [**04-Monitoring-Use-Cases**](04-Monitoring-Use-Cases) | Monitoring specific devices: the Windows host (adding it to Nagios, installing NCPA, and creating service checks) and the Verizon router (hostgroup, host, and PING check) |
 | [**05-Troubleshooting**](05-Troubleshooting) | Real problems I ran into: what happened, how I found the cause, and how I fixed it |
 | [**06-Testing-and-Validation**](06-Testing-and-Validation) | Test cases and results proving each change works |
-| [**07-Help**](07-Help) | Reference guides: navigating the Nagios web UI, understanding host and service definitions, and testing checks in NCPA |
-
+| [**07-Help**](07-Help) | Reference guides: navigating the Nagios web UI, host and service definitions, the default templates, timeperiods, contacts, and testing checks in NCPA |
 
 
 ## Problems I Solved
@@ -63,6 +62,7 @@ The goal of this project is to plan and build network monitoring for a **small c
 | Windows host showed DOWN in Nagios | Host IP had changed, and Windows Firewall blocked inbound ping | Updated the host address and added a firewall rule allowing ICMP only from the Nagios server |
 | Uptime check went CRITICAL on a healthy machine | Thresholds alerted on values **above** the limit instead of **below** | Used Nagios range syntax (**`-w 3600: -c 600:`**) |
 | Config wouldn't scale past one Windows host | Everything was in one **`windows.cfg`** file | Moved to one file per host with **`cfg_dir`**, and moved the shared hostgroup to its own file |
+| Windows host went DOWN again and all 11 NCPA services showed UNKNOWN (**`No route to host`**) | The adapter's MAC address changed, so the DHCP reservation no longer matched and the host got a different IP | Moved the reservation to the new MAC and set a static IP on the adapter |
 
 Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06-Testing-and-Validation**](06-Testing-and-Validation).
 
