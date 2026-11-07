@@ -88,7 +88,11 @@ The new command passes with **0 warnings** and **0 errors**. Nothing uses it yet
 
 ## Step 5 – Add the google.com DNS Check
 
-
+```bash
+cd ..
+cd routers
+sudo nano verizon-r1.cfg
+```
 
 
 
