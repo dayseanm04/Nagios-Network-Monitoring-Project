@@ -143,6 +143,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 |---|---|---|---|
 | Services | 19 | **20** | Added **`DNS Resolution google.com`** |
 
+**Reload nagios**
+
+<img width="816" height="91" alt="10" src="https://github.com/user-attachments/assets/97cbe6d0-0a37-40ee-aa87-98c8edb06fbb" />
 
 
 
