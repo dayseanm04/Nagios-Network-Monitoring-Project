@@ -60,4 +60,7 @@ Pre-flight check after adding the **comp-a-test** service
 | Added **`DNS Resolution google.com`** | 20 | 0 | 0 |
 | Added **`DNS Resolution - comp-a-test`** | 21 | 0 | 0 |
 
+**Result:** ✅ PASS. Each change passes, and the service count goes up by one for each new service.
+
+> Passing the pre-flight check means the config is **valid**, not that the check is **right**. TC-06 shows the difference: the comp-a-test service passes here but fails in the web interface.
 
