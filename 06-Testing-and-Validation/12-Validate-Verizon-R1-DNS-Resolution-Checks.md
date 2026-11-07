@@ -28,3 +28,6 @@ cd /usr/local/nagios/libexec
 ls -l | grep dns
 ```
 
+<img width="1031" height="376" alt="1" src="https://github.com/user-attachments/assets/aaac48c9-d00a-47b6-b44b-08117aba930d" />
+
+
