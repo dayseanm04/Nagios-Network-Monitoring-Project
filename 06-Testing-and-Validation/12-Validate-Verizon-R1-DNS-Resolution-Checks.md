@@ -112,5 +112,8 @@ From the same details page:
 
 ---
 
+## TC-06 – Router Resolves comp-a-test to 192.168.1.9
+
+
 
 
