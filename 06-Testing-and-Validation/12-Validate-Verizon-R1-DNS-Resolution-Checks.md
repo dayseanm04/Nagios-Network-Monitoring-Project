@@ -116,5 +116,27 @@ From the same details page:
 
 **Steps:** On the **Services** page, I scroll down to **`verizon-r1`** and click **DNS Resolution - comp-a-test**.
 
+<img width="1020" height="807" alt="8" src="https://github.com/user-attachments/assets/121c1fcb-f0f6-4f27-a042-5ab9e4761e37" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
