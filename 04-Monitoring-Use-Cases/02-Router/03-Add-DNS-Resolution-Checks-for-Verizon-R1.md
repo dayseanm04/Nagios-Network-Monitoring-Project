@@ -133,6 +133,7 @@ Save: **Ctrl+O**, **Enter**.
 
 ## Step 6 – Pre-Flight Check and Reload
 
+<img width="1017" height="852" alt="9" src="https://github.com/user-attachments/assets/514907e0-31fe-40f3-bb92-fadc7a2762c0" />
 
 
 
