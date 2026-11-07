@@ -31,3 +31,5 @@ The plan is to start simple (get Nagios installed, get the Web UI working, start
 ## Status
 
 Nagios Core is running and monitoring all three devices: the Ubuntu VM, the Windows host (ping plus 11 NCPA checks), and the router (host and PING checks). The router doesn't support SNMP, so its monitoring is ping-based for now.
+
+See the [**main README**](../README.md) for the full list of checks and the roadmap.
