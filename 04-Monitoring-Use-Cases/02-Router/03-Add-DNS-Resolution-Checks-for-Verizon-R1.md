@@ -149,7 +149,9 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 I use **`reload`** because I only added a service to a file Nagios already loads.
 
+---
 
+## Step 7 – Add the comp-a-test DNS Check
 
 
 
