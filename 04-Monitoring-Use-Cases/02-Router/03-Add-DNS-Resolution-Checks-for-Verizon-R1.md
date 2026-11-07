@@ -46,6 +46,7 @@ Having the plugin isn't enough. Nagios can only run a plugin through a **command
 
 <img width="913" height="240" alt="3" src="https://github.com/user-attachments/assets/2992b775-3c23-48e5-92d7-541ddf7650f8" />
 
+<img width="1031" height="775" alt="4" src="https://github.com/user-attachments/assets/6c8bf121-9d5e-4d99-b687-e8c9be6b55cc" />
 
 
 
