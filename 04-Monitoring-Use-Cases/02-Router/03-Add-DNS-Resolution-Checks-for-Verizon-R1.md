@@ -199,6 +199,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 ## Typo Fixes
 
+After adding both services, I found typos in **`verizon-r1.cfg`**. I fixed them and reloaded Nagios.
 
 
 
