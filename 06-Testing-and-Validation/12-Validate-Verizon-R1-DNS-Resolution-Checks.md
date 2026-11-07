@@ -54,6 +54,10 @@ Pre-flight check after adding the **comp-a-test** service
 
 <img width="973" height="738" alt="4" src="https://github.com/user-attachments/assets/8b0c7416-f2e5-403c-9d8b-e29e7578eecd" />
 
-
+| Change | Services | Warnings | Errors |
+|---|---|---|---|
+| Added **`check_dns_server`** command | 19 | 0 | 0 |
+| Added **`DNS Resolution google.com`** | 20 | 0 | 0 |
+| Added **`DNS Resolution - comp-a-test`** | 21 | 0 | 0 |
 
 
