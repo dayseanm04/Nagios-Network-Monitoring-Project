@@ -119,6 +119,7 @@ This runs:
 | Response time | State |
 |---|---|
 | 0.5 seconds or less | OK |
+| Over 0.5 seconds | WARNING |
 
 
 
