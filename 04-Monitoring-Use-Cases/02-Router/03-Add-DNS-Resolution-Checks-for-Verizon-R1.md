@@ -164,6 +164,8 @@ I add a second DNS service below the first:
 | Line | What it does |
 |---|---|
 | **`use network-device-service`** | Same template as the google.com check |
+| **`host_name verizon-r1`** | Asks the router (**`192.168.1.1`**) to do the lookup |
+| **`service_description DNS Resolution - comp-a-test`** | Name shown in the web interface |
 
 
 
