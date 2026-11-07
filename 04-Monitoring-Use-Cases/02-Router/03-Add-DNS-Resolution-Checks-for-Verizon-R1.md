@@ -159,6 +159,7 @@ sudo nano verizon-r1.cfg
 
 I add a second DNS service below the first:
 
+<img width="969" height="666" alt="11" src="https://github.com/user-attachments/assets/4c5d3757-dfed-460f-b4d3-50172eb57dd4" />
 
 
 
