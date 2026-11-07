@@ -72,7 +72,7 @@ Pre-flight check after adding the **comp-a-test** service
 
 <img width="1013" height="618" alt="5" src="https://github.com/user-attachments/assets/c3d7b334-6fca-4dd3-a890-e8de098674f9" />
 
-### DNS Resolution google.com` OK in the services list
+### DNS Resolution google.com OK in the services list
 
 <img width="976" height="722" alt="6" src="https://github.com/user-attachments/assets/e9b929b0-f23f-42bd-9582-dc8aa4f6c4d6" />
 
