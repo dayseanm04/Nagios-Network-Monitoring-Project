@@ -245,6 +245,5 @@ In testing, **`DNS Resolution google.com`** is **OK**, and **`DNS Resolution - c
 - [**06-Testing-and-Validation / 12 – Validate Verizon-R1 DNS Resolution Checks**](../../06-Testing-and-Validation/12-Validate-Verizon-R1-DNS-Resolution-Checks.md)
 - [**05-Troubleshooting / 02-Router / 02 – Troubleshoot comp-a-test DNS Check (No Records)**](../../05-Troubleshooting/02-Router/02-Troubleshoot-comp-a-test-DNS-Check-No-Records.md)
 - [**02 – Add Verizon Router and Ping Check**](02-Add-Verizon-Router-and-Ping-Check.md)
-
-
-
+- [**06-Testing-and-Validation / 11 – Test SNMP Support on Verizon-R1**](../../06-Testing-and-Validation/11-Test-SNMP-Support-on-Verizon-R1.md)
+- [**02-Setup / 10 – Create Notify-Early, Network Device, and Windows NCPA Templates**](../../02-Setup/10-Create-Notify-Early-Network-Device-and-Windows-NCPA-Templates.md)
