@@ -108,6 +108,9 @@ From the same details page:
 | Next Scheduled Check | 11-06-2026 21:17:00 |
 | Current Attempt | 1/2 (HARD state) |
 
+**Result:** ✅ PASS. Checks are **1 minute** apart and attempts are out of **2**, both from **`network-device-service`**.
+
+---
 
 
 
