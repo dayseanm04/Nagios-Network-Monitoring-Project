@@ -103,6 +103,7 @@ I add the service below the PING service:
 | Line | What it does |
 |---|---|
 | **`use network-device-service`** | My template for network devices: checks every minute, HARD after 2 failed checks |
+| **`host_name verizon-r1`** | Attaches the check to the router, which also makes **`$HOSTADDRESS$`** = **`192.168.1.1`** |
 
 
 
