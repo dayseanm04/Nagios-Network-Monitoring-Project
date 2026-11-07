@@ -175,6 +175,8 @@ Checking the expected IP matters here, because I've had **`comp-a-test`**'s IP c
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+---
 
+## Step 8 – Pre-Flight Check and Reload
 
 
