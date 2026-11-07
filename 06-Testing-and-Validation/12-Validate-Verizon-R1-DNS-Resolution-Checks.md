@@ -50,4 +50,10 @@ Pre-flight check after adding the **google.com** service
 
 <img width="1017" height="852" alt="3" src="https://github.com/user-attachments/assets/2a89e28c-1360-496a-bc18-5ea577275b3d" />
 
+Pre-flight check after adding the **comp-a-test** service
+
+<img width="973" height="738" alt="4" src="https://github.com/user-attachments/assets/8b0c7416-f2e5-403c-9d8b-e29e7578eecd" />
+
+
+
 
