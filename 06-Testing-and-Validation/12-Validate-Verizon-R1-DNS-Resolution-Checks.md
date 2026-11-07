@@ -32,3 +32,15 @@ ls -l | grep dns
 
 **Result:** ✅ PASS. **`check_dns`** is there, owned by **`nagios`**, and executable.
 
+---
+
+## TC-02 – Config Passes the Pre-Flight Check
+
+**Steps:** I run the pre-flight check after each change:
+
+
+
+
+
+
+
