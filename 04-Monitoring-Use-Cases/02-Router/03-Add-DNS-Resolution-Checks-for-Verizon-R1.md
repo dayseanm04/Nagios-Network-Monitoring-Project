@@ -29,6 +29,7 @@ Both plugins are there and executable (**`-rwxr-xr-x`**). They were installed wi
 
 ---
 
+## Step 2 – Check for Existing Command Definitions
 
 
 
