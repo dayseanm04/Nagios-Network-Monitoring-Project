@@ -70,6 +70,7 @@ Pre-flight check after adding the **comp-a-test** service
 
 **Steps:** I log in to **`http://192.168.1.99/nagios`**, click **Services**, scroll down to **`verizon-r1`**, and click **DNS Resolution google.com**.
 
+<img width="1013" height="618" alt="5" src="https://github.com/user-attachments/assets/c3d7b334-6fca-4dd3-a890-e8de098674f9" />
 
 
 
