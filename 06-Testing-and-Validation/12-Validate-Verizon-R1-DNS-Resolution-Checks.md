@@ -20,3 +20,11 @@ In this doc, I will verify the two DNS checks on **`verizon-r1`**. I'll confirm 
 ---
 
 ## TC-01 – Plugin Is Installed
+
+**Steps:**
+
+```bash
+cd /usr/local/nagios/libexec
+ls -l | grep dns
+```
+
