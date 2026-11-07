@@ -64,3 +64,23 @@ Pre-flight check after adding the **comp-a-test** service
 
 > Passing the pre-flight check means the config is **valid**, not that the check is **right**. TC-06 shows the difference: the comp-a-test service passes here but fails in the web interface.
 
+---
+
+## TC-03 – Router Resolves google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
