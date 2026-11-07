@@ -123,6 +123,7 @@ This runs:
 | Over 1 second | CRITICAL |
 | No answer or no record | CRITICAL |
 
+A normal lookup through the router takes well under a 0.5, so these leave room for a slow lookup without alerting.
 
 
 
