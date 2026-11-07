@@ -52,6 +52,7 @@ sudo nano commands.cfg
 
 <img width="1031" height="775" alt="4" src="https://github.com/user-attachments/assets/6c8bf121-9d5e-4d99-b687-e8c9be6b55cc" />
 
+I add the new command below my **`check_ncpa`** command:
 
 
 
