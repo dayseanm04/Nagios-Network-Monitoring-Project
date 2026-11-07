@@ -169,6 +169,11 @@ I add a second DNS service below the first:
 | **`check_command check_dns_server!comp-a-test 192.168.1.9 -w 0.5 -c 1`** | Looks up **`comp-a-test`** and is meant to check that it resolves to **`192.168.1.9`**, with the same thresholds |
 | **`notes`** | Shown on the service's details page |
 
+**Why check a local name?** The google.com check proves the router can reach the internet's DNS. It doesn't prove the router knows the devices on my own network. 
+
+Checking the expected IP matters here, because I've had **`comp-a-test`**'s IP change before (see [**Troubleshoot Windows Host Down and NCPA Services Unknown**](../../05-Troubleshooting/01-Windows-Host/02-Troubleshoot-Windows-Host-Down-and-NCPA-Services-Unknown.md)). A wrong answer is a problem too, not just no answer.
+
+Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
