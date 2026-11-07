@@ -132,6 +132,10 @@ Service details page
 | Current Attempt | 2/2 (HARD state) |
 | Last State Change | 11-06-2026 21:27:38 |
 
+**Result:** ❌ FAIL. The router answered, since the output names **`192.168.1.1`** as the server, but it had no record for **`comp-a-test`**. The performance data is empty because there was no successful lookup to time.
+
+The google.com check on the same router was **OK** at the same time, so the router's DNS service is working. The problem is specific to the **`comp-a-test`** lookup.
+
 
 
 
