@@ -230,4 +230,7 @@ I created a **`check_dns_server`** command that asks a host's own DNS service to
 
 In testing, **`DNS Resolution google.com`** is **OK**, and **`DNS Resolution - comp-a-test`** is **CRITICAL** with **`DNS 192.168.1.1 has no records`**. See the [**test doc**](../../06-Testing-and-Validation/12-Validate-Verizon-R1-DNS-Resolution-Checks.md) for details.
 
+> **Troubleshooting:** [**Click here to see how I fixed the comp-a-test DNS check**](../../05-Troubleshooting/02-Router/02-Troubleshoot-comp-a-test-DNS-Check-No-Records.md)
+
+---
 
