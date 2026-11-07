@@ -88,6 +88,7 @@ Full documentation are in [**05-Troubleshooting**](05-Troubleshooting) and [**06
 - [x] Restructure config into per-host files
 - [x] Add CPU, memory, disk, Windows service, event log, and network interface checks for comp-a-test
 - [x] Add the Verizon router with host and PING checks
+- [x] Test the router for SNMP support (not supported)
 
 ---
 
