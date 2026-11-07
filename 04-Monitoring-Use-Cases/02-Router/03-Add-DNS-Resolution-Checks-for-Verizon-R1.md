@@ -216,6 +216,11 @@ After adding both services, I found typos in **`verizon-r1.cfg`**. I fixed them 
 | comp-a-test **`service_description`** | **`DNS Resolutioon - comp-a-test`** | **`DNS Resolution - comp-a-test`** |
 | comp-a-test **`notes`** | **`comp-a-tes must resolve to...`** | **`comp-a-test must resolve to...`** |
 
+<img width="934" height="371" alt="14" src="https://github.com/user-attachments/assets/75ec783a-ab0d-4a36-ad8a-b4f732ffe019" />
+
+<img width="738" height="330" alt="15" src="https://github.com/user-attachments/assets/31e1487e-3794-4c3f-8d5d-3072081a8305" />
+
+> Screenshots taken before this fix still show the old spelling.
 
 
 
