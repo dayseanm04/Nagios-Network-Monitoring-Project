@@ -222,7 +222,9 @@ After adding both services, I found typos in **`verizon-r1.cfg`**. I fixed them 
 
 > Screenshots taken before this fix still show the old spelling.
 
+---
 
+## Result
 
 
 
