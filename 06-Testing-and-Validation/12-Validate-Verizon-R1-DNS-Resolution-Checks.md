@@ -144,10 +144,9 @@ The google.com check on the same router was **OK** at the same time, so the rout
 
 The **`check_dns_server`** command works, and the **`DNS Resolution google.com`** check is working as intended. The router resolves internet names in under 0.1 seconds, Nagios applies the 0.5-second warning and 1-second critical thresholds, and it checks every minute with 2 attempts from **`network-device-service`**.
 
+The **`DNS Resolution - comp-a-test`** check fails with **`DNS 192.168.1.1 has no records`**. It will be retested after troubleshooting.
 
-
-
-
+---
 
 
 
