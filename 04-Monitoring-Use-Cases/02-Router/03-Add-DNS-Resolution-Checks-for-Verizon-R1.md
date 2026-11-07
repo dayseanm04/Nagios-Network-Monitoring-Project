@@ -68,6 +68,7 @@ I add the new command below my **`check_ncpa`** command:
 
 Without **`-s`**, **`check_dns`** uses whatever DNS server NetworkVM is set to. With it, the check asks the host itself. That turns this into a test of **that host's** DNS service, so the check belongs on **`verizon-r1`**. If the router goes down, I'll see the DNS problem on the router where it belongs.
 
+I named it **`check_dns_server`** instead of **`check_dns`** so it's clear this command tests a DNS **server**, not just whether a name resolves.
 
 
 
