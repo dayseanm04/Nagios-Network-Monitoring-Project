@@ -46,5 +46,8 @@ Pre-flight check after adding the **`check_dns_server`** command
 
 <img width="1028" height="790" alt="2" src="https://github.com/user-attachments/assets/83249235-aa6c-48a5-92b2-0e3cece2967d" />
 
+Pre-flight check after adding the **google.com** service
+
+<img width="1017" height="852" alt="3" src="https://github.com/user-attachments/assets/2a89e28c-1360-496a-bc18-5ea577275b3d" />
 
 
