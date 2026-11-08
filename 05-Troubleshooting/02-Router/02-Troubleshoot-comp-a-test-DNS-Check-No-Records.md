@@ -30,4 +30,5 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 | `DNS Resolution google.com` | **OK** on the same router at the same time |
 
 **What this tells me:**
+- The router **answered**, because the output names **`192.168.1.1`** as the server. If it hadn't, the error would be a timeout.
 
