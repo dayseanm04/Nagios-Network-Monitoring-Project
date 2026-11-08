@@ -211,6 +211,7 @@ Still **21 services**, **0 warnings**, **0 errors**. I only changed a line, I di
 
 <img width="1027" height="818" alt="20" src="https://github.com/user-attachments/assets/c344fd34-8c83-4b4c-a366-ee20c27906c6" />
 
+**Result:** ✅ The check is OK and now confirms **`comp-a-test`** resolves to **`192.168.1.9`**.
 
 
 
