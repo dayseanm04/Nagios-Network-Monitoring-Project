@@ -134,7 +134,9 @@ nslookup comp-a-test 192.168.1.1
 
 The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it already had from NDP.
 
+---
 
+## Lessons Learned and Prevention
 
 
 
