@@ -187,6 +187,8 @@ sudo nano verizon-r1.cfg
 
 <img width="987" height="211" alt="15" src="https://github.com/user-attachments/assets/3dec4292-4aaf-479b-a44d-2b7f859f32cf" />
 
+I change the **`check_command`** for **`DNS Resolution - comp-a-test`**:
+
 
 ---
 
