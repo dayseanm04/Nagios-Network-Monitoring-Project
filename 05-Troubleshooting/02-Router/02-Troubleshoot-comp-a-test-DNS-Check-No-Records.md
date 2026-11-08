@@ -130,6 +130,7 @@ The lookup takes 0.169 seconds, under the 0.5-second warning threshold.
 nslookup comp-a-test 192.168.1.1
 ```
 
+<img width="901" height="420" alt="13" src="https://github.com/user-attachments/assets/7da14943-d293-416c-b146-bc3c061e742c" />
 
 
 
