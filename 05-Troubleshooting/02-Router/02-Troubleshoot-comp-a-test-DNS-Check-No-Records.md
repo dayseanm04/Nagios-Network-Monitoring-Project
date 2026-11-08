@@ -88,6 +88,7 @@ I click **Apply**.
 
 ### From comp-a-test (Windows)
 
+**Reverse lookup.** I ask the router which name belongs to **`192.168.1.9`**:
 
 
 
