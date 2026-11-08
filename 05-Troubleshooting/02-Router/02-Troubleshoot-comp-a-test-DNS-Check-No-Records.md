@@ -132,6 +132,7 @@ nslookup comp-a-test 192.168.1.1
 
 <img width="901" height="420" alt="13" src="https://github.com/user-attachments/assets/7da14943-d293-416c-b146-bc3c061e742c" />
 
+The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it already had from NDP.
 
 
 
