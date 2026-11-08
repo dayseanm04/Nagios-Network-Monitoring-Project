@@ -193,6 +193,7 @@ I change the **`check_command`** for **`DNS Resolution - comp-a-test`**:
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+### Step 3 – Pre-flight check and restart
 
 ---
 
