@@ -144,6 +144,9 @@ The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it alread
 | A manual DNS entry doesn't update itself | If **`comp-a-test`**'s IP ever changes, I have to update this entry too, or the DNS check will catch it |
 | Running a DNS lookup on the machine you're looking up can mislead you | When testing from **`comp-a-test`** itself, Windows mixes in its own addresses. I'll confirm from another machine, like NetworkVM |
 
+---
+
+## Related Docs
 
 
 
