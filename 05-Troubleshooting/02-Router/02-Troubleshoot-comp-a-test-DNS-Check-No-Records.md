@@ -191,6 +191,9 @@ I change the **`check_command`** for **`DNS Resolution - comp-a-test`**:
 
 <img width="1030" height="726" alt="16" src="https://github.com/user-attachments/assets/bfbbcd38-da65-4731-8bf1-e9e7a2bc97ce" />
 
+Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
+
+
 ---
 
 ## Related Docs
