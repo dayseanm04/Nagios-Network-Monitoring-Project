@@ -98,5 +98,6 @@ nslookup 192.168.1.9
 
 The router (**`CR1000B.mynetworksettings.com`** at **`192.168.1.1`**) answers with **`comp-a-test`**.
 
+**Forward lookup in PowerShell:**
 
 
