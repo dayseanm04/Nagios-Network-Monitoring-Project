@@ -148,6 +148,7 @@ The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it alread
 
 ## Related Docs
 
+- [**04-Monitoring-Use-Cases / 02-Router / 03 – Add DNS Resolution Checks for Verizon-R1**](../../04-Monitoring-Use-Cases/02-Router/03-Add-DNS-Resolution-Checks-for-Verizon-R1.md)
 
 
 
