@@ -151,7 +151,4 @@ The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it alread
 - [**04-Monitoring-Use-Cases / 02-Router / 03 – Add DNS Resolution Checks for Verizon-R1**](../../04-Monitoring-Use-Cases/02-Router/03-Add-DNS-Resolution-Checks-for-Verizon-R1.md)
 - [**06-Testing-and-Validation / 12 – Validate Verizon-R1 DNS Resolution Checks**](../../06-Testing-and-Validation/12-Validate-Verizon-R1-DNS-Resolution-Checks.md)
 - [**05-Troubleshooting / 01-Windows-Host / 02 – Troubleshoot Windows Host Down and NCPA Services Unknown**](../01-Windows-Host/02-Troubleshoot-Windows-Host-Down-and-NCPA-Services-Unknown.md)
-
-
-
-
+- [**01 – Troubleshoot Verizon-R1 Stuck in Pending**](01-Troubleshoot-Verizon-R1-Stuck-in-Pending.md)
