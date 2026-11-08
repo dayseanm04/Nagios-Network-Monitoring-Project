@@ -100,4 +100,6 @@ The router (**`CR1000B.mynetworksettings.com`** at **`192.168.1.1`**) answers wi
 
 **Forward lookup in PowerShell:**
 
-
+```powershell
+Resolve-DnsName comp-a-test -Server 192.168.1.1 -Type A
+```
