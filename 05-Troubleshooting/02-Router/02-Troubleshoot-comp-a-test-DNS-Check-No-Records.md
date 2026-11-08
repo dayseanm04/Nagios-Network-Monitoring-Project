@@ -70,6 +70,7 @@ I click **Network Settings** → **DNS Server**.
 
 Since **`comp-a-test`** will keep its static IP, I configured a DNS record for it.
 
+On the **DNS Server** page, I click **Add DNS Entry**:
 
 
 
