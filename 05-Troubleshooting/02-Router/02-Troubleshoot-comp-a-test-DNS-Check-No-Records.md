@@ -126,7 +126,9 @@ The lookup takes 0.169 seconds, under the 0.5-second warning threshold.
 
 ### From NetworkVM
 
-
+```bash
+nslookup comp-a-test 192.168.1.1
+```
 
 
 
