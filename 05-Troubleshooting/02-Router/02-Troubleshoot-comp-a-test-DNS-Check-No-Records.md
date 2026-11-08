@@ -29,3 +29,5 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 | Performance Data | Empty. No lookup succeeded, so there was nothing to time |
 | `DNS Resolution google.com` | **OK** on the same router at the same time |
 
+**What this tells me:**
+
