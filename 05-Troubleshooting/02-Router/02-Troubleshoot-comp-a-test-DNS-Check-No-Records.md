@@ -179,7 +179,11 @@ The wrong-IP test is the important one. An OK alone doesn't prove **`-a`** is wo
 
 ### Step 2 – Update the check_command
 
-
+```bash
+cd /usr/local/nagios/etc/routers
+ls -l
+sudo nano verizon-r1.cfg
+```
 
 ---
 
