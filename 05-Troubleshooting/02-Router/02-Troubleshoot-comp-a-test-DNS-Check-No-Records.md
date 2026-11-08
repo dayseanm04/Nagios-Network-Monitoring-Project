@@ -168,6 +168,12 @@ The **`-w 0.5 -c 1`** thresholds still worked, so the check looked fine. It coul
 
 Before changing the config, I run **`check_dns`** by hand twice: once with the right IP, and once with a wrong one.
 
+```bash
+/usr/local/nagios/libexec/check_dns -H comp-a-test -s 192.168.1.1 -a 192.168.1.9 -w 0.5 -c 1
+/usr/local/nagios/libexec/check_dns -H comp-a-test -s 192.168.1.1 -a 192.168.1.99 -w 0.5 -c 1
+```
+
+
 ---
 
 ## Related Docs
