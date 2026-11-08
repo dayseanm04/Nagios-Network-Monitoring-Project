@@ -25,3 +25,5 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 | Where | What it showed |
 |---|---|
 | Current Status | **CRITICAL** (HARD state, 2/2) |
+| Status Information | **`DNS 192.168.1.1 has no records`** |
+
