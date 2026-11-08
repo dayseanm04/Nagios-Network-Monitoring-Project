@@ -68,6 +68,7 @@ I click **Network Settings** → **DNS Server**.
 
 ## Resolution
 
+Since **`comp-a-test`** will keep its static IP, I configured a DNS record for it.
 
 
 
