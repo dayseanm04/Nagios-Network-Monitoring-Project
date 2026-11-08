@@ -112,6 +112,7 @@ Resolve-DnsName comp-a-test -Server 192.168.1.1 -Type A
 
 ### From Nagios
 
+After shutting down the VM and restarting **`comp-a-test`**, I log in to Nagios and click **Services**.
 
 
 
