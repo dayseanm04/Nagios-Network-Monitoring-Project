@@ -80,6 +80,7 @@ I click **Apply**.
 
 **`comp-a-test`** now has an IPv4 record for **`192.168.1.9`** with the source **Manually**.
 
+> **Why not switch back to DHCP?** The static IP is what keeps **`comp-a-test`** at **`192.168.1.9`** when its MAC address changes. Going back to DHCP would bring back the earlier problem.
 
 
 
