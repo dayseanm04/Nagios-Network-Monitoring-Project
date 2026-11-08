@@ -141,6 +141,7 @@ The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it alread
 | Lesson | What I'll do |
 |---|---|
 | A static IP means the router never learns the device's name | Whenever I give a device a static IP, I'll also add a manual DNS entry on the router |
+| A manual DNS entry doesn't update itself | If **`comp-a-test`**'s IP ever changes, I have to update this entry too, or the DNS check will catch it |
 
 
 
