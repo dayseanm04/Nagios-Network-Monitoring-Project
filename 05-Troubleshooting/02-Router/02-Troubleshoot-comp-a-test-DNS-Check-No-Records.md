@@ -120,6 +120,7 @@ After shutting down the VM and restarting **`comp-a-test`**, I log in to Nagios 
 
 <img width="1032" height="834" alt="12" src="https://github.com/user-attachments/assets/f5e1e472-61cf-4a6b-b4d7-bbb62651512e" />
 
+The lookup takes 0.169 seconds, under the 0.5-second warning threshold.
 
 
 
