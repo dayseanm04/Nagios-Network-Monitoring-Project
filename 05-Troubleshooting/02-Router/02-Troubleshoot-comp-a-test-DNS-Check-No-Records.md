@@ -148,6 +148,8 @@ The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it alread
 
 ## Follow-Up Fix – Check the Expected IP
 
+The check was OK, but it wasn't checking what I meant it to. Its **`notes`** say **`comp-a-test`** must resolve to **`192.168.1.9`**, but the original **`check_command`** never checked the IP.
+
 ---
 
 ## Related Docs
