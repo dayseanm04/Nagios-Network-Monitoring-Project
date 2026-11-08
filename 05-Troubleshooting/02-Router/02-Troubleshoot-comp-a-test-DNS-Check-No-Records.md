@@ -47,6 +47,7 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 
 ## Troubleshooting Steps Taken
 
+### Step 1 – Check the router's DNS records
 
 
 
