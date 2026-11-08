@@ -157,6 +157,9 @@ Before:  check_dns_server!comp-a-test 192.168.1.9 -w 0.5 -c 1
 After:   check_dns_server!comp-a-test!-a 192.168.1.9 -w 0.5 -c 1
 ```
 
+| Problem | Effect |
+|---|---|
+
 
 ---
 
