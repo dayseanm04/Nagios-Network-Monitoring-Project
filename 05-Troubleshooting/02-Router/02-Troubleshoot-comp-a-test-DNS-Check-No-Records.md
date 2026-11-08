@@ -201,6 +201,7 @@ sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
 
 <img width="1033" height="763" alt="17" src="https://github.com/user-attachments/assets/7bf507a5-380a-4009-95a6-4e19ae708f76" />
 
+Still **21 services**, **0 warnings**, **0 errors**. I only changed a line, I didn't add a service.
 
 
 
