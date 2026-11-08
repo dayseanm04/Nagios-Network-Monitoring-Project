@@ -108,6 +108,7 @@ Resolve-DnsName comp-a-test -Server 192.168.1.1 -Type A
 
 **`192.168.1.9`** is in the results.
 
+> This returned four addresses: **`192.168.1.9`**, **`169.254.20.194`**, **`172.20.144.1`**, and **`192.168.56.1`**. Only **`192.168.1.9`** comes from the router. The router's DNS Server page has only that one IPv4 record for **`comp-a-test`**, and the lookup from NetworkVM below returns only **`192.168.1.9`**. The other three are **`comp-a-test`**'s own virtual adapters. Because I ran the command on **`comp-a-test`** itself, Windows added its own addresses.
 
 
 
