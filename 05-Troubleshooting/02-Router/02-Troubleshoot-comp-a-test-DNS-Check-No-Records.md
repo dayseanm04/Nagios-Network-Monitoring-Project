@@ -76,6 +76,8 @@ On the **DNS Server** page, I click **Add DNS Entry**:
 
 I click **Apply**.
 
+<img width="949" height="675" alt="7" src="https://github.com/user-attachments/assets/aa21f064-2958-4794-a12b-d7d30515a6de" />
+
 
 
 
