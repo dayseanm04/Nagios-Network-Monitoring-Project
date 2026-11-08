@@ -60,6 +60,7 @@ I click **Network Settings** → **DNS Server**.
 | Device | IPv4 record? | Source |
 |---|---|---|
 | iPad, iPhone, other devices | Yes (e.g. `192.168.1.16`, `192.168.1.21`) | **DHCP** |
+| **`comp-a-test`** | ❌ **No**. Only IPv6 addresses | **NDP** |
 
 
 
