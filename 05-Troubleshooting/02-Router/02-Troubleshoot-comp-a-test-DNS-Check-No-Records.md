@@ -90,7 +90,7 @@ I click **Apply**.
 
 **Reverse lookup.** I ask the router which name belongs to **`192.168.1.9`**:
 
-<img width="676" height="219" alt="8" src="https://github.com/user-attachments/assets/68d62111-5e7d-453d-ab71-68c6440d92a0" />
+<img width="680" height="223" alt="Screenshot 2026-11-06 214336" src="https://github.com/user-attachments/assets/0cd7c2d2-354f-448c-8bc2-a721ea27ae91" />
 
 
 
