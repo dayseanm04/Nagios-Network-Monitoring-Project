@@ -213,7 +213,7 @@ Still **21 services**, **0 warnings**, **0 errors**. I only changed a line, I di
 
 **Result:** ✅ The check is OK and now confirms **`comp-a-test`** resolves to **`192.168.1.9`**.
 
-
+> The output looks the same as before the fix, because **`check_dns`** doesn't say when it's comparing against an expected IP. The wrong-IP test in Step 1 is my proof that it is.
 
 
 
