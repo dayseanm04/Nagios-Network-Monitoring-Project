@@ -152,6 +152,12 @@ The check was OK, but it wasn't checking what I meant it to. Its **`notes`** say
 
 ### What was wrong
 
+```
+Before:  check_dns_server!comp-a-test 192.168.1.9 -w 0.5 -c 1
+After:   check_dns_server!comp-a-test!-a 192.168.1.9 -w 0.5 -c 1
+```
+
+
 ---
 
 ## Related Docs
