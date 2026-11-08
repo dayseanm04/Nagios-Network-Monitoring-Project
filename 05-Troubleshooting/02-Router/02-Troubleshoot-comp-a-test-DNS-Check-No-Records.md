@@ -53,6 +53,7 @@ The CRITICAL says the router has no record, so I checked what the router actuall
 
 <img width="1069" height="684" alt="4" src="https://github.com/user-attachments/assets/fd718a20-62b2-40b5-97c4-f663bf041c7a" />
 
+I click **Network Settings** → **DNS Server**.
 
 
 
