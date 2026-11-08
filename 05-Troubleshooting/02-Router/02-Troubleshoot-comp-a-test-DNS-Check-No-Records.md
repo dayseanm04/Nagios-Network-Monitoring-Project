@@ -27,4 +27,5 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 | Current Status | **CRITICAL** (HARD state, 2/2) |
 | Status Information | **`DNS 192.168.1.1 has no records`** |
 | Performance Data | Empty. No lookup succeeded, so there was nothing to time |
+| `DNS Resolution google.com` | **OK** on the same router at the same time |
 
