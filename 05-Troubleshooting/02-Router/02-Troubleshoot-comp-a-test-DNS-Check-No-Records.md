@@ -34,3 +34,6 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 - The router's DNS service works, because google.com resolves.
 - The problem is specific to the name **`comp-a-test`**: the router doesn't have a record for it.
 
+---
+
+## Impact
