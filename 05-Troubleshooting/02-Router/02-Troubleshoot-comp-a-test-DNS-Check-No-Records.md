@@ -9,3 +9,5 @@ Troubleshooting record for the **`DNS Resolution - comp-a-test`** service on **`
 ---
 
 ## Problem Description
+
+After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**, it went **CRITICAL**. The **`DNS Resolution google.com`** service on the same router was **OK** at the same time.
