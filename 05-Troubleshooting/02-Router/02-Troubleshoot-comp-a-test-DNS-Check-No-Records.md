@@ -116,6 +116,7 @@ After shutting down the VM and restarting **`comp-a-test`**, I log in to Nagios 
 
 <img width="876" height="591" alt="10" src="https://github.com/user-attachments/assets/d700580f-dd05-43d9-9767-459d7113dbbe" />
 
+<img width="1031" height="802" alt="11" src="https://github.com/user-attachments/assets/bb359d46-cbed-4f83-9a38-57e53e12865d" />
 
 
 
