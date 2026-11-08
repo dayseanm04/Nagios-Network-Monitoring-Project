@@ -175,6 +175,9 @@ I add a second DNS service below the first:
 
 **Why check a local name?** The google.com check proves the router can reach the internet's DNS. It doesn't prove the router knows the devices on my own network. 
 
+> **Update:** This **`check_command`** had a mistake. With no **`!`** after **`comp-a-test`** and no **`-a`** before **`192.168.1.9`**, the check never compared the answer to the expected IP. I fixed it to **`check_dns_server!comp-a-test!-a 192.168.1.9 -w 0.5 -c 1`**. [**Click here to see the check_command fix**](../../05-Troubleshooting/02-Router/02-Troubleshoot-comp-a-test-DNS-Check-No-Records.md#follow-up-fix--check-the-expected-ip)
+
+
 Checking the expected IP matters here, because I've had **`comp-a-test`**'s IP change before (see [**Troubleshoot Windows Host Down and NCPA Services Unknown**](../../05-Troubleshooting/01-Windows-Host/02-Troubleshoot-Windows-Host-Down-and-NCPA-Services-Unknown.md)). A wrong answer is a problem too, not just no answer.
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
@@ -182,8 +185,6 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 **`DNS Resolution - comp-a-test`** service in **`verizon-r1.cfg`**
 
 <img width="940" height="679" alt="11.1" src="https://github.com/user-attachments/assets/ba908b37-d388-4dc0-bbd7-0d63c839798c" />
-
-> **Update:** This **`check_command`** had a mistake. With no **`!`** after **`comp-a-test`** and no **`-a`** before **`192.168.1.9`**, the check never compared the answer to the expected IP. I fixed it to **`check_dns_server!comp-a-test!-a 192.168.1.9 -w 0.5 -c 1`**. [**Click here to see the check_command fix**](../../05-Troubleshooting/02-Router/02-Troubleshoot-comp-a-test-DNS-Check-No-Records.md#follow-up-fix--check-the-expected-ip)
 
 
 ---
