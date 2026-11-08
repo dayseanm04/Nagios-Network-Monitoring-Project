@@ -62,6 +62,7 @@ I click **Network Settings** → **DNS Server**.
 | iPad, iPhone, other devices | Yes (e.g. `192.168.1.16`, `192.168.1.21`) | **DHCP** |
 | **`comp-a-test`** | ❌ **No**. Only IPv6 addresses | **NDP** |
 
+**Finding:** The router knows the name **`comp-a-test`**, but only with IPv6 addresses. There's no IPv4 record pointing to **`192.168.1.9`**. **`check_dns`** asks for an IPv4 address, so the router had nothing to give back.
 
 
 
