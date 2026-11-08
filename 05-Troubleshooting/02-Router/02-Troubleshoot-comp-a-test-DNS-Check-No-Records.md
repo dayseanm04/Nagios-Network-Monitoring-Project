@@ -66,6 +66,7 @@ I click **Network Settings** → **DNS Server**.
 
 ---
 
+## Resolution
 
 
 
