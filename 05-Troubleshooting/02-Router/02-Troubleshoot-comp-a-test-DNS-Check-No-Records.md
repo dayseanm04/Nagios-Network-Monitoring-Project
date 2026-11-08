@@ -106,6 +106,7 @@ Resolve-DnsName comp-a-test -Server 192.168.1.1 -Type A
 
 <img width="903" height="337" alt="9" src="https://github.com/user-attachments/assets/f16e23bb-962c-40c7-b294-f52d284269b1" />
 
+**`192.168.1.9`** is in the results.
 
 
 
