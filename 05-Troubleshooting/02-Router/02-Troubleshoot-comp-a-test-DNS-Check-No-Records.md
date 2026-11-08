@@ -207,6 +207,14 @@ Still **21 services**, **0 warnings**, **0 errors**. I only changed a line, I di
 
 ### Step 4 – Verify in Nagios
 
+<img width="1030" height="796" alt="19" src="https://github.com/user-attachments/assets/4bbf2883-81e9-4ce0-b5d4-369a382fb383" />
+
+
+
+
+
+
+
 
 
 
