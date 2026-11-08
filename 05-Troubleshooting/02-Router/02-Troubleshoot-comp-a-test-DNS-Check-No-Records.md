@@ -143,6 +143,7 @@ The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it alread
 | A static IP means the router never learns the device's name | Whenever I give a device a static IP, I'll also add a manual DNS entry on the router |
 | A manual DNS entry doesn't update itself | If **`comp-a-test`**'s IP ever changes, I have to update this entry too, or the DNS check will catch it |
 | Running a DNS lookup on the machine you're looking up can mislead you | When testing from **`comp-a-test`** itself, Windows mixes in its own addresses. I'll confirm from another machine, like NetworkVM |
+| A check passing doesn't mean it's checking the right thing | When a check uses options like **`-a`**, I'll test it with a value I know is wrong to make sure it actually goes CRITICAL |
 
 ---
 
@@ -214,11 +215,6 @@ Still **21 services**, **0 warnings**, **0 errors**. I only changed a line, I di
 **Result:** ✅ The check is OK and now confirms **`comp-a-test`** resolves to **`192.168.1.9`**.
 
 > The output looks the same as before the fix, because **`check_dns`** doesn't say when it's comparing against an expected IP. The wrong-IP test in Step 1 is my proof that it is.
-
-
-
-
-
 
 ---
 
