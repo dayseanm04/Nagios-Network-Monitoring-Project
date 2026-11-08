@@ -138,7 +138,8 @@ The router returns **`192.168.1.9`** for IPv4, plus the IPv6 addresses it alread
 
 ## Lessons Learned and Prevention
 
-
+| Lesson | What I'll do |
+|---|---|
 
 
 
