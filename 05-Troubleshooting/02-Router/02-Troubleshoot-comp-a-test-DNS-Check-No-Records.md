@@ -51,6 +51,7 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 
 The CRITICAL says the router has no record, so I checked what the router actually has. I log in to the router at **`https://192.168.1.1`** and click **Advanced**.
 
+<img width="1069" height="684" alt="4" src="https://github.com/user-attachments/assets/fd718a20-62b2-40b5-97c4-f663bf041c7a" />
 
 
 
