@@ -49,6 +49,7 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 
 ### Step 1 – Check the router's DNS records
 
+The CRITICAL says the router has no record, so I checked what the router actually has. I log in to the router at **`https://192.168.1.1`** and click **Advanced**.
 
 
 
