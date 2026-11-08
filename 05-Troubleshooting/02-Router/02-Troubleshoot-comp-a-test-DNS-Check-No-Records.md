@@ -78,6 +78,8 @@ I click **Apply**.
 
 <img width="949" height="675" alt="7" src="https://github.com/user-attachments/assets/aa21f064-2958-4794-a12b-d7d30515a6de" />
 
+**`comp-a-test`** now has an IPv4 record for **`192.168.1.9`** with the source **Manually**.
+
 
 
 
