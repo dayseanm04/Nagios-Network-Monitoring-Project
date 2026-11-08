@@ -24,3 +24,4 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 
 | Where | What it showed |
 |---|---|
+| Current Status | **CRITICAL** (HARD state, 2/2) |
