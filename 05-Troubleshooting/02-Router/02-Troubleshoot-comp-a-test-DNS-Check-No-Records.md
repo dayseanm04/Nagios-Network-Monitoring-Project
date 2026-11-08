@@ -92,7 +92,9 @@ I click **Apply**.
 
 <img width="680" height="223" alt="Screenshot 2026-11-06 214336" src="https://github.com/user-attachments/assets/0cd7c2d2-354f-448c-8bc2-a721ea27ae91" />
 
-
+```cmd
+nslookup 192.168.1.9
+```
 
 
 
