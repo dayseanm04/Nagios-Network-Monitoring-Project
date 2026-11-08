@@ -195,6 +195,14 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ### Step 3 – Pre-flight check and restart
 
+```bash
+sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+```
+
+
+
+
+
 ---
 
 ## Related Docs
