@@ -164,6 +164,9 @@ After:   check_dns_server!comp-a-test!-a 192.168.1.9 -w 0.5 -c 1
 
 The **`-w 0.5 -c 1`** thresholds still worked, so the check looked fine. It could go CRITICAL if the name didn't resolve or the lookup was slow, but **not** if the router returned the wrong IP.
 
+### Step 1 – Test the fix from the command line
+
+Before changing the config, I run **`check_dns`** by hand twice: once with the right IP, and once with a wrong one.
 
 ---
 
