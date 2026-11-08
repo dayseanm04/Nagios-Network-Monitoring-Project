@@ -162,6 +162,8 @@ After:   check_dns_server!comp-a-test!-a 192.168.1.9 -w 0.5 -c 1
 | No **`!`** after **`comp-a-test`** | Nagios put the whole string, **`comp-a-test 192.168.1.9 -w 0.5 -c 1`**, into **`$ARG1$`**. Nothing went into **`$ARG2$`** |
 | No **`-a`** before **`192.168.1.9`** | **`check_dns`** didn't know **`192.168.1.9`** was the expected answer, so it ignored it |
 
+The **`-w 0.5 -c 1`** thresholds still worked, so the check looked fine. It could go CRITICAL if the name didn't resolve or the lookup was slow, but **not** if the router returned the wrong IP.
+
 
 ---
 
