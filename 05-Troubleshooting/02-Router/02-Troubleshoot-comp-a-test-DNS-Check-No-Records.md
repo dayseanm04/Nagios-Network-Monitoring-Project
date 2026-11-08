@@ -41,6 +41,7 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 | Area | Impact |
 |---|---|
 | Nagios monitoring of `comp-a-test` | None. Nagios checks **`comp-a-test`** by IP (**`192.168.1.9`**), not by name, so its host and NCPA checks kept working |
+| DNS check | **CRITICAL** and sending alerts |
 
 
 
