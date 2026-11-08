@@ -37,3 +37,32 @@ After adding the **`DNS Resolution - comp-a-test`** service to **`verizon-r1`**,
 ---
 
 ## Impact
+
+| Area | Impact |
+|---|---|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
