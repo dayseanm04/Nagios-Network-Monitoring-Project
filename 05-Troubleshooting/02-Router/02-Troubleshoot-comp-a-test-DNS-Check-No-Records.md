@@ -177,6 +177,9 @@ Before changing the config, I run **`check_dns`** by hand twice: once with the r
 
 The wrong-IP test is the important one. An OK alone doesn't prove **`-a`** is working. Getting CRITICAL with a wrong IP proves the check really compares the answer.
 
+### Step 2 – Update the check_command
+
+
 
 ---
 
