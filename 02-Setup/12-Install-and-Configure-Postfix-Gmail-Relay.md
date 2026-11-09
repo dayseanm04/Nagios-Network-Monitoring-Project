@@ -53,6 +53,7 @@ During install, Postfix asks a few questions:
 |---|---|---|
 | General mail configuration type | **Satellite system** | Sends all mail to one relay server and doesn't receive mail from outside |
 | System mail name | **`NetworkVM`** | Used for local addresses like **`nagios@NetworkVM`** |
+| SMTP relay host | **`[smtp.gmail.com]:587`** | Where all outgoing mail goes |
 
 
 
