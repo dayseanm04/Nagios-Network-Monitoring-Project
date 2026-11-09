@@ -66,6 +66,7 @@ The output shows Postfix set **`relayhost`** to **`[smtp.gmail.com]:587`** and *
 
 I use **`postconf -e`** to write each setting into **`/etc/postfix/main.cf`**, which avoids typos from editing the file by hand:
 
+<img width="918" height="326" alt="5" src="https://github.com/user-attachments/assets/68683476-0da9-47c4-937c-305105ce503f" />
 
 
 
