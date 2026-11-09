@@ -97,6 +97,7 @@ postconf smtp_tls_CApath smtp_tls_CAfile
 sudo nano /etc/postfix/sasl_passwd
 ```
 
+<img width="968" height="167" alt="7" src="https://github.com/user-attachments/assets/b34d8961-b752-46c4-b4a5-fd91e929ddc5" />
 
 
 
