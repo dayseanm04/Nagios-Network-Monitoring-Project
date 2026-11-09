@@ -38,6 +38,7 @@ ls -l /bin/mail
 3. The message is piped into **`/bin/mail`** with a subject line.
 4. It's sent to **`$CONTACTEMAIL$`**, the **`email`** field of the contact being notified.
 
+When I compiled Nagios, **`mail`** wasn't installed, so the build used **`/bin/mail`** by default. Now that **`mailutils`** is installed, **`/bin/mail`** exists. It's a link to **`/etc/alternatives/mail`**, which points to the **`mailutils`** version.
 
 
 
