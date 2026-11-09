@@ -33,3 +33,4 @@ sudo apt install postfix mailutils libsasl2-modules
 
 | Package | Why I need it |
 |---|---|
+| **`postfix`** | The mail server that relays my mail to Gmail |
