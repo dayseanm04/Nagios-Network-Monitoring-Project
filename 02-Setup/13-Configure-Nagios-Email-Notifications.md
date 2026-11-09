@@ -77,5 +77,7 @@ grep -n "^enable_notifications" /usr/local/nagios/etc/nagios.cfg
 
 ---
 
+## Step 4 – Pre-Flight Check and Reload
+
 
 
