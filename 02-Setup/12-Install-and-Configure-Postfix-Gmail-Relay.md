@@ -19,3 +19,7 @@ This is part 2 of setting up email notifications:
 ```
 Nagios → /bin/mail → Postfix (NetworkVM) → smtp.gmail.com:587 (login + TLS) → my inbox
 ```
+
+Postfix **relays** the mail: it logs in to Gmail on port **587** with the app password, and Gmail delivers it. 
+
+
