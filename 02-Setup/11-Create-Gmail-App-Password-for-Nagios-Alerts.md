@@ -45,6 +45,7 @@ I set up an **authenticator** app:
 
 <img width="963" height="732" alt="6" src="https://github.com/user-attachments/assets/7922fb08-7eee-47b4-80f7-f8779a721489" />
 
+Then I add a phone number and click **Turn on 2-Step Verification**.
 
 
 
