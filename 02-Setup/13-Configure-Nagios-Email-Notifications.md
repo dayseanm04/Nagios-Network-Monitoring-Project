@@ -79,5 +79,22 @@ grep -n "^enable_notifications" /usr/local/nagios/etc/nagios.cfg
 
 ## Step 4 – Pre-Flight Check and Reload
 
+<img width="982" height="847" alt="5" src="https://github.com/user-attachments/assets/d893cdc2-8c99-4613-9e69-ec73bc497518" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
