@@ -56,6 +56,7 @@ I change **`email`** from **`nagios@localhost`** to my personal email:
 
 | Field | Value | Why |
 |---|---|---|
+| **`email`** | My personal Gmail | Where alerts are **delivered**. It's not the alerts account, which only **sends** |
 
 
 
