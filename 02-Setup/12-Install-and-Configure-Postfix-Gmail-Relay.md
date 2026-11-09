@@ -113,7 +113,8 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 <img width="956" height="532" alt="8" src="https://github.com/user-attachments/assets/39b96458-2561-458e-9222-f65cb8bec8b2" />
 
-
+| Command | Why |
+|---|---|
 
 
 
