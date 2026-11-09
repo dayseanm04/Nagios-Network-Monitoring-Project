@@ -73,6 +73,7 @@ Google shows the 16-character code **once**. I copy it and click **Done**.
 
 The alerts Gmail account has 2-Step Verification on and an app password named **`NagiosVM-Nagios`**. Next, Postfix uses this password to send mail through Gmail.
 
+**Next:** [**12 – Install and Configure Postfix to Relay Through Gmail**](12-Install-and-Configure-Postfix-Gmail-Relay.md)
 
 
 
