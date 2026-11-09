@@ -43,4 +43,33 @@ sudo apt install postfix mailutils libsasl2-modules
 
 During install, Postfix asks a few questions:
 
+<img width="1023" height="789" alt="1" src="https://github.com/user-attachments/assets/397cb69f-06e7-47ae-b1da-b33cbe091b63" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
