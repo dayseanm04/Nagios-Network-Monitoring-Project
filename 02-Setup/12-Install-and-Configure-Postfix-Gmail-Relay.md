@@ -77,7 +77,7 @@ I use **`postconf -e`** to write each setting into **`/etc/postfix/main.cf`**, w
 | **`smtp_tls_security_level = encrypt`** | Requires TLS. If encryption fails, Postfix won't send, so the password never crosses the network in plain text |
 | **`inet_interfaces = loopback-only`** | Postfix only listens on **`127.0.0.1`**, so nothing else on my network can use NetworkVM to send mail |
 
-
+### Check the CA certificates
 
 
 
