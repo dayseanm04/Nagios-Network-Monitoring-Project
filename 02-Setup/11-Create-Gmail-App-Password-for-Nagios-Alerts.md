@@ -57,5 +57,30 @@ Then I add a phone number and click **Turn on 2-Step Verification**.
 
 I go to **`myaccount.google.com/apppasswords`**, name it **`NagiosVM-Nagios`**, and click **Create**.
 
+<img width="900" height="635" alt="9" src="https://github.com/user-attachments/assets/d37adf55-f8e1-4a92-aa79-41d7fbd285af" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
