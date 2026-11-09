@@ -31,6 +31,7 @@ ls -l /bin/mail
 
 <img width="1027" height="528" alt="1" src="https://github.com/user-attachments/assets/73a7125a-7dc0-43ce-8dd8-06ac3225fdf8" />
 
+**How they work:**
 
 
 
