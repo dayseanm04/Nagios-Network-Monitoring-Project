@@ -61,6 +61,8 @@ I change **`email`** from **`nagios@localhost`** to my personal email:
 
 Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
+I don't need to change any templates. My host and service templates already notify the **`admins`** contact group, and **`nagiosadmin`** is in it.
+
 
 
 
