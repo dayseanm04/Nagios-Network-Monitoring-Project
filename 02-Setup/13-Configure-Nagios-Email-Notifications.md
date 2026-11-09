@@ -21,3 +21,5 @@ Before this, Nagios was already "sending" notifications, but they went to **`nag
 ---
 
 ## Step 1 – Check the Email Commands
+
+Nagios comes with two email commands in **`commands.cfg`**: **`notify-host-by-email`** and **`notify-service-by-email`**.
