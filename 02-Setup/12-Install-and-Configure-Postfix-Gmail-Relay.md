@@ -58,6 +58,7 @@ During install, Postfix asks a few questions:
 
 <img width="1024" height="811" alt="4" src="https://github.com/user-attachments/assets/f03b23c5-4c39-4164-a8e4-49d0c7fe64ff" />
 
+The output shows Postfix set **`relayhost`** to **`[smtp.gmail.com]:587`** and **`inet_interfaces`** to **`loopback-only`** for me. 
 
 
 
