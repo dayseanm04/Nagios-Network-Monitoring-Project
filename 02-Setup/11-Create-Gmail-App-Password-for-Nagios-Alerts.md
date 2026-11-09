@@ -8,3 +8,4 @@ This is part 1 of setting up email notifications:
 |---|---|
 | **1** | **11 – Create a Gmail App Password for Nagios Alerts** (this doc) |
 | 2 | [**12 – Install and Configure Postfix to Relay Through Gmail**](12-Install-and-Configure-Postfix-Gmail-Relay.md) |
+| 3 | [**13 – Configure Nagios Email Notifications**](13-Configure-Nagios-Email-Notifications.md) |
