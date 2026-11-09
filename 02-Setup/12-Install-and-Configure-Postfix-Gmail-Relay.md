@@ -24,3 +24,4 @@ Postfix **relays** the mail: it logs in to Gmail on port **587** with the app pa
 
 ---
 
+## Step 1 – Install the Packages
