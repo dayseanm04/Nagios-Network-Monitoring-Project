@@ -71,6 +71,7 @@ I use **`postconf -e`** to write each setting into **`/etc/postfix/main.cf`**, w
 | Setting | What it does |
 |---|---|
 | **`relayhost = [smtp.gmail.com]:587`** | Send all mail to Gmail's SMTP server on port 587. The **square brackets** tell Postfix to connect to that exact host instead of looking up its MX record |
+| **`smtp_sasl_auth_enable = yes`** | Turns on logging in to the relay. SASL is the login part of SMTP |
 
 
 
