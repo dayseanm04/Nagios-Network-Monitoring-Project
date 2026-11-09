@@ -43,6 +43,7 @@ I set up an **authenticator** app:
 
 <img width="1023" height="615" alt="5" src="https://github.com/user-attachments/assets/9785e693-56ec-4e65-a853-896cdc2a4d9d" />
 
+<img width="963" height="732" alt="6" src="https://github.com/user-attachments/assets/7922fb08-7eee-47b4-80f7-f8779a721489" />
 
 
 
