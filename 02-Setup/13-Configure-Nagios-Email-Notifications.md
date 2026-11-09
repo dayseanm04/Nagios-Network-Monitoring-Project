@@ -13,3 +13,5 @@ This is part 3 of setting up email notifications:
 > **Testing and validation:** [**Click here to see the Nagios email notification validation**](../06-Testing-and-Validation/14-Validate-Nagios-Email-Notifications.md)
 
 ---
+
+## Why This Matters
