@@ -71,6 +71,7 @@ I don't need to change any templates. My host and service templates already noti
 grep -n "^enable_notifications" /usr/local/nagios/etc/nagios.cfg
 ```
 
+<img width="793" height="181" alt="4" src="https://github.com/user-attachments/assets/7ba26315-30c8-4de5-a859-9e0e128bf331" />
 
 
 
