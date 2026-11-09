@@ -79,6 +79,7 @@ I use **`postconf -e`** to write each setting into **`/etc/postfix/main.cf`**, w
 
 ### Check the CA certificates
 
+Postfix needs to know where the certificates are to verify it's really talking to Gmail:
 
 
 
