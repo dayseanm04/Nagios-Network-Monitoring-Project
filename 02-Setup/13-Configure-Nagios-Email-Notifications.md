@@ -100,6 +100,7 @@ sudo systemctl reload nagios
 
 - [**06-Testing-and-Validation / 14 – Validate Nagios Email Notifications**](../06-Testing-and-Validation/14-Validate-Nagios-Email-Notifications.md)
 - [**12 – Install and Configure Postfix to Relay Through Gmail**](12-Install-and-Configure-Postfix-Gmail-Relay.md)
+- [**07-Help / 09 – Nagios Contact and Contact Group Templates Explained**](../07-Help/09-Nagios-Contact-and-Contact-Group-Templates-Explained.md)
 
 
 
