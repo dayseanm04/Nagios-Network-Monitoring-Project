@@ -62,6 +62,7 @@ The output shows Postfix set **`relayhost`** to **`[smtp.gmail.com]:587`** and *
 
 ---
 
+## Step 3 – Configure Postfix to Log In to Gmail
 
 
 
