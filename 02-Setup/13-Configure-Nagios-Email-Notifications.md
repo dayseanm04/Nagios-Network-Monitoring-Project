@@ -50,6 +50,7 @@ sudo nano /usr/local/nagios/etc/objects/contacts.cfg
 
 <img width="971" height="752" alt="2" src="https://github.com/user-attachments/assets/1241ff21-c44e-45a7-9712-a93fc1596618" />
 
+I change **`email`** from **`nagios@localhost`** to my personal email:
 
 
 
