@@ -34,6 +34,7 @@ ls -l /bin/mail
 **How they work:**
 
 1. **`printf`** builds the message body.
+2. Nagios fills in the **`$MACROS$`**: the host, state, plugin output, and date.
 
 
 
