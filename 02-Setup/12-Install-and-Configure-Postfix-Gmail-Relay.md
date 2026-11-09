@@ -121,6 +121,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 **`ls -l`** confirms both files are **`-rw-------`** and owned by **`root`**.
 
+---
 
 
 
