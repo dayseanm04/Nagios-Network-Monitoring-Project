@@ -109,4 +109,6 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ---
 
+## Step 5 – Lock Down the File and Build the Lookup Table
+
 
