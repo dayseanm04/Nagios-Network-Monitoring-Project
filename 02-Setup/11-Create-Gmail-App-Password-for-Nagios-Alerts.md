@@ -32,6 +32,7 @@ Postfix logs in to Gmail to send mail, but Gmail won't accept a normal password 
 
 App passwords only exist when 2-Step Verification is on.
 
+In the alerts account, I click **Security** (Sign-in & security) → **2-Step Verification**.
 
 
 
