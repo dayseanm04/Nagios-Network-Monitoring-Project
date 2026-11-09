@@ -25,5 +25,7 @@ Postfix logs in to Gmail to send mail, but Gmail won't accept a normal password 
 
 ### Iver created a new gmail account for sending alerts
 
+<img width="1022" height="478" alt="1" src="https://github.com/user-attachments/assets/1a0b983d-ed97-4f50-8e22-4dd844273ded" />
+
 
 ## Step 1 – Turn On 2-Step Verification
