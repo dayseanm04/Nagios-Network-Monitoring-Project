@@ -20,3 +20,4 @@ Postfix logs in to Gmail to send mail, but Gmail won't accept a normal password 
 
 | Account | Job |
 |---|---|
+| Alerts Gmail (**`…alerts@gmail.com`**) | **Sends** the alerts. Postfix logs in as this account |
