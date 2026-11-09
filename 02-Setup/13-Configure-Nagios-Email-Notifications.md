@@ -94,7 +94,7 @@ sudo systemctl reload nagios
 
 **`nagiosadmin`**'s email now points to my personal inbox, notifications are on, and the config passes the pre-flight check. When a host or service has a problem, Nagios sends the alert to **`/bin/mail`**, Postfix relays it through Gmail, and it lands in my inbox.
 
-
+---
 
 
 
