@@ -119,6 +119,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 | **`postmap`** | Builds **`sasl_passwd.db`**, the version Postfix actually reads (that's what **`hash:`** means). **I have to run it again every time I edit `sasl_passwd`** |
 | **`systemctl restart postfix`** | Loads the new settings |
 
+**`ls -l`** confirms both files are **`-rw-------`** and owned by **`root`**.
 
 
 
