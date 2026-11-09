@@ -19,3 +19,5 @@ This is part 3 of setting up email notifications:
 Before this, Nagios was already "sending" notifications, but they went to **`nagios@localhost`** and stayed on the VM. In [**Troubleshoot Windows Host Down and NCPA Services Unknown**](../05-Troubleshooting/01-Windows-Host/02-Troubleshoot-Windows-Host-Down-and-NCPA-Services-Unknown.md), **`comp-a-test`** was down for hours and I never got an alert. This fixes that.
 
 ---
+
+## Step 1 – Check the Email Commands
