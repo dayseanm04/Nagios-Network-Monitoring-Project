@@ -59,6 +59,7 @@ I change **`email`** from **`nagios@localhost`** to my personal email:
 | **`email`** | My personal Gmail | Where alerts are **delivered**. It's not the alerts account, which only **sends** |
 | **`use generic-contact`** | (unchanged) | Gives this contact 24x7 notifications, the email commands, and the notification options. See [**07-Help / 09 – Nagios Contact and Contact Group Templates**](../07-Help/09-Nagios-Contact-and-Contact-Group-Templates-Explained.md) |
 
+Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 
 
