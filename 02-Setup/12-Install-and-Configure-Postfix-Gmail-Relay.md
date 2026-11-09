@@ -133,6 +133,7 @@ Postfix is installed as a **satellite system** that relays all mail through **`s
 
 ## Related Docs
 
+- [**06-Testing-and-Validation / 13 – Validate Postfix Gmail Relay**](../06-Testing-and-Validation/13-Validate-Postfix-Gmail-Relay.md)
 
 
 
