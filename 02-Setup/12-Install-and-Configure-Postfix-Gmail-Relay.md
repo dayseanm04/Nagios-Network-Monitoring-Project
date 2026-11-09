@@ -15,3 +15,7 @@ This is part 2 of setting up email notifications:
 ---
 
 ## How the Mail Gets Sent
+
+```
+Nagios → /bin/mail → Postfix (NetworkVM) → smtp.gmail.com:587 (login + TLS) → my inbox
+```
