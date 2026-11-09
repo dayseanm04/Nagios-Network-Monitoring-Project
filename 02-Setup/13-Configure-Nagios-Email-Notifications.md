@@ -88,7 +88,7 @@ grep -n "^enable_notifications" /usr/local/nagios/etc/nagios.cfg
 sudo systemctl reload nagios
 ```
 
-
+---
 
 
 
