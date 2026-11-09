@@ -67,6 +67,7 @@ Google shows the 16-character code **once**. I copy it and click **Done**.
 
 > **Security:** I covered the code in every screenshot. Anyone with it can sign in to the alerts account. If it's ever exposed, I delete it on this page and create a new one.
 
+---
 
 
 
