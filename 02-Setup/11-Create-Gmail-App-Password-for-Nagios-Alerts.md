@@ -63,6 +63,7 @@ Google shows the 16-character code **once**. I copy it and click **Done**.
 
 <img width="892" height="692" alt="10" src="https://github.com/user-attachments/assets/561e7b61-cfc6-4f67-a648-1045778fa5a6" />
 
+<img width="882" height="618" alt="11" src="https://github.com/user-attachments/assets/6ad70e1a-0701-49aa-b8eb-87207fad2877" />
 
 
 
