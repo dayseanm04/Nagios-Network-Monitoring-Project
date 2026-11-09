@@ -99,6 +99,11 @@ sudo nano /etc/postfix/sasl_passwd
 
 I add one line with the alerts account and the app password from [**doc 11**](11-Create-Gmail-App-Password-for-Nagios-Alerts.md), with no spaces in the password:
 
+```
+[smtp.gmail.com]:587 emailgoes@here.com:<16-character app password>
+```
+
+
 <img width="968" height="167" alt="7" src="https://github.com/user-attachments/assets/b34d8961-b752-46c4-b4a5-fd91e929ddc5" />
 
 
