@@ -79,3 +79,4 @@ The alerts Gmail account has 2-Step Verification on and an app password named **
 
 - [**12 – Install and Configure Postfix to Relay Through Gmail**](12-Install-and-Configure-Postfix-Gmail-Relay.md)
 - [**13 – Configure Nagios Email Notifications**](13-Configure-Nagios-Email-Notifications.md)
+- Google: [**Sign in with app passwords**](https://support.google.com/accounts/answer/185833)
