@@ -135,7 +135,7 @@ Postfix is installed as a **satellite system** that relays all mail through **`s
 
 - [**06-Testing-and-Validation / 13 – Validate Postfix Gmail Relay**](../06-Testing-and-Validation/13-Validate-Postfix-Gmail-Relay.md)
 - [**11 – Create a Gmail App Password for Nagios Alerts**](11-Create-Gmail-App-Password-for-Nagios-Alerts.md)
-
+- [**13 – Configure Nagios Email Notifications**](13-Configure-Nagios-Email-Notifications.md)
 
 
 
