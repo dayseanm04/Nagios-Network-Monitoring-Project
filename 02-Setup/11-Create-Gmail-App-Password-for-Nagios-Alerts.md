@@ -75,10 +75,7 @@ The alerts Gmail account has 2-Step Verification on and an app password named **
 
 **Next:** [**12 – Install and Configure Postfix to Relay Through Gmail**](12-Install-and-Configure-Postfix-Gmail-Relay.md)
 
-
-
-
-
+## Related Docs
 
 
 
