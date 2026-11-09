@@ -56,6 +56,7 @@ During install, Postfix asks a few questions:
 | SMTP relay host | **`[smtp.gmail.com]:587`** | Where all outgoing mail goes |
 | Everything else | Default | |
 
+<img width="1024" height="811" alt="4" src="https://github.com/user-attachments/assets/f03b23c5-4c39-4164-a8e4-49d0c7fe64ff" />
 
 
 
