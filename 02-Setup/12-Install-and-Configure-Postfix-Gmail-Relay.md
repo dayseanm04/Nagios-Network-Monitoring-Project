@@ -115,6 +115,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 | Command | Why |
 |---|---|
+| **`chmod 600`** | Only root can read the password. Postfix opens the file as root before dropping its privileges, so it can still read it |
 
 
 
