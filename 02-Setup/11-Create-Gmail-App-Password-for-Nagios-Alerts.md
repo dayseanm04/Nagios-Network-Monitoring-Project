@@ -55,6 +55,7 @@ Then I add a phone number and click **Turn on 2-Step Verification**.
 
 ## Step 2 – Create the App Password
 
+I go to **`myaccount.google.com/apppasswords`**, name it **`NagiosVM-Nagios`**, and click **Create**.
 
 
 
