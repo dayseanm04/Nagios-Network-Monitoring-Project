@@ -35,6 +35,7 @@ App passwords only exist when 2-Step Verification is on.
 
 In the alerts account, I click **Security** (Sign-in & security) → **2-Step Verification**.
 
+<img width="1039" height="689" alt="3" src="https://github.com/user-attachments/assets/35789768-6757-4165-bc5f-4d06a1caea8d" />
 
 
 
