@@ -34,3 +34,4 @@ sudo apt install postfix mailutils libsasl2-modules
 | Package | Why I need it |
 |---|---|
 | **`postfix`** | The mail server that relays my mail to Gmail |
+| **`mailutils`** | Provides the **`mail`** command. Nagios's email commands pipe into it. In [**doc 09**](09-Create-Time-Sensitive-Service-Template.md), I noted **`/bin/mail`** was missing, and this fixes it |
