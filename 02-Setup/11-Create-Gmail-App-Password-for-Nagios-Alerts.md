@@ -51,6 +51,8 @@ Then I add a phone number and click **Turn on 2-Step Verification**.
 
 <img width="1039" height="792" alt="8" src="https://github.com/user-attachments/assets/b4dc2358-b789-4cb6-a4ad-10406a7c2a09" />
 
+---
+
 
 
 
