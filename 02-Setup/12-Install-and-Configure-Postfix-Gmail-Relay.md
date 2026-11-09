@@ -125,6 +125,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 ## Result
 
+Postfix is installed as a **satellite system** that relays all mail through **`smtp.gmail.com:587`**, logs in with the alerts account's app password, requires TLS, and only accepts mail from NetworkVM itself.
 
 
 
