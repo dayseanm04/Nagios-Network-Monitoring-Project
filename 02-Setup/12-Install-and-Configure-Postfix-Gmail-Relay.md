@@ -60,6 +60,7 @@ During install, Postfix asks a few questions:
 
 The output shows Postfix set **`relayhost`** to **`[smtp.gmail.com]:587`** and **`inet_interfaces`** to **`loopback-only`** for me. 
 
+---
 
 
 
