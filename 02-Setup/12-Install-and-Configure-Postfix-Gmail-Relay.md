@@ -64,6 +64,7 @@ The output shows Postfix set **`relayhost`** to **`[smtp.gmail.com]:587`** and *
 
 ## Step 3 – Configure Postfix to Log In to Gmail
 
+I use **`postconf -e`** to write each setting into **`/etc/postfix/main.cf`**, which avoids typos from editing the file by hand:
 
 
 
