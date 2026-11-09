@@ -65,6 +65,7 @@ I don't need to change any templates. My host and service templates already noti
 
 ---
 
+## Step 3 – Check That Notifications Are On
 
 
 
