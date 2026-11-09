@@ -6,3 +6,4 @@ This is part 1 of setting up email notifications:
 
 | Part | Doc |
 |---|---|
+| **1** | **11 – Create a Gmail App Password for Nagios Alerts** (this doc) |
