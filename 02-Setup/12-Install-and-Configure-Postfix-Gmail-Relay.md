@@ -87,6 +87,7 @@ postconf smtp_tls_CApath smtp_tls_CAfile
 
 <img width="798" height="300" alt="6" src="https://github.com/user-attachments/assets/7212ff88-2685-418c-8fe5-268027e44f28" />
 
+**`smtp_tls_CAfile`** is already set to **`/etc/ssl/certs/ca-certificates.crt`**, so I don't need to change anything.
 
 
 
