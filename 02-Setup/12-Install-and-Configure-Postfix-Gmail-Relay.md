@@ -127,6 +127,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 
 Postfix is installed as a **satellite system** that relays all mail through **`smtp.gmail.com:587`**, logs in with the alerts account's app password, requires TLS, and only accepts mail from NetworkVM itself.
 
+**Next:** [**13 – Configure Nagios Email Notifications**](13-Configure-Nagios-Email-Notifications.md)
 
 
 
