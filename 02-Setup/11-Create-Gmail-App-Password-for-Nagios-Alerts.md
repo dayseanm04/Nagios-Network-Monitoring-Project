@@ -21,3 +21,4 @@ Postfix logs in to Gmail to send mail, but Gmail won't accept a normal password 
 | Account | Job |
 |---|---|
 | Alerts Gmail (**`…alerts@gmail.com`**) | **Sends** the alerts. Postfix logs in as this account |
+| My personal email | **Receives** the alerts. Set as my contact email in Nagios ([**doc 13**](13-Configure-Nagios-Email-Notifications.md)) |
