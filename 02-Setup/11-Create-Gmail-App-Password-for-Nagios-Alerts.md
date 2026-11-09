@@ -59,6 +59,7 @@ I go to **`myaccount.google.com/apppasswords`**, name it **`NagiosVM-Nagios`**, 
 
 <img width="900" height="635" alt="9" src="https://github.com/user-attachments/assets/d37adf55-f8e1-4a92-aa79-41d7fbd285af" />
 
+<img width="892" height="692" alt="10" src="https://github.com/user-attachments/assets/561e7b61-cfc6-4f67-a648-1045778fa5a6" />
 
 
 
