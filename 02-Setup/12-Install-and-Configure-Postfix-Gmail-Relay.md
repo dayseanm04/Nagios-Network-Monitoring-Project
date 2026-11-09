@@ -25,3 +25,8 @@ Postfix **relays** the mail: it logs in to Gmail on port **587** with the app pa
 ---
 
 ## Step 1 – Install the Packages
+
+```bash
+sudo apt update
+sudo apt install postfix mailutils libsasl2-modules
+```
