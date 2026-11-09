@@ -117,6 +117,7 @@ Save and exit: **Ctrl+O**, **Enter**, **Ctrl+X**.
 |---|---|
 | **`chmod 600`** | Only root can read the password. Postfix opens the file as root before dropping its privileges, so it can still read it |
 | **`postmap`** | Builds **`sasl_passwd.db`**, the version Postfix actually reads (that's what **`hash:`** means). **I have to run it again every time I edit `sasl_passwd`** |
+| **`systemctl restart postfix`** | Loads the new settings |
 
 
 
