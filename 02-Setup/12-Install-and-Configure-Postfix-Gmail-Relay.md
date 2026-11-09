@@ -11,3 +11,5 @@ This is part 2 of setting up email notifications:
 | 3 | [**13 – Configure Nagios Email Notifications**](13-Configure-Nagios-Email-Notifications.md) |
 
 > **Testing and validation:** [**Click here to see the Postfix Gmail relay validation**](../06-Testing-and-Validation/13-Validate-Postfix-Gmail-Relay.md)
+
+---
