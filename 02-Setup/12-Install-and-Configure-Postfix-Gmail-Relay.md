@@ -47,6 +47,7 @@ During install, Postfix asks a few questions:
 
 <img width="1030" height="708" alt="2" src="https://github.com/user-attachments/assets/20fe8067-cbcf-4a6c-bdb6-525cdc84dcc1" />
 
+<img width="1019" height="657" alt="3" src="https://github.com/user-attachments/assets/d768efa0-930f-4b46-a166-ed600d6f1e64" />
 
 
 
