@@ -81,7 +81,9 @@ I use **`postconf -e`** to write each setting into **`/etc/postfix/main.cf`**, w
 
 Postfix needs to know where the certificates are to verify it's really talking to Gmail:
 
-
+```bash
+postconf smtp_tls_CApath smtp_tls_CAfile
+```
 
 
 
