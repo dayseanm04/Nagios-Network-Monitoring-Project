@@ -42,6 +42,7 @@ When I compiled Nagios, **`mail`** wasn't installed, so the build used **`/bin/m
 
 ---
 
+## Step 2 – Set My Contact Email
 
 
 
