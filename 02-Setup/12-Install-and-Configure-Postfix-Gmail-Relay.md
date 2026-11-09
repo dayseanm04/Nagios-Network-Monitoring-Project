@@ -74,6 +74,7 @@ I use **`postconf -e`** to write each setting into **`/etc/postfix/main.cf`**, w
 | **`smtp_sasl_auth_enable = yes`** | Turns on logging in to the relay. SASL is the login part of SMTP |
 | **`smtp_sasl_password_maps`** | Where Postfix finds the username and password (Step 4) |
 | **`smtp_sasl_tls_security_options = noanonymous`** | Only log in with a username and password, never anonymously |
+| **`smtp_tls_security_level = encrypt`** | Requires TLS. If encryption fails, Postfix won't send, so the password never crosses the network in plain text |
 
 
 
