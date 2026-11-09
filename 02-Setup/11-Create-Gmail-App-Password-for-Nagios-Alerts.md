@@ -12,3 +12,4 @@ This is part 1 of setting up email notifications:
 
 ---
 
+## Why an App Password?
