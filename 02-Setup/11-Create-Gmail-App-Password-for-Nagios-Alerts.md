@@ -39,6 +39,7 @@ In the alerts account, I click **Security** (Sign-in & security) → **2-Step Ve
 
 <img width="1031" height="741" alt="4" src="https://github.com/user-attachments/assets/dc335a73-2399-4a30-844e-1ecfbff4f282" />
 
+I set up an **authenticator** app:
 
 
 
