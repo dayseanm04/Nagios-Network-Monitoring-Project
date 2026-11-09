@@ -75,6 +75,7 @@ grep -n "^enable_notifications" /usr/local/nagios/etc/nagios.cfg
 
 **`enable_notifications=1`** (line 795) means notifications are on for all of Nagios.
 
+---
 
 
 
