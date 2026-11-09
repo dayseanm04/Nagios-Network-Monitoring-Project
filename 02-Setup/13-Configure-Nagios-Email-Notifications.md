@@ -40,7 +40,7 @@ ls -l /bin/mail
 
 When I compiled Nagios, **`mail`** wasn't installed, so the build used **`/bin/mail`** by default. Now that **`mailutils`** is installed, **`/bin/mail`** exists. It's a link to **`/etc/alternatives/mail`**, which points to the **`mailutils`** version.
 
-
+---
 
 
 
