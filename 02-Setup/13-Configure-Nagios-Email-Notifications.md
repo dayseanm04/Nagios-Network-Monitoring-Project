@@ -67,6 +67,9 @@ I don't need to change any templates. My host and service templates already noti
 
 ## Step 3 – Check That Notifications Are On
 
+```bash
+grep -n "^enable_notifications" /usr/local/nagios/etc/nagios.cfg
+```
 
 
 
