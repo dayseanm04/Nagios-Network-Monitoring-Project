@@ -85,6 +85,7 @@ Postfix needs to know where the certificates are to verify it's really talking t
 postconf smtp_tls_CApath smtp_tls_CAfile
 ```
 
+<img width="798" height="300" alt="6" src="https://github.com/user-attachments/assets/7212ff88-2685-418c-8fe5-268027e44f28" />
 
 
 
