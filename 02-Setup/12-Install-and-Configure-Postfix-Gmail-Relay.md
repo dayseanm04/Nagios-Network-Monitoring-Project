@@ -13,3 +13,5 @@ This is part 2 of setting up email notifications:
 > **Testing and validation:** [**Click here to see the Postfix Gmail relay validation**](../06-Testing-and-Validation/13-Validate-Postfix-Gmail-Relay.md)
 
 ---
+
+## How the Mail Gets Sent
