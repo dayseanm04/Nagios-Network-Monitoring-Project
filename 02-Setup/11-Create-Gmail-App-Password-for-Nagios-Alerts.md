@@ -53,6 +53,7 @@ Then I add a phone number and click **Turn on 2-Step Verification**.
 
 ---
 
+## Step 2 – Create the App Password
 
 
 
