@@ -39,6 +39,7 @@ sudo apt install postfix mailutils libsasl2-modules
 
 ---
 
+## Step 2 – Answer the Setup Prompts
 
 
 
