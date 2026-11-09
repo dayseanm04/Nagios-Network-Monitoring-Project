@@ -65,6 +65,7 @@ Google shows the 16-character code **once**. I copy it and click **Done**.
 
 <img width="882" height="618" alt="11" src="https://github.com/user-attachments/assets/6ad70e1a-0701-49aa-b8eb-87207fad2877" />
 
+> **Security:** I covered the code in every screenshot. Anyone with it can sign in to the alerts account. If it's ever exposed, I delete it on this page and create a new one.
 
 
 
