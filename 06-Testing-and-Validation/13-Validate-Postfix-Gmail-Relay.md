@@ -10,3 +10,4 @@ In this doc, I will test Postfix by itself, before Nagios is involved. If a test
 
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
+| TC-01 | Login file is locked down | **`sasl_passwd`** and **`.db`** are **`-rw-------`**, owned by root | **`-rw------- 1 root root`** for both | ✅ PASS |
