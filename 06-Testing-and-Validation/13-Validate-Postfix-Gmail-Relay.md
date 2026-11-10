@@ -17,3 +17,8 @@ In this doc, I will test Postfix by itself, before Nagios is involved. If a test
 ---
 
 ## TC-01 – Login File Is Locked Down
+
+```bash
+ls -l /etc/postfix
+```
+
