@@ -38,6 +38,7 @@ sudo tail -f /var/log/mail.log
 
 <img width="1025" height="567" alt="2" src="https://github.com/user-attachments/assets/9e3cc89d-2d56-4360-ac3d-af22e16831e5" />
 
+In the first terminal, I send a test email to my personal Gmail:
 
 
 
