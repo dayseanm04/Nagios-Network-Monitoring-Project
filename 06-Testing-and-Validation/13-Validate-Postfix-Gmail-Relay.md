@@ -40,7 +40,9 @@ sudo tail -f /var/log/mail.log
 
 In the first terminal, I send a test email to my personal Gmail:
 
-
+```bash
+echo "Test from NetworkVM" | mail -s "Postfix relay test" …@gmail.com
+```
 
 
 
