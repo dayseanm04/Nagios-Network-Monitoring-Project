@@ -50,7 +50,9 @@ echo "Test from NetworkVM" | mail -s "Postfix relay test" …@gmail.com
 
 **Result:** ✅ PASS. This is the line that matters:
 
-
+```
+to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK ... - gsmtp)
+```
 
 
 
