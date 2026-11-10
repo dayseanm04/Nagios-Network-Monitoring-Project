@@ -44,6 +44,7 @@ In the first terminal, I send a test email to my personal Gmail:
 echo "Test from NetworkVM" | mail -s "Postfix relay test" …@gmail.com
 ```
 
+<img width="1032" height="361" alt="3" src="https://github.com/user-attachments/assets/2a310a6c-145d-4d19-b915-ffb77105f0bc" />
 
 
 
