@@ -32,3 +32,6 @@ ls -l /etc/postfix
 
 **Steps:** In a second terminal, I watch the mail log:
 
+```bash
+sudo tail -f /var/log/mail.log
+```
