@@ -23,3 +23,5 @@ ls -l /etc/postfix
 ```
 
 <img width="956" height="532" alt="1" src="https://github.com/user-attachments/assets/1c430bdf-1d1b-4345-870f-c9299b10b9b9" />
+
+**Result:** ✅ PASS. **`sasl_passwd`** and **`sasl_passwd.db`** are both **`-rw-------`** and owned by **`root`**.
