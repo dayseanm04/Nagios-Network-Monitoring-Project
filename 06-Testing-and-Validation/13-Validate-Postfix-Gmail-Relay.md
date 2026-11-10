@@ -29,3 +29,6 @@ ls -l /etc/postfix
 ---
 
 ## TC-02 – Gmail Accepts a Test Email
+
+**Steps:** In a second terminal, I watch the mail log:
+
