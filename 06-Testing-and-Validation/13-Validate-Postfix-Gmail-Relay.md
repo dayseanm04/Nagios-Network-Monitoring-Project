@@ -7,3 +7,5 @@ In this doc, I will test Postfix by itself, before Nagios is involved. If a test
 ---
 
 ## Test Cases
+
+| ID | Test | Expected | Actual | Status |
