@@ -64,6 +64,7 @@ to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK
 
 ## TC-03 – Test Email Reaches My Inbox
 
+**Steps:** I check my personal Gmail.
 
 
 
