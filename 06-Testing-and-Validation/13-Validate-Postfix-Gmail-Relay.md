@@ -68,6 +68,7 @@ to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK
 
 <img width="964" height="625" alt="1" src="https://github.com/user-attachments/assets/f23b1e52-8736-4a8a-b68c-f0b344c4374d" />
 
+**Result:** ✅ PASS, with a note. The email arrived, but in **Spam**. I marked it **Not spam**, and emails from the alerts account now go to my inbox.
 
 
 
