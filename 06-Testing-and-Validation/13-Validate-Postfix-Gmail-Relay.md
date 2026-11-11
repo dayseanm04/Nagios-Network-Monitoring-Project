@@ -66,6 +66,7 @@ to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK
 
 **Steps:** I check my personal Gmail.
 
+<img width="964" height="625" alt="1" src="https://github.com/user-attachments/assets/f23b1e52-8736-4a8a-b68c-f0b344c4374d" />
 
 
 
