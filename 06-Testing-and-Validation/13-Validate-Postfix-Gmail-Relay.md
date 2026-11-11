@@ -56,6 +56,7 @@ to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK
 
 | Part | Meaning |
 |---|---|
+| **`relay=smtp.gmail.com[...]:587`** | Postfix sent it through Gmail on port 587 |
 
 
 
