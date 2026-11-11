@@ -54,7 +54,8 @@ echo "Test from NetworkVM" | mail -s "Postfix relay test" …@gmail.com
 to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK ... - gsmtp)
 ```
 
-
+| Part | Meaning |
+|---|---|
 
 
 
