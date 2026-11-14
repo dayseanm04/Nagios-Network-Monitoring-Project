@@ -57,6 +57,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 **Steps:** I closed the Chrome tabs.
 
+<img width="1079" height="758" alt="9" src="https://github.com/user-attachments/assets/a278199d-bd74-40b0-9ecc-c1a6bda06c5d" />
 
 
 
