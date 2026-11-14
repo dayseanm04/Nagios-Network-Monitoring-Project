@@ -17,3 +17,5 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 | TC-05 | RECOVERY alert | **RECOVERY** email when a service returns to OK | **`RECOVERY Service Alert: Computer A/system uptime is OK`** | ✅ PASS |
 
 ---
+
+## TC-01 – Custom Notification
