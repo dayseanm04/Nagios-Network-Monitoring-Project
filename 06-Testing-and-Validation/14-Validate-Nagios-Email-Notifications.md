@@ -22,3 +22,31 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 **Steps:** In Nagios, I click **Services** → **CPU Utilization** on **`comp-a-test`** → **Send custom service notification**. I leave **Forced** and **Broadcast** unchecked and click **Commit**.
 
+<img width="1008" height="598" alt="1" src="https://github.com/user-attachments/assets/30b9f2a1-72a3-4d9b-8ec4-6008aa5bf82b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
