@@ -10,3 +10,4 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
+| TC-01 | Custom notification | **CUSTOM** email arrives | **`CUSTOM Service Alert: Computer A/CPU Utilization is OK`** | ✅ PASS |
