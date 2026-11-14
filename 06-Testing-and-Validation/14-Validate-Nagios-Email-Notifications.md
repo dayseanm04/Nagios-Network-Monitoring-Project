@@ -11,3 +11,4 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 | ID | Test | Expected | Actual | Status |
 |---|---|---|---|---|
 | TC-01 | Custom notification | **CUSTOM** email arrives | **`CUSTOM Service Alert: Computer A/CPU Utilization is OK`** | ✅ PASS |
+| TC-02 | Real CRITICAL alert | **PROBLEM** email when memory goes over 90% | **`Logical memory usage is CRITICAL`**, 94.50% | ✅ PASS |
