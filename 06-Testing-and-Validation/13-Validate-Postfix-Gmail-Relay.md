@@ -78,6 +78,8 @@ to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK
 
 Postfix logs in to Gmail, sends over port 587 with TLS, and the email reaches my inbox. The mail side works, so Nagios notifications can be set up next.
 
+## Related Docs
+
 
 
 
