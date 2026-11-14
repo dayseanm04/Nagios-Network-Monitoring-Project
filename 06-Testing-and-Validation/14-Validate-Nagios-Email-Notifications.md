@@ -61,6 +61,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 <img width="628" height="474" alt="10" src="https://github.com/user-attachments/assets/262a2307-d181-4c64-8722-a66f2da2e9fb" />
 
+**Result:** ✅ PASS. Memory went from over 90% to between 70% and 90%, so the state changed from **CRITICAL** to **WARNING**, and Nagios sent a new email. It's a WARNING and not a RECOVERY because 80.90% is still over the 70% warning line.
 
 
 
