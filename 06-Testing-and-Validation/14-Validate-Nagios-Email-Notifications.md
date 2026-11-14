@@ -92,6 +92,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 **Result:** ✅ PASS. When the **system uptime** service went back to OK, Nagios sent a **RECOVERY** email.
 
+> This recovery is for **system uptime**, not memory. Memory was still CRITICAL at this point (TC-04). A memory RECOVERY email will come once memory drops below 70%.
 
 
 
