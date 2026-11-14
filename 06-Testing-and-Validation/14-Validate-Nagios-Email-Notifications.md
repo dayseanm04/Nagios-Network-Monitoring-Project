@@ -69,6 +69,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 **Steps:** On Nov 8, memory went CRITICAL again and stayed high. I searched my inbox for the alerts account.
 
+<img width="1343" height="708" alt="11" src="https://github.com/user-attachments/assets/cccd4e73-becf-4d1f-81f5-13aee3dd0fcb" />
 
 
 
