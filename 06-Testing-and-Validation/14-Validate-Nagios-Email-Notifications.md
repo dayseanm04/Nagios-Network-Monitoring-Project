@@ -73,6 +73,9 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 <img width="1102" height="866" alt="12" src="https://github.com/user-attachments/assets/193a9d13-541a-4d1d-8d21-d75266761043" />
 
+| Email | Date/Time | Additional Info |
+
+
 **Result:** ✅ PASS. While the problem lasted, Nagios re-sent the alert about every 16 minutes. My **`time-sensitive`** template sets a **15-minute** notification interval. Nagios only checks whether it's time to re-send when it runs the check, and this check runs every 2 minutes, so the re-send happens at the first check after 15 minutes.
 
 
