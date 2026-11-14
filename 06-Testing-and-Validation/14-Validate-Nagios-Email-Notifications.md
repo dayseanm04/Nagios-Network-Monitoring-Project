@@ -36,7 +36,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 > **Why leave Forced unchecked?** **Forced** sends the notification even if notifications are turned off.
 
-
+---
 
 
 
