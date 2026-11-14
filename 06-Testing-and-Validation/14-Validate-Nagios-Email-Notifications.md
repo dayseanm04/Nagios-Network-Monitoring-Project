@@ -24,6 +24,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 <img width="1008" height="598" alt="1" src="https://github.com/user-attachments/assets/30b9f2a1-72a3-4d9b-8ec4-6008aa5bf82b" />
 
+<img width="1028" height="782" alt="2" src="https://github.com/user-attachments/assets/8282da0a-12a1-4e2f-ba6b-855c2a641106" />
 
 
 
