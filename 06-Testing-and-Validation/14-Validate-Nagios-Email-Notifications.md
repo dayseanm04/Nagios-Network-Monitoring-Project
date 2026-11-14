@@ -67,6 +67,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 ## TC-04 – Repeat Notifications
 
+**Steps:** On Nov 8, memory went CRITICAL again and stayed high. I searched my inbox for the alerts account.
 
 
 
