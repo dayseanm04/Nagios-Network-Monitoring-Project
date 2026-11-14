@@ -42,6 +42,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 **Steps:** Memory on **`comp-a-test`** was high with many Chrome tabs open. My memory check is **`-w 70 -c 90`**.
 
+<img width="961" height="709" alt="7" src="https://github.com/user-attachments/assets/419c2f3d-df57-49a5-9447-ca0725838f08" />
 
 
 
