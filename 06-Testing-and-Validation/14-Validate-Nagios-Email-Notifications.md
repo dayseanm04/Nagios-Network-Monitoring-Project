@@ -15,3 +15,5 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 | TC-03 | State change to WARNING | New email when memory drops to 70–90% | **`Logical memory usage is WARNING`**, 80.90% | ✅ PASS |
 | TC-04 | Repeat notifications | Email repeats about every 15 min while the problem lasts | CRITICAL emails at 18:12, 18:28, 18:44 | ✅ PASS |
 | TC-05 | RECOVERY alert | **RECOVERY** email when a service returns to OK | **`RECOVERY Service Alert: Computer A/system uptime is OK`** | ✅ PASS |
+
+---
