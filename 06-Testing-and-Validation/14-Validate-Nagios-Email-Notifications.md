@@ -90,6 +90,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 <img width="917" height="451" alt="13" src="https://github.com/user-attachments/assets/d30dcc74-bd7b-4ab4-8d4b-1bd864ddd498" />
 
+**Result:** ✅ PASS. When the **system uptime** service went back to OK, Nagios sent a **RECOVERY** email.
 
 
 
