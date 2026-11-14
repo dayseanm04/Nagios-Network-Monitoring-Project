@@ -88,6 +88,24 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 **Steps:** I checked my inbox for a RECOVERY email.
 
+<img width="917" height="451" alt="13" src="https://github.com/user-attachments/assets/d30dcc74-bd7b-4ab4-8d4b-1bd864ddd498" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
