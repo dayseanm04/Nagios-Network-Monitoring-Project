@@ -32,6 +32,9 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 <img width="1034" height="548" alt="5" src="https://github.com/user-attachments/assets/228f9dd0-af60-481b-8f3b-09c363f5278d" />
 
+<img width="964" height="625" alt="5-1" src="https://github.com/user-attachments/assets/10f7b0be-0daf-49a5-9b1c-8e0b02f347cb" />
+
+
 <img width="904" height="696" alt="6" src="https://github.com/user-attachments/assets/aa9fb9ac-0b4b-4b11-940b-ebde15ed2994" />
 
 > **Why leave Forced unchecked?** **Forced** sends the notification even if notifications are turned off.
