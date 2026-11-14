@@ -5,3 +5,5 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 > **How notifications were set up:** [**Click here to see Configure Nagios Email Notifications**](../02-Setup/13-Configure-Nagios-Email-Notifications.md)
 
 ---
+
+## Test Cases
