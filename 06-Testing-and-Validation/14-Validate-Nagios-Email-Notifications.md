@@ -104,6 +104,7 @@ Email notifications work from start to finish. Nagios sends **CUSTOM**, **PROBLE
 
 ## Related Docs
 
+- [**02-Setup / 13 – Configure Nagios Email Notifications**](../02-Setup/13-Configure-Nagios-Email-Notifications.md)
 
 
 
