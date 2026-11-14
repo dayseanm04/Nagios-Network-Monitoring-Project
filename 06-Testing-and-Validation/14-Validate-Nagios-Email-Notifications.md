@@ -106,15 +106,4 @@ Email notifications work from start to finish. Nagios sends **CUSTOM**, **PROBLE
 
 - [**02-Setup / 13 – Configure Nagios Email Notifications**](../02-Setup/13-Configure-Nagios-Email-Notifications.md)
 - [**13 – Validate Postfix Gmail Relay**](13-Validate-Postfix-Gmail-Relay.md)
-
-
-
-
-
-
-
-
-
-
-
-
+- [**06 – Validate NCPA Memory and Swap Checks**](06-Validate-NCPA-Memory-and-Swap-Checks.md)
