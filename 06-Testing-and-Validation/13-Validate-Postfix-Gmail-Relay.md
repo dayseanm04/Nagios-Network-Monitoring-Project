@@ -72,6 +72,7 @@ to=<…@gmail.com>, relay=smtp.gmail.com[...]:587, ... status=sent (250 2.0.0 OK
 
 > **`250 OK` doesn't mean "in my inbox."** It means Gmail accepted the message. Where Gmail puts it after that is a separate check. That's why TC-03 is its own test.
 
+---
 
 
 
