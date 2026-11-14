@@ -40,6 +40,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 ## TC-02 – Real CRITICAL Alert
 
+**Steps:** Memory on **`comp-a-test`** was high with many Chrome tabs open. My memory check is **`-w 70 -c 90`**.
 
 
 
