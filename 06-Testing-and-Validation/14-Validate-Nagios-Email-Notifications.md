@@ -48,6 +48,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 **Result:** ✅ PASS. I didn't trigger this one. Nagios found a real problem and emailed me on its own.
 
+---
 
 
 
