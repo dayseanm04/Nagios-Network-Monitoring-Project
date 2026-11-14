@@ -94,6 +94,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 > This recovery is for **system uptime**, not memory. Memory was still CRITICAL at this point (TC-04). A memory RECOVERY email will come once memory drops below 70%.
 
+---
 
 
 
