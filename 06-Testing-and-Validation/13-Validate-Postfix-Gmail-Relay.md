@@ -81,7 +81,4 @@ Postfix logs in to Gmail, sends over port 587 with TLS, and the email reaches my
 ## Related Docs
 
 - [**02-Setup / 12 – Install and Configure Postfix to Relay Through Gmail**](../02-Setup/12-Install-and-Configure-Postfix-Gmail-Relay.md)
-
-
-
-
+- [**14 – Validate Nagios Email Notifications**](14-Validate-Nagios-Email-Notifications.md)
