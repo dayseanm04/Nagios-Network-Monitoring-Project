@@ -100,7 +100,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 Email notifications work from start to finish. Nagios sends **CUSTOM**, **PROBLEM** (CRITICAL and WARNING), and **RECOVERY** emails to my inbox, sends a new email when the state changes, and repeats the alert about every 15 minutes while a problem lasts.
 
-
+---
 
 
 
