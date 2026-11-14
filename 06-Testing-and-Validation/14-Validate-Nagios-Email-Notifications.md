@@ -52,6 +52,7 @@ In this doc, I will verify that Nagios sends alert emails to my inbox, first wit
 
 ## TC-03 – State Change to WARNING
 
+**Steps:** I closed the Chrome tabs.
 
 
 
